@@ -175,6 +175,23 @@ body {
     border: 2px solid lime;
 } */
 
+.yield-quantity {
+    border: none;
+    display: inline;
+    font-family: inherit;
+    font-size: inherit;
+    padding: none;
+    min-width: 0;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.yield-quantity:focus {
+    outline: none;
+    color: darkred;
+    border-bottom-color: darkred;
+}
+
 /* Stuff for serves attribute (a form) */
 /* .serves-input>input {
     width: 15px;

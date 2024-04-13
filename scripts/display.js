@@ -17,8 +17,9 @@ const recipeImageBackground = document.querySelector(".recipe-image-background")
 const costAttributeExtraWrapper = document.querySelector(".cost-attribute-extra-wrapper");
 
 let config;
-let allRecipes;
+let recipeBook;
 let recipe;
+let params;
 let configLoaded = false;
 let recipesLoaded = false;
 
@@ -36,6 +37,10 @@ function getEpochSeconds() {
     return Math.floor(new Date().getTime() / 1000);
 }
 
+function round(number, decimalPlaces) {
+    return +number.toFixed(decimalPlaces);
+}
+
 //Read in the config, containing the recipes
 fetch("data/config.json", { cache: "no-cache" })
     .then((response) => response.json())
@@ -47,10 +52,10 @@ fetch("data/config.json", { cache: "no-cache" })
     .catch(error => console.error(error));
 
 //Read in the recipe data (not used anymore)
-fetch("Recipes.json")
+fetch("RecipesCost.json")
     .then((response) => response.json())
     .then((data) => {
-        allRecipes = data;
+        recipeBook = data;
         recipesLoaded = true;
         start();
     })
@@ -60,27 +65,53 @@ fetch("Recipes.json")
 async function start() {
     if (recipesLoaded && configLoaded) {
         // Extract URL arguments
-        let params = new URLSearchParams(document.location.search);
+        params = new URLSearchParams(document.location.search);
         recipeName = params.get("recipe");
-        recipesFiltered = config.ExtraRecipes.filter((currentValue) => {
+
+        // Filter recipe
+        recipesFiltered = recipeBook.Recipes.filter((currentValue) => {
             const success =
                 currentValue.Name.toLowerCase().includes(recipeName.toLowerCase())
             return success;
         });
 
-        console.log(recipesFiltered)
+        // Scale the recipe
+        scaleRecipe(recipesFiltered[0], params.get("yield"));
         // Display the recipe specified in the URL
         displayRecipe(recipesFiltered[0]);
     }
-    //filter
-    // recipesFiltered = allRecipes.filter((currentValue) => {
-    //     const success =
-    //         currentValue.name.toLowerCase().includes(config.Recipe.Name.toLowerCase())
-    //     return success;
-    // });
-    //Extract first element from filtered recipes
-    // recipe = recipesFiltered[0]
-    //Display recipe
+}
+
+async function scaleRecipe(recipe, yield) {
+    // Calculate factor
+    const factor = yield / recipe.Yield.Quantity
+
+    // Scale yield
+    recipe.Yield.Quantity = yield;
+    recipe.Yield.Extra = scaleRecipeString(recipe.Yield.Extra, factor);
+
+    // Scale note
+    recipe.Note = scaleRecipeString(recipe.Note, factor);
+
+    // Scale items
+    for (item of recipe.Items) {
+        item.Quantity = round(item.Quantity * factor, 2);
+        item.NameExtra = scaleRecipeString(item.NameExtra, factor);
+        item.UnitExtra = scaleRecipeString(item.UnitExtra, factor);
+    }
+
+    // Scale steps
+    for (step of recipe.Steps) {
+        step.Content = scaleRecipeString(step.Content, factor);
+    }
+}
+
+function scaleRecipeString(string, factor) {
+    if (null == string) {
+        return null;
+    }
+    // Capture numbers written like @2 or @2.4 in a string, multiply them by factor and replace
+    return string.replace(/@(\d(\.\d+)?)/g, function (a, b) { return round(factor * b, 2); })
 }
 
 // Structure and display recipe on-screen
@@ -147,7 +178,7 @@ function displayRecipeHeaderIcons(recipe) {
     }
 
     // Add table of contents icon
-    if (config.ExtraRecipes.length != 0) {
+    if (recipeBook.Recipes.length != 0) {
         const recipeExtraBackground = document.querySelector(".recipe-extra-background");
 
         // Add icon
@@ -225,10 +256,21 @@ function displayRecipeAttributes(recipe) {
 
     // Handle yield (nested object)
     const attributeYieldElement = document.querySelector(`.yield-value`);
-    attributeYieldElement.textContent = `${recipe.Yield.Quantity} ${recipe.Yield.Unit}`
+    const attributeYieldQuantityElement = document.querySelector(".yield-quantity");
+    attributeYieldQuantityElement.value = recipe.Yield.Quantity;
+    const attributeYieldUnitElement = document.querySelector(".yield-unit");
+    attributeYieldUnitElement.textContent = recipe.Yield.Unit
     if (recipe.Yield.Extra) {
-        attributeYieldElement.textContent += ` (${recipe.Yield.Extra})`
+        attributeYieldUnitElement.textContent += ` (${recipe.Yield.Extra})`
     }
+
+    // Add yield change event handler
+    attributeYieldQuantityElement.addEventListener("keyup", (event) => {
+        console.log(event);
+        if (event.key === "Enter") {
+            location.href = `display?recipe=${params.get("recipe")}&yield=${event.target.value}`;
+        }
+    });
 
     // Handle cost (read from config, calculated by powershell)
     const attributeCostWrapper = document.querySelector(".cost-wrapper");
@@ -435,15 +477,17 @@ function configureRecipeDiary(recipe) {
     }
 
     // Add entries
-    for (const entry of recipe.Diary) {
-        // Make date tag
-        const diaryItemTag = document.createElement("dt");
-        diaryItemTag.textContent = entry.Date.substring(0, 10);
-        recipeDiaryElement.appendChild(diaryItemTag);
-        // Make content description
-        const diaryItemDescription = document.createElement("dd");
-        diaryItemDescription.textContent = entry.Content;
-        recipeDiaryElement.appendChild(diaryItemDescription);
+    if (recipe.Diary) {
+        for (const entry of recipe.Diary) {
+            // Make date tag
+            const diaryItemTag = document.createElement("dt");
+            diaryItemTag.textContent = entry.Date.substring(0, 10);
+            recipeDiaryElement.appendChild(diaryItemTag);
+            // Make content description
+            const diaryItemDescription = document.createElement("dd");
+            diaryItemDescription.textContent = entry.Content;
+            recipeDiaryElement.appendChild(diaryItemDescription);
+        }
     }
 
     // On click of close button, hide diary
@@ -475,17 +519,17 @@ function configureRecipeExtra() {
     }
 
     // Add recipe names to list
-    for (let i = 0; i < config.ExtraRecipes.length; i++) {//extraRecipe of config.ExtraRecipes) {
+    for (let i = 0; i < recipeBook.Recipes.length; i++) {//extraRecipe of config.ExtraRecipes) {
         // Create link element
         const recipeExtraItemLink = document.createElement("a");
         recipeExtraItemLink.classList.add("recipe-extra-item-link");
-        recipeExtraItemLink.setAttribute("href", `display?recipe=${config.ExtraRecipes[i].Name}`);
+        recipeExtraItemLink.setAttribute("href", `display?recipe=${recipeBook.Recipes[i].Name}`);
         recipeExtra.appendChild(recipeExtraItemLink)
 
         // Create button element within link
         const recipeExtraItem = document.createElement("button");
         recipeExtraItem.classList.add("recipe-extra-item");
-        recipeExtraItem.textContent = config.ExtraRecipes[i].Name;
+        recipeExtraItem.textContent = recipeBook.Recipes[i].Name;
         recipeExtraItemLink.appendChild(recipeExtraItem);
 
         // Load this recipe on click
