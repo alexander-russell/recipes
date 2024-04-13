@@ -37,7 +37,7 @@ function getEpochSeconds() {
 }
 
 //Read in the config, containing the recipes
-fetch("../data/config.json", { cache: "no-cache" })
+fetch("/data/config.json", { cache: "no-cache" })
     .then((response) => response.json())
     .then((data) => {
         config = data;
@@ -47,7 +47,7 @@ fetch("../data/config.json", { cache: "no-cache" })
     .catch(error => console.error(error));
 
 //Read in the recipe data (not used anymore)
-fetch("../Recipes.json")
+fetch("/Recipes.json")
     .then((response) => response.json())
     .then((data) => {
         allRecipes = data;
