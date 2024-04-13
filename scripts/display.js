@@ -395,7 +395,7 @@ function configureRecipeImage(recipe) {
     let imageAddress = null;
     if (recipe.Image == "Local") {
         //TODO support png 
-        imageAddress = `gallery/${recipe.Name}.jpg`;
+        imageAddress = `Gallery/${recipe.Name}.jpg`;
     }
     else if (recipe.Image != "") {
         imageAddress = recipe.Image;
