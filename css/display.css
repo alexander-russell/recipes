@@ -1,5 +1,5 @@
 * {
-    font-family: "Garamond", monospace;
+    font-family: Garamond, Baskerville, monospace;
 }
 
 /* General font styling */
@@ -130,7 +130,6 @@ body {
     width: 25%;
     overflow: scroll;
     scrollbar-width: none;
-    scrollbar-arrow-color: aqua;
 }
 
 /* Stuff for attributes section */
@@ -182,6 +181,7 @@ body {
     font-size: inherit;
     padding: none;
     min-width: 0;
+    width: 30px;
     text-align: center;
     border-bottom: 2px solid black;
 }
@@ -411,8 +411,10 @@ body {
     overflow: scroll;
     white-space: nowrap;
     padding-right: 20px;
+    min-width: 40px;
     /* border: 2px solid violet; */
 }
+
 
 .item-name-extra {
     color: darkgray;
@@ -430,6 +432,7 @@ body {
     flex-shrink: 0;
     overflow: scroll;
     white-space: nowrap;
+    min-width: 40px;
     /* border: 2px solid violet; */
 }
 
@@ -623,3 +626,49 @@ body {
 }
 
 /* end Stuff for extra */
+
+/* Stuff for Mobile Layout */
+
+.recipe-wrapper {
+    justify-content: center;
+}
+
+.recipe {
+    width: 400px;
+    max-width: 400px;
+    min-width: 0px;
+}
+
+.recipe-content-wrapper {
+    flex-direction: column;
+    max-width: 400px;
+}
+
+.info-wrapper {
+    overflow: visible;
+    width: 100%;
+}
+
+.timers-wrapper {
+    border-bottom: 1px solid black;
+}
+
+.items-wrapper,
+.steps-wrapper {
+    overflow: visible;
+    border-left: none;
+}
+
+.items-wrapper > h3 {
+    text-align: left;
+}
+
+.items-list-wrapper {
+    justify-content: left;
+}
+
+.items-list {
+    width: 100%;
+}
+
+/* end Stuff for Mobile Layout */
