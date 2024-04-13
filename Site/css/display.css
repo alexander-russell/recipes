@@ -1,0 +1,608 @@
+* {
+    font-family: "Garamond", monospace;
+}
+
+/* General font styling */
+li,
+p,
+dt,
+dd {
+    font-size: 20pt;
+}
+
+cite {
+    font-style: normal;
+    text-decoration: underline;
+}
+
+/* Overall things for recipe lump */
+body {
+    display: flex;
+    min-height: 100vh;
+    max-height: 100vh;
+    margin: 0;
+    /* border: 0px solid orange; */
+}
+
+.recipe-wrapper {
+    display: flex;
+    min-height: 100%;
+    min-width: 100%;
+    /* padding: 10px; */
+    /* border: 2px solid purple; */
+}
+
+.recipe {
+    display: flex;
+    flex-direction: column;
+    min-width: 100%;
+    /* border: 2px solid cyan; */
+}
+
+/* Stuff for the header */
+.recipe-header-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    /* border: 2px solid red; */
+    border-bottom: 1px solid black;
+}
+
+/* Stuff for the recipe glance bar */
+.recipe-glance {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* Stuff for the recipe grouping */
+.recipe-grouping {
+    margin: 0;
+    /* border: 2px solid green; */
+    font-size: 2em;
+    color: grey;
+}
+
+.grouping-type::after {
+    content: "/";
+    font-weight: lighter;
+    font-size: 1.2em;
+}
+
+/* end Stuff for the recipe grouping */
+
+/* Stuff for icons section */
+.icons-wrapper {
+    /* border: 2px solid blue; */
+}
+
+.icons-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid pink; */
+}
+
+.icons-list>li {
+    display: flex;
+    align-items: center;
+    /* border: 2px solid lime; */
+}
+
+.icons-list>li>svg {
+    padding: 1px;
+}
+
+/* end Stuff for icons section */
+
+/* end Stuff for the recipe glance bar */
+
+/* Stuff for the recipe name */
+.recipe-name {
+    margin: 0;
+    /* margin-top: -10; */
+    line-height: 0.6;
+    /* border: 2px solid green; */
+    font-size: 4em;
+}
+
+/* end Stuff for the recipe name */
+
+/* end Stuff for the header */
+
+/* Stuff for the content lump */
+.recipe-content-wrapper {
+    display: flex;
+    flex: 1;
+    /* max-height: 100%; */
+    overflow: scroll;
+    /* border: 2px solid red; */
+}
+
+/* * { outline: 1px solid red; } */
+
+/* Stuff for info section */
+.info-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 2 1 0;
+    max-height: 100%;
+    width: 25%;
+    overflow: scroll;
+    scrollbar-width: none;
+    scrollbar-arrow-color: aqua;
+}
+
+/* Stuff for attributes section */
+.attributes-wrapper {
+    display: flex;
+    /* border: 2px solid blue; */
+    padding: 15px;
+    border-bottom: 1px solid black;
+}
+
+.attributes-list {
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* justify-content: space-between; */
+    overflow: scroll;
+    margin: 0;
+    /* border: 2px solid pink; */
+}
+
+/* .attributes-list>div {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid darkblue
+} */
+
+
+
+.attribute-name {
+    /* display: flex; */
+    /* margin-right: 0.1em; */
+    /* border: 2px solid brown; */
+    font-weight: bold;
+}
+
+.attribute-name::after {
+    content: ":";
+}
+
+/* .attributes-list>div>dd {
+    display: flex;
+    margin-left: 0;
+    border: 2px solid lime;
+} */
+
+/* Stuff for serves attribute (a form) */
+/* .serves-input>input {
+    width: 15px;
+    padding: 0;
+    border: none;
+    border-bottom: 2px solid black;
+    font-size: 1em;
+} */
+
+/* end Stuff for serves attribute (a form) */
+
+/* Stuff for cost attribute extra info */
+.cost-attribute-extra-wrapper {
+    display: none;
+    position: absolute;
+    top: 170px;
+    left: 70px;
+    max-width: 25%;
+    padding: 10px;
+    /* border: 2px solid green; */
+    border: 1px solid black;
+    background-color: rgb(250, 255, 175);
+}
+
+.cost-attribute-extra {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding-left: 0;
+    /* border: 2px solid red; */
+}
+
+/* .cost-attribute-extra::before {
+    content: "Excluding: ";
+} */
+
+/* .cost-attribute-extra>li {
+    display: flex;
+    border: 2px solid blue;
+}
+
+.cost-attribute-extra>li:first-child::before {
+    content: "Excluding: ";
+}
+
+.cost-attribute-extra>li::before {
+    content: ",";
+    padding-right: 0.1em;
+}
+
+.cost-attribute-extra>li:last-child::before {
+    content: " and ";
+    padding-left: 0.1em;
+} */
+
+
+/* end Stuff for cost attribute extra info */
+
+/* end Stuff for attributes section */
+
+/* Stuff for notes section */
+.notes-wrapper {
+    /* border: 2px solid blue; */
+    padding: 20px;
+    text-align: center;
+    flex-grow: 1;
+    border-bottom: 1px solid black;
+    overflow: scroll;
+}
+
+.notes-wrapper:last-child {
+    border-bottom: none;
+}
+
+/* end Stuff for notes section */
+
+/* Stuff for timers section */
+
+.clock-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    /* border: 1px solid red; */
+}
+
+.clock {
+    display: flex;
+    align-items: center;
+    /* border: 1px solid blue; */
+    background: none;
+    border: none;
+    font-size: 2.5em;
+    /* font-weight: bold; */
+}
+
+.timers-wrapper {
+    display: flex;
+    /* fill: aqua; */
+    min-height: 13%;
+    flex-direction: column;
+    /* border: 1px solid red; */
+}
+
+.timers {
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+    overflow: scroll;
+    /* border: 1px solid blue; */
+}
+
+.timer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-shrink: 0;
+    min-width: 20%;
+    background-color: transparent;
+    color: grey;
+    border: none;
+}
+
+.timer-content {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-right: 1px solid black;
+    /* border: 1px solid cyan; */
+}
+
+.timer:last-of-type .timer-content {
+    border-right: none;
+}
+
+.timer-name {
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+    /* border: 1px solid purple; */
+}
+
+.timer-time {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    /* flex: 1;  */
+    /* border: 1px solid green; */
+    font-size: 2em;
+}
+
+.timers .active {
+    color: black;
+}
+
+.timers .elapsed {
+    color: red;
+}
+
+.timers .flashing {
+    font-weight: bold;
+}
+
+/* end Stuff for timers section */
+
+/* end Stuff for info section */
+
+/* Stuff for items section */
+
+.items-wrapper {
+    flex: 3 1 0;
+    overflow: scroll;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* margin-left: 50px; */
+    /* border: 2px solid green; */
+    border-left: 1px solid black;
+}
+
+.items-wrapper>h3 {
+    margin-bottom: 10px;
+    text-align: right;
+    font-size: 2em;
+}
+
+.items-list-wrapper {
+    display: flex;
+    justify-content: right;
+}
+
+.items-list {
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+    /* border: 2px solid blue; */
+}
+
+.items-group-title {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: Georgia, 'Arial Narrow Bold', sans-serif;
+}
+
+.items-list-gap {
+    height: 10px;
+}
+
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    overflow: scroll;
+    /* border: 2px solid purple; */
+}
+
+.item-name-wrapper {
+    overflow: scroll;
+    white-space: nowrap;
+    padding-right: 20px;
+    /* border: 2px solid violet; */
+}
+
+.item-name-extra {
+    color: darkgray;
+}
+
+.item-name-extra:not(:empty)::before {
+    content: "(";
+}
+
+.item-name-extra:not(:empty)::after {
+    content: ")";
+}
+
+.item-details {
+    flex-shrink: 0;
+    overflow: scroll;
+    white-space: nowrap;
+    /* border: 2px solid violet; */
+}
+
+.item-unit-extra {
+    color: darkgray;
+}
+
+.item-unit-extra:not(:empty)::before {
+    content: "(";
+}
+
+.item-unit-extra:not(:empty)::after {
+    content: ")";
+}
+
+/* end Stuff for items section */
+
+
+/* Stuff for steps section */
+.steps-wrapper {
+    flex: 3 1 0;
+    overflow: scroll;
+    padding-left: 10px;
+    padding-right: 20px;
+    border-left: 1px solid black;
+    /* border: 2px solid green; */
+}
+
+.steps-wrapper>h3 {
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 2em;
+}
+
+.steps-list {
+    margin: 0;
+}
+
+.steps-list>li::marker {
+    font-size: 1.5em;
+}
+
+/* end Stuff for steps section */
+
+/* end Stuff for content lump */
+
+/* Stuff for image */
+.recipe-image-background {
+    display: none;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    /* background-color: white; */
+    /* border: 2px solid blue */
+}
+
+.recipe-image-wrapper {
+    height: 80%;
+    padding: 10px;
+    position: relative;
+    background-color: white;
+    /* border: 2px solid red; */
+}
+
+.image-close-wrapper {
+    position: absolute;
+    right: 15px;
+    top: -10px;
+    /* border: 2px solid yellowgreen; */
+}
+
+.image-close {
+    border: none;
+    background: none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.image-close:hover {
+    color: darkred;
+}
+
+.recipe-image {
+    display: block;
+    height: 100%;
+    /* margin: 20px; */
+    border: 1px solid black;
+}
+
+/* end Stuff for image */
+
+/* Stuff for diary */
+.recipe-diary-background,
+.recipe-extra-background {
+    display: none;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    /* border: 2px solid blue */
+}
+
+.recipe-diary-wrapper,
+.recipe-extra-wrapper {
+    height: 80%;
+    min-height: 80%;
+    width: 30%;
+    padding: 10px;
+    position: relative;
+    background-color: white;
+    /* border: 2px solid red; */
+}
+
+.recipe-diary-wrapper>div,
+.recipe-extra-wrapper>div {
+    /* border: 2px solid purple; */
+    min-height: 100%;
+    max-height: 100%;
+    overflow: scroll;
+    border: 1px solid black;
+}
+
+.diary-close-wrapper,
+.extra-close-wrapper {
+    position: absolute;
+    right: 15px;
+    top: -10px;
+    /* border: 2px solid yellowgreen; */
+}
+
+.diary-close,
+.extra-close {
+    border: none;
+    background: none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.diary-close:hover,
+.extra-close:hover {
+    color: darkred;
+}
+
+.recipe-diary {
+    display: block;
+    min-height: 100%;
+    max-height: 100%;
+    margin: 0px;
+    padding: 20px;
+    overflow: scroll;
+}
+
+
+.recipe-diary>dt {
+    font-weight: bold;
+}
+
+.recipe-diary:empty::after {
+    content: "(none)";
+}
+
+/* end Stuff for diary */
+
+/* Stuff for extra */
+
+.recipe-extra {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+}
+
+.recipe-extra-item-link {
+    display: flex;
+    min-width: 0;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.recipe-extra-item {
+    border: none;
+    background: none;
+    font-size: 1.2em;
+}
+
+
+.recipe-extra-item:hover {
+    color: darkred;
+}
+
+/* end Stuff for extra */

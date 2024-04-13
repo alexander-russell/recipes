@@ -1,0 +1,26 @@
+From,To,Factor,Item
+gram,grams,1,
+cup,cups,1,
+clove,cloves,1,
+litre,litres,1,
+tsp,grams,5,
+tbsp,tsp,3,
+spn,tsp,3,
+cups,tbsp,16,
+cups,grams,250,
+kg,grams,1000,
+tsp,ml,5,
+litres,ml,1000,
+cups,ml,250,
+kg,whole,4,Bananas
+whole,cloves,8,Garlic
+kg,whole,5,Green apples
+kg,whole,4,Brown onions
+kg,whole,4,Red onion
+kg,whole,5,Tomato
+kg,whole,2,Sweet potato
+whole,kg,1.5,Chicken
+kg,whole,10,Carrots
+kg,whole,8,Potatoes
+kg,cm,125,Ginger
+whole,bunch,4,Parsley

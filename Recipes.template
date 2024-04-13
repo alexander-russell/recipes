@@ -1,0 +1,88 @@
+\documentclass[]{article}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{imakeidx}
+\usepackage{ebgaramond}
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage{geometry}
+\pdfpagewidth 17 cm
+\pdfpageheight 25.3 cm
+\usepackage[hidelinks=true]{hyperref}
+\usepackage[all]{hypcap}
+\usepackage{fontawesome}
+\usepackage{changepage}
+\usepackage[toc]{multitoc}
+
+\renewcommand*{\multicolumntoc}{2}
+\setlength{\columnseprule}{1pt}
+
+\makeindex[columns=3,title=By Name,intoc]
+\makeindex[columns=3,name=prop,title=By Additional Properties,intoc]
+\makeindex[columns=3,name=cuisine,title=By Cuisine,intoc]
+\makeindex[columns=3,name=key,title=By Key Ingredient,intoc]
+%Set accent color
+\definecolor{accent}{RGB}{97, 114, 31}
+%Set bullet point size and color
+\newcommand{\mybullet}{\color{accent}\Large$\bullet$}
+\newlength{\mylen} \settowidth{\mylen}{\mybullet}
+\renewcommand{\labelitemi}{\parbox[c]{\mylen}{\mybullet}}
+%Set heading commands
+%\newcommand{\category[1]{\addcontentsline{toc}{section}{#1}\section*{\center\Huge\color{accent}{#1}}}}
+
+%Format title page
+\title{
+	\vspace{5cm}
+	\hrule width \hsize \kern 1mm \hrule width \hsize height 2pt
+	\vspace{0.3cm}
+	\textbf{\Huge{RECIPES}}
+	\vspace{0.3cm}
+	\hrule width \hsize height 2pt \kern 1mm \hrule width \hsize
+}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\large
+\newpage
+\tableofcontents
+
+\setlength{\columnseprule}{0pt}
+
+\newpage
+
+\section*{\Huge Introduction}
+
+\subsection*{\huge Icons}
+
+In the description section of recipes, there are some icons. They have the following meanings:
+
+\begin{description}[labelwidth=0.5cm]
+\item[\faCameraRetro] There is a picture available for this recipe (This icon is a hyperlink)
+\item[\faTruck] This recipe is reasonably scaleable to bulk preparation
+\item[\faLink] A website is mentioned in the description (This icon is a hyperlink)
+\item[\faVimeoSquare] This recipe is either vegan or vegetarian
+\item[\faHeart] This recipe is a favourite
+\item[\faGlide] This recipe is gluten free
+\end{description}
+
+\subsection*{\huge Getting inspiration}
+Visit the powershell console and use the command \texttt{\color{accent}Get-Recipe -Random} to get five random recipes from this document.
+
+\subsection*{\huge Finding recipes}
+The table of contents lists the types and categories of recipes, and the recipes are written in this order. For alternative searching, several indices are included at the end of the document. These include searching by ingredient, cuisine and on a few smaller characteristics, e.g. easy to make meals.
+
+\subsection*{\huge Adding recipes}
+
+\begin{enumerate}
+\item Go to the powershell console
+\item Execute the command \texttt{\color{accent}Set-Recipe -AddNew}
+\item Follow the console prompts
+\item Recompile the document with \texttt{\color{accent}Get-Recipe -Compile}
+\end{enumerate}

@@ -1,0 +1,27 @@
+\documentclass[]{article}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{imakeidx}
+\usepackage{ebgaramond}
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage{geometry}
+\pdfpagewidth 17 cm
+\pdfpageheight 25.3 cm
+\usepackage[hidelinks=true]{hyperref}
+\usepackage{fontawesome}
+\usepackage{changepage}
+
+%Set accent color
+\definecolor{accent}{RGB}{97, 114, 31}
+
+%Set bullet point size and color
+\newcommand{\mybullet}{\color{accent}\Large$\bullet$}
+\newlength{\mylen} \settowidth{\mylen}{\mybullet}
+\renewcommand{\labelitemi}{\parbox[c]{\mylen}{\mybullet}}
+
+%Format title page
+\begin{document}
+\large

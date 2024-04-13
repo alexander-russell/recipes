@@ -1,0 +1,162 @@
+Date,Name,Price,Quantity,Unit,Source,Extra
+2023-11-07 00:00:00,Arborio,3.99,1,kg,Aldi,
+2023-11-07 00:00:00,Bacon,6.99,750,grams,Aldi,
+2023-11-07 00:00:00,Bananas,4.49,1,kg,Aldi,
+2023-11-07 00:00:00,Basil,2.99,1,whole,Aldi,whole is one plant
+2023-11-07 00:00:00,Beef mince,5.99,500,grams,Aldi,
+2023-11-07 00:00:00,Black beans,0.99,420,grams,Aldi,
+2023-11-07 00:00:00,Bok choy,1.79,1,whole,Aldi,pak choy?
+2023-11-07 00:00:00,Brown onions,2.99,1,kg,Aldi,
+2023-11-07 00:00:00,Brown sugar,3.49,1,kg,Aldi,
+2023-11-07 00:00:00,Capsicum,5.99,1,kg,Aldi,
+2023-11-07 00:00:00,Carrots,1.19,500,grams,Aldi,
+2023-11-07 00:00:00,Caster sugar,2.49,1,kg,Aldi,
+2023-11-07 00:00:00,Chicken,3.49,1,kg,Aldi,
+2023-11-07 00:00:00,Chicken breast,9.99,1,kg,Aldi,
+2023-11-07 00:00:00,Chicken stock,1.99,105,grams,Aldi,
+2023-11-07 00:00:00,Chicken thigh,11.99,1,kg,Aldi,
+2023-11-07 00:00:00,Chopped macadamia,13.99,400,grams,Aldi,
+2023-11-07 00:00:00,Corn chips,4.99,500,grams,Aldi,one pack
+2023-11-07 00:00:00,Cornflour,2.19,500,grams,Aldi,
+2023-11-07 00:00:00,Cream cheese,3.49,200,grams,Aldi,
+2023-11-07 00:00:00,Diced tomato,1.39,400,grams,Aldi,This is for crushed tomato
+2023-11-07 00:00:00,Digestive biscuits,4.4,355,grams,Coles,
+2023-11-07 00:00:00,Double cream,2.79,300,ml,Aldi,Pouring cream?
+2023-11-07 00:00:00,Egg whites,5.19,12,whole,Aldi,
+2023-11-07 00:00:00,Eggs,5.19,12,whole,Aldi,free range eggs 700g
+2023-11-07 00:00:00,Farfalle pasta,0.99,500,grams,Aldi,
+2023-11-07 00:00:00,Garlic,2.99,3,whole,Aldi,
+2023-11-07 00:00:00,Ginger,24.99,1,kg,Aldi,
+2023-11-07 00:00:00,Grated cheese,9.49,700,grams,Aldi,
+2023-11-07 00:00:00,Green apples,4.49,1,kg,Aldi,
+2023-11-07 00:00:00,Lemon,0.99,1,whole,Aldi,
+2023-11-07 00:00:00,Milk,3.09,2,litres,Aldi,
+2023-11-07 00:00:00,Milk chocolate,2.49,375,grams,Aldi,
+2023-11-07 00:00:00,Milo,9.4,460,grams,Coles,
+2023-11-07 00:00:00,Mozzarella cheese,6.99,500,grams,Aldi,
+2023-11-07 00:00:00,Shredded cheese,6.99,500,grams,Aldi,Assuming tasty cheese is meant
+2023-11-07 00:00:00,Mushrooms,3.49,200,grams,Aldi,
+2023-11-07 00:00:00,Parsley,2.99,1,whole,Aldi,one whole is one plant
+2023-11-07 00:00:00,Pizza cheese,6.99,500,grams,Aldi,
+2023-11-07 00:00:00,Plain flour,1.29,1,kg,Aldi,
+2023-11-07 00:00:00,Potatoes,5.99,2,kg,Aldi,
+2023-11-07 00:00:00,Red onion,2.49,500,grams,Aldi,
+2023-11-07 00:00:00,Rice,3.59,2,kg,Aldi,
+2023-11-07 00:00:00,Rigatoni pasta,3.5,500,grams,Coles,
+2023-11-07 00:00:00,Roasted cashews,11.99,750,grams,Aldi,called natural cashews. roasted are 8.49 for 400 grams
+2023-11-07 00:00:00,Rolled oats,1.35,750,grams,Aldi,
+2023-11-07 00:00:00,Sour cream,3.19,300,grams,Aldi,
+2023-11-07 00:00:00,Spring onions,2.49,1,whole,Aldi,"sold per ""bunch"""
+2023-11-07 00:00:00,SR flour,1.29,1,kg,Aldi,
+2023-11-07 00:00:00,Strawberries,5.49,350,grams,Aldi,
+2023-11-07 00:00:00,Sweet potato,2.99,1,kg,Aldi,
+2023-11-07 00:00:00,Thickened cream,2.79,300,ml,Aldi,
+2023-11-07 00:00:00,Tomato,3.49,500,grams,Aldi,
+2023-11-07 00:00:00,Tomato passata,1.99,700,grams,Aldi,
+2023-11-07 00:00:00,Tuna,2.29,185,grams,Aldi,
+2023-11-07 00:00:00,Vanilla,4.99,100,ml,Aldi,
+2023-11-07 00:00:00,Vinegar,1.59,2,litres,Aldi,
+2023-11-07 00:00:00,White chocolate chips,2.79,250,grams,Aldi,
+2023-11-07 00:00:00,White sugar,2.59,2,kg,Aldi,
+2023-11-07 00:00:00,Yoghurt,3.99,1,kg,Aldi,
+2023-11-07 00:00:00,Sprinkles,2.99,250,grams,Aldi,
+2023-11-07 00:00:00,Chickpeas,0.99,420,grams,Aldi,
+2023-11-07 00:00:00,Lentils,0.99,420,grams,Aldi,
+2023-11-07 00:00:00,Coconut cream,0.99,400,ml,Aldi,
+2023-11-07 00:00:00,Pumpkin,2.49,1,kg,Aldi,kent pumpkin
+2023-11-05 00:00:00,Salt,1.3,500,grams,Coles,Saxa salt
+2023-11-05 00:00:00,Butter,3.7,250,grams,Coles,Unsalted no frills
+2023-11-05 00:00:00,Baking soda,5.55,300,grams,Coles,Assuming I meant baking powder
+2023-11-05 00:00:00,Water,0,1,ml,Tap,Free item woohoo
+2023-12-21 00:00:00,Ground almond,5.99,400,grams,Aldi,
+2023-12-21 00:00:00,icing sugar,3.69,1,kg,Aldi,
+2023-12-21 00:00:00,Parmesan,5.99,200,grams,Aldi,Maybe the worse one: good one out of stock
+2023-12-21 00:00:00,Green beans,3.49,500,grams,Aldi,
+2023-12-21 00:00:00,Curry powder,3.5,100,grams,Woolworths,
+2023-12-21 00:00:00,Cardamon,2,24,grams,Woolworths,
+2023-12-21 00:00:00,Coconut milk,0.95,400,ml,Aldi,
+2023-12-21 00:00:00,Vegetable stock,1.79,1,litre,Aldi,
+2023-12-21 00:00:00,Puff pastry,2.79,8,whole,Aldi,Pack is 1 kg
+2023-12-21 00:00:00,Red wine,3.49,750,ml,Aldi,Box wine
+2023-12-21 00:00:00,Dry yeast,4.8,280,grams,Woolworths,
+2023-12-21 00:00:00,Cabanossi,4.29,300,grams,Aldi,
+2023-12-21 00:00:00,Fettucine,0.99,500,grams,Aldi,
+2023-12-21 00:00:00,Basil pesto,1.79,190,grams,Aldi,
+2023-12-21 00:00:00,Cobb loaf,3,1,whole,Coles,A white cobb loaf for making stuffed cobb loaf. One b?
+2023-12-21 00:00:00,Mixed herbs,6,140,grams,Coles,Italian mixed herbs
+2023-12-21 00:00:00,Pepper,8.5,95,grams,Coles,
+2023-12-21 00:00:00,Turmeric,2.8,28,grams,Coles,
+2023-12-21 00:00:00,Oregano,2.6,5,grams,Coles,
+2023-12-21 00:00:00,Cinnamon,2.8,28,grams,Coles,
+2023-12-21 00:00:00,Mixed spices,3.4,30,grams,Coles,
+2023-12-21 00:00:00,Peanut butter,3.79,500,grams,Aldi,
+2023-12-21 00:00:00,Capers,3.5,230,grams,Coles,
+2023-12-21 00:00:00,Brown rice,2.49,1,kg,Aldi,
+2023-12-21 00:00:00,Choc chips,2.79,250,grams,Aldi,
+2023-12-21 00:00:00,Porterhouse steak,7,200,grams,Aldi,
+2023-12-21 00:00:00,Vegetable oil,7.49,2,litres,Aldi,
+2023-12-22 00:00:00,Baking powder,2.39,500,grams,Aldi,Admittedly this is for bicarb but it can't make that much difference
+2023-12-22 00:00:00,Bi-carb,2.39,500,grams,Aldi,
+2023-12-22 00:00:00,Bread,2.29,20,whole,Aldi,Whole refers to slices; 20 is a guess
+2023-12-22 00:00:00,Lasagne sheets,1.89,8,whole,Aldi,Whole refers to sheets; a guess
+2023-12-22 00:00:00,Cointreau,70,1,litre,Dan Murphy,Actually it was duty free but close enough.
+2024-02-19 00:00:00,Fettuccine Pasta,0.99,500,grams,Aldi,
+2024-02-19 00:00:00,Spaghetti,0.99,500,grams,Aldi,
+2024-02-19 00:00:00,Worcestershire Sauce,1.99,250,ml,Aldi,
+2024-02-19 00:00:00,Lemon,1.99,1,whole,Freshtown,Generally bigger lemons than aldi
+2024-02-19 00:00:00,Gai lan,1.5,1,whole,New Yen Yen,
+2024-02-19 00:00:00,Shallots,1.1,1,whole,New yen yen; Evergreen fresh world,One bunch is so enormous.
+2024-02-19 00:00:00,Sweet potato,2.59,1,kg,Sakura supermarket,
+2024-02-19 00:00:00,Breadcrumbs,1.69,500,grams,Aldi,
+2024-02-19 00:00:00,Butter,6.39,500,grams,Aldi,
+2024-02-19 00:00:00,Capsicum,6.99,1,kg,Aldi,
+2024-02-19 00:00:00,Broccoli,7.99,1,kg,Aldi,
+2024-02-19 00:00:00,Chicken stock,1.79,1,Litre,Aldi,
+2024-02-19 00:00:00,Brioche buns,3.29,4,whole,Aldi,
+2024-02-19 00:00:00,Bread flour,4,1,kg,Woolworths,Maybe a scam; looking into other brands
+2024-02-19 00:00:00,Asparagus,3.99,8,whole,Super Fresh,
+2024-02-19 00:00:00,Souvlaki pita,4.5,5,whole,Woolworths,Missian brand souvlaki (might be more than 5 pack).
+2024-02-19 00:00:00,Wheat Biscuits,4.49,1.12,kg,Aldi,
+2024-02-19 00:00:00,Olive oil,10.99,750,ml,Aldi,
+2024-02-19 00:00:00,Beef ravioli,4.99,625,grams,Aldi,
+2024-02-19 00:00:00,Halloumi,5.79,250,grams,Aldi,
+2024-02-19 00:00:00,Parmesan,7.69,250,grams,Aldi,Grana padano in a wedge
+2024-02-19 00:00:00,Rigatoni,1,500,grams,Coles,
+2024-02-19 00:00:00,Oregano,1.8,10,grams,Coles,
+2024-02-19 00:00:00,Paprika,2.4,30,grams,Woolworths,
+2024-02-19 00:00:00,Cloves,4.8,20,grams,Woolworths,i Bay leaves
+2024-02-19 00:00:00,Bay leaves,2,15,grams,Woolworths,
+2024-02-19 00:00:00,Gnocchi,3.29,500,grams,Aldi,
+2024-02-19 00:00:00,Rice paper,3.48,30,whole,Eastwood Mart,I guessed the number
+2024-02-19 00:00:00,Chow mein noodles,3.8,500,grams,New Yen Yen,
+2024-02-19 00:00:00,Bean sprouts,1.2,450,grams,New Yen Yen,
+2024-02-19 00:00:00,Hoi sin sauce,3.5,210,ml,New Yen Yen,
+2024-02-19 00:00:00,light soy sauce,3.5,210,ml,New Yen Yen,
+2024-02-19 00:00:00,Wombok,4.99,8,cups,Super Fresh,1 whole; shredded it would probably be 8 cups
+2024-02-19 00:00:00,Potato,5.99,2,kg,Aldi,
+2024-02-19 00:00:00,Spinach,1.99,120,grams,Aldi,
+2024-02-19 00:00:00,Hokkien noodles,2.4,500,grams,New Yen Yen,
+2024-02-19 00:00:00,Tomato,3.99,1,kg,Freshtown,
+2024-02-19 00:00:00,Canola oil,7.49,2,litres,Aldi,
+2024-02-19 00:00:00,Oyster sauce,6.99,510,grams,Eastwood Mart,
+2024-02-19 00:00:00,Mixed vegetables,4.19,1,kg,Aldi,
+2024-02-19 00:00:00,Sesame oil,3.4,120,ml,New Yen Yen,
+2024-02-19 00:00:00,Chinese cooking wine,1.8,640,ml,New Yen Yen,
+2024-02-19 00:00:00,Rice noodles,3.5,950,grams,New Yen Yen,
+2024-02-19 00:00:00,Dark soy sauce,3.44,500,ml,Eastwood Mart,
+2024-02-19 00:00:00,Pita bread,3.5,5,whole,Woolworths,Specifically mission brand souvlaki pita bread.
+2024-02-19 00:00:00,Peas,2.59,1,kg,Aldi,
+2024-02-19 00:00:00,Beetroot,4.5,5,whole,Super Fresh,More expensive than other places; fresher
+2024-02-19 00:00:00,Beef silverside,18.99,1,kg,S&Y Butchery,
+2024-02-19 00:00:00,Mustard seeds,1.55,25,grams,Woolworths,
+2024-02-19 00:00:00,Wholemeal flour,2.25,1,kg,Woolworths,
+2024-03-20 15:16:06,Basmati rice,4,1,kg,Aldi,Not sure if true and I haven't bought from aldi; currently using maharajahs choice
+2024-04-12 22:17:03,Taco spice mix,7,143,grams,Coles,
+2024-04-12 22:18:03,Cumin,1.85,42,grams,Coles,
+2024-04-12 22:19:22,Garlic powder,2.75,60,grams,Coles,
+2024-04-12 22:20:22,Onion powder,2.4,42,grams,Coles,
+2024-04-13 09:19:53,Cumin seeds,3.49,100,grams,Sakura supermarket,
+2024-04-13 09:20:17,Coriander seeds,1.49,50,grams,Sakura supermarket,
+2024-04-13 09:20:55,Fennel seeds,1.89,100,grams,Sakura supermarket,
+2024-04-13 09:21:25,Lamb,14.99,1,kg,L&C Butchery,For pre-cubed lamb chunks
+2024-04-13 09:22:02,Frozen garlic bread,2.29,2,whole,Aldi,This is a guess; I lost the reciept. Could be 3.29?

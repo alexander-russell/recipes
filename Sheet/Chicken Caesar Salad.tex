@@ -1,0 +1,74 @@
+\documentclass[]{article}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{imakeidx}
+\usepackage{ebgaramond}
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage{geometry}
+\pdfpagewidth 17 cm
+\pdfpageheight 25.3 cm
+\usepackage[hidelinks=true]{hyperref}
+\usepackage{fontawesome}
+\usepackage{changepage}
+
+%Set accent color
+\definecolor{accent}{RGB}{97, 114, 31}
+
+%Set bullet point size and color
+\newcommand{\mybullet}{\color{accent}\Large$\bullet$}
+\newlength{\mylen} \settowidth{\mylen}{\mybullet}
+\renewcommand{\labelitemi}{\parbox[c]{\mylen}{\mybullet}}
+
+%Format title page
+\begin{document}
+\large
+\phantomsection\label{rec:Chicken Caesar Salad}
+\subsection*{\center\huge Chicken Caesar Salad}\index{Chicken Caesar Salad}\index[prop]{\textbf{Favourites}!Chicken Caesar Salad}\index[prop]{\textbf{Untested}!Chicken Caesar Salad}\index[cuisine]{\textbf{Mexican}!Chicken Caesar Salad}
+\begin{description}
+\item[Makes:] 4 serves
+\item[Cost:] \textdollar4.06 per serve Excluding Iceberg lettuce, Mayonnaise, Dijon mustard, Salt and Pepper
+\item[Time:] 60 minutes
+\item[Difficulty:] 5/10
+\end{description}
+\vspace{0.2cm}\hrule\vspace{0.5cm}
+\begin{adjustwidth}{0.5 cm}{0.5 cm}
+
+Alledgedly made first by an Italian chef in Mexico. Following the way dad made this at home, but using sauce from \href{https://www.recipetineats.com/chicken-caesar-salad/}{Recipe Tin Eats} and egg technique from \href{https://www.australianeggs.org.au/recipes-and-cooking/easy-boiled-eggs}{Australian Eggs}. \hfill\color{accent}{\Large\hyperref[fig:Chicken Caesar Salad]{\faCameraRetro}\hspace{0.1cm}\faHeart\hspace{0.1cm}\href{https://www.recipetineats.com/chicken-caesar-salad/}{Recipe Tin Eats} and egg technique from \href{https://www.australianeggs.org.au/recipes-and-cooking/easy-boiled-eggs}{\faLink}\hspace{0.1cm}}\color{black}
+
+\end{adjustwidth}
+\vspace{0.5cm}\hrule
+\subsubsection*{\Large Ingredients}
+\begin{multicols}{2}
+\begin{itemize}
+ \item Chicken thigh \hfill 500 grams
+ \item Iceberg lettuce \hfill 0.5 whole (8 cups)
+ \item Tomato \hfill 4 whole
+ \item Eggs \hfill 4 whole
+ \item Bread \hfill 6 whole (slices)
+ \item Mayonnaise \hfill 1 cup
+ \item Dijon mustard \hfill 2 tsp
+ \item Worcestershire sauce \hfill 1 tbsp
+ \item Parmesan \hfill 100 grams (0.5 cup grated)
+ \item Garlic \hfill 3 cloves
+ \item Lemon \hfill 0.5 whole (2 tbsp juiced)
+ \item Milk \hfill 3 tbsp
+ \item Salt \hfill 0 to taste
+ \item Pepper \hfill 0 to taste
+\end{itemize}
+\end{multicols}
+\subsubsection*{\Large Method}
+\begin{enumerate}[font=\huge\color{accent}]
+	\item Place 2 whole chicken thighs in pan on high heat. Sear and then place lid on, reduce heat if it burns, flip, repeat. Do 2 batches, 2 thighs at a time.
+	\item Half fill a medium saucepan with cold water, place eggs in the water and heat on medium until it starts to simmer.
+	\item Juice lemon and crush garlic. Mix all sauce ingredients in a bowl.
+	\item When eggs are simmering, start a 6 minute timer.
+	\item Cut tomato and lettuce into large chunks, wash lettuce.
+	\item Prepare a bowl of ice water for eggs.
+	\item Remove eggs from heat into ice water, then peel shells and cut into quarters.
+	\item Toast bread and cut into 16 pieces per slice.
+	\item Combine all ingredients and toss.
+\end{enumerate}
+\end{document}
