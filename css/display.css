@@ -1,5 +1,5 @@
 * {
-    font-family: Garamond, Baskerville, monospace;
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif, monospace;
 }
 
 /* General font styling */
@@ -629,46 +629,50 @@ body {
 
 /* Stuff for Mobile Layout */
 
-.recipe-wrapper {
-    justify-content: center;
+@media (max-width:600px) {
+    .recipe-wrapper {
+        justify-content: center;
+    }
+
+    .recipe {
+        /* width: 400px; */
+        width: 100%;
+        /* max-width: 400px; */
+        min-width: 0px;
+    }
+
+    .recipe-content-wrapper {
+        flex-direction: column;
+        /* max-width: 400px; */
+    }
+
+    .info-wrapper {
+        overflow: visible;
+        width: 100%;
+    }
+
+    .timers-wrapper {
+        border-bottom: 1px solid black;
+    }
+
+    .items-wrapper,
+    .steps-wrapper {
+        overflow: visible;
+        border-left: none;
+    }
+
+    .items-wrapper>h3 {
+        text-align: left;
+    }
+
+    .items-list-wrapper {
+        justify-content: left;
+    }
+
+    .items-list {
+        width: 100%;
+    }
 }
 
-.recipe {
-    width: 400px;
-    max-width: 400px;
-    min-width: 0px;
-}
-
-.recipe-content-wrapper {
-    flex-direction: column;
-    max-width: 400px;
-}
-
-.info-wrapper {
-    overflow: visible;
-    width: 100%;
-}
-
-.timers-wrapper {
-    border-bottom: 1px solid black;
-}
-
-.items-wrapper,
-.steps-wrapper {
-    overflow: visible;
-    border-left: none;
-}
-
-.items-wrapper > h3 {
-    text-align: left;
-}
-
-.items-list-wrapper {
-    justify-content: left;
-}
-
-.items-list {
-    width: 100%;
-}
 
 /* end Stuff for Mobile Layout */
