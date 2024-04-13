@@ -10423,100 +10423,100 @@
           "NameDetail": "70% pork",
           "Quantity": 500.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "meatballs"
         },
         {
           "Name": "Breadcrumbs",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "cups",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "meatballs"
         },
         {
           "Name": "Eggs",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "meatballs"
         },
         {
           "Name": "Brown onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "meatballs"
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "cloves",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "meatballs"
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "meatballs"
         },
         {
           "Name": "Pepper",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "meatballs"
         },
         {
           "Name": "Plain flour",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "tbsp",
           "UnitDetail": "to roll meatballs in",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Frozen garlic bread",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Brown onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 5.0,
           "Unit": "cloves",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Parsley",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "bunch",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Tomato passata",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 700.0,
           "Unit": "grams",
           "UnitDetail": "@1 jar",
@@ -10524,18 +10524,18 @@
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "White sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
@@ -10543,32 +10543,32 @@
           "NameDetail": "fresh",
           "Quantity": 0.0,
           "Unit": "to taste",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Red wine",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "cup",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Spaghetti",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 500.0,
           "Unit": "grams",
           "UnitDetail": "@1 pack",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Parmesan",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -10642,6 +10642,58 @@
         {
           "Name": "Soak",
           "Seconds": 300
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "my recipe",
+      "Type": "Main",
+      "Category": "Pastas",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "beefs",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 12.0,
+        "Extra": ""
+      },
+      "Difficulty": 10,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": false
+      },
+      "Note": "made it up",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Beef rump steak",
+          "NameDetail": null,
+          "Quantity": 600.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "fjesfnsk"
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Beef",
+          "Seconds": 600
         }
       ],
       "Cost": null

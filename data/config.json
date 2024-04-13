@@ -1,330 +1,69 @@
 {
   "Recipe": {
-    "Name": "Potato Curry",
+    "Name": "my recipe",
     "Type": "Main",
-    "Category": "Curries",
-    "Cuisine": "Indian",
-    "Key": "Potato",
+    "Category": "Pastas",
+    "Cuisine": "Italian",
+    "Key": "",
     "Yield": {
-      "Quantity": 3.0,
-      "Unit": "serves",
+      "Quantity": 4.0,
+      "Unit": "beefs",
       "Extra": ""
     },
     "Time": {
-      "Minutes": 50.0,
+      "Minutes": 12.0,
       "Extra": ""
     },
-    "Difficulty": 3,
-    "Bulk": true,
+    "Difficulty": 10,
+    "Bulk": false,
     "Favourite": false,
     "Retired": false,
-    "Tested": true,
+    "Tested": false,
     "Dietary": {
-      "Vegetarian": false,
+      "Vegetarian": true,
       "OptionallyVegetarian": false,
       "Vegan": true,
-      "GlutenFree": true
+      "GlutenFree": false
     },
-    "Note": "From The Cook's Companion, but I skip a bunch of the ingredients so I don't have to buy extra stuff. Goes alright. Highly recommend serving with plain flatbread, like Aldi paratha. Makes somewhere between 3 and 4 serves.",
-    "Image": "Local",
+    "Note": "made it up",
+    "Image": "",
     "Items": [
       {
-        "Name": "Brown onions",
+        "Name": "Beef rump steak",
         "NameDetail": "",
-        "Quantity": 1.0,
-        "Unit": "whole",
-        "UnitDetail": "",
-        "Group": "First lot of veggies"
-      },
-      {
-        "Name": "Ginger",
-        "NameDetail": "",
-        "Quantity": 1.0,
-        "Unit": "cm",
-        "UnitDetail": "",
-        "Group": "First lot of veggies"
-      },
-      {
-        "Name": "Garlic",
-        "NameDetail": "",
-        "Quantity": 2.0,
-        "Unit": "cloves",
-        "UnitDetail": "",
-        "Group": "First lot of veggies"
-      },
-      {
-        "Name": "Potatoes",
-        "NameDetail": "",
-        "Quantity": 4.0,
-        "Unit": "whole",
-        "UnitDetail": "",
-        "Group": "Second lot of veggies"
-      },
-      {
-        "Name": "Carrots",
-        "NameDetail": "",
-        "Quantity": 2.0,
-        "Unit": "whole",
-        "UnitDetail": "",
-        "Group": "Second lot of veggies"
-      },
-      {
-        "Name": "Green beans",
-        "NameDetail": "",
-        "Quantity": 100.0,
+        "Quantity": 600.0,
         "Unit": "grams",
-        "UnitDetail": "a handful",
-        "Group": "Second lot of veggies"
-      },
-      {
-        "Name": "Vegetable oil",
-        "NameDetail": "",
-        "Quantity": 3.0,
-        "Unit": "tbsp",
-        "UnitDetail": "",
-        "Group": ""
-      },
-      {
-        "Name": "Turmeric",
-        "NameDetail": "",
-        "Quantity": 1.0,
-        "Unit": "tsp",
-        "UnitDetail": "",
-        "Group": "Spices"
-      },
-      {
-        "Name": "Curry powder",
-        "NameDetail": "",
-        "Quantity": 1.0,
-        "Unit": "tsp",
-        "UnitDetail": "",
-        "Group": "Spices"
-      },
-      {
-        "Name": "Cinnamon",
-        "NameDetail": "",
-        "Quantity": 0.5,
-        "Unit": "tsp",
-        "UnitDetail": "",
-        "Group": "Spices"
-      },
-      {
-        "Name": "Cardamon",
-        "NameDetail": "",
-        "Quantity": 0.5,
-        "Unit": "tsp",
-        "UnitDetail": "",
-        "Group": "Spices"
-      },
-      {
-        "Name": "Diced tomato",
-        "NameDetail": "",
-        "Quantity": 400.0,
-        "Unit": "grams",
-        "UnitDetail": "@1 can",
-        "Group": ""
-      },
-      {
-        "Name": "Coconut milk",
-        "NameDetail": "",
-        "Quantity": 1.0,
-        "Unit": "cup",
-        "UnitDetail": "",
-        "Group": ""
-      },
-      {
-        "Name": "Basmati rice",
-        "NameDetail": "",
-        "Quantity": 2.0,
-        "Unit": "cups",
-        "UnitDetail": "",
-        "Group": ""
-      },
-      {
-        "Name": "Salt",
-        "NameDetail": "",
-        "Quantity": 2.0,
-        "Unit": "tsp",
         "UnitDetail": "",
         "Group": ""
       }
     ],
     "Steps": [
       {
-        "Content": "Chop onion (medium chunks), ginger (halve and slice thin), garlic (slice thin, skin on), potato (medium-large chunks), carrots (thick slices), beans (1 inch long)"
-      },
-      {
-        "Content": "Heat 3 tbsp oil in saucepan on medium high heat. Toss first lot of veggies in, add spices. Saute for 3 minutes"
-      },
-      {
-        "Content": "Blend canned tomatoes in food processor."
-      },
-      {
-        "Content": "Add next lot of veggies in, stir well to coat, then add tomato. Cover and simmer for 20 minutes on medium."
-      },
-      {
-        "Content": "Make the rice: To a saucepan on medium high, add 2 cups basmati rice, 3 cups cold water. Bring to boil, then cover and simmer on medium for 13 minutes. Remove from heat and rest for 10, then remove lid fluff, rest 2 minutes more."
-      },
-      {
-        "Content": "Add coconut milk to sauce and then simmer uncovered for 10 minutes."
-      },
-      {
-        "Content": "Optionally, fry some paratha while waiting for sauce."
+        "Content": "fjesfnsk"
       }
     ],
-    "Diary": [
-      {
-        "Date": "2024-03-19T20:14:28.3341784+11:00",
-        "Content": "Cooked while pretty tired so maybe just cooked badly, but sauce isn't very interesting, potato lumps very large. Tried garnishing with mint, looked fun but wasn't yum. Used 5 potatoes."
-      },
-      {
-        "Date": "2024-03-19T21:08:21.1100753+11:00",
-        "Content": "Calmed down now and actually its pretty yummy. Good cold too."
-      },
-      {
-        "Date": "2024-04-04T22:45:05.2009277+11:00",
-        "Content": "Cooked again, this time made the potatoes a bit smaller and didn't bother processing the diced tomatoes. used half the rice and added peas instead of green beans. Used coconut cream instead of milk, I truly don't know the difference but this one seemed oilier."
-      }
-    ],
+    "Diary": [],
     "Timers": [
       {
-        "Name": "Saute",
-        "Seconds": 180
-      },
-      {
-        "Name": "Simmer",
-        "Seconds": 1200
-      },
-      {
-        "Name": "Rice 1",
-        "Seconds": 780
-      },
-      {
-        "Name": "Rice 2",
-        "Seconds": 600
-      },
-      {
-        "Name": "Rice 3",
-        "Seconds": 120
-      },
-      {
-        "Name": "Coconut",
+        "Name": "Beef",
         "Seconds": 600
       }
     ],
     "Cost": {
-      "Amount": 9.1,
-      "AmountPerUnit": 3.03,
-      "Unit": "serves",
+      "Amount": 0.0,
+      "AmountPerUnit": 0.0,
+      "Unit": "beefs",
       "ItemCosts": [
         {
-          "Name": "Brown onions",
-          "Amount": 0.7475,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Ginger",
-          "Amount": 0.19992,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Garlic",
-          "Amount": 0.24916666666666623,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Potatoes",
-          "Amount": 1.4975,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Carrots",
-          "Amount": 0.476,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Green beans",
-          "Amount": 0.698,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Vegetable oil",
-          "Amount": 0.168525,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Turmeric",
-          "Amount": 0.5,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Curry powder",
-          "Amount": 0.175,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Cinnamon",
-          "Amount": 0.25,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Cardamon",
-          "Amount": 0.2083333333333335,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Diced tomato",
-          "Amount": 1.39,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Coconut milk",
-          "Amount": 0.59375,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Basmati rice",
-          "Amount": 1.92,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
-        },
-        {
-          "Name": "Salt",
-          "Amount": 0.026,
-          "Success": true,
-          "Reason": "",
-          "Extra": ""
+          "Name": "Beef rump steak",
+          "Amount": 0.0,
+          "Success": false,
+          "Reason": "NotFound",
+          "Extra": "Name not found: Beef rump steak"
         }
       ],
-      "CostString": "3.03 per serve",
-      "ExclusionsString": ""
+      "CostString": "0* per unit",
+      "ExclusionsString": "Excluding Beef rump steak"
     }
   },
   "ExtraRecipes": [
@@ -16823,7 +16562,74 @@
         "CostString": "2.85 per serve",
         "ExclusionsString": ""
       }
+    },
+    {
+      "Name": "my recipe",
+      "Type": "Main",
+      "Category": "Pastas",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "beefs",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 12.0,
+        "Extra": ""
+      },
+      "Difficulty": 10,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": false
+      },
+      "Note": "made it up",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Beef rump steak",
+          "NameDetail": "",
+          "Quantity": 600.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "fjesfnsk"
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Beef",
+          "Seconds": 600
+        }
+      ],
+      "Cost": {
+        "Amount": 0.0,
+        "AmountPerUnit": 0.0,
+        "Unit": "beefs",
+        "ItemCosts": [
+          {
+            "Name": "Beef rump steak",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Beef rump steak"
+          }
+        ],
+        "CostString": "0* per unit",
+        "ExclusionsString": "Excluding Beef rump steak"
+      }
     }
   ],
-  "SelectedName": "Potato Curry"
+  "SelectedName": "my recipe"
 }
