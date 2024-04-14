@@ -1,13 +1,4 @@
 //Plan:
-// teach display.js to scale recipe
-// scale via url, so .ps1 can pass as parameter
-// inline form to rescale dynamically
-// form should update scale and url but without reload
-// then setup .ps1 to build a separate database incl. costs and save to disk
-// switch js to reading from that not config
-// get rid of config, communicate just by url params
-// with the above inplace, could theoretically be hosted online
-// don't know how to do that
 // then with all that, build an index.html page
 // and maybe a gallery.html page 
 
@@ -16,11 +7,9 @@ const recipeWrapper = document.querySelector(".recipe-wrapper")
 const recipeImageBackground = document.querySelector(".recipe-image-background");
 const costAttributeExtraWrapper = document.querySelector(".cost-attribute-extra-wrapper");
 
-let config;
 let recipeBook;
 let recipe;
 let params;
-let configLoaded = false;
 let recipesLoaded = false;
 
 function formatTime(seconds) {
@@ -41,16 +30,6 @@ function round(number, decimalPlaces) {
     return +number.toFixed(decimalPlaces);
 }
 
-//Read in the config, containing the recipes
-fetch("data/config.json", { cache: "no-cache" })
-    .then((response) => response.json())
-    .then((data) => {
-        config = data;
-        configLoaded = true;
-        start();
-    })
-    .catch(error => console.error(error));
-
 //Read in the recipe data (not used anymore)
 fetch("RecipesCost.json")
     .then((response) => response.json())
@@ -63,7 +42,7 @@ fetch("RecipesCost.json")
 
 //Start up function, finds recipe and calls displayRecipe
 async function start() {
-    if (recipesLoaded && configLoaded) {
+    if (recipesLoaded) {
         // Extract URL arguments
         params = new URLSearchParams(document.location.search);
         recipeName = params.get("recipe");
@@ -75,16 +54,45 @@ async function start() {
             return success;
         });
 
-        // Scale the recipe
-        scaleRecipe(recipesFiltered[0], params.get("yield"));
-        // Display the recipe specified in the URL
-        displayRecipe(recipesFiltered[0]);
+        // If no recipe found, 404
+        if (recipesFiltered.length == 0) {
+            alert("Couldn't find that recipe");
+        }
+
+        configureRecipe(recipesFiltered[0]);
     }
+}
+
+async function configureRecipe(recipe) {
+    // Retrieve params
+    params = new URLSearchParams(document.location.search);
+
+    // Deep copy the recipe
+    recipe = structuredClone(recipesFiltered[0]);
+
+    // Scale the recipe
+    scaleRecipe(recipe, params.get("yield"));
+
+    // Display the recipe specified in the URL
+    displayRecipe(recipe);
 }
 
 async function scaleRecipe(recipe, yield) {
     // Calculate factor
-    const factor = yield / recipe.Yield.Quantity
+    let factor;
+    if (null === yield) {
+        factor = 1
+    } else if (yield == 0) {
+        factor = 1
+    } else {
+        factor = yield / recipe.Yield.Quantity
+    }
+
+    // Update form element
+    const yieldQuantityElement = document.querySelector(".yield-quantity");
+    // if (yieldQuantityElement.value != yield) {
+    yieldQuantityElement.setAttribute("value", `${factor * recipe.Yield.Quantity}`);
+    // }
 
     // Scale yield
     recipe.Yield.Quantity = yield;
@@ -96,8 +104,9 @@ async function scaleRecipe(recipe, yield) {
     // Scale items
     for (item of recipe.Items) {
         item.Quantity = round(item.Quantity * factor, 2);
-        item.NameExtra = scaleRecipeString(item.NameExtra, factor);
-        item.UnitExtra = scaleRecipeString(item.UnitExtra, factor);
+        item.NameDetail = scaleRecipeString(item.NameDetail, factor);
+        item.UnitDetail = scaleRecipeString(item.UnitDetail, factor);
+
     }
 
     // Scale steps
@@ -196,7 +205,7 @@ function displayRecipeHeaderIcons(recipe) {
         iconsListElement.appendChild(createIconHeart());
     }
     // If bulk: add truck icon
-    if (recipe.basicAttributesulk) {
+    if (recipe.Bulk) {
         iconsListElement.appendChild(createIconTruck());
     }
     // If vegetarian/vegan: add lead icon
@@ -257,7 +266,8 @@ function displayRecipeAttributes(recipe) {
     // Handle yield (nested object)
     const attributeYieldElement = document.querySelector(`.yield-value`);
     const attributeYieldQuantityElement = document.querySelector(".yield-quantity");
-    attributeYieldQuantityElement.value = recipe.Yield.Quantity;
+    attributeYieldQuantityElement.setAttribute("placeholder", `${recipesFiltered[0].Yield.Quantity}`);
+    // attributeYieldQuantityElement.setAttribute("value", recipe.Yield.Quantity); //kept breaking my code, dunno why here
     const attributeYieldUnitElement = document.querySelector(".yield-unit");
     attributeYieldUnitElement.textContent = recipe.Yield.Unit
     if (recipe.Yield.Extra) {
@@ -268,7 +278,14 @@ function displayRecipeAttributes(recipe) {
     attributeYieldQuantityElement.addEventListener("keyup", (event) => {
         console.log(event);
         if (event.key === "Enter") {
-            location.href = `display?recipe=${params.get("recipe")}&yield=${event.target.value}`;
+            event.target.blur();
+            // Modify the URL without reload
+            history.pushState({ page_id: 1, user_id: 5 }, "", `display?recipe=${params.get("recipe")}&yield=${event.target.value}`);
+            // location.href = `display?recipe=${params.get("recipe")}&yield=${event.target.value}`;
+
+            // Rescale the recipe (hard because @ symbols already removed)
+            // Plan: when converting @'s, convert to <span class="scaled-value">num</span>, then just find all those
+            configureRecipe(recipesFiltered[0]);
         }
     });
 
