@@ -4,19 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <script src="scripts/index.js" defer></script>
     <title>Alex's Recipes!</title>
 </head>
 
 <body>
     <div class="page">
-        Webpage! WEBPAGE
-        <div class="title-wrapper">
-            <h1 class="title">RECIPES</h1>
-        </div>
+        <header class="title-wrapper">
+            <h1 class="title">Recipes</h1>
+        </header>
         <nav>
-            <ul class="page-segment">
+            <ul class="nav-list">
                 <li>
-                    <a href="index.html">
+                    <a href="">
                         <button>
                             Home
                         </button>
@@ -49,16 +50,18 @@
             Welcome to my recipe site. I use it to remember what I'm doing when I cook. Find a recipe with the search
             box below, or using the table of contents, gallery or indices.
         </section>
-        <section class="serch">
+        <section class="search">
             <h2>Search</h2>
             <div class="form recipe-searchbox">
                 <div class="form-row basic-search">
                     <label for="name">Name:</label>
-                    <input type="text" name="name" id="name" placeholder="Basil Pesto" value="" />
+                    <input type="text" name="name" id="name" value="" />
                 </div>
                 <button class="advanced-search-toggle">
                     Advanced Search
                 </button>
+            </div>
+            <div class="form recipe-searchbox-advanced">
                 <div class="form-row advanced-search">
                     <label for="type">Type:</label>
                     <input type="text" name="type" id="type" placeholder="Main" value="" />
@@ -70,7 +73,6 @@
             </div>
             <div class="search-results-wrapper">
                 <ul class="search-results">
-                    <li class="search-result">Basil Pesto</li>
                 </ul>
             </div>
         </section>

@@ -1,0 +1,121 @@
+* {
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif, monospace;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+    align-items: center;
+    max-width: 500px;
+    margin: auto;
+}
+
+.title-wrapper {
+    margin-top: 50px;
+    width: 100%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.title {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4em;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+    /* border: 1px solid turquoise; */
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 0;
+    /* border: 1px solid chocolate; */
+}
+
+.nav-list>li {
+    display: flex;
+}
+
+.nav-list>li>a>button {
+    border: none;
+    background: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.nav-list>li>a>button:hover {
+    color: darkred;
+}
+
+section {
+    font-size: 1.2em;
+}
+
+.search {
+    width: 100%;
+}
+
+.recipe-searchbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-row>label {
+    font-weight: bold;
+}
+
+.form-row>input {
+    /* display: flex; */
+    /* flex-direction: row; */
+    border: none;
+    font-size: inherit;
+    border-bottom: 2px solid black;
+    /* width: 20%; */
+}
+
+.form-row>input:focus {
+    outline: none;
+    color: darkred;
+    border-bottom-color: darkred;
+}
+
+.advanced-search-toggle {
+    /* border: 1px solid black; */
+    border: none;
+    border-radius: 0;
+    background: none;
+    font-size: inherit;
+    font-weight: bold;
+}
+
+.recipe-searchbox-advanced {
+    display: none;
+}
+
+a {
+   text-decoration: none;
+   color: black; 
+}
+
+a:hover {
+    color: darkred;
+}
