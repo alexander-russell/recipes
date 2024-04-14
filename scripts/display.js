@@ -275,19 +275,13 @@ function displayRecipeAttributes(recipe) {
     }
 
     // Add yield change event handler
-    attributeYieldQuantityElement.addEventListener("keyup", (event) => {
-        console.log(event);
-        if (event.key === "Enter") {
-            event.target.blur();
-            // Modify the URL without reload
-            history.pushState({ page_id: 1, user_id: 5 }, "", `display?recipe=${params.get("recipe")}&yield=${event.target.value}`);
-            // location.href = `display?recipe=${params.get("recipe")}&yield=${event.target.value}`;
+    attributeYieldQuantityElement.oninput = (event) => {
+        // Modify the URL without reload
+        history.pushState({ page_id: 1, user_id: 5 }, "", `display?recipe=${params.get("recipe")}&yield=${event.target.value}`);
 
-            // Rescale the recipe (hard because @ symbols already removed)
-            // Plan: when converting @'s, convert to <span class="scaled-value">num</span>, then just find all those
-            configureRecipe(recipesFiltered[0]);
-        }
-    });
+        // Rescale the recipe
+        configureRecipe(recipesFiltered[0]);
+    };
 
     // Handle cost (read from config, calculated by powershell)
     const attributeCostWrapper = document.querySelector(".cost-wrapper");

@@ -1,11 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alex's Recipes!</title>
 </head>
+
 <body>
-    Webpage! WEBPAGE
+    <div class="page">
+        Webpage! WEBPAGE
+        <div class="title-wrapper">
+            <h1 class="title">RECIPES</h1>
+        </div>
+        <nav>
+            <ul class="page-segment">
+                <li>
+                    <a href="index.html">
+                        <button>
+                            Home
+                        </button>
+                    </a>
+                </li>
+                <li>
+                    <a href="contents.html">
+                        <button>
+                            Contents
+                        </button>
+                    </a>
+                </li>
+                <li>
+                    <a href="gallery.html">
+                        <button>
+                            Gallery
+                        </button>
+                    </a>
+                </li>
+                <li>
+                    <a href="indices.html">
+                        <button>
+                            Index
+                        </button>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <section class="welcome">
+            Welcome to my recipe site. I use it to remember what I'm doing when I cook. Find a recipe with the search
+            box below, or using the table of contents, gallery or indices.
+        </section>
+        <section class="serch">
+            <h2>Search</h2>
+            <div class="form recipe-searchbox">
+                <div class="form-row basic-search">
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name" placeholder="Basil Pesto" value="" />
+                </div>
+                <button class="advanced-search-toggle">
+                    Advanced Search
+                </button>
+                <div class="form-row advanced-search">
+                    <label for="type">Type:</label>
+                    <input type="text" name="type" id="type" placeholder="Main" value="" />
+                </div>
+                <div class="form-row advanced-search">
+                    <label for="category">Category:</label>
+                    <input type="text" name="category" id="category" placeholder="Pizza" value="" />
+                </div>
+            </div>
+            <div class="search-results-wrapper">
+                <ul class="search-results">
+                    <li class="search-result">Basil Pesto</li>
+                </ul>
+            </div>
+        </section>
+    </div>
 </body>
+
 </html>
