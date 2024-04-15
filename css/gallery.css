@@ -7,34 +7,58 @@ body {
 
 .gallery-wrapper {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
-    min-height: 100%;
-    max-height: 100%;
     /* min-width: 100%; */
     /* max-width: 100%; */
-    /* border: 2px solid green; */
+    width: 100%;
+    /* border: 1px solid green; */
 }
 
 .gallery {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    /* border: 10px solid blue; */
+    flex-grow: 0;
+    justify-content: left;
+    align-items: center;
+    width: 100%;
+    height: 60%;
+    /* height: 10px; */
+    /* overflow: scroll; */
 }
 
 
 .gallery>div {
-    /* height: 100px; */
+    /* position: fixed; */
+    height: 100%;
     /* padding: 10px; */
     /* position: relative; */
     /* background-color: darkcyan; */
 }
 
-.gallery>div>img {
-    height: 100px;
-    max-height: 100px;
+.gallery>div>a>img {
+    height: 100%;
+    /* max-height: 100px; */
     /* width: 100%; */
     /* max-width: 100%; */
-    /* border: 2px solid yellow */
+    /* border: 1px solid red; */
+}
+
+.gallery:hover>div>a>img {
+    /* border: 1px solid red; */
+    filter: grayscale(100%);
+}
+
+.gallery>div>a>img:hover {
+    filter: grayscale(0%);
+}
+
+.home-button-wrapper {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+}
+
+.home-button {
+    position: relative;
 }
