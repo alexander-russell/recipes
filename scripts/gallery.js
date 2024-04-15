@@ -13,7 +13,7 @@ function stopTranslate() {
     translateInterval = null;
 }
 
-fetch("../Recipes.json")
+fetch("RecipesCost.json")
     .then((response) => response.json())
     .then((data) => {
         recipeBook = data;
@@ -40,7 +40,7 @@ function loadGallery(recipes) {
         // Determine image address
         let imageAddress = null;
         if (recipe.Image == "Local") {
-            imageAddress = `/Gallery/${recipe.Name}.jpg`;
+            imageAddress = `Gallery/${recipe.Name}.jpg`;
 
         }
         else if (recipe.image != "") {
