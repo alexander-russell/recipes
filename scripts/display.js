@@ -470,6 +470,17 @@ function configureRecipeImage(recipe) {
         recipeImage.setAttribute("src", imageAddress);
     }
 
+    // Handle png
+    recipeImage.addEventListener("error", () => {
+        if (recipeImage.src.match(".jpg")) {
+            // Try for .png
+            recipeImage.src = recipeImage.src.replace(".jpg", ".png");
+        } else {
+            // Remove event listener
+            recipeImage.addEventListener("error", () => { });
+        }
+    });
+
     // On click of close button, hide image
     const imageCloseWrapper = document.querySelector(".image-close-wrapper");
     imageCloseWrapper.addEventListener("click", (mouse) => {
