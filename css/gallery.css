@@ -55,10 +55,23 @@ body {
 
 .home-button-wrapper {
     position: absolute;
-    bottom: 50px;
-    left: 50px;
+    bottom: 5px;
+    left: 5px;
 }
 
 .home-button {
-    position: relative;
+    background: none;
+    border: none;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 1.6em;
+}
+
+.home-button>a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.home-button>a:hover {
+    color: darkred;
 }
