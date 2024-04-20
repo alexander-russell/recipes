@@ -31,9 +31,10 @@ function populateResults(query) {
         
         // Get matching results
         let results = recipeBook.Recipes.filter((currentValue) => {
-            const success =
-            currentValue.Name.toLowerCase().includes(query.toLowerCase())
-            return success;
+            const active = !currentValue.Retired;
+            const nameMatch =
+            currentValue.Name.toLowerCase().includes(query.toLowerCase());
+            return active && nameMatch;
         });
         console.log(results);
 

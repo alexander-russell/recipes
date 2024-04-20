@@ -12,7 +12,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 90.0,
         "Extra": ""
       },
       "Difficulty": 1,
@@ -20,13 +20,14 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "Taken from \\href{https://www.food.com/recipe/best-banana-bread-2886}{food.com}. Best done with @3 overripe bananas, buy some, overripen them and chuck them into the freezer for later.",
+      "Note": "Taken from \\href{https://www.food.com/recipe/best-banana-bread-2886}{food.com}. Best done with overripe bananas, buy some, overripen them and chuck them into the freezer for later.",
       "Image": "",
       "Items": [
         {
@@ -112,11 +113,16 @@
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 3600
+        }
+      ],
       "Cost": null
     },
     {
-      "Name": "Pizza Dough",
+      "Name": "Pizza Dough (Tony)",
       "Type": "Component",
       "Category": "Breads",
       "Cuisine": "Italian",
@@ -133,8 +139,9 @@
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
-      "Tested": true,
+      "Retired": true,
+      "Tested": false,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -198,7 +205,7 @@
           "Content": "Mix warm water, yeast and sugar and stir to activate, then leave still for 15 minutes"
         },
         {
-          "Content": "Add oil, then Â¾ of the salt and Â¾ of the flour and whisk for 5 minutes"
+          "Content": "Add oil, then three quarters of the salt and three quarters of the flour and whisk for 5 minutes"
         },
         {
           "Content": "Whisk mixture while slowly adding the remaining salt and flour until the dough is moist and pliable"
@@ -210,7 +217,7 @@
           "Content": "Rise until the dough has doubled in size"
         },
         {
-          "Content": "See â€˜Pizza' for sauce and toppings"
+          "Content": "See Pizza for sauce and toppings"
         }
       ],
       "Diary": null,
@@ -224,12 +231,12 @@
       "Cuisine": "French",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 20-25 cm tart base"
+        "Quantity": 1.0,
+        "Unit": "round",
+        "Extra": "25cm, and extra"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 40.0,
         "Extra": ""
       },
       "Difficulty": 6,
@@ -237,13 +244,14 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "Taken from Stephanie Alexander. This recipe can be used for sweet and savoury tarts. To best results, keep everything, you, the benchtop, the water etc, cold. Making pastry is less about the recipe and more about the technique. It is very important to know the steps in advance because time is important.",
+      "Note": "Taken from Stephanie Alexander. This recipe can be used for sweet and savoury tarts. To best results, keep everything, you, the benchtop, the water etc, cold. It is very important to know the steps in advance because time is important.",
       "Image": "",
       "Items": [
         {
@@ -296,7 +304,7 @@
           "Content": "Mix until all unmixed chunks of butter are gone, as they will leave pastry holes"
         },
         {
-          "Content": "Wrap in clingwrap and chill in fridge ASAP"
+          "Content": "Wrap in clingwrap and chill in fridge."
         }
       ],
       "Diary": null,
@@ -310,9 +318,9 @@
       "Cuisine": "French",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 large tart dish"
+        "Quantity": 1.0,
+        "Unit": "30cm round",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -323,6 +331,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -425,9 +434,9 @@
       "Cuisine": "French",
       "Key": "Eggs",
       "Yield": {
-        "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 1 20 cm quiche"
+        "Quantity": 1.0,
+        "Unit": "quiche",
+        "Extra": "20 cm"
       },
       "Time": {
         "Minutes": 55.0,
@@ -438,6 +447,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -538,9 +548,9 @@
       "Cuisine": "German",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 whole chicken"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -551,6 +561,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -636,9 +647,9 @@
       "Cuisine": "Italian",
       "Key": "Beef",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 6 large meatballs"
+        "Quantity": 6.0,
+        "Unit": "meatballs",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -647,8 +658,9 @@
       "Difficulty": 0,
       "Bulk": false,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -766,7 +778,7 @@
           "Content": "Once breadcrumbs are soaked, combine all ingredients and form into meatballs"
         },
         {
-          "Content": "SautÃ© in oil until browned, then add passata and simmer for 20 minutes with lid"
+          "Content": "Saute in oil until browned, then add passata and simmer for 20 minutes with lid"
         }
       ],
       "Diary": null,
@@ -780,9 +792,9 @@
       "Cuisine": "Austrian",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 5 large pieces"
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -793,6 +805,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -857,7 +870,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes 1 deep tray loaf 15x20cm"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -868,6 +881,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -949,9 +963,9 @@
       "Cuisine": "Thai",
       "Key": "Pork",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 20 spring rolls"
+        "Quantity": 20.0,
+        "Unit": "rolls",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -962,6 +976,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1123,9 +1138,9 @@
       "Cuisine": "Mexican",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 30x20 cm tray"
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -1136,6 +1151,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1253,9 +1269,9 @@
       "Cuisine": "Thai",
       "Key": "Fish",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 whole fish"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -1266,6 +1282,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1450,7 +1467,7 @@
       "Key": "Chicken",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -1462,6 +1479,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -1577,7 +1595,7 @@
       "Key": "Beef",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -1589,6 +1607,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -1705,7 +1724,7 @@
       "Key": "Bacon",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -1717,6 +1736,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1859,6 +1879,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -1938,7 +1959,7 @@
       "Key": "Tuna",
       "Yield": {
         "Quantity": 6.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -1950,6 +1971,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -2032,8 +2054,8 @@
       "Key": "Beef",
       "Yield": {
         "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes a 20x30cm tray (6 servings)"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -2044,6 +2066,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -2130,6 +2153,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -2226,6 +2250,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -2319,6 +2344,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -2432,9 +2458,9 @@
       "Cuisine": "World",
       "Key": "Bacon",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Lots"
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -2443,8 +2469,9 @@
       "Difficulty": 2,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -2546,7 +2573,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes TBC"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -2555,15 +2582,16 @@
       "Difficulty": 3,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "Taken from Taste. Chop the veggies real thinly because they don’t spend much time in the pan. Chop the garlic and ginger a little fatter for extra kick. Best to make with rice.",
+      "Note": "Taken from Taste. Chop the veggies real thinly because they don't spend much time in the pan. Chop the garlic and ginger a little fatter for extra kick. Best to make with rice.",
       "Image": "",
       "Items": [
         {
@@ -2686,9 +2714,9 @@
       "Cuisine": "World",
       "Key": "Potatoes",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 10 potatoes"
+        "Quantity": 10.0,
+        "Unit": "potatoes",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -2699,6 +2727,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -2790,6 +2819,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -2804,11 +2834,11 @@
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "kg",
-          "UnitDetail": "8 whole",
+          "UnitDetail": "@8 whole",
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -2940,6 +2970,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3047,6 +3078,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3146,9 +3178,9 @@
       "Cuisine": "American",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 20.0,
-        "Unit": "",
-        "Extra": "Makes 40 Cookies"
+        "Quantity": 40.0,
+        "Unit": "biscuits",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3159,6 +3191,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3280,9 +3313,9 @@
       "Cuisine": "World",
       "Key": "Apple",
       "Yield": {
-        "Quantity": 8.0,
-        "Unit": "",
-        "Extra": "Makes 1 30x20cm tray"
+        "Quantity": 6.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3293,6 +3326,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3449,8 +3483,9 @@
       "Difficulty": 2,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3534,9 +3569,9 @@
       "Cuisine": "World",
       "Key": "Passionfruit",
       "Yield": {
-        "Quantity": 8.0,
-        "Unit": "",
-        "Extra": "Makes 25cm cheesecake"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3547,6 +3582,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3554,7 +3590,7 @@
         "GlutenFree": false
       },
       "Note": "From \\href{https://www.stayathomemum.com.au/recipes/no-bake-passionfruit-jelly-cheesecake/}{Stay At Home Mum}. I find this one difficult because I hardly ever cook with gelatine and it’s hard to judge the right amount. Make sure you have the right size tin and make sure it has a removable base, preferably a springform cake tin.",
-      "Image": "https://www.stayathomemum.com.au/wp-content/uploads/2017/04/No-Bake-Passionfruit-Jelly-Cheesecake.jpg",
+      "Image": "",
       "Items": [
         {
           "Name": "Digestive biscuits",
@@ -3662,7 +3698,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes TBC"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3673,6 +3709,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3732,9 +3769,9 @@
       "Cuisine": "World",
       "Key": "Lemon",
       "Yield": {
-        "Quantity": 10.0,
-        "Unit": "",
-        "Extra": "Makes 1 25cm tart and 1 20cm tart"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": "with enough for another small one"
       },
       "Time": {
         "Minutes": 0.0,
@@ -3745,6 +3782,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3842,6 +3880,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -3916,70 +3955,15 @@
       "Cost": null
     },
     {
-      "Name": "SR Flour",
-      "Type": "Component",
-      "Category": "Ingredients",
-      "Cuisine": "World",
-      "Key": "n/a",
-      "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 cup"
-      },
-      "Time": {
-        "Minutes": 0.0,
-        "Extra": ""
-      },
-      "Difficulty": 1,
-      "Bulk": true,
-      "Favourite": false,
-      "Retired": true,
-      "Tested": false,
-      "Dietary": {
-        "Vegetarian": false,
-        "OptionallyVegetarian": false,
-        "Vegan": true,
-        "GlutenFree": false
-      },
-      "Note": "Not actually sure if it is baking powder. TBC.",
-      "Image": "",
-      "Items": [
-        {
-          "Name": "Plain flour",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "cup",
-          "UnitDetail": "",
-          "Group": ""
-        },
-        {
-          "Name": "Baking powder",
-          "NameDetail": "",
-          "Quantity": 2.0,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": ""
-        }
-      ],
-      "Steps": [
-        {
-          "Content": "Mix and sift thoroughly"
-        }
-      ],
-      "Diary": null,
-      "Timers": [],
-      "Cost": null
-    },
-    {
       "Name": "Pavlova",
       "Type": "Dessert",
       "Category": "Cakes",
       "Cuisine": "Australian",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 20cm pavlova"
+        "Quantity": 1.0,
+        "Unit": "pav",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3990,13 +3974,14 @@
       "Favourite": true,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From Dad's pavlova plate. Family classic.",
+      "Note": "From Dad's pavlova plate. Family classic that I am yet to cook myself.",
       "Image": "",
       "Items": [
         {
@@ -4068,9 +4053,9 @@
       "Cuisine": "French",
       "Key": "Almond",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Enough to fill a 20cm tart dish"
+        "Quantity": 1.0,
+        "Unit": "tarts worth",
+        "Extra": "or @6 croissants"
       },
       "Time": {
         "Minutes": 0.0,
@@ -4081,6 +4066,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4159,9 +4145,9 @@
       "Cuisine": "World",
       "Key": "Strawberry",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1x 25cm and 1x20 cm tarts"
+        "Quantity": 1.0,
+        "Unit": "large tart",
+        "Extra": "and @1 medium tart"
       },
       "Time": {
         "Minutes": 0.0,
@@ -4172,6 +4158,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4250,8 +4237,8 @@
       "Key": "Za'atar",
       "Yield": {
         "Quantity": 3.0,
-        "Unit": "",
-        "Extra": "Makes 3 wraps"
+        "Unit": "wraps",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 10.0,
@@ -4262,6 +4249,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4326,9 +4314,9 @@
       "Cuisine": "French",
       "Key": "Cinnamon",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 4 slices"
+        "Quantity": 4.0,
+        "Unit": "slices",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -4339,6 +4327,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4430,9 +4419,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 5.0,
-        "Unit": "",
-        "Extra": "Makes 10 pieces"
+        "Quantity": 10.0,
+        "Unit": "loaves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -4443,6 +4432,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4502,9 +4492,9 @@
       "Cuisine": "French",
       "Key": "Mustard",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes One 20x30cm light tart"
+        "Quantity": 1.0,
+        "Unit": "tart",
+        "Extra": "20x30cm"
       },
       "Time": {
         "Minutes": 0.0,
@@ -4515,6 +4505,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4639,9 +4630,9 @@
       "Cuisine": "Italian",
       "Key": "Fennel",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Serves 4"
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -4652,6 +4643,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4803,9 +4795,9 @@
       "Cuisine": "German",
       "Key": "Potatoes",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Serves 2"
+        "Quantity": 2.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -4816,6 +4808,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4915,9 +4908,9 @@
       "Cuisine": "Middle Eastern",
       "Key": "Almond",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Serves 12"
+        "Quantity": 12.0,
+        "Unit": "slices",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -4928,6 +4921,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5034,9 +5028,9 @@
       "Cuisine": "World",
       "Key": "Chocolate",
       "Yield": {
-        "Quantity": 12.0,
-        "Unit": "",
-        "Extra": "Makes 24 biscuits"
+        "Quantity": 24.0,
+        "Unit": "biscuits",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -5047,6 +5041,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5128,9 +5123,9 @@
       "Cuisine": "Mexican",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 8.0,
-        "Unit": "",
-        "Extra": "Makes 1 20x30cm tray."
+        "Quantity": 6.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 80.0,
@@ -5141,6 +5136,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -5273,8 +5269,8 @@
       "Key": "Tomato",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes 8 plates"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 90.0,
@@ -5285,6 +5281,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -5448,9 +5445,9 @@
       "Cuisine": "French",
       "Key": "Eggs",
       "Yield": {
-        "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes 1x30cm dish"
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 50.0,
@@ -5461,6 +5458,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5590,8 +5588,8 @@
       "Key": "Egg",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes "
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -5602,6 +5600,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5707,9 +5706,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 36 biscuits"
+        "Quantity": 36.0,
+        "Unit": "biscuits",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 35.0,
@@ -5720,6 +5719,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5858,12 +5858,12 @@
       "Name": "White Bread",
       "Type": "Component",
       "Category": "Breads",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 12.0,
-        "Unit": "",
-        "Extra": "Makes 2 loaves"
+        "Quantity": 2.0,
+        "Unit": "loaves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 90.0,
@@ -5874,6 +5874,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -5968,8 +5969,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes 4"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 20.0,
@@ -5980,6 +5981,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6104,9 +6106,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 4 pies"
+        "Quantity": 4.0,
+        "Unit": "pies",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 40.0,
@@ -6117,6 +6119,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6225,6 +6228,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -6427,9 +6431,9 @@
       "Cuisine": "Italian",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 5.0,
-        "Unit": "",
-        "Extra": "Makes "
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 45.0,
@@ -6440,6 +6444,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -6573,8 +6578,8 @@
       "Key": "Apple",
       "Yield": {
         "Quantity": 12.0,
-        "Unit": "",
-        "Extra": "Makes 12 muffins"
+        "Unit": "muffins",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 40.0,
@@ -6585,6 +6590,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6715,9 +6721,9 @@
       "Cuisine": "Greek",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 4 wraps"
+        "Quantity": 4.0,
+        "Unit": "wraps",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 25.0,
@@ -6728,6 +6734,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6831,8 +6838,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 2 bowls"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -6843,6 +6850,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6988,8 +6996,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 2 plates"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -7000,6 +7008,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7156,6 +7165,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -7295,11 +7305,11 @@
       "Key": "Cumin",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes A lot of chicken"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
-        "Minutes": 70.0,
+        "Minutes": 80.0,
         "Extra": ""
       },
       "Difficulty": 7,
@@ -7307,6 +7317,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -7469,6 +7480,14 @@
           "Group": ""
         },
         {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
           "Name": "Flatbread",
           "NameDetail": "",
           "Quantity": 4.0,
@@ -7479,7 +7498,7 @@
       ],
       "Steps": [
         {
-          "Content": "Chop 1 garlic clove as small as you can, juice lemon"
+          "Content": "Dice @2 garlic cloves as small as you can, juice lemon. Reserve a little lemon juice and half the garlic for the yoghurt sauce."
         },
         {
           "Content": "Combine all the marinade ingredients in large bowl, add chicken, toss, cover and leave for up to 24 hours in fridge."
@@ -7488,17 +7507,34 @@
           "Content": "Mix the ingredients for the yoghurt sauce in a serving bowl."
         },
         {
-          "Content": "To cook chicken: place 1 tbsp oil on medium-high heat, add half the chicken and cook for 4 minutes per side (more if thick pieces), put on plate loosely wrapped in foil. Do second batch."
+          "Content": "To cook chicken: place 1 tbsp oil on medium-high heat, add a batch of chicken and cook for 4 minutes per side (more if thick pieces), put on plate loosely wrapped in foil. Repeat. Rest for 10 minutes"
         },
         {
-          "Content": "Slice lettuce into thin strips, slice tomatoes in half then slice thin."
+          "Content": "Slice lettuce into strips (1cm), slice tomatoes in half then slice thin. Chop red onion into chunks."
+        },
+        {
+          "Content": "Slice chicken (1cm)."
         },
         {
           "Content": "Serve all the ingredients to table, assemble there."
         }
       ],
-      "Diary": null,
-      "Timers": [],
+      "Diary": [
+        {
+          "Date": "2024-04-20T18:34:18.2295779+10:00",
+          "Content": "Cooked today. Thick pieces of chicken take considerably longer, test with thermometer. Forgot to marinate and it came out okay. If someone helping in kitchen, can fry chicken, roll and fry flatbread at same time."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Fry",
+          "Seconds": 240
+        },
+        {
+          "Name": "Rest",
+          "Seconds": 600
+        }
+      ],
       "Cost": null
     },
     {
@@ -7509,8 +7545,8 @@
       "Key": "Eggs",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 2 bowls"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 25.0,
@@ -7521,6 +7557,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7676,7 +7713,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes TBC"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 45.0,
@@ -7687,6 +7724,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -7784,9 +7822,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 1 loaf"
+        "Quantity": 1.0,
+        "Unit": "loaf",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 20.0,
@@ -7797,6 +7835,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -7879,8 +7918,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 6 loaves"
+        "Unit": "loaves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -7891,6 +7930,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7954,7 +7994,20 @@
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Rest",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Fry 1",
+          "Seconds": 90
+        },
+        {
+          "Name": "Fry 2",
+          "Seconds": 60
+        }
+      ],
       "Cost": null
     },
     {
@@ -7977,6 +8030,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -8161,7 +8215,7 @@
       "Key": "Broccoli",
       "Yield": {
         "Quantity": 3.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -8173,6 +8227,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -8321,7 +8376,7 @@
       "Key": "Coconut milk",
       "Yield": {
         "Quantity": 3.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -8333,6 +8388,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -8486,6 +8542,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -8593,7 +8650,7 @@
       "Key": "Banana",
       "Yield": {
         "Quantity": 1.0,
-        "Unit": "",
+        "Unit": "split",
         "Extra": ""
       },
       "Time": {
@@ -8605,6 +8662,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -8682,6 +8740,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -8893,7 +8952,7 @@
       "Key": "",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -8905,6 +8964,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9108,7 +9168,7 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -9120,6 +9180,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -9181,6 +9242,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9288,6 +9350,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9376,6 +9439,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -9491,6 +9555,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9792,6 +9857,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9972,6 +10038,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -10192,6 +10259,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -10409,6 +10477,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -10666,6 +10735,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -10693,6 +10763,136 @@
       "Timers": [
         {
           "Name": "Beef",
+          "Seconds": 600
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Cumquat Marmalade",
+      "Type": "Component",
+      "Category": "Jams",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 400.0,
+        "Unit": "ml",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 240.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": true,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "Brought together from \\href{https://www.christinascucina.com/kumquat-marmalade-easy-no-pectin-recipe/}{Christina's Cucina}, \\href{https://lemonsandanchovies.com/2019/04/kumquat-marmalade/#}{Lemons & Anchovies}, \\href{https://www.smh.com.au/goodfood/recipes/kumquat-marmalade-20220509-h23n68.html}{The Sydney Morning Herald}, \\href{https://www.allrecipes.com/recipe/247094/chef-johns-kumquat-marmalade/}{'Chef John'}, Stephanie Alexander's The Cooks Companion, my mum, my dad and an old lady at the vinnies I was shopping in with a friend while the fruit macerated. Writing this I haven't tasted the result yet but it smelled lovely on my hands and while boiling, and it looks very firmly set. To test if jam jells: Place a saucer in the freezer and retrieve it when you want to test, place a bit of jam on it, put it back in the freezer for 2 minutes and check whether it has developed a skin. If not, give it another 10 mins and test again.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Cumquats",
+          "NameDetail": "whole",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to cover",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 2.67,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Slice cumquats in half, pick out any obvious seeds (will sort the rest out soon)."
+        },
+        {
+          "Content": "Slice lengthwise, about 3mm wide."
+        },
+        {
+          "Content": "Get out one large bowl and one small one and deseed the sliced cumquats, taking a handful at a time, putting the fruit into the large bowl and the seeds into the other."
+        },
+        {
+          "Content": "Wrap the seeds in a bunch in a teatoweland, tie shut with a rubberband."
+        },
+        {
+          "Content": "Submerge seeds in bowl of fruit. Add water until it has just covered the tops of the fruit. Cover bowl with a damp teatowel."
+        },
+        {
+          "Content": "Stand for 2.5 hours."
+        },
+        {
+          "Content": "Discard seeds. Transfer to a large pot, measuring the total volume as you transfer."
+        },
+        {
+          "Content": "Bring to a boil on medium-high heat. Once bubbles appear (~10 min), reduce to low and simmer for 5 minutes."
+        },
+        {
+          "Content": "Temporarily remove from heat and add an equal volume of sugar to what you measured (~2.67 cups)."
+        },
+        {
+          "Content": "Bring to boil again on medium-high heat and continue boiling until the jam jells (~30 min). See note."
+        },
+        {
+          "Content": "Wash jars and place in warm oven for 20 minutes."
+        },
+        {
+          "Content": "Cool for 10 minutes."
+        },
+        {
+          "Content": "Spoon the mixture into hot jars and seal while hot. Let cool."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-04-16T22:45:07.6008745+10:00",
+          "Content": "Cooked for the first time! I think I should have cooled jars at room temperature rather than fridge, as they have lots of little bubbles in them."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Stand",
+          "Seconds": 9000
+        },
+        {
+          "Name": "Boil 1",
+          "Seconds": 600
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 300
+        },
+        {
+          "Name": "Boil 2",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Sterilise",
+          "Seconds": 1200
+        },
+        {
+          "Name": "Cool",
           "Seconds": 600
         }
       ],

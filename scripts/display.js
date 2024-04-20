@@ -49,9 +49,10 @@ async function start() {
 
         // Filter recipe
         recipesFiltered = recipeBook.Recipes.filter((currentValue) => {
-            const success =
-                currentValue.Name.toLowerCase().includes(recipeName.toLowerCase())
-            return success;
+            const active = !currentValue.Retired;
+            const nameMatch =
+            currentValue.Name.toLowerCase().includes(recipeName.toLowerCase());
+            return active && nameMatch;
         });
 
         // If no recipe found, 404
@@ -133,7 +134,7 @@ async function displayRecipe(recipe) {
     displayRecipeSteps(recipe);
     configureRecipeImage(recipe);
     configureRecipeDiary(recipe);
-    configureRecipeExtra(recipe);
+    // configureRecipeExtra(recipe);
     configureRecipeTimers(recipe.Timers);
 }
 
@@ -194,7 +195,7 @@ function displayRecipeHeaderIcons(recipe) {
     }
 
     // Add table of contents icon
-    if (recipeBook.Recipes.length != 0) {
+    if (recipeBook.Recipes.length != 0 && false) {
         const recipeExtraBackground = document.querySelector(".recipe-extra-background");
 
         // Add icon

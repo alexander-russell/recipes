@@ -12,7 +12,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 90.0,
         "Extra": ""
       },
       "Difficulty": 1,
@@ -20,6 +20,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -112,7 +113,12 @@
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 3600
+        }
+      ],
       "Cost": {
         "Amount": 8.81,
         "AmountPerUnit": 8.81,
@@ -199,6 +205,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -262,7 +269,7 @@
           "Content": "Mix warm water, yeast and sugar and stir to activate, then leave still for 15 minutes"
         },
         {
-          "Content": "Add oil, then Â¾ of the salt and Â¾ of the flour and whisk for 5 minutes"
+          "Content": "Add oil, then three quarters of the salt and three quarters of the flour and whisk for 5 minutes"
         },
         {
           "Content": "Whisk mixture while slowly adding the remaining salt and flour until the dough is moist and pliable"
@@ -274,7 +281,7 @@
           "Content": "Rise until the dough has doubled in size"
         },
         {
-          "Content": "See â€˜Pizza' for sauce and toppings"
+          "Content": "See Pizza for sauce and toppings"
         }
       ],
       "Diary": null,
@@ -338,9 +345,9 @@
       "Cuisine": "French",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 20-25 cm tart base"
+        "Quantity": 1.0,
+        "Unit": "round",
+        "Extra": "25cm"
       },
       "Time": {
         "Minutes": 0.0,
@@ -351,6 +358,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -417,8 +425,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 1.96,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 1.96,
+        "Unit": "round",
         "ItemCosts": [
           {
             "Name": "Butter",
@@ -449,7 +457,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0 total",
+        "CostString": "1.96 per unit",
         "ExclusionsString": ""
       }
     },
@@ -460,9 +468,9 @@
       "Cuisine": "French",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 large tart dish"
+        "Quantity": 1.0,
+        "Unit": "30cm round",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -473,6 +481,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -568,8 +577,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 2.35,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 2.35,
+        "Unit": "30cm round",
         "ItemCosts": [
           {
             "Name": "GF plain flour",
@@ -628,7 +637,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0* total",
+        "CostString": "2.35* per unit",
         "ExclusionsString": "Excluding GF plain flour, GF SR flour and Xanthan gum"
       }
     },
@@ -639,9 +648,9 @@
       "Cuisine": "French",
       "Key": "Eggs",
       "Yield": {
-        "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 1 20 cm quiche"
+        "Quantity": 1.0,
+        "Unit": "quiche",
+        "Extra": "20 cm"
       },
       "Time": {
         "Minutes": 55.0,
@@ -652,6 +661,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -745,8 +755,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 5.0,
-        "AmountPerUnit": 2.5,
-        "Unit": "",
+        "AmountPerUnit": 5.0,
+        "Unit": "quiche",
         "ItemCosts": [
           {
             "Name": "Eggs",
@@ -798,7 +808,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.5* total",
+        "CostString": "5* per unit",
         "ExclusionsString": "Excluding Bacon and Frozen peas"
       }
     },
@@ -809,9 +819,9 @@
       "Cuisine": "German",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 whole chicken"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -822,6 +832,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -900,8 +911,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 10.48,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 10.48,
+        "Unit": "whole",
         "ItemCosts": [
           {
             "Name": "Chicken",
@@ -953,7 +964,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0 total",
+        "CostString": "10.48 per unit",
         "ExclusionsString": ""
       }
     },
@@ -964,9 +975,9 @@
       "Cuisine": "Italian",
       "Key": "Beef",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 6 large meatballs"
+        "Quantity": 6.0,
+        "Unit": "meatballs",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -975,8 +986,9 @@
       "Difficulty": 0,
       "Bulk": false,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1094,15 +1106,15 @@
           "Content": "Once breadcrumbs are soaked, combine all ingredients and form into meatballs"
         },
         {
-          "Content": "SautÃ© in oil until browned, then add passata and simmer for 20 minutes with lid"
+          "Content": "Saute in oil until browned, then add passata and simmer for 20 minutes with lid"
         }
       ],
       "Diary": null,
       "Timers": [],
       "Cost": {
         "Amount": 19.02,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 3.17,
+        "Unit": "meatballs",
         "ItemCosts": [
           {
             "Name": "Beef mince",
@@ -1189,7 +1201,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0* total",
+        "CostString": "3.17* per unit",
         "ExclusionsString": "Excluding Parsley"
       }
     },
@@ -1200,9 +1212,9 @@
       "Cuisine": "Austrian",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 5 large pieces"
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -1213,6 +1225,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1268,8 +1281,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 12.54,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 3.14,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Chicken breast",
@@ -1293,7 +1306,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0 total",
+        "CostString": "3.14 per serve",
         "ExclusionsString": ""
       }
     },
@@ -1306,7 +1319,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes 1 deep tray loaf 15x20cm"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -1317,6 +1330,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -1441,9 +1455,9 @@
       "Cuisine": "Thai",
       "Key": "Pork",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 20 spring rolls"
+        "Quantity": 20.0,
+        "Unit": "rolls",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -1454,6 +1468,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1608,8 +1623,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 3.13,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 0.16,
+        "Unit": "rolls",
         "ItemCosts": [
           {
             "Name": "Spring roll wrappers",
@@ -1717,7 +1732,7 @@
             "Extra": "Couldn't convert unit. From:tbsp; To:whole"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "0.16* per unit",
         "ExclusionsString": "Excluding Spring roll wrappers, Lean pork, Peeled prawns, Brown onion, Coriander roots and Shallots"
       }
     },
@@ -1728,9 +1743,9 @@
       "Cuisine": "Mexican",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 30x20 cm tray"
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -1741,6 +1756,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -1851,8 +1867,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 16.01,
-        "AmountPerUnit": 2.67,
-        "Unit": "",
+        "AmountPerUnit": 4.0,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Corn chips",
@@ -1911,7 +1927,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.67* total",
+        "CostString": "4* per serve",
         "ExclusionsString": "Excluding Salsa, Brown onion and Capsicum"
       }
     },
@@ -1922,9 +1938,9 @@
       "Cuisine": "Thai",
       "Key": "Fish",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 whole fish"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -1935,6 +1951,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -2111,8 +2128,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 5.75,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 5.75,
+        "Unit": "whole",
         "ItemCosts": [
           {
             "Name": "Whole white fish",
@@ -2234,7 +2251,7 @@
             "Extra": "Name not found: Fresh coriander"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "5.75* per unit",
         "ExclusionsString": "Excluding Whole white fish, Ginger root, Fish sauce, Tumeric, Tamarind juice, White pepper, Brown onion, Wood fungus and Fresh coriander"
       }
     },
@@ -2246,7 +2263,7 @@
       "Key": "Chicken",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -2258,6 +2275,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -2366,7 +2384,7 @@
       "Cost": {
         "Amount": 15.59,
         "AmountPerUnit": 3.9,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Farfalle pasta",
@@ -2425,7 +2443,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.9* total",
+        "CostString": "3.9* per serve",
         "ExclusionsString": "Excluding Brown onion and Kalamata olives"
       }
     },
@@ -2437,7 +2455,7 @@
       "Key": "Beef",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -2449,6 +2467,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -2558,7 +2577,7 @@
       "Cost": {
         "Amount": 8.66,
         "AmountPerUnit": 2.16,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Spaghettoni",
@@ -2631,7 +2650,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.16* total",
+        "CostString": "2.16* per serve",
         "ExclusionsString": "Excluding Spaghettoni, Brown onion and Tomato paste"
       }
     },
@@ -2643,7 +2662,7 @@
       "Key": "Bacon",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -2655,6 +2674,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -2778,7 +2798,7 @@
       "Cost": {
         "Amount": 9.02,
         "AmountPerUnit": 2.26,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Fettuccine",
@@ -2858,7 +2878,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.26* total",
+        "CostString": "2.26* per serve",
         "ExclusionsString": "Excluding Fettuccine, Brown onion and Frozen peas"
       }
     },
@@ -2882,6 +2902,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3004,7 +3025,7 @@
       "Key": "Tuna",
       "Yield": {
         "Quantity": 6.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -3016,6 +3037,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -3091,7 +3113,7 @@
       "Cost": {
         "Amount": 7.21,
         "AmountPerUnit": 1.2,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Rigatoni pasta",
@@ -3129,7 +3151,7 @@
             "Extra": "Name not found: Kalamata olives"
           }
         ],
-        "CostString": "1.2* total",
+        "CostString": "1.2* per serve",
         "ExclusionsString": "Excluding Parsley, Cheese and Kalamata olives"
       }
     },
@@ -3141,8 +3163,8 @@
       "Key": "Beef",
       "Yield": {
         "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes a 20x30cm tray (6 servings)"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3153,6 +3175,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -3218,13 +3241,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.32,
-        "AmountPerUnit": 1.05,
-        "Unit": "",
+        "Amount": 4.56,
+        "AmountPerUnit": 0.76,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Lasagne sheets",
-            "Amount": 3.78,
+            "Amount": 2.016,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -3251,7 +3274,7 @@
             "Extra": "Name not found: \\hyperref[rec:Bolognese]{Bolognese sauce}"
           }
         ],
-        "CostString": "1.05* total",
+        "CostString": "0.76* per serve",
         "ExclusionsString": "Excluding \\hyperref[rec:Bechamel]{Bechamel sauce} and \\hyperref[rec:Bolognese]{Bolognese sauce}"
       }
     },
@@ -3275,6 +3298,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3421,6 +3445,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -3564,6 +3589,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -3748,9 +3774,9 @@
       "Cuisine": "World",
       "Key": "Bacon",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Lots"
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3759,8 +3785,9 @@
       "Difficulty": 2,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -3853,8 +3880,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 6.16,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 2.05,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Bacon",
@@ -3913,7 +3940,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "2.05* per serve",
         "ExclusionsString": "Excluding Brown onion"
       }
     },
@@ -3926,7 +3953,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes TBC"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -3935,15 +3962,16 @@
       "Difficulty": 3,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "Taken from Taste. Chop the veggies real thinly because they don’t spend much time in the pan. Chop the garlic and ginger a little fatter for extra kick. Best to make with rice.",
+      "Note": "Taken from Taste. Chop the veggies real thinly because they don't spend much time in the pan. Chop the garlic and ginger a little fatter for extra kick. Best to make with rice.",
       "Image": "",
       "Items": [
         {
@@ -4151,9 +4179,9 @@
       "Cuisine": "World",
       "Key": "Potatoes",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 10 potatoes"
+        "Quantity": 10.0,
+        "Unit": "potatoes",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -4164,6 +4192,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -4235,8 +4264,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 3.74,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 0.37,
+        "Unit": "potatoes",
         "ItemCosts": [
           {
             "Name": "Potatoes",
@@ -4274,7 +4303,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0 total",
+        "CostString": "0.37 per unit",
         "ExclusionsString": ""
       }
     },
@@ -4298,6 +4327,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4312,11 +4342,11 @@
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "kg",
-          "UnitDetail": "8 whole",
+          "UnitDetail": "@8 whole",
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -4427,8 +4457,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.75,
-        "AmountPerUnit": 6.75,
+        "Amount": 7.49,
+        "AmountPerUnit": 7.49,
         "Unit": "20x30x3cm oven tray",
         "ItemCosts": [
           {
@@ -4439,11 +4469,11 @@
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Butter",
@@ -4516,8 +4546,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "6.75* per unit",
-        "ExclusionsString": "Excluding Brown onion, Dijon mustard and Vegetable stock"
+        "CostString": "7.49* per unit",
+        "ExclusionsString": "Excluding Dijon mustard and Vegetable stock"
       }
     },
     {
@@ -4540,6 +4570,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4704,6 +4735,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4867,9 +4899,9 @@
       "Cuisine": "American",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 20.0,
-        "Unit": "",
-        "Extra": "Makes 40 Cookies"
+        "Quantity": 40.0,
+        "Unit": "biscuits",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -4880,6 +4912,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -4994,8 +5027,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 25.74,
-        "AmountPerUnit": 1.29,
-        "Unit": "",
+        "AmountPerUnit": 0.64,
+        "Unit": "biscuits",
         "ItemCosts": [
           {
             "Name": "Chopped macadamia",
@@ -5068,7 +5101,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.29 total",
+        "CostString": "0.64 per unit",
         "ExclusionsString": ""
       }
     },
@@ -5079,9 +5112,9 @@
       "Cuisine": "World",
       "Key": "Apple",
       "Yield": {
-        "Quantity": 8.0,
-        "Unit": "",
-        "Extra": "Makes 1 30x20cm tray"
+        "Quantity": 6.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -5092,6 +5125,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5230,8 +5264,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 9.66,
-        "AmountPerUnit": 1.21,
-        "Unit": "",
+        "AmountPerUnit": 1.61,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Green apples",
@@ -5325,7 +5359,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.21* total",
+        "CostString": "1.61* per serve",
         "ExclusionsString": "Excluding Lemon juice"
       }
     },
@@ -5347,8 +5381,9 @@
       "Difficulty": 2,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5482,9 +5517,9 @@
       "Cuisine": "World",
       "Key": "Passionfruit",
       "Yield": {
-        "Quantity": 8.0,
-        "Unit": "",
-        "Extra": "Makes 25cm cheesecake"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -5495,6 +5530,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5502,7 +5538,7 @@
         "GlutenFree": false
       },
       "Note": "From \\href{https://www.stayathomemum.com.au/recipes/no-bake-passionfruit-jelly-cheesecake/}{Stay At Home Mum}. I find this one difficult because I hardly ever cook with gelatine and it’s hard to judge the right amount. Make sure you have the right size tin and make sure it has a removable base, preferably a springform cake tin.",
-      "Image": "https://www.stayathomemum.com.au/wp-content/uploads/2017/04/No-Bake-Passionfruit-Jelly-Cheesecake.jpg",
+      "Image": "",
       "Items": [
         {
           "Name": "Digestive biscuits",
@@ -5601,8 +5637,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 19.35,
-        "AmountPerUnit": 2.42,
-        "Unit": "",
+        "AmountPerUnit": 19.35,
+        "Unit": "whole",
         "ItemCosts": [
           {
             "Name": "Digestive biscuits",
@@ -5668,7 +5704,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.42* total",
+        "CostString": "19.35* per unit",
         "ExclusionsString": "Excluding Gelatine sheets and Passionfruit"
       }
     },
@@ -5681,7 +5717,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes TBC"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -5692,6 +5728,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5780,9 +5817,9 @@
       "Cuisine": "World",
       "Key": "Lemon",
       "Yield": {
-        "Quantity": 10.0,
-        "Unit": "",
-        "Extra": "Makes 1 25cm tart and 1 20cm tart"
+        "Quantity": 1.0,
+        "Unit": "whole",
+        "Extra": "with enough for another small one"
       },
       "Time": {
         "Minutes": 0.0,
@@ -5793,6 +5830,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -5870,8 +5908,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 12.91,
-        "AmountPerUnit": 1.29,
-        "Unit": "",
+        "AmountPerUnit": 12.91,
+        "Unit": "whole",
         "ItemCosts": [
           {
             "Name": "\\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}",
@@ -5909,7 +5947,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.29* total",
+        "CostString": "12.91* per unit",
         "ExclusionsString": "Excluding \\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}"
       }
     },
@@ -5933,6 +5971,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -6057,92 +6096,15 @@
       }
     },
     {
-      "Name": "SR Flour",
-      "Type": "Component",
-      "Category": "Ingredients",
-      "Cuisine": "World",
-      "Key": "n/a",
-      "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 cup"
-      },
-      "Time": {
-        "Minutes": 0.0,
-        "Extra": ""
-      },
-      "Difficulty": 1,
-      "Bulk": true,
-      "Favourite": false,
-      "Retired": true,
-      "Tested": false,
-      "Dietary": {
-        "Vegetarian": false,
-        "OptionallyVegetarian": false,
-        "Vegan": true,
-        "GlutenFree": false
-      },
-      "Note": "Not actually sure if it is baking powder. TBC.",
-      "Image": "",
-      "Items": [
-        {
-          "Name": "Plain flour",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "cup",
-          "UnitDetail": "",
-          "Group": ""
-        },
-        {
-          "Name": "Baking powder",
-          "NameDetail": "",
-          "Quantity": 2.0,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": ""
-        }
-      ],
-      "Steps": [
-        {
-          "Content": "Mix and sift thoroughly"
-        }
-      ],
-      "Diary": null,
-      "Timers": [],
-      "Cost": {
-        "Amount": 0.36,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
-        "ItemCosts": [
-          {
-            "Name": "Plain flour",
-            "Amount": 0.3096,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
-          },
-          {
-            "Name": "Baking powder",
-            "Amount": 0.0478,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
-          }
-        ],
-        "CostString": "0 total",
-        "ExclusionsString": ""
-      }
-    },
-    {
       "Name": "Pavlova",
       "Type": "Dessert",
       "Category": "Cakes",
       "Cuisine": "Australian",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1 20cm pavlova"
+        "Quantity": 1.0,
+        "Unit": "pav",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -6153,13 +6115,14 @@
       "Favourite": true,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From Dad's pavlova plate. Family classic.",
+      "Note": "From Dad's pavlova plate. Family classic that I am yet to cook myself.",
       "Image": "",
       "Items": [
         {
@@ -6224,8 +6187,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 3.17,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 3.17,
+        "Unit": "pav",
         "ItemCosts": [
           {
             "Name": "Egg whites",
@@ -6263,7 +6226,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0 total",
+        "CostString": "3.17 per unit",
         "ExclusionsString": ""
       }
     },
@@ -6274,9 +6237,9 @@
       "Cuisine": "French",
       "Key": "Almond",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Enough to fill a 20cm tart dish"
+        "Quantity": 1.0,
+        "Unit": "tarts worth",
+        "Extra": "or @6 croissants"
       },
       "Time": {
         "Minutes": 0.0,
@@ -6287,6 +6250,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6358,8 +6322,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 5.04,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 5.04,
+        "Unit": "tarts worth",
         "ItemCosts": [
           {
             "Name": "Ground almond",
@@ -6397,7 +6361,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0 total",
+        "CostString": "5.04 per unit",
         "ExclusionsString": ""
       }
     },
@@ -6408,9 +6372,9 @@
       "Cuisine": "World",
       "Key": "Strawberry",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 1x 25cm and 1x20 cm tarts"
+        "Quantity": 1.0,
+        "Unit": "large tart",
+        "Extra": "and @1 medium tart"
       },
       "Time": {
         "Minutes": 0.0,
@@ -6421,6 +6385,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6491,8 +6456,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 3.92,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 3.92,
+        "Unit": "large tart",
         "ItemCosts": [
           {
             "Name": "Almond frangipane",
@@ -6516,7 +6481,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0* total",
+        "CostString": "3.92* per unit",
         "ExclusionsString": "Excluding Almond frangipane and Shortcrust pastry"
       }
     },
@@ -6528,8 +6493,8 @@
       "Key": "Za'atar",
       "Yield": {
         "Quantity": 3.0,
-        "Unit": "",
-        "Extra": "Makes 3 wraps"
+        "Unit": "wraps",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 10.0,
@@ -6540,6 +6505,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6598,7 +6564,7 @@
       "Cost": {
         "Amount": 0.66,
         "AmountPerUnit": 0.22,
-        "Unit": "",
+        "Unit": "wraps",
         "ItemCosts": [
           {
             "Name": "Flatbread",
@@ -6629,7 +6595,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.22* total",
+        "CostString": "0.22* per unit",
         "ExclusionsString": "Excluding Flatbread and Za'atar"
       }
     },
@@ -6640,9 +6606,9 @@
       "Cuisine": "French",
       "Key": "Cinnamon",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes 4 slices"
+        "Quantity": 4.0,
+        "Unit": "slices",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -6653,6 +6619,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6737,8 +6704,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 3.77,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 0.94,
+        "Unit": "slices",
         "ItemCosts": [
           {
             "Name": "Bread",
@@ -6790,7 +6757,7 @@
             "Extra": "In ignored units: to fry"
           }
         ],
-        "CostString": "0 total",
+        "CostString": "0.94 per unit",
         "ExclusionsString": ""
       }
     },
@@ -6801,9 +6768,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 5.0,
-        "Unit": "",
-        "Extra": "Makes 10 pieces"
+        "Quantity": 10.0,
+        "Unit": "loaves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -6814,6 +6781,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -6866,8 +6834,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 1.28,
-        "AmountPerUnit": 0.26,
-        "Unit": "",
+        "AmountPerUnit": 0.13,
+        "Unit": "loaves",
         "ItemCosts": [
           {
             "Name": "Yoghurt",
@@ -6891,7 +6859,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.26 total",
+        "CostString": "0.13 per unit",
         "ExclusionsString": ""
       }
     },
@@ -6902,9 +6870,9 @@
       "Cuisine": "French",
       "Key": "Mustard",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes One 20x30cm light tart"
+        "Quantity": 1.0,
+        "Unit": "tart",
+        "Extra": "20x30cm"
       },
       "Time": {
         "Minutes": 0.0,
@@ -6915,6 +6883,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7032,8 +7001,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 1.93,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 1.93,
+        "Unit": "tart",
         "ItemCosts": [
           {
             "Name": "Puff pastry",
@@ -7106,7 +7075,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "1.93* per unit",
         "ExclusionsString": "Excluding Brown onion, Capsicum, Strong Cheddar and Dijon mustard"
       }
     },
@@ -7117,9 +7086,9 @@
       "Cuisine": "Italian",
       "Key": "Fennel",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Serves 4"
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -7130,6 +7099,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7274,8 +7244,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 3.8,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 0.95,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Olive oil",
@@ -7369,7 +7339,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "0.95* per serve",
         "ExclusionsString": "Excluding Brown onion, Fennel, White wine and Lemon zest"
       }
     },
@@ -7380,9 +7350,9 @@
       "Cuisine": "German",
       "Key": "Potatoes",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Serves 2"
+        "Quantity": 2.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -7393,6 +7363,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7485,8 +7456,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 2.0,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 1.0,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Potatoes",
@@ -7545,7 +7516,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "1* per serve",
         "ExclusionsString": "Excluding Mayonnaise, Dijon mustard and Spring onions"
       }
     },
@@ -7556,9 +7527,9 @@
       "Cuisine": "Middle Eastern",
       "Key": "Almond",
       "Yield": {
-        "Quantity": 0.0,
-        "Unit": "",
-        "Extra": "Makes Serves 12"
+        "Quantity": 12.0,
+        "Unit": "slices",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 0.0,
@@ -7569,6 +7540,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7668,8 +7640,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 6.99,
-        "AmountPerUnit": 0.0,
-        "Unit": "",
+        "AmountPerUnit": 0.58,
+        "Unit": "slices",
         "ItemCosts": [
           {
             "Name": "Orange",
@@ -7721,7 +7693,7 @@
             "Extra": "In ignored units: to line tin"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "0.58* per unit",
         "ExclusionsString": "Excluding Orange"
       }
     },
@@ -7732,9 +7704,9 @@
       "Cuisine": "World",
       "Key": "Chocolate",
       "Yield": {
-        "Quantity": 12.0,
-        "Unit": "",
-        "Extra": "Makes 24 biscuits"
+        "Quantity": 24.0,
+        "Unit": "biscuits",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -7745,6 +7717,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -7819,8 +7792,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 4.73,
-        "AmountPerUnit": 0.39,
-        "Unit": "",
+        "AmountPerUnit": 0.2,
+        "Unit": "biscuits",
         "ItemCosts": [
           {
             "Name": "Butter",
@@ -7858,7 +7831,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.39* total",
+        "CostString": "0.2* per unit",
         "ExclusionsString": "Excluding Egg"
       }
     },
@@ -7869,9 +7842,9 @@
       "Cuisine": "Mexican",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 8.0,
-        "Unit": "",
-        "Extra": "Makes 1 20x30cm tray."
+        "Quantity": 6.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 80.0,
@@ -7882,6 +7855,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -8006,8 +7980,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 14.34,
-        "AmountPerUnit": 1.79,
-        "Unit": "",
+        "AmountPerUnit": 2.39,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Brown rice",
@@ -8073,7 +8047,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.79* total",
+        "CostString": "2.39* per serve",
         "ExclusionsString": "Excluding Brown onion, Taco spice mix, Mild salsa, Diced tomatoes and Tortillas"
       }
     },
@@ -8085,8 +8059,8 @@
       "Key": "Tomato",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes 8 plates"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 90.0,
@@ -8097,6 +8071,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -8254,7 +8229,7 @@
       "Cost": {
         "Amount": 18.85,
         "AmountPerUnit": 4.71,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "olive oil",
@@ -8348,7 +8323,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.71* total",
+        "CostString": "4.71* per serve",
         "ExclusionsString": "Excluding Tomatoes, White wine, Tomato paste and Thyme"
       }
     },
@@ -8359,9 +8334,9 @@
       "Cuisine": "French",
       "Key": "Eggs",
       "Yield": {
-        "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes 1x30cm dish"
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 50.0,
@@ -8372,6 +8347,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -8493,8 +8469,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 5.31,
-        "AmountPerUnit": 1.33,
-        "Unit": "",
+        "AmountPerUnit": 1.77,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Eggs",
@@ -8560,7 +8536,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.33* total",
+        "CostString": "1.77* per serve",
         "ExclusionsString": "Excluding Frozen peas and Brown onion"
       }
     },
@@ -8572,8 +8548,8 @@
       "Key": "Egg",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes "
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -8584,6 +8560,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -8683,7 +8660,7 @@
       "Cost": {
         "Amount": 2.44,
         "AmountPerUnit": 1.22,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Rice",
@@ -8742,7 +8719,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.22* total",
+        "CostString": "1.22* per serve",
         "ExclusionsString": "Excluding Onion and Carrot"
       }
     },
@@ -8753,9 +8730,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 36 biscuits"
+        "Quantity": 36.0,
+        "Unit": "biscuits",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 35.0,
@@ -8766,6 +8743,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -8900,8 +8878,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 4.92,
-        "AmountPerUnit": 0.82,
-        "Unit": "",
+        "AmountPerUnit": 0.14,
+        "Unit": "biscuits",
         "ItemCosts": [
           {
             "Name": "Butter",
@@ -8981,7 +8959,7 @@
             "Extra": "Name not found: Nutmeg"
           }
         ],
-        "CostString": "0.82* total",
+        "CostString": "0.14* per unit",
         "ExclusionsString": "Excluding Treacle, Egg and Nutmeg"
       }
     },
@@ -8989,12 +8967,12 @@
       "Name": "White Bread",
       "Type": "Component",
       "Category": "Breads",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 12.0,
-        "Unit": "",
-        "Extra": "Makes 2 loaves"
+        "Quantity": 2.0,
+        "Unit": "loaves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 90.0,
@@ -9005,6 +8983,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9091,8 +9070,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 1.59,
-        "AmountPerUnit": 0.13,
-        "Unit": "",
+        "AmountPerUnit": 0.8,
+        "Unit": "loaves",
         "ItemCosts": [
           {
             "Name": "Plain flour",
@@ -9130,7 +9109,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.13* total",
+        "CostString": "0.8* per unit",
         "ExclusionsString": "Excluding Sugar"
       }
     },
@@ -9142,8 +9121,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes 4"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 20.0,
@@ -9154,6 +9133,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -9272,7 +9252,7 @@
       "Cost": {
         "Amount": 16.83,
         "AmountPerUnit": 4.21,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Fettuccine pasta",
@@ -9345,7 +9325,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.21* total",
+        "CostString": "4.21* per serve",
         "ExclusionsString": "Excluding Onions"
       }
     },
@@ -9356,9 +9336,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 4 pies"
+        "Quantity": 4.0,
+        "Unit": "pies",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 40.0,
@@ -9369,6 +9349,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -9457,8 +9438,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 2.14,
-        "AmountPerUnit": 1.07,
-        "Unit": "",
+        "AmountPerUnit": 0.54,
+        "Unit": "pies",
         "ItemCosts": [
           {
             "Name": "Puff pastry",
@@ -9503,7 +9484,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.07* total",
+        "CostString": "0.54* per unit",
         "ExclusionsString": "Excluding \\hyperref[rec:Bechamel]{Bechamel sauce}, Onion and Mushrooms"
       }
     },
@@ -9527,6 +9508,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9842,9 +9824,9 @@
       "Cuisine": "Italian",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 5.0,
-        "Unit": "",
-        "Extra": "Makes "
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 45.0,
@@ -9855,6 +9837,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -9980,8 +9963,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 4.6,
-        "AmountPerUnit": 0.92,
-        "Unit": "",
+        "AmountPerUnit": 1.15,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Rigatoni",
@@ -10061,7 +10044,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.92* total",
+        "CostString": "1.15* per serve",
         "ExclusionsString": "Excluding Sugar, Cherry tomatoes and Tomato paste"
       }
     },
@@ -10073,8 +10056,8 @@
       "Key": "Apple",
       "Yield": {
         "Quantity": 12.0,
-        "Unit": "",
-        "Extra": "Makes 12 muffins"
+        "Unit": "muffins",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 40.0,
@@ -10085,6 +10068,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -10209,7 +10193,7 @@
       "Cost": {
         "Amount": 6.45,
         "AmountPerUnit": 0.54,
-        "Unit": "",
+        "Unit": "muffins",
         "ItemCosts": [
           {
             "Name": "Green apples",
@@ -10282,7 +10266,7 @@
             "Extra": "In ignored units: a pinch"
           }
         ],
-        "CostString": "0.54* total",
+        "CostString": "0.54* per unit",
         "ExclusionsString": "Excluding Egg and White vinegar"
       }
     },
@@ -10293,9 +10277,9 @@
       "Cuisine": "Greek",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 4 wraps"
+        "Quantity": 4.0,
+        "Unit": "wraps",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 25.0,
@@ -10306,6 +10290,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -10401,8 +10386,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 14.95,
-        "AmountPerUnit": 7.48,
-        "Unit": "",
+        "AmountPerUnit": 3.74,
+        "Unit": "wraps",
         "ItemCosts": [
           {
             "Name": "Halloumi",
@@ -10461,7 +10446,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "7.48* total",
+        "CostString": "3.74* per unit",
         "ExclusionsString": "Excluding Cucumber and Tzatziki"
       }
     },
@@ -10473,8 +10458,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 2 bowls"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -10485,6 +10470,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -10623,7 +10609,7 @@
       "Cost": {
         "Amount": 9.34,
         "AmountPerUnit": 4.67,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Rice noodles",
@@ -10703,7 +10689,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.67* total",
+        "CostString": "4.67* per serve",
         "ExclusionsString": "Excluding Egg, Soy sauce and White vinegar"
       }
     },
@@ -10715,8 +10701,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 2 plates"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -10727,6 +10713,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -10864,7 +10851,7 @@
       "Cost": {
         "Amount": 3.2,
         "AmountPerUnit": 1.6,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Hokkien Noodles",
@@ -10951,7 +10938,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.6* total",
+        "CostString": "1.6* per serve",
         "ExclusionsString": "Excluding Brown onion, Carrot and Soy sauce"
       }
     },
@@ -10975,6 +10962,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -11199,11 +11187,11 @@
       "Key": "Cumin",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
-        "Extra": "Makes A lot of chicken"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
-        "Minutes": 70.0,
+        "Minutes": 80.0,
         "Extra": ""
       },
       "Difficulty": 7,
@@ -11211,6 +11199,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -11373,6 +11362,14 @@
           "Group": ""
         },
         {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
           "Name": "Flatbread",
           "NameDetail": "",
           "Quantity": 4.0,
@@ -11383,7 +11380,7 @@
       ],
       "Steps": [
         {
-          "Content": "Chop 1 garlic clove as small as you can, juice lemon"
+          "Content": "Dice @2 garlic cloves as small as you can, juice lemon. Reserve a little lemon juice and half the garlic for the yoghurt sauce."
         },
         {
           "Content": "Combine all the marinade ingredients in large bowl, add chicken, toss, cover and leave for up to 24 hours in fridge."
@@ -11392,21 +11389,38 @@
           "Content": "Mix the ingredients for the yoghurt sauce in a serving bowl."
         },
         {
-          "Content": "To cook chicken: place 1 tbsp oil on medium-high heat, add half the chicken and cook for 4 minutes per side (more if thick pieces), put on plate loosely wrapped in foil. Do second batch."
+          "Content": "To cook chicken: place 1 tbsp oil on medium-high heat, add a batch of chicken and cook for 4 minutes per side (more if thick pieces), put on plate loosely wrapped in foil. Repeat. Rest for 10 minutes"
         },
         {
-          "Content": "Slice lettuce into thin strips, slice tomatoes in half then slice thin."
+          "Content": "Slice lettuce into strips (1cm), slice tomatoes in half then slice thin. Chop red onion into chunks."
+        },
+        {
+          "Content": "Slice chicken (1cm)."
         },
         {
           "Content": "Serve all the ingredients to table, assemble there."
         }
       ],
-      "Diary": null,
-      "Timers": [],
+      "Diary": [
+        {
+          "Date": "2024-04-20T18:34:18.2295779+10:00",
+          "Content": "Cooked today. Thick pieces of chicken take considerably longer, test with thermometer. Forgot to marinate and it came out okay. If someone helping in kitchen, can fry chicken, roll and fry flatbread at same time."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Fry",
+          "Seconds": 240
+        },
+        {
+          "Name": "Rest",
+          "Seconds": 600
+        }
+      ],
       "Cost": {
-        "Amount": 19.04,
-        "AmountPerUnit": 4.76,
-        "Unit": "",
+        "Amount": 20.29,
+        "AmountPerUnit": 5.07,
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Chicken thigh",
@@ -11542,6 +11556,13 @@
             "Extra": ""
           },
           {
+            "Name": "Red onion",
+            "Amount": 1.245,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
             "Name": "Flatbread",
             "Amount": 0.0,
             "Success": false,
@@ -11549,7 +11570,7 @@
             "Extra": "Name not found: Flatbread"
           }
         ],
-        "CostString": "4.76* total",
+        "CostString": "5.07* per serve",
         "ExclusionsString": "Excluding Coriander, Cardamom, Lettuce and Flatbread"
       }
     },
@@ -11561,8 +11582,8 @@
       "Key": "Eggs",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
-        "Extra": "Makes 2 bowls"
+        "Unit": "serves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 25.0,
@@ -11573,6 +11594,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -11720,7 +11742,7 @@
       "Cost": {
         "Amount": 6.28,
         "AmountPerUnit": 3.14,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Canola oil",
@@ -11800,7 +11822,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.14 total",
+        "CostString": "3.14 per serve",
         "ExclusionsString": ""
       }
     },
@@ -11813,7 +11835,7 @@
       "Yield": {
         "Quantity": 0.0,
         "Unit": "",
-        "Extra": "Makes TBC"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 45.0,
@@ -11824,6 +11846,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -11978,9 +12001,9 @@
       "Cuisine": "World",
       "Key": "n/a",
       "Yield": {
-        "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 1 loaf"
+        "Quantity": 1.0,
+        "Unit": "loaf",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 20.0,
@@ -11991,6 +12014,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -12065,8 +12089,8 @@
       "Timers": [],
       "Cost": {
         "Amount": 2.12,
-        "AmountPerUnit": 0.35,
-        "Unit": "",
+        "AmountPerUnit": 2.12,
+        "Unit": "loaf",
         "ItemCosts": [
           {
             "Name": "Bread flour",
@@ -12104,7 +12128,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.35 total",
+        "CostString": "2.12 per unit",
         "ExclusionsString": ""
       }
     },
@@ -12116,8 +12140,8 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 6.0,
-        "Unit": "",
-        "Extra": "Makes 6 loaves"
+        "Unit": "loaves",
+        "Extra": ""
       },
       "Time": {
         "Minutes": 30.0,
@@ -12128,6 +12152,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -12191,11 +12216,24 @@
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Rest",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Fry 1",
+          "Seconds": 90
+        },
+        {
+          "Name": "Fry 2",
+          "Seconds": 60
+        }
+      ],
       "Cost": {
         "Amount": 1.54,
         "AmountPerUnit": 0.26,
-        "Unit": "",
+        "Unit": "loaves",
         "ItemCosts": [
           {
             "Name": "Butter",
@@ -12226,7 +12264,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.26 total",
+        "CostString": "0.26 per unit",
         "ExclusionsString": ""
       }
     },
@@ -12250,6 +12288,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -12554,7 +12593,7 @@
       "Key": "Broccoli",
       "Yield": {
         "Quantity": 3.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -12566,6 +12605,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -12707,7 +12747,7 @@
       "Cost": {
         "Amount": 9.85,
         "AmountPerUnit": 3.28,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Olive oil",
@@ -12787,7 +12827,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.28* total",
+        "CostString": "3.28* per serve",
         "ExclusionsString": "Excluding Broccoli, Capsicum, Carrot and Brown onion"
       }
     },
@@ -12799,7 +12839,7 @@
       "Key": "Coconut milk",
       "Yield": {
         "Quantity": 3.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -12811,6 +12851,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -12945,7 +12986,7 @@
       "Cost": {
         "Amount": 10.14,
         "AmountPerUnit": 3.38,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Onion",
@@ -13032,7 +13073,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.38* total",
+        "CostString": "3.38* per serve",
         "ExclusionsString": "Excluding Onion, Coriander, Tomato paste, Chickpeas and Coconut milk"
       }
     },
@@ -13056,6 +13097,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -13220,7 +13262,7 @@
       "Key": "Banana",
       "Yield": {
         "Quantity": 1.0,
-        "Unit": "",
+        "Unit": "split",
         "Extra": ""
       },
       "Time": {
@@ -13232,6 +13274,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -13290,7 +13333,7 @@
       "Cost": {
         "Amount": 1.12,
         "AmountPerUnit": 1.12,
-        "Unit": "",
+        "Unit": "split",
         "ItemCosts": [
           {
             "Name": "Bananas",
@@ -13321,7 +13364,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.12* total",
+        "CostString": "1.12* per unit",
         "ExclusionsString": "Excluding Icecream"
       }
     },
@@ -13345,6 +13388,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -13704,7 +13748,7 @@
       "Key": "",
       "Yield": {
         "Quantity": 4.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -13716,6 +13760,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -13912,7 +13957,7 @@
       "Cost": {
         "Amount": 29.71,
         "AmountPerUnit": 7.43,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Chicken breast",
@@ -14048,7 +14093,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.43* total",
+        "CostString": "7.43* per serve",
         "ExclusionsString": "Excluding Sundried tomato oil, Sundried tomatoes and Chilli flakes"
       }
     },
@@ -14060,7 +14105,7 @@
       "Key": "n/a",
       "Yield": {
         "Quantity": 2.0,
-        "Unit": "",
+        "Unit": "serves",
         "Extra": ""
       },
       "Time": {
@@ -14072,6 +14117,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
@@ -14114,7 +14160,7 @@
       "Cost": {
         "Amount": 0.0,
         "AmountPerUnit": 0.0,
-        "Unit": "",
+        "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Ravioli",
@@ -14131,7 +14177,7 @@
             "Extra": "Name not found: Pasta sauce"
           }
         ],
-        "CostString": "0* total",
+        "CostString": "0* per serve",
         "ExclusionsString": "Excluding Ravioli and Pasta sauce"
       }
     },
@@ -14155,6 +14201,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -14319,6 +14366,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -14450,6 +14498,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -14629,13 +14678,14 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "Cooked wit Claudia in Eastwood, from \\href{https://www.themediterraneandish.com/lebanese-chicken-fatteh-dinner-bowls/}{The Mediterranean Dish}. A bastardisation of the real thing. Pita should definitely be toasted, fatteh means crumbs and related to using days old pita and other leftovers to make this style of meal. The chicken ends up stringy, very delicious next day for lunch, recommend eating in the sunshine (Ironic as this is a popular Ramadan meal).",
+      "Note": "Cooked with Claudia in Eastwood, from \\href{https://www.themediterraneandish.com/lebanese-chicken-fatteh-dinner-bowls/}{The Mediterranean Dish}. A bastardisation of the real thing. Pita should definitely be toasted, fatteh means crumbs and related to using days old pita and other leftovers to make this style of meal. The chicken ends up stringy, very delicious next day for lunch, recommend eating in the sunshine (Ironic as this is a popular Ramadan meal).",
       "Image": "Local",
       "Items": [
         {
@@ -15141,6 +15191,7 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -15427,6 +15478,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -15781,6 +15833,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -16118,6 +16171,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -16516,6 +16570,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
+      "NeedsRevision": true,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -16561,6 +16616,165 @@
         ],
         "CostString": "0* per unit",
         "ExclusionsString": "Excluding Beef rump steak"
+      }
+    },
+    {
+      "Name": "Cumquat Marmalade",
+      "Type": "Component",
+      "Category": "Jams",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 400.0,
+        "Unit": "ml",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 240.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": true,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "Brought together from \\href{https://www.christinascucina.com/kumquat-marmalade-easy-no-pectin-recipe/}{Christina's Cucina}, \\href{https://lemonsandanchovies.com/2019/04/kumquat-marmalade/#}{Lemons & Anchovies}, \\href{https://www.smh.com.au/goodfood/recipes/kumquat-marmalade-20220509-h23n68.html}{The Sydney Morning Herald}, \\href{https://www.allrecipes.com/recipe/247094/chef-johns-kumquat-marmalade/}{'Chef John'}, Stephanie Alexander's The Cooks Companion, my mum, my dad and an old lady at the vinnies I was shopping in with a friend while the fruit macerated. Writing this I haven't tasted the result yet but it smelled lovely on my hands and while boiling, and it looks very firmly set. To test if jam jells: Place a saucer in the freezer and retrieve it when you want to test, place a bit of jam on it, put it back in the freezer for 2 minutes and check whether it has developed a skin. If not, give it another 10 mins and test again.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Cumquats",
+          "NameDetail": "whole",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to cover",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 2.67,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Slice cumquats in half, pick out any obvious seeds (will sort the rest out soon)."
+        },
+        {
+          "Content": "Slice lengthwise, about 3mm wide."
+        },
+        {
+          "Content": "Get out one large bowl and one small one and deseed the sliced cumquats, taking a handful at a time, putting the fruit into the large bowl and the seeds into the other."
+        },
+        {
+          "Content": "Wrap the seeds in a bunch in a teatoweland, tie shut with a rubberband."
+        },
+        {
+          "Content": "Submerge seeds in bowl of fruit. Add water until it has just covered the tops of the fruit. Cover bowl with a damp teatowel."
+        },
+        {
+          "Content": "Stand for 2.5 hours."
+        },
+        {
+          "Content": "Discard seeds. Transfer to a large pot, measuring the total volume as you transfer."
+        },
+        {
+          "Content": "Bring to a boil on medium-high heat. Once bubbles appear (~10 min), reduce to low and simmer for 5 minutes."
+        },
+        {
+          "Content": "Temporarily remove from heat and add an equal volume of sugar to what you measured (~2.67 cups)."
+        },
+        {
+          "Content": "Bring to boil again on medium-high heat and continue boiling until the jam jells (~30 min). See note."
+        },
+        {
+          "Content": "Wash jars and place in warm oven for 20 minutes."
+        },
+        {
+          "Content": "Cool for 10 minutes."
+        },
+        {
+          "Content": "Spoon the mixture into hot jars and seal while hot. Let cool."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-04-16T22:45:07.6008745+10:00",
+          "Content": "Cooked for the first time! I think I should have cooled jars at room temperature rather than fridge, as they have lots of little bubbles in them."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Stand",
+          "Seconds": 9000
+        },
+        {
+          "Name": "Boil 1",
+          "Seconds": 600
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 300
+        },
+        {
+          "Name": "Boil 2",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Sterilise",
+          "Seconds": 1200
+        },
+        {
+          "Name": "Cool",
+          "Seconds": 600
+        }
+      ],
+      "Cost": {
+        "Amount": 0.83,
+        "AmountPerUnit": 0.0,
+        "Unit": "ml",
+        "ItemCosts": [
+          {
+            "Name": "Cumquats",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Cumquats"
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to cover"
+          },
+          {
+            "Name": "White sugar",
+            "Amount": 0.829836,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "0* per unit",
+        "ExclusionsString": "Excluding Cumquats"
       }
     }
   ]
