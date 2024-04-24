@@ -290,7 +290,7 @@ body {
 .timers-wrapper {
     display: flex;
     /* fill: aqua; */
-    min-height: 13%;
+    min-height: 18%;
     flex-direction: column;
     /* border: 1px solid red; */
 }
@@ -328,7 +328,7 @@ body {
 .timer-name {
     display: flex;
     justify-content: center;
-    font-size: 1.5em;
+    font-size: 2em;
     /* border: 1px solid purple; */
 }
 
@@ -338,7 +338,7 @@ body {
     align-items: top;
     /* flex: 1;  */
     /* border: 1px solid green; */
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
 .timers .active {

@@ -20,14 +20,14 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "Taken from \\href{https://www.food.com/recipe/best-banana-bread-2886}{food.com}. Best done with @3 overripe bananas, buy some, overripen them and chuck them into the freezer for later.",
+      "Note": "Taken from \\href{https://www.food.com/recipe/best-banana-bread-2886}{food.com}. Best done with overripe bananas, buy some, overripen them and chuck them into the freezer for later.",
       "Image": "",
       "Items": [
         {
@@ -186,7 +186,7 @@
       }
     },
     {
-      "Name": "Pizza Dough",
+      "Name": "Pizza Dough (Tony)",
       "Type": "Component",
       "Category": "Breads",
       "Cuisine": "Italian",
@@ -203,9 +203,9 @@
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
-      "Tested": true,
-      "NeedsRevision": true,
+      "Retired": true,
+      "Tested": false,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -347,10 +347,10 @@
       "Yield": {
         "Quantity": 1.0,
         "Unit": "round",
-        "Extra": "25cm"
+        "Extra": "25cm, and extra"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 40.0,
         "Extra": ""
       },
       "Difficulty": 6,
@@ -358,14 +358,14 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "Taken from Stephanie Alexander. This recipe can be used for sweet and savoury tarts. To best results, keep everything, you, the benchtop, the water etc, cold. Making pastry is less about the recipe and more about the technique. It is very important to know the steps in advance because time is important.",
+      "Note": "Taken from Stephanie Alexander. This recipe can be used for sweet and savoury tarts. To best results, keep everything, you, the benchtop, the water etc, cold. It is very important to know the steps in advance because time is important.",
       "Image": "",
       "Items": [
         {
@@ -418,7 +418,7 @@
           "Content": "Mix until all unmixed chunks of butter are gone, as they will leave pastry holes"
         },
         {
-          "Content": "Wrap in clingwrap and chill in fridge ASAP"
+          "Content": "Wrap in clingwrap and chill in fridge."
         }
       ],
       "Diary": null,
@@ -481,7 +481,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -642,7 +642,7 @@
       }
     },
     {
-      "Name": "Base Quiche",
+      "Name": "Easy Quiche",
       "Type": "Main",
       "Category": "Pies",
       "Cuisine": "French",
@@ -661,14 +661,14 @@
       "Favourite": true,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": true,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "Got this from dad, made my own changes. Ingredients are highly flexible, this recipe is a good way to get rid of random veggies in the fridge, e.g. mushrooms, rocket. Can be vegetarian very easily.",
+      "Note": "Ingredients are highly flexible, this recipe is a good way to get rid of random veggies in the fridge, e.g. mushrooms, rocket.",
       "Image": "",
       "Items": [
         {
@@ -682,9 +682,17 @@
         {
           "Name": "Bacon",
           "NameDetail": "",
-          "Quantity": 4.0,
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "@4 rashers",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": "rashers",
+          "UnitDetail": "",
           "Group": ""
         },
         {
@@ -692,22 +700,14 @@
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": "20x30cm sheet",
+          "UnitDetail": "sheet",
           "Group": ""
         },
         {
-          "Name": "Frozen peas",
-          "NameDetail": "",
+          "Name": "Peas",
+          "NameDetail": "frozen",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": "up to 2",
-          "Group": ""
-        },
-        {
-          "Name": "Tomato",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
           "UnitDetail": "",
           "Group": ""
         },
@@ -730,32 +730,41 @@
       ],
       "Steps": [
         {
-          "Content": "Preheat oven to 180"
+          "Content": "Preheat oven to 200"
         },
         {
-          "Content": "Defrost puff pastry (cover in tea towel for best results), defrost peas"
+          "Content": "Defrost puff pastry on bench covered in tea towel, defrost peas"
         },
         {
-          "Content": "Slice bacon and fry until cooked (don't overdo it here because it'll cook more in the oven)"
+          "Content": "Slice bacon and fry until edges brown"
         },
         {
-          "Content": "Dice vegetables. Roughly rip up parsley into pieces"
+          "Content": "Dice onions (1cm), roughly tear parsley"
         },
         {
-          "Content": "Whisk 5 eggs and combine with cheese"
+          "Content": "In large bowl, whisk eggs. Add cheese, then add onions, bacon, parsley, peas, salt and pepper."
         },
         {
-          "Content": "Place pastry into dish and combine all ingredients"
+          "Content": "Place pastry into dish and pour in mixture"
         },
         {
-          "Content": "Bake for 20-25 minutes and stand for 5"
+          "Content": "Bake for 20-25 minutes until skewer tests clean, stand for 5"
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 1500
+        },
+        {
+          "Name": "Stand",
+          "Seconds": 300
+        }
+      ],
       "Cost": {
-        "Amount": 5.0,
-        "AmountPerUnit": 5.0,
+        "Amount": 7.44,
+        "AmountPerUnit": 7.44,
         "Unit": "quiche",
         "ItemCosts": [
           {
@@ -767,10 +776,17 @@
           },
           {
             "Name": "Bacon",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:grams"
+            "Amount": 1.864,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Puff pastry",
@@ -780,15 +796,8 @@
             "Extra": ""
           },
           {
-            "Name": "Frozen peas",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Frozen peas"
-          },
-          {
-            "Name": "Tomato",
-            "Amount": 0.798,
+            "Name": "Peas",
+            "Amount": 0.6216,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -808,15 +817,15 @@
             "Extra": ""
           }
         ],
-        "CostString": "5* per unit",
-        "ExclusionsString": "Excluding Bacon and Frozen peas"
+        "CostString": "7.44 per unit",
+        "ExclusionsString": ""
       }
     },
     {
       "Name": "Roast Whole Chicken",
       "Type": "Main",
       "Category": "Roasts",
-      "Cuisine": "German",
+      "Cuisine": "",
       "Key": "Chicken",
       "Yield": {
         "Quantity": 1.0,
@@ -2655,7 +2664,7 @@
       }
     },
     {
-      "Name": "Carbonara",
+      "Name": "Mum's Carbonara",
       "Type": "Main",
       "Category": "Pastas",
       "Cuisine": "Italian",
@@ -2666,7 +2675,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 45.0,
         "Extra": ""
       },
       "Difficulty": 2,
@@ -2674,18 +2683,18 @@
       "Favourite": false,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From mum, delicious and filling.",
-      "Image": "",
+      "Note": "It bears mentioning that this isn't \\href{https://en.wikipedia.org/wiki/Carbonara}{carbonara}. It is still very yummy.",
+      "Image": "Local",
       "Items": [
         {
-          "Name": "Fettuccine",
+          "Name": "Fettuccine pasta",
           "NameDetail": "",
           "Quantity": 500.0,
           "Unit": "gram",
@@ -2693,7 +2702,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
@@ -2701,8 +2710,8 @@
           "Group": ""
         },
         {
-          "Name": "Frozen peas",
-          "NameDetail": "",
+          "Name": "Peas",
+          "NameDetail": "frozen",
           "Quantity": 2.0,
           "Unit": "cups",
           "UnitDetail": "",
@@ -2752,7 +2761,7 @@
           "Name": "Soy sauce",
           "NameDetail": "",
           "Quantity": 0.0,
-          "Unit": "to taste",
+          "Unit": "a dash",
           "UnitDetail": "",
           "Group": ""
         },
@@ -2775,51 +2784,59 @@
       ],
       "Steps": [
         {
-          "Content": "Salt and boil water, cook pasta for 12 minutes and drain"
+          "Content": "Salt and boil water, cook pasta for 12 minutes and drain."
         },
         {
-          "Content": "Chop onion, bacon, mushroom and garlic, fry to brown in that order"
+          "Content": "Dice onion, bacon and garlic. Slice mushroom (5mm)."
         },
         {
-          "Content": "Add cream and other ingredients (go light on the worcestershire sauce)"
+          "Content": "On medium high heat, add onion, bacon, mushroom then garlic in succession, adding a new item once the previous has browned a little."
         },
         {
-          "Content": "Throw in peas and mix"
+          "Content": "Add cream, worcestershire, soy sauce, salt and pepper."
         },
         {
-          "Content": "Stir on heat to thicken and slightly colour"
+          "Content": "Throw in peas and mix."
         },
         {
-          "Content": "Add pasta, mix and serve"
+          "Content": "Stir on medium heat to thicken and slightly colour."
+        },
+        {
+          "Content": "Add pasta, mix and serve."
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Pasta",
+          "Seconds": 720
+        }
+      ],
       "Cost": {
-        "Amount": 9.02,
-        "AmountPerUnit": 2.26,
+        "Amount": 12.75,
+        "AmountPerUnit": 3.19,
         "Unit": "serves",
         "ItemCosts": [
           {
-            "Name": "Fettuccine",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Fettuccine"
+            "Name": "Fettuccine pasta",
+            "Amount": 0.99,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Frozen peas",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Frozen peas"
+            "Name": "Peas",
+            "Amount": 1.2432,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Bacon",
@@ -2861,7 +2878,7 @@
             "Amount": 0.0,
             "Success": true,
             "Reason": "Skipped",
-            "Extra": "In ignored units: to taste"
+            "Extra": "In ignored units: a dash"
           },
           {
             "Name": "Salt",
@@ -2878,8 +2895,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.26* per serve",
-        "ExclusionsString": "Excluding Fettuccine, Brown onion and Frozen peas"
+        "CostString": "3.19 per serve",
+        "ExclusionsString": ""
       }
     },
     {
