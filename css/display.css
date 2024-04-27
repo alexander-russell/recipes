@@ -136,7 +136,7 @@ body {
 .attributes-wrapper {
     display: flex;
     /* border: 2px solid blue; */
-    padding: 15px;
+    padding: 6%;
     border-bottom: 1px solid black;
 }
 
@@ -630,6 +630,8 @@ body {
 /* Stuff for Mobile Layout */
 
 @media (max-aspect-ratio: 2/3) {
+
+
     .recipe-wrapper {
         justify-content: center;
     }
@@ -653,6 +655,7 @@ body {
 
     .timers-wrapper {
         border-bottom: 1px solid black;
+        touch-action: manipulation;
     }
 
     .items-wrapper,
@@ -662,6 +665,7 @@ body {
     }
 
     .items-wrapper>h3 {
+        margin-top: 5%;
         text-align: left;
     }
 
@@ -669,8 +673,60 @@ body {
         justify-content: left;
     }
 
-    .items-list {
-        width: 100%;
+    /* Add a bunch of extra padding on the sides */
+    .recipe-header-wrapper,
+    .attributes-wrapper,
+    .notes-wrapper,
+    .items-wrapper,
+    .steps-wrapper {
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
+    .recipe-header-wrapper {
+        padding-top: 5vw;
+    }
+
+    /* Stop greedy height of items and steps */
+    .info-wrapper,
+    .items-wrapper,
+    .steps-wrapper {
+        flex: none;
+    }
+
+    /* Make everything bigger */
+    p,
+    li,
+    .items-wrapper>h3,
+    .steps-wrapper>h3 {
+        font-size: 3rem;
+    }
+
+    .recipe-name {
+        font-size: 5rem;
+    }
+
+    .recipe-grouping {
+        font-size: 3rem;
+    }
+
+    .clock {
+        font-size: 4em;
+    }
+
+    /* Show note overflow */
+    .info-wrapper {
+        max-height: none;
+    }
+    .notes-wrapper {
+        /* overflow: visible; */
+        max-height: none;
+    }
+
+    /* Enlarge icons */
+    .icon {
+        width: 50px;
+        height: 50px;
     }
 }
 
