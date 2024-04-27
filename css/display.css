@@ -629,7 +629,7 @@ body {
 
 /* Stuff for Mobile Layout */
 
-@media (max-width:600px) {
+@media (max-aspect-ratio: 2/3) {
     .recipe-wrapper {
         justify-content: center;
     }
