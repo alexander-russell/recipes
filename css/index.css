@@ -37,7 +37,6 @@ body {
 
 nav {
     display: flex;
-    /* flex-wrap: wrap; */
     width: 100%;
     max-width: 100%;
     margin-bottom: 20px;
@@ -46,8 +45,10 @@ nav {
 
 .nav-list {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
+    max-width: 100%;
     margin-top: 5px;
     margin-bottom: 5px;
     padding-left: 0;
@@ -65,8 +66,10 @@ nav {
     font-weight: bold;
 }
 
-.nav-list>li>a>button:hover {
+.nav-list>li>a>button:hover,
+button:hover {
     color: darkred;
+    cursor: pointer;
 }
 
 section {
