@@ -3478,7 +3478,12 @@
           "Content": "Bake for 50 minutes until brown, cover with foil for 10 minutes and serve"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-05-13T09:52:28.426825+10:00",
+          "Content": "scaled to 9. worked fine, just thicker layer of apples. had some leftover crumble though and gave it longer in oven. too much lemon juice."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -4242,7 +4247,12 @@
           "Content": "Remove from oven and cool for 10 minutes"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-05-13T09:53:11.2039509+10:00",
+          "Content": "made a pear flan. used 1 batch of shortcrust pastry and 2 batches frangipane. made a very thinly rolled but adequately filled 28cm tart. used about 3 pears but buy spare so you can be picky. cut them each in half and then had a gentle curved cut to core each half, slice top to bottom very thinly and laid only the best, in concentric rings. Made the pastry and filling night before. Baked for 35 min."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -4809,31 +4819,31 @@
       "Name": "Potato Salad",
       "Type": "Side",
       "Category": "Salads",
-      "Cuisine": "German",
+      "Cuisine": "",
       "Key": "Potatoes",
       "Yield": {
         "Quantity": 2.0,
         "Unit": "serves",
-        "Extra": ""
+        "Extra": "as a side"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 30.0,
         "Extra": ""
       },
       "Difficulty": 3,
-      "Bulk": true,
+      "Bulk": false,
       "Favourite": false,
       "Retired": false,
-      "Tested": false,
-      "NeedsRevision": true,
+      "Tested": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From a Vittles Cooking From Life article by Molly Pepper Steemson. Listed in her recipes for a low-key passover, as a side to matzo breaded schnitzel. Email subject line \"Schnitzel, Salads \\& Fake Meat\"",
-      "Image": "",
+      "Note": "From a Vittles Cooking From Life article by Molly Pepper Steemson. Listed in her recipes for a low-key passover, as a side to matzo breaded schnitzel. Email subject line \"Schnitzel, Salads \\& Fake Meat\". Eaten for our own low-key passover with tandoori chicken (yoghurt in the marinade) and ribena as a substitute for grape juice, a substitute for wine.",
+      "Image": "Local",
       "Items": [
         {
           "Name": "Potatoes",
@@ -4846,18 +4856,18 @@
         {
           "Name": "Mayonnaise",
           "NameDetail": "",
-          "Quantity": 2.0,
+          "Quantity": 3.0,
           "Unit": "tbsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Dijon mustard",
           "NameDetail": "",
-          "Quantity": 2.0,
+          "Quantity": 3.0,
           "Unit": "tsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Lemon",
@@ -4865,13 +4875,13 @@
           "Quantity": 0.25,
           "Unit": "whole",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Spring onions",
           "NameDetail": "",
-          "Quantity": 50.0,
-          "Unit": "grams",
+          "Quantity": 0.25,
+          "Unit": "cup",
           "UnitDetail": "",
           "Group": ""
         },
@@ -4905,17 +4915,22 @@
           "Content": "Cut large potatoes in half, slice spring onions, chop chives and juice lemon"
         },
         {
-          "Content": "Add potatoes to a saucepan of cold salted water, bring to the boil and cook for 15-20 minutes, until tender. Drain well and set aside for a few minutes to steam dry"
+          "Content": "Add potatoes to a saucepan of cold salted water, bring to the boil and cook for 20 minutes, until tender. Drain well and set aside for a few minutes to steam dry"
         },
         {
           "Content": "While potatoes are cooking, mix together the mayonnaise, mustard and lemon juice"
         },
         {
-          "Content": "Combine wet mix with potatoes, spring onions, chives. Season to taste with salt and pepper"
+          "Content": "Combine sauce with potatoes, spring onions, chives. Season to taste with salt and pepper"
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Potatoes",
+          "Seconds": 1200
+        }
+      ],
       "Cost": null
     },
     {
@@ -6902,7 +6917,7 @@
           "Group": ""
         },
         {
-          "Name": "Egg",
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
@@ -6926,7 +6941,7 @@
           "Group": ""
         },
         {
-          "Name": "Soy sauce",
+          "Name": "Light soy sauce",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
@@ -6968,13 +6983,16 @@
       ],
       "Steps": [
         {
-          "Content": "Dice garlic very finely. Chop gai lan to a length of 7.5cm, and separate stems from leaves."
+          "Content": "Boil a kettle."
+        },
+        {
+          "Content": "Place noodles in a large bowl and pour over boiling water. Sit for a few min then drain."
+        },
+        {
+          "Content": "Dice garlic very finely. Separate gai lan stems from leaves. Chop stems to 5cm and cut leaves into large strips."
         },
         {
           "Content": "Mix soy sauces, oyster sauce, white vinegar and white sugar in a bowl until combined."
-        },
-        {
-          "Content": "Cook noodles and drain."
         },
         {
           "Content": "Heat 1 tbsp oil in frying pan on maximum heat."
@@ -7002,7 +7020,28 @@
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Garlic",
+          "Seconds": 10
+        },
+        {
+          "Name": "Chicken",
+          "Seconds": 30
+        },
+        {
+          "Name": "Stems",
+          "Seconds": 60
+        },
+        {
+          "Name": "Leaves",
+          "Seconds": 20
+        },
+        {
+          "Name": "Noodles",
+          "Seconds": 120
+        }
+      ],
       "Cost": null
     },
     {
@@ -7923,8 +7962,26 @@
           "Content": "Bake for 40 minutes until deep golden, cool on rack."
         }
       ],
-      "Diary": null,
-      "Timers": [],
+      "Diary": [
+        {
+          "Date": "2024-04-23T18:56:44.9592529+10:00",
+          "Content": "Did a double batch for the first soup night. Forgot to mix dry ingredients before adding water and it turned out fine. The two doughs had wildly different consistencies, both still worked out."
+        },
+        {
+          "Date": "2024-04-28T11:01:46.1633396+10:00",
+          "Content": "For the very warm water, today I measured it and did 40 degrees."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rise",
+          "Seconds": 7200
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 2400
+        }
+      ],
       "Cost": null
     },
     {
@@ -8416,6 +8473,22 @@
       "Image": "Local",
       "Items": [
         {
+          "Name": "Basmati rice",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
           "Name": "Onion",
           "NameDetail": "",
           "Quantity": 1.0,
@@ -8514,6 +8587,9 @@
       ],
       "Steps": [
         {
+          "Content": "Make rice: Add rice and water to a medium saucepan and bring to a simmer on medium-high. Cover and reduce to medium-low and simmer for 13 minutes. Remove from heat for 10 minutes. Remove lid, fluff and allow to steam dry for 2 minutes."
+        },
+        {
           "Content": "Chop onion into large pieces, slice ginger and garlic thinly."
         },
         {
@@ -8535,8 +8611,46 @@
           "Content": "Stir in spinach and cornflour and remove from heat."
         }
       ],
-      "Diary": null,
-      "Timers": [],
+      "Diary": [
+        {
+          "Date": "2024-04-30T12:42:10.2781548+10:00",
+          "Content": "Careful of spices sticking to bottom of pot and overcooking."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        },
+        {
+          "Name": "Onions",
+          "Seconds": 300
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 180
+        },
+        {
+          "Name": "Spices",
+          "Seconds": 60
+        },
+        {
+          "Name": "Chickpeas",
+          "Seconds": 300
+        },
+        {
+          "Name": "Coconut",
+          "Seconds": 600
+        }
+      ],
       "Cost": null
     },
     {
@@ -9175,6 +9289,213 @@
       ],
       "Diary": null,
       "Timers": [],
+      "Cost": null
+    },
+    {
+      "Name": "Cajun Pasta Sans Chicken",
+      "Type": "Main",
+      "Category": "Pasta",
+      "Cuisine": "American",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "NeedsRevision": true,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From Claudia. Also cooked as whole chicken breasts sans pasta. Sauce coats the pasta in a really fantastic way.",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to fry",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Sundried tomatoes",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "jar",
+          "Group": ""
+        },
+        {
+          "Name": "Spinach",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Double cream",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Farfalle pasta",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "smoked",
+          "Quantity": 3.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Oregano",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Onion powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Chilli flakes",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Boil and salt water for pasta."
+        },
+        {
+          "Content": "Finely chop garlic. roughly chop sundried tomatoes, reserve oil. Shave parmesan."
+        },
+        {
+          "Content": "Combine seasoning ingredients."
+        },
+        {
+          "Content": "Heat frypan on medium. Melt butter and add garlic, fry until fragrant."
+        },
+        {
+          "Content": "Add stock, sundried tomatoes and spinach to pan and reduce for 3 minutes."
+        },
+        {
+          "Content": "Add pasta to pot and cook for 12 minutes."
+        },
+        {
+          "Content": "Add cream, parmesan and seasoning and combine to pan. Fry 4 minutes until thickened."
+        },
+        {
+          "Content": "Toss through pasta and serve."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-04-30T19:22:02.9066808+10:00",
+          "Content": "Too oily should use a lot less butter next time. Ended up using the full 300 grams of double cream. Used orecchiette pasta. Simmered the 4 min step for more like 10 min."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Reduce",
+          "Seconds": 180
+        },
+        {
+          "Name": "Pasta",
+          "Seconds": 720
+        },
+        {
+          "Name": "Cream",
+          "Seconds": 240
+        }
+      ],
       "Cost": null
     },
     {
@@ -10911,6 +11232,136 @@
         {
           "Name": "Cool",
           "Seconds": 600
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Pumpkin Soup",
+      "Type": "Main",
+      "Category": "Soups",
+      "Cuisine": "",
+      "Key": "Pumpkin",
+      "Yield": {
+        "Quantity": 5.0,
+        "Unit": "serves",
+        "Extra": "with bread"
+      },
+      "Time": {
+        "Minutes": 85.0,
+        "Extra": ""
+      },
+      "Difficulty": 2,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "From Mum Dad et al, it's pumpkin soup. Serve with lots of bread, butter, sour cream or double cream, parsley or rosemary. Done as the inaugural soup for soup season in Eastwood, with Teddy, Bryson and Gemma over for dinner.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Butternut pumpkin",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "head",
+          "Group": ""
+        },
+        {
+          "Name": "Vegetable stock",
+          "NameDetail": "",
+          "Quantity": 1.25,
+          "Unit": "litre",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Ground ginger",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Rosemary",
+          "NameDetail": "fresh",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "sprig",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees."
+        },
+        {
+          "Content": "Peel pumpkin, remove inner flesh, chop into rough chunks. Peel onion and quarter. Wash potatoes and halve."
+        },
+        {
+          "Content": "Split half head of garlic into bunches."
+        },
+        {
+          "Content": "Place veggies onto two trays and into oven for 40 minutes, turning every 15 or so."
+        },
+        {
+          "Content": "Add veggies to a pot with @1 litre of stock, bring to a boil."
+        },
+        {
+          "Content": "Add the leaves of the rosemary."
+        },
+        {
+          "Content": "Simmer for 20 minutes. When everything is cooked through, blend with stick blender in pot (beware splash damage). Thin with extra stock as needed."
+        },
+        {
+          "Content": "Taste for salt and pepper."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 2400
+        },
+        {
+          "Name": "Turn",
+          "Seconds": 900
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 1200
         }
       ],
       "Cost": null

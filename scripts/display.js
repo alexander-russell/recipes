@@ -327,6 +327,7 @@ function displayRecipeNote(recipe) {
     recipeNote = recipeNote.replace(/\\href{(?<link>.*?)}{(?<name>.*?)}/g, '<a href="$1">$2</a>');
     recipeNote = recipeNote.replace(/\\textit{(?<content>.*?)}/g, '<cite>$1</cite>');
     recipeNote = recipeNote.replace(/\\hyperref\[\w+:.*?\]{(?<name>.*?)}/g, '<cite>$1</cite>');
+    recipeNote = recipeNote.replace("\\&", "&");
 
     // Assign note to element
     notesElement.innerHTML = recipeNote;

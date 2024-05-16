@@ -120,13 +120,13 @@
         }
       ],
       "Cost": {
-        "Amount": 8.81,
-        "AmountPerUnit": 8.81,
+        "Amount": 8.84,
+        "AmountPerUnit": 8.84,
         "Unit": "loaf",
         "ItemCosts": [
           {
             "Name": "Plain flour",
-            "Amount": 0.4644,
+            "Amount": 0.48375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -140,7 +140,7 @@
           },
           {
             "Name": "White sugar",
-            "Amount": 0.3108,
+            "Amount": 0.32375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -181,7 +181,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.81 per unit",
+        "CostString": "8.84 per unit",
         "ExclusionsString": ""
       }
     },
@@ -287,13 +287,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.9,
-        "AmountPerUnit": 0.32,
+        "Amount": 1.96,
+        "AmountPerUnit": 0.33,
         "Unit": "bases",
         "ItemCosts": [
           {
             "Name": "Plain flour",
-            "Amount": 1.548,
+            "Amount": 1.6125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -334,7 +334,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.32 per unit",
+        "CostString": "0.33 per unit",
         "ExclusionsString": ""
       }
     },
@@ -763,8 +763,8 @@
         }
       ],
       "Cost": {
-        "Amount": 7.44,
-        "AmountPerUnit": 7.44,
+        "Amount": 7.46,
+        "AmountPerUnit": 7.46,
         "Unit": "quiche",
         "ItemCosts": [
           {
@@ -797,7 +797,7 @@
           },
           {
             "Name": "Peas",
-            "Amount": 0.6216,
+            "Amount": 0.6475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -817,7 +817,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.44 per unit",
+        "CostString": "7.46 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1121,7 +1121,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 19.02,
+        "Amount": 19.03,
         "AmountPerUnit": 3.17,
         "Unit": "meatballs",
         "ItemCosts": [
@@ -1204,7 +1204,7 @@
           },
           {
             "Name": "Milk",
-            "Amount": 0.1854,
+            "Amount": 0.193125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1631,7 +1631,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.13,
+        "Amount": 3.19,
         "AmountPerUnit": 0.16,
         "Unit": "rolls",
         "ItemCosts": [
@@ -1658,7 +1658,7 @@
           },
           {
             "Name": "Vegetable oil",
-            "Amount": 1.3482,
+            "Amount": 1.404375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2136,8 +2136,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.75,
-        "AmountPerUnit": 5.75,
+        "Amount": 5.76,
+        "AmountPerUnit": 5.76,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -2198,7 +2198,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.4296,
+            "Amount": 0.4475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2260,7 +2260,7 @@
             "Extra": "Name not found: Fresh coriander"
           }
         ],
-        "CostString": "5.75* per unit",
+        "CostString": "5.76* per unit",
         "ExclusionsString": "Excluding Whole white fish, Ginger root, Fish sauce, Tumeric, Tamarind juice, White pepper, Brown onion, Wood fungus and Fresh coriander"
       }
     },
@@ -2813,8 +2813,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.75,
-        "AmountPerUnit": 3.19,
+        "Amount": 12.8,
+        "AmountPerUnit": 3.2,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -2833,7 +2833,7 @@
           },
           {
             "Name": "Peas",
-            "Amount": 1.2432,
+            "Amount": 1.295,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2895,7 +2895,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.19 per serve",
+        "CostString": "3.2 per serve",
         "ExclusionsString": ""
       }
     },
@@ -3896,8 +3896,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.16,
-        "AmountPerUnit": 2.05,
+        "Amount": 6.21,
+        "AmountPerUnit": 2.07,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -3909,7 +3909,7 @@
           },
           {
             "Name": "Rice",
-            "Amount": 1.2924,
+            "Amount": 1.34625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -3957,7 +3957,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.05* per serve",
+        "CostString": "2.07* per serve",
         "ExclusionsString": "Excluding Brown onion"
       }
     },
@@ -4474,8 +4474,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.49,
-        "AmountPerUnit": 7.49,
+        "Amount": 7.5,
+        "AmountPerUnit": 7.5,
         "Unit": "20x30x3cm oven tray",
         "ItemCosts": [
           {
@@ -4501,7 +4501,7 @@
           },
           {
             "Name": "Plain flour",
-            "Amount": 0.1548,
+            "Amount": 0.16125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4563,7 +4563,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.49* per unit",
+        "CostString": "7.5* per unit",
         "ExclusionsString": "Excluding Dijon mustard and Vegetable stock"
       }
     },
@@ -4674,7 +4674,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.34,
+        "Amount": 6.4,
         "AmountPerUnit": 0.18,
         "Unit": "Biscuits",
         "ItemCosts": [
@@ -4687,14 +4687,14 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.4188,
+            "Amount": 0.43625,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Caster sugar",
-            "Amount": 0.2988,
+            "Amount": 0.31125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4715,7 +4715,7 @@
           },
           {
             "Name": "Plain flour",
-            "Amount": 0.5418,
+            "Amount": 0.564375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4844,7 +4844,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.23,
+        "Amount": 3.28,
         "AmountPerUnit": 0.2,
         "Unit": "Biscuits",
         "ItemCosts": [
@@ -4857,7 +4857,7 @@
           },
           {
             "Name": "Plain flour",
-            "Amount": 0.3096,
+            "Amount": 0.3225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4885,7 +4885,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.8376,
+            "Amount": 0.8725,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5043,8 +5043,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 25.74,
-        "AmountPerUnit": 0.64,
+        "Amount": 25.87,
+        "AmountPerUnit": 0.65,
         "Unit": "biscuits",
         "ItemCosts": [
           {
@@ -5070,14 +5070,14 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 1.398792,
+            "Amount": 1.457075,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "White sugar",
-            "Amount": 0.3108,
+            "Amount": 0.32375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5091,7 +5091,7 @@
           },
           {
             "Name": "Plain flour",
-            "Amount": 1.3158,
+            "Amount": 1.370625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5118,7 +5118,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.64 per unit",
+        "CostString": "0.65 per unit",
         "ExclusionsString": ""
       }
     },
@@ -5277,11 +5277,16 @@
           "Content": "Bake for 50 minutes until brown, cover with foil for 10 minutes and serve"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-05-13T09:52:28.426825+10:00",
+          "Content": "scaled to 9. worked fine, just thicker layer of apples. had some leftover crumble though and gave it longer in oven. too much lemon juice."
+        }
+      ],
       "Timers": [],
       "Cost": {
-        "Amount": 9.66,
-        "AmountPerUnit": 1.61,
+        "Amount": 9.72,
+        "AmountPerUnit": 1.62,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -5293,14 +5298,14 @@
           },
           {
             "Name": "White sugar",
-            "Amount": 0.03885,
+            "Amount": 0.04046875,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.2094,
+            "Amount": 0.218125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5349,14 +5354,14 @@
           },
           {
             "Name": "Plain flour",
-            "Amount": 0.3096,
+            "Amount": 0.3225,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.8376,
+            "Amount": 0.8725,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5376,7 +5381,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.61* per serve",
+        "CostString": "1.62* per serve",
         "ExclusionsString": "Excluding Lemon juice"
       }
     },
@@ -5476,20 +5481,20 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 11.15,
+        "Amount": 11.22,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
           {
             "Name": "SR flour",
-            "Amount": 1.2384,
+            "Amount": 1.29,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "White sugar",
-            "Amount": 0.4662,
+            "Amount": 0.485625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5653,8 +5658,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 19.35,
-        "AmountPerUnit": 19.35,
+        "Amount": 19.38,
+        "AmountPerUnit": 19.38,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -5687,7 +5692,7 @@
           },
           {
             "Name": "Caster sugar",
-            "Amount": 0.5976,
+            "Amount": 0.6225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5721,7 +5726,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "19.35* per unit",
+        "CostString": "19.38* per unit",
         "ExclusionsString": "Excluding Gelatine sheets and Passionfruit"
       }
     },
@@ -6203,8 +6208,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.17,
-        "AmountPerUnit": 3.17,
+        "Amount": 3.2,
+        "AmountPerUnit": 3.2,
         "Unit": "pav",
         "ItemCosts": [
           {
@@ -6230,7 +6235,7 @@
           },
           {
             "Name": "White sugar",
-            "Amount": 0.6216,
+            "Amount": 0.6475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -6243,7 +6248,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.17 per unit",
+        "CostString": "3.2 per unit",
         "ExclusionsString": ""
       }
     },
@@ -6469,7 +6474,12 @@
           "Content": "Remove from oven and cool for 10 minutes"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-05-13T09:53:11.2039509+10:00",
+          "Content": "made a pear flan. used 1 batch of shortcrust pastry and 2 batches frangipane. made a very thinly rolled but adequately filled 28cm tart. used about 3 pears but buy spare so you can be picky. cut them each in half and then had a gentle curved cut to core each half, slice top to bottom very thinly and laid only the best, in concentric rings. Made the pastry and filling night before. Baked for 35 min."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 3.92,
@@ -6720,7 +6730,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.77,
+        "Amount": 3.78,
         "AmountPerUnit": 0.94,
         "Unit": "slices",
         "ItemCosts": [
@@ -6740,7 +6750,7 @@
           },
           {
             "Name": "Milk",
-            "Amount": 0.1854,
+            "Amount": 0.193125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -6850,20 +6860,20 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.28,
+        "Amount": 1.33,
         "AmountPerUnit": 0.13,
         "Unit": "loaves",
         "ItemCosts": [
           {
             "Name": "Yoghurt",
-            "Amount": 0.9576,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Plain flour",
-            "Amount": 0.3096,
+            "Amount": 0.3225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7364,31 +7374,31 @@
       "Name": "Potato Salad",
       "Type": "Side",
       "Category": "Salads",
-      "Cuisine": "German",
+      "Cuisine": "",
       "Key": "Potatoes",
       "Yield": {
         "Quantity": 2.0,
         "Unit": "serves",
-        "Extra": ""
+        "Extra": "as a side"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 30.0,
         "Extra": ""
       },
       "Difficulty": 3,
-      "Bulk": true,
+      "Bulk": false,
       "Favourite": false,
       "Retired": false,
-      "Tested": false,
-      "NeedsRevision": true,
+      "Tested": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From a Vittles Cooking From Life article by Molly Pepper Steemson. Listed in her recipes for a low-key passover, as a side to matzo breaded schnitzel. Email subject line \"Schnitzel, Salads \\& Fake Meat\"",
-      "Image": "",
+      "Note": "From a Vittles Cooking From Life article by Molly Pepper Steemson. Listed in her recipes for a low-key passover, as a side to matzo breaded schnitzel. Email subject line \"Schnitzel, Salads \\& Fake Meat\". Eaten for our own low-key passover with tandoori chicken (yoghurt in the marinade) and ribena as a substitute for grape juice, a substitute for wine.",
+      "Image": "Local",
       "Items": [
         {
           "Name": "Potatoes",
@@ -7401,18 +7411,18 @@
         {
           "Name": "Mayonnaise",
           "NameDetail": "",
-          "Quantity": 2.0,
+          "Quantity": 3.0,
           "Unit": "tbsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Dijon mustard",
           "NameDetail": "",
-          "Quantity": 2.0,
+          "Quantity": 3.0,
           "Unit": "tsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Lemon",
@@ -7420,13 +7430,13 @@
           "Quantity": 0.25,
           "Unit": "whole",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Spring onions",
           "NameDetail": "",
-          "Quantity": 50.0,
-          "Unit": "grams",
+          "Quantity": 0.25,
+          "Unit": "cup",
           "UnitDetail": "",
           "Group": ""
         },
@@ -7460,20 +7470,25 @@
           "Content": "Cut large potatoes in half, slice spring onions, chop chives and juice lemon"
         },
         {
-          "Content": "Add potatoes to a saucepan of cold salted water, bring to the boil and cook for 15-20 minutes, until tender. Drain well and set aside for a few minutes to steam dry"
+          "Content": "Add potatoes to a saucepan of cold salted water, bring to the boil and cook for 20 minutes, until tender. Drain well and set aside for a few minutes to steam dry"
         },
         {
           "Content": "While potatoes are cooking, mix together the mayonnaise, mustard and lemon juice"
         },
         {
-          "Content": "Combine wet mix with potatoes, spring onions, chives. Season to taste with salt and pepper"
+          "Content": "Combine sauce with potatoes, spring onions, chives. Season to taste with salt and pepper"
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Potatoes",
+          "Seconds": 1200
+        }
+      ],
       "Cost": {
-        "Amount": 2.0,
-        "AmountPerUnit": 1.0,
+        "Amount": 3.86,
+        "AmountPerUnit": 1.93,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -7506,10 +7521,10 @@
           },
           {
             "Name": "Spring onions",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:grams; To:whole"
+            "Amount": 1.8675,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Chives",
@@ -7533,8 +7548,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1* per serve",
-        "ExclusionsString": "Excluding Mayonnaise, Dijon mustard and Spring onions"
+        "CostString": "1.93* per serve",
+        "ExclusionsString": "Excluding Mayonnaise and Dijon mustard"
       }
     },
     {
@@ -8244,8 +8259,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 18.85,
-        "AmountPerUnit": 4.71,
+        "Amount": 19.52,
+        "AmountPerUnit": 4.88,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8306,14 +8321,14 @@
           },
           {
             "Name": "Arborio",
-            "Amount": 14.364,
+            "Amount": 14.9625,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Vegetable stock",
-            "Amount": 1.7184,
+            "Amount": 1.79,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8340,7 +8355,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.71* per serve",
+        "CostString": "4.88* per serve",
         "ExclusionsString": "Excluding Tomatoes, White wine, Tomato paste and Thyme"
       }
     },
@@ -8485,7 +8500,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.31,
+        "Amount": 5.32,
         "AmountPerUnit": 1.77,
         "Unit": "serves",
         "ItemCosts": [
@@ -8498,7 +8513,7 @@
           },
           {
             "Name": "Milk",
-            "Amount": 0.1854,
+            "Amount": 0.193125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8675,13 +8690,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.44,
-        "AmountPerUnit": 1.22,
+        "Amount": 2.47,
+        "AmountPerUnit": 1.24,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Rice",
-            "Amount": 0.4308,
+            "Amount": 0.44875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8702,7 +8717,7 @@
           },
           {
             "Name": "Peas",
-            "Amount": 0.3108,
+            "Amount": 0.32375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8736,7 +8751,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.22* per serve",
+        "CostString": "1.24* per serve",
         "ExclusionsString": "Excluding Onion and Carrot"
       }
     },
@@ -9267,8 +9282,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 16.83,
-        "AmountPerUnit": 4.21,
+        "Amount": 16.86,
+        "AmountPerUnit": 4.22,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -9287,7 +9302,7 @@
           },
           {
             "Name": "Peas",
-            "Amount": 0.6216,
+            "Amount": 0.6475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9342,7 +9357,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.21* per serve",
+        "CostString": "4.22* per serve",
         "ExclusionsString": "Excluding Onions"
       }
     },
@@ -9454,7 +9469,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.14,
+        "Amount": 2.17,
         "AmountPerUnit": 0.54,
         "Unit": "pies",
         "ItemCosts": [
@@ -9474,7 +9489,7 @@
           },
           {
             "Name": "Peas",
-            "Amount": 0.6216,
+            "Amount": 0.6475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9720,8 +9735,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.1,
-        "AmountPerUnit": 3.03,
+        "Amount": 9.18,
+        "AmountPerUnit": 3.06,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -9817,7 +9832,7 @@
           },
           {
             "Name": "Basmati rice",
-            "Amount": 1.92,
+            "Amount": 2.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9830,7 +9845,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.03 per serve",
+        "CostString": "3.06 per serve",
         "ExclusionsString": ""
       }
     },
@@ -9979,8 +9994,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 4.6,
-        "AmountPerUnit": 1.15,
+        "Amount": 4.63,
+        "AmountPerUnit": 1.16,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10055,13 +10070,13 @@
           },
           {
             "Name": "Peas",
-            "Amount": 0.6216,
+            "Amount": 0.6475,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "1.15* per serve",
+        "CostString": "1.16* per serve",
         "ExclusionsString": "Excluding Sugar, Cherry tomatoes and Tomato paste"
       }
     },
@@ -10208,8 +10223,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.45,
-        "AmountPerUnit": 0.54,
+        "Amount": 6.54,
+        "AmountPerUnit": 0.55,
         "Unit": "muffins",
         "ItemCosts": [
           {
@@ -10228,14 +10243,14 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.8376,
+            "Amount": 0.8725,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Milk",
-            "Amount": 0.244728,
+            "Amount": 0.254925,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10256,7 +10271,7 @@
           },
           {
             "Name": "Wholemeal flour",
-            "Amount": 1.08,
+            "Amount": 1.125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10283,7 +10298,7 @@
             "Extra": "In ignored units: a pinch"
           }
         ],
-        "CostString": "0.54* per unit",
+        "CostString": "0.55* per unit",
         "ExclusionsString": "Excluding Egg and White vinegar"
       }
     },
@@ -10522,7 +10537,7 @@
           "Group": ""
         },
         {
-          "Name": "Egg",
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
@@ -10546,7 +10561,7 @@
           "Group": ""
         },
         {
-          "Name": "Soy sauce",
+          "Name": "Light soy sauce",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
@@ -10588,13 +10603,16 @@
       ],
       "Steps": [
         {
-          "Content": "Dice garlic very finely. Chop gai lan to a length of 7.5cm, and separate stems from leaves."
+          "Content": "Boil a kettle."
+        },
+        {
+          "Content": "Place noodles in a large bowl and pour over boiling water. Sit for a few min then drain."
+        },
+        {
+          "Content": "Dice garlic very finely. Separate gai lan stems from leaves. Chop stems to 5cm and cut leaves into large strips."
         },
         {
           "Content": "Mix soy sauces, oyster sauce, white vinegar and white sugar in a bowl until combined."
-        },
-        {
-          "Content": "Cook noodles and drain."
         },
         {
           "Content": "Heat 1 tbsp oil in frying pan on maximum heat."
@@ -10622,10 +10640,31 @@
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Garlic",
+          "Seconds": 10
+        },
+        {
+          "Name": "Chicken",
+          "Seconds": 30
+        },
+        {
+          "Name": "Stems",
+          "Seconds": 60
+        },
+        {
+          "Name": "Leaves",
+          "Seconds": 20
+        },
+        {
+          "Name": "Noodles",
+          "Seconds": 120
+        }
+      ],
       "Cost": {
-        "Amount": 9.34,
-        "AmountPerUnit": 4.67,
+        "Amount": 10.89,
+        "AmountPerUnit": 5.44,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10650,11 +10689,11 @@
             "Extra": ""
           },
           {
-            "Name": "Egg",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Egg"
+            "Name": "Eggs",
+            "Amount": 1.2975,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -10671,11 +10710,11 @@
             "Extra": ""
           },
           {
-            "Name": "Soy sauce",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Soy sauce"
+            "Name": "Light soy sauce",
+            "Amount": 0.2500000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Dark soy sauce",
@@ -10706,8 +10745,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.67* per serve",
-        "ExclusionsString": "Excluding Egg, Soy sauce and White vinegar"
+        "CostString": "5.44* per serve",
+        "ExclusionsString": "Excluding White vinegar"
       }
     },
     {
@@ -11435,8 +11474,8 @@
         }
       ],
       "Cost": {
-        "Amount": 20.29,
-        "AmountPerUnit": 5.07,
+        "Amount": 20.33,
+        "AmountPerUnit": 5.08,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -11518,7 +11557,7 @@
           },
           {
             "Name": "Yoghurt",
-            "Amount": 0.9576,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11587,7 +11626,7 @@
             "Extra": "Name not found: Flatbread"
           }
         ],
-        "CostString": "5.07* per serve",
+        "CostString": "5.08* per serve",
         "ExclusionsString": "Excluding Coriander, Cardamom, Lettuce and Flatbread"
       }
     },
@@ -11757,8 +11796,8 @@
         }
       ],
       "Cost": {
-        "Amount": 6.28,
-        "AmountPerUnit": 3.14,
+        "Amount": 6.36,
+        "AmountPerUnit": 3.18,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -11784,14 +11823,14 @@
           },
           {
             "Name": "Mixed vegetables",
-            "Amount": 1.0056,
+            "Amount": 1.0475,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Rice",
-            "Amount": 0.8616,
+            "Amount": 0.8975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11839,7 +11878,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.14 per serve",
+        "CostString": "3.18 per serve",
         "ExclusionsString": ""
       }
     },
@@ -12102,8 +12141,26 @@
           "Content": "Bake for 40 minutes until deep golden, cool on rack."
         }
       ],
-      "Diary": null,
-      "Timers": [],
+      "Diary": [
+        {
+          "Date": "2024-04-23T18:56:44.9592529+10:00",
+          "Content": "Did a double batch for the first soup night. Forgot to mix dry ingredients before adding water and it turned out fine. The two doughs had wildly different consistencies, both still worked out."
+        },
+        {
+          "Date": "2024-04-28T11:01:46.1633396+10:00",
+          "Content": "For the very warm water, today I measured it and did 40 degrees."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rise",
+          "Seconds": 7200
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 2400
+        }
+      ],
       "Cost": {
         "Amount": 2.12,
         "AmountPerUnit": 2.12,
@@ -12248,7 +12305,7 @@
         }
       ],
       "Cost": {
-        "Amount": 1.54,
+        "Amount": 1.58,
         "AmountPerUnit": 0.26,
         "Unit": "loaves",
         "ItemCosts": [
@@ -12261,14 +12318,14 @@
           },
           {
             "Name": "Milk",
-            "Amount": 0.2781,
+            "Amount": 0.2896875,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Plain flour",
-            "Amount": 0.6192,
+            "Amount": 0.645,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12762,8 +12819,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 9.85,
-        "AmountPerUnit": 3.28,
+        "Amount": 9.94,
+        "AmountPerUnit": 3.31,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -12817,14 +12874,14 @@
           },
           {
             "Name": "Vegetable stock",
-            "Amount": 1.2888,
+            "Amount": 1.3425,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Arborio",
-            "Amount": 0.9576,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12844,7 +12901,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.28* per serve",
+        "CostString": "3.31* per serve",
         "ExclusionsString": "Excluding Broccoli, Capsicum, Carrot and Brown onion"
       }
     },
@@ -12878,6 +12935,22 @@
       "Note": "From a TikTok video I downloaded years ago. Doesn't specify many of the quantities. Makes very little mess. Spinach is here for colour, substitute with green beans etc.",
       "Image": "Local",
       "Items": [
+        {
+          "Name": "Basmati rice",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
         {
           "Name": "Onion",
           "NameDetail": "",
@@ -12977,6 +13050,9 @@
       ],
       "Steps": [
         {
+          "Content": "Make rice: Add rice and water to a medium saucepan and bring to a simmer on medium-high. Cover and reduce to medium-low and simmer for 13 minutes. Remove from heat for 10 minutes. Remove lid, fluff and allow to steam dry for 2 minutes."
+        },
+        {
           "Content": "Chop onion into large pieces, slice ginger and garlic thinly."
         },
         {
@@ -12998,13 +13074,65 @@
           "Content": "Stir in spinach and cornflour and remove from heat."
         }
       ],
-      "Diary": null,
-      "Timers": [],
+      "Diary": [
+        {
+          "Date": "2024-04-30T12:42:10.2781548+10:00",
+          "Content": "Careful of spices sticking to bottom of pot and overcooking."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        },
+        {
+          "Name": "Onions",
+          "Seconds": 300
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 180
+        },
+        {
+          "Name": "Spices",
+          "Seconds": 60
+        },
+        {
+          "Name": "Chickpeas",
+          "Seconds": 300
+        },
+        {
+          "Name": "Coconut",
+          "Seconds": 600
+        }
+      ],
       "Cost": {
-        "Amount": 10.14,
-        "AmountPerUnit": 3.38,
+        "Amount": 3.35,
+        "AmountPerUnit": 1.12,
         "Unit": "serves",
         "ItemCosts": [
+          {
+            "Name": "Basmati rice",
+            "Amount": 1.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
           {
             "Name": "Onion",
             "Amount": 0.0,
@@ -13077,7 +13205,7 @@
           },
           {
             "Name": "Spinach",
-            "Amount": 8.291666666666675,
+            "Amount": 0.4975000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13090,7 +13218,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.38* per serve",
+        "CostString": "1.12* per serve",
         "ExclusionsString": "Excluding Onion, Coriander, Tomato paste, Chickpeas and Coconut milk"
       }
     },
@@ -13213,8 +13341,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.95,
-        "AmountPerUnit": 5.95,
+        "Amount": 6.0,
+        "AmountPerUnit": 6.0,
         "Unit": "Cake",
         "ItemCosts": [
           {
@@ -13226,7 +13354,7 @@
           },
           {
             "Name": "Caster sugar",
-            "Amount": 0.5976,
+            "Amount": 0.6225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13247,14 +13375,14 @@
           },
           {
             "Name": "SR flour",
-            "Amount": 0.4644,
+            "Amount": 0.48375,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Milk",
-            "Amount": 0.2781,
+            "Amount": 0.2896875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13267,7 +13395,7 @@
             "Extra": "Name not found: Buttercream frosting"
           }
         ],
-        "CostString": "5.95* per unit",
+        "CostString": "6* per unit",
         "ExclusionsString": "Excluding Buttercream frosting"
       }
     },
@@ -13972,8 +14100,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 29.71,
-        "AmountPerUnit": 7.43,
+        "Amount": 18.03,
+        "AmountPerUnit": 4.51,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14006,7 +14134,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.2148,
+            "Amount": 0.22375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14020,14 +14148,14 @@
           },
           {
             "Name": "Spinach",
-            "Amount": 8.291666666666675,
+            "Amount": 0.4975000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Spinach",
-            "Amount": 4.145833333333325,
+            "Amount": 0.2487499999999995,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14110,8 +14238,335 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.43* per serve",
+        "CostString": "4.51* per serve",
         "ExclusionsString": "Excluding Sundried tomato oil, Sundried tomatoes and Chilli flakes"
+      }
+    },
+    {
+      "Name": "Cajun Pasta Sans Chicken",
+      "Type": "Main",
+      "Category": "Pasta",
+      "Cuisine": "American",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "NeedsRevision": true,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From Claudia. Also cooked as whole chicken breasts sans pasta. Sauce coats the pasta in a really fantastic way.",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to fry",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Sundried tomatoes",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "jar",
+          "Group": ""
+        },
+        {
+          "Name": "Spinach",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Double cream",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Farfalle pasta",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "smoked",
+          "Quantity": 3.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Oregano",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Onion powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Chilli flakes",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "seasoning"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Boil and salt water for pasta."
+        },
+        {
+          "Content": "Finely chop garlic. roughly chop sundried tomatoes, reserve oil. Shave parmesan."
+        },
+        {
+          "Content": "Combine seasoning ingredients."
+        },
+        {
+          "Content": "Heat frypan on medium. Melt butter and add garlic, fry until fragrant."
+        },
+        {
+          "Content": "Add stock, sundried tomatoes and spinach to pan and reduce for 3 minutes."
+        },
+        {
+          "Content": "Add pasta to pot and cook for 12 minutes."
+        },
+        {
+          "Content": "Add cream, parmesan and seasoning and combine to pan. Fry 4 minutes until thickened."
+        },
+        {
+          "Content": "Toss through pasta and serve."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-04-30T19:22:02.9066808+10:00",
+          "Content": "Too oily should use a lot less butter next time. Ended up using the full 300 grams of double cream. Used orecchiette pasta. Simmered the 4 min step for more like 10 min."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Reduce",
+          "Seconds": 180
+        },
+        {
+          "Name": "Pasta",
+          "Seconds": 720
+        },
+        {
+          "Name": "Cream",
+          "Seconds": 240
+        }
+      ],
+      "Cost": {
+        "Amount": 12.21,
+        "AmountPerUnit": 3.05,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Butter",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to fry"
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.49833333333333374,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Amount": 0.22375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Sundried tomatoes",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Sundried tomatoes"
+          },
+          {
+            "Name": "Spinach",
+            "Amount": 0.4975000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Double cream",
+            "Amount": 2.325,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parmesan",
+            "Amount": 3.845,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Farfalle pasta",
+            "Amount": 0.99,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown sugar",
+            "Amount": 0.0698,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Paprika",
+            "Amount": 1.2,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Oregano",
+            "Amount": 1.8,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.0195,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic powder",
+            "Amount": 0.2291666666666665,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Onion powder",
+            "Amount": 0.2857142857142855,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chilli flakes",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Chilli flakes"
+          },
+          {
+            "Name": "Pepper",
+            "Amount": 0.223684210526316,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "3.05* per serve",
+        "ExclusionsString": "Excluding Sundried tomatoes and Chilli flakes"
       }
     },
     {
@@ -14976,8 +15431,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 10.66,
-        "AmountPerUnit": 2.66,
+        "Amount": 10.72,
+        "AmountPerUnit": 2.68,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15087,7 +15542,7 @@
           },
           {
             "Name": "Yoghurt",
-            "Amount": 1.4364,
+            "Amount": 1.49625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15184,7 +15639,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "2.66* per serve",
+        "CostString": "2.68* per serve",
         "ExclusionsString": "Excluding Apple cider vinegar, Bay leaves, Cinnamon sticks, Cardamom pods, Cloves, Pine nuts, Sliced almonds, Sumac, Mint, Tomatoes, Cucumber, Parsley and Sumac"
       }
     },
@@ -15695,13 +16150,13 @@
         }
       ],
       "Cost": {
-        "Amount": 16.16,
-        "AmountPerUnit": 2.69,
+        "Amount": 16.18,
+        "AmountPerUnit": 2.7,
         "Unit": "burritos",
         "ItemCosts": [
           {
             "Name": "Brown rice",
-            "Amount": 0.5976,
+            "Amount": 0.6225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15826,7 +16281,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.69* per unit",
+        "CostString": "2.7* per unit",
         "ExclusionsString": "Excluding Tomato paste, Iceberg lettuce, Avocado and White wraps"
       }
     },
@@ -16764,7 +17219,7 @@
         }
       ],
       "Cost": {
-        "Amount": 0.83,
+        "Amount": 0.86,
         "AmountPerUnit": 0.0,
         "Unit": "ml",
         "ItemCosts": [
@@ -16784,7 +17239,7 @@
           },
           {
             "Name": "White sugar",
-            "Amount": 0.829836,
+            "Amount": 0.8644125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16792,6 +17247,193 @@
         ],
         "CostString": "0* per unit",
         "ExclusionsString": "Excluding Cumquats"
+      }
+    },
+    {
+      "Name": "Pumpkin Soup",
+      "Type": "Main",
+      "Category": "Soups",
+      "Cuisine": "",
+      "Key": "Pumpkin",
+      "Yield": {
+        "Quantity": 5.0,
+        "Unit": "serves",
+        "Extra": "with bread"
+      },
+      "Time": {
+        "Minutes": 85.0,
+        "Extra": ""
+      },
+      "Difficulty": 2,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "From Mum Dad et al, it's pumpkin soup. Serve with lots of bread, butter, sour cream or double cream, parsley or rosemary. Done as the inaugural soup for soup season in Eastwood, with Teddy, Bryson and Gemma over for dinner.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Butternut pumpkin",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "head",
+          "Group": ""
+        },
+        {
+          "Name": "Vegetable stock",
+          "NameDetail": "",
+          "Quantity": 1.25,
+          "Unit": "litre",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Ground ginger",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Rosemary",
+          "NameDetail": "fresh",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "sprig",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees."
+        },
+        {
+          "Content": "Peel pumpkin, remove inner flesh, chop into rough chunks. Peel onion and quarter. Wash potatoes and halve."
+        },
+        {
+          "Content": "Split half head of garlic into bunches."
+        },
+        {
+          "Content": "Place veggies onto two trays and into oven for 40 minutes, turning every 15 or so."
+        },
+        {
+          "Content": "Add veggies to a pot with @1 litre of stock, bring to a boil."
+        },
+        {
+          "Content": "Add the leaves of the rosemary."
+        },
+        {
+          "Content": "Simmer for 20 minutes. When everything is cooked through, blend with stick blender in pot (beware splash damage). Thin with extra stock as needed."
+        },
+        {
+          "Content": "Taste for salt and pepper."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 2400
+        },
+        {
+          "Name": "Turn",
+          "Seconds": 900
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 1200
+        }
+      ],
+      "Cost": {
+        "Amount": 4.68,
+        "AmountPerUnit": 0.94,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Butternut pumpkin",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Butternut pumpkin"
+          },
+          {
+            "Name": "Potatoes",
+            "Amount": 1.198,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.49833333333333335,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable stock",
+            "Amount": 2.2375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Ground ginger",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Ground ginger"
+          },
+          {
+            "Name": "Rosemary",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Rosemary"
+          }
+        ],
+        "CostString": "0.94* per serve",
+        "ExclusionsString": "Excluding Butternut pumpkin, Ground ginger and Rosemary"
       }
     }
   ]
