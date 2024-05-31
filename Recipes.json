@@ -6598,7 +6598,12 @@
           "Content": "Stir pasta into sauce and serve."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-05-27T19:30:11.9658516+10:00",
+          "Content": "Done with a pile of olives, threw them in with the garlic, then tomato paste, then added a quarter cup red wine, deglazed then cherry tomatoes and sugar, simmer for 10 minutes. Next time I should add passata and simmer longer maybe. Serving over orecchiettes, trying so hard not to forget to stir them."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
