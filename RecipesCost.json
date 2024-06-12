@@ -120,8 +120,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.84,
-        "AmountPerUnit": 8.84,
+        "Amount": 8.48,
+        "AmountPerUnit": 8.48,
         "Unit": "loaf",
         "ItemCosts": [
           {
@@ -154,7 +154,7 @@
           },
           {
             "Name": "Bananas",
-            "Amount": 3.3675,
+            "Amount": 2.9925,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -168,7 +168,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.013,
+            "Amount": 0.03,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -181,7 +181,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.84 per unit",
+        "CostString": "8.48 per unit",
         "ExclusionsString": ""
       }
     },
@@ -287,7 +287,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.96,
+        "Amount": 1.98,
         "AmountPerUnit": 0.33,
         "Unit": "bases",
         "ItemCosts": [
@@ -307,7 +307,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.013,
+            "Amount": 0.03,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -631,7 +631,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.00325,
+            "Amount": 0.0075,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -919,8 +919,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 10.48,
-        "AmountPerUnit": 10.48,
+        "Amount": 8.08,
+        "AmountPerUnit": 8.08,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -939,7 +939,7 @@
           },
           {
             "Name": "Lemon",
-            "Amount": 3.98,
+            "Amount": 1.58,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -973,7 +973,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "10.48 per unit",
+        "CostString": "8.08 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1413,7 +1413,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.15,
+        "Amount": 8.16,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -1447,7 +1447,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.013,
+            "Amount": 0.03,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1536,7 +1536,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 5.0,
           "Unit": "gram",
@@ -1631,8 +1631,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.19,
-        "AmountPerUnit": 0.16,
+        "Amount": 3.07,
+        "AmountPerUnit": 0.15,
         "Unit": "rolls",
         "ItemCosts": [
           {
@@ -1658,7 +1658,7 @@
           },
           {
             "Name": "Vegetable oil",
-            "Amount": 1.404375,
+            "Amount": 1.254375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1678,11 +1678,11 @@
             "Extra": "Name not found: Peeled prawns"
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.01495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -1714,7 +1714,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.013,
+            "Amount": 0.03,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1741,8 +1741,8 @@
             "Extra": "Couldn't convert unit. From:tbsp; To:whole"
           }
         ],
-        "CostString": "0.16* per unit",
-        "ExclusionsString": "Excluding Spring roll wrappers, Lean pork, Peeled prawns, Brown onion, Coriander roots and Shallots"
+        "CostString": "0.15* per unit",
+        "ExclusionsString": "Excluding Spring roll wrappers, Lean pork, Peeled prawns, Coriander roots and Shallots"
       }
     },
     {
@@ -1792,7 +1792,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
@@ -1875,8 +1875,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 16.01,
-        "AmountPerUnit": 4.0,
+        "Amount": 18.67,
+        "AmountPerUnit": 4.67,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -1888,17 +1888,17 @@
           },
           {
             "Name": "Salsa",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Salsa"
+            "Amount": 1.1583333333333325,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Chicken thigh",
@@ -1936,8 +1936,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4* per serve",
-        "ExclusionsString": "Excluding Salsa, Brown onion and Capsicum"
+        "CostString": "4.67* per serve",
+        "ExclusionsString": "Excluding Capsicum"
       }
     },
     {
@@ -2027,7 +2027,7 @@
           "Group": ""
         },
         {
-          "Name": "Tumeric",
+          "Name": "Turmeric",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
@@ -2083,7 +2083,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
@@ -2136,8 +2136,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.76,
-        "AmountPerUnit": 5.76,
+        "Amount": 8.57,
+        "AmountPerUnit": 8.57,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -2149,7 +2149,7 @@
           },
           {
             "Name": "Vegetable oil",
-            "Amount": 0.056175,
+            "Amount": 0.050175,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2177,10 +2177,10 @@
           },
           {
             "Name": "Fish sauce",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Fish sauce"
+            "Amount": 0.2500000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "White sugar",
@@ -2190,11 +2190,11 @@
             "Extra": ""
           },
           {
-            "Name": "Tumeric",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Tumeric"
+            "Name": "Turmeric",
+            "Amount": 1.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Chicken stock",
@@ -2233,17 +2233,17 @@
           },
           {
             "Name": "Capsicum",
-            "Amount": 0.10485,
+            "Amount": 0.11985,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.0897,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Wood fungus",
@@ -2254,14 +2254,14 @@
           },
           {
             "Name": "Fresh coriander",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Fresh coriander"
+            "Amount": 0.96,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "5.76* per unit",
-        "ExclusionsString": "Excluding Whole white fish, Ginger root, Fish sauce, Tumeric, Tamarind juice, White pepper, Brown onion, Wood fungus and Fresh coriander"
+        "CostString": "8.57* per unit",
+        "ExclusionsString": "Excluding Whole white fish, Ginger root, Tamarind juice, White pepper and Wood fungus"
       }
     },
     {
@@ -2319,7 +2319,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
@@ -2391,8 +2391,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 15.59,
-        "AmountPerUnit": 3.9,
+        "Amount": 17.83,
+        "AmountPerUnit": 4.46,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -2411,24 +2411,24 @@
           },
           {
             "Name": "Sweet potato",
-            "Amount": 2.59,
+            "Amount": 2.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Kalamata olives",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Kalamata olives"
+            "Amount": 0.3458571428571435,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Capers",
@@ -2452,8 +2452,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.9* per serve",
-        "ExclusionsString": "Excluding Brown onion and Kalamata olives"
+        "CostString": "4.46 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -2495,7 +2495,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
@@ -2584,8 +2584,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.66,
-        "AmountPerUnit": 2.16,
+        "Amount": 10.11,
+        "AmountPerUnit": 2.53,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -2596,11 +2596,11 @@
             "Extra": "Name not found: Spaghettoni"
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -2625,7 +2625,7 @@
           },
           {
             "Name": "Red wine",
-            "Amount": 0.5816666666666676,
+            "Amount": 0.543125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2659,8 +2659,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.16* per serve",
-        "ExclusionsString": "Excluding Spaghettoni, Brown onion and Tomato paste"
+        "CostString": "2.53* per serve",
+        "ExclusionsString": "Excluding Spaghettoni and Tomato paste"
       }
     },
     {
@@ -3089,7 +3089,7 @@
           "Group": ""
         },
         {
-          "Name": "Cheese",
+          "Name": "Shredded cheese",
           "NameDetail": "",
           "Quantity": 200.0,
           "Unit": "grams",
@@ -3128,8 +3128,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.21,
-        "AmountPerUnit": 1.2,
+        "Amount": 10.97,
+        "AmountPerUnit": 1.83,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -3154,22 +3154,22 @@
             "Extra": "Couldn't convert unit. From:cups; To:whole"
           },
           {
-            "Name": "Cheese",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cheese"
+            "Name": "Shredded cheese",
+            "Amount": 2.7960000000000003,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Kalamata olives",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Kalamata olives"
+            "Amount": 0.960714285714285,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "1.2* per serve",
-        "ExclusionsString": "Excluding Parsley, Cheese and Kalamata olives"
+        "CostString": "1.83* per serve",
+        "ExclusionsString": "Excluding Parsley"
       }
     },
     {
@@ -3255,7 +3255,12 @@
           "Content": "Bake for 45-60 minutes TBC"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-06-05T22:45:14.1826083+10:00",
+          "Content": "Cooked for 4, leftovers for maybe 2. Used tall blue enamelled pan, did lots of layers, used about 20 sheets. For the sauces: Chopped 1 onion, 5 big cloves garlic and 1 carrot. Then rode my bike to aldi for milk. Then got big pot hot, onion in, then carrot, then 500g 4star beef mince, then garlic, then 1/3 cup red wine. Didn't deglaze so much as soak into the beef I think. Then about 2 tbsp tomato paste. Fried for a bit then 2 cans diced tomato and a spoonful of sugar. Then added a whole jar of passata and a pile of salt and pepper and simmered a while. Added maybe a cup of peas at the very end. The bechamel I did in the usual way, flour and butter simultaneously, then add milk (but I made a vague attempt to heat the milk), stirred lots using a pan tool not a whisk. Layered into pan with bolognese first, then sheet, bechamel repeat, finished with red sauce and pizza cheese and baked for maybe 45 min. Served with salad and garlic bread + red wine."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 4.56,
@@ -3391,16 +3396,16 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.84,
-        "AmountPerUnit": 8.84,
+        "Amount": 10.33,
+        "AmountPerUnit": 10.33,
         "Unit": "Pizza",
         "ItemCosts": [
           {
             "Name": "Pizza base",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Pizza base"
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -3438,8 +3443,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.84* per unit",
-        "ExclusionsString": "Excluding Pizza base"
+        "CostString": "10.33 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -3497,7 +3502,7 @@
           "Group": ""
         },
         {
-          "Name": "Olives",
+          "Name": "Kalamata olives",
           "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "cup",
@@ -3535,8 +3540,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.72,
-        "AmountPerUnit": 5.72,
+        "Amount": 8.17,
+        "AmountPerUnit": 8.17,
         "Unit": "Pizza",
         "ItemCosts": [
           {
@@ -3561,11 +3566,11 @@
             "Extra": ""
           },
           {
-            "Name": "Olives",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Olives"
+            "Name": "Kalamata olives",
+            "Amount": 0.960714285714285,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Mozzarella cheese",
@@ -3576,14 +3581,14 @@
           },
           {
             "Name": "Pizza base",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Pizza base"
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "5.72* per unit",
-        "ExclusionsString": "Excluding Ham, Olives and Pizza base"
+        "CostString": "8.17* per unit",
+        "ExclusionsString": "Excluding Ham"
       }
     },
     {
@@ -3617,7 +3622,7 @@
       "Image": "Local",
       "Items": [
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "whole",
@@ -3625,7 +3630,7 @@
           "Group": ""
         },
         {
-          "Name": "Olives",
+          "Name": "Kalamata olives",
           "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "cup",
@@ -3712,23 +3717,23 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.1,
-        "AmountPerUnit": 5.1,
+        "Amount": 7.93,
+        "AmountPerUnit": 7.93,
         "Unit": "Pizza",
         "ItemCosts": [
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.37375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Olives",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Olives"
+            "Name": "Kalamata olives",
+            "Amount": 0.960714285714285,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Diced tomato",
@@ -3760,10 +3765,10 @@
           },
           {
             "Name": "Pizza base",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Pizza base"
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Mozzarella cheese",
@@ -3780,8 +3785,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.1* per unit",
-        "ExclusionsString": "Excluding Brown onion, Olives and Pizza base"
+        "CostString": "7.93 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -3847,7 +3852,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
@@ -3871,7 +3876,7 @@
           "Group": ""
         },
         {
-          "Name": "Sweet chilli",
+          "Name": "Sweet chilli sauce",
           "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
@@ -3896,8 +3901,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.21,
-        "AmountPerUnit": 2.07,
+        "Amount": 7.71,
+        "AmountPerUnit": 2.57,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -3929,11 +3934,11 @@
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -3950,15 +3955,15 @@
             "Extra": "In ignored units: to taste"
           },
           {
-            "Name": "Sweet chilli",
+            "Name": "Sweet chilli sauce",
             "Amount": 0.0,
             "Success": true,
             "Reason": "Skipped",
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.07* per serve",
-        "ExclusionsString": "Excluding Brown onion"
+        "CostString": "2.57 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -4474,8 +4479,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.5,
-        "AmountPerUnit": 7.5,
+        "Amount": 7.7,
+        "AmountPerUnit": 7.7,
         "Unit": "20x30x3cm oven tray",
         "ItemCosts": [
           {
@@ -4522,10 +4527,10 @@
           },
           {
             "Name": "Dijon mustard",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dijon mustard"
+            "Amount": 0.204473684210526,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Paprika",
@@ -4563,8 +4568,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.5* per unit",
-        "ExclusionsString": "Excluding Dijon mustard and Vegetable stock"
+        "CostString": "7.7* per unit",
+        "ExclusionsString": "Excluding Vegetable stock"
       }
     },
     {
@@ -4844,8 +4849,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.28,
-        "AmountPerUnit": 0.2,
+        "Amount": 4.63,
+        "AmountPerUnit": 0.29,
         "Unit": "Biscuits",
         "ItemCosts": [
           {
@@ -4878,10 +4883,10 @@
           },
           {
             "Name": "Coconut",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Coconut"
+            "Amount": 1.35,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Brown sugar",
@@ -4905,8 +4910,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.2* per unit",
-        "ExclusionsString": "Excluding Coconut and Golden syrup"
+        "CostString": "0.29* per unit",
+        "ExclusionsString": "Excluding Golden syrup"
       }
     },
     {
@@ -5043,7 +5048,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 25.87,
+        "Amount": 25.89,
         "AmountPerUnit": 0.65,
         "Unit": "biscuits",
         "ItemCosts": [
@@ -5112,7 +5117,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.013,
+            "Amount": 0.03,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5929,8 +5934,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 12.91,
-        "AmountPerUnit": 12.91,
+        "Amount": 9.31,
+        "AmountPerUnit": 9.31,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -5942,7 +5947,7 @@
           },
           {
             "Name": "Lemon",
-            "Amount": 5.97,
+            "Amount": 2.37,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5969,7 +5974,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "12.91* per unit",
+        "CostString": "9.31* per unit",
         "ExclusionsString": "Excluding \\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}"
       }
     },
@@ -6066,8 +6071,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.92,
-        "AmountPerUnit": 0.02,
+        "Amount": 15.71,
+        "AmountPerUnit": 0.05,
         "Unit": "ml",
         "ItemCosts": [
           {
@@ -6079,10 +6084,10 @@
           },
           {
             "Name": "Pine nuts",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Pine nuts"
+            "Amount": 8.79375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Olive oil",
@@ -6113,8 +6118,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0.02* per unit",
-        "ExclusionsString": "Excluding Pine nuts"
+        "CostString": "0.05 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -6343,20 +6348,20 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.04,
-        "AmountPerUnit": 5.04,
+        "Amount": 5.05,
+        "AmountPerUnit": 5.05,
         "Unit": "tarts worth",
         "ItemCosts": [
           {
             "Name": "Ground almond",
-            "Amount": 1.4975,
+            "Amount": 1.499,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Icing sugar",
-            "Amount": 0.369,
+            "Amount": 0.379,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -6383,7 +6388,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.04 per unit",
+        "CostString": "5.05 per unit",
         "ExclusionsString": ""
       }
     },
@@ -6559,7 +6564,7 @@
           "Group": ""
         },
         {
-          "Name": "Cheese",
+          "Name": "Shredded cheese",
           "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
@@ -6608,7 +6613,7 @@
             "Extra": "Name not found: Za'atar"
           },
           {
-            "Name": "Cheese",
+            "Name": "Shredded cheese",
             "Amount": 0.0,
             "Success": true,
             "Reason": "Skipped",
@@ -6860,8 +6865,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.33,
-        "AmountPerUnit": 0.13,
+        "Amount": 1.35,
+        "AmountPerUnit": 0.14,
         "Unit": "loaves",
         "ItemCosts": [
           {
@@ -6880,13 +6885,13 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.013,
+            "Amount": 0.03,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "0.13 per unit",
+        "CostString": "0.14 per unit",
         "ExclusionsString": ""
       }
     },
@@ -6929,7 +6934,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -6953,7 +6958,7 @@
           "Group": ""
         },
         {
-          "Name": "Strong Cheddar",
+          "Name": "Cheddar",
           "NameDetail": "",
           "Quantity": 150.0,
           "Unit": "grams",
@@ -7027,8 +7032,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.93,
-        "AmountPerUnit": 1.93,
+        "Amount": 6.62,
+        "AmountPerUnit": 6.62,
         "Unit": "tart",
         "ItemCosts": [
           {
@@ -7039,11 +7044,11 @@
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Capsicum",
@@ -7060,11 +7065,11 @@
             "Extra": ""
           },
           {
-            "Name": "Strong Cheddar",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Strong Cheddar"
+            "Name": "Cheddar",
+            "Amount": 3.3675,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Eggs",
@@ -7075,17 +7080,17 @@
           },
           {
             "Name": "Double cream",
-            "Amount": 0.279,
+            "Amount": 0.4390000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Dijon mustard",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dijon mustard"
+            "Amount": 0.408947368421052,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Salt",
@@ -7102,8 +7107,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.93* per unit",
-        "ExclusionsString": "Excluding Brown onion, Capsicum, Strong Cheddar and Dijon mustard"
+        "CostString": "6.62* per unit",
+        "ExclusionsString": "Excluding Capsicum"
       }
     },
     {
@@ -7145,7 +7150,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -7270,8 +7275,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.8,
-        "AmountPerUnit": 0.95,
+        "Amount": 4.55,
+        "AmountPerUnit": 1.14,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -7282,11 +7287,11 @@
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Fennel",
@@ -7366,8 +7371,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0.95* per serve",
-        "ExclusionsString": "Excluding Brown onion, Fennel, White wine and Lemon zest"
+        "CostString": "1.14* per serve",
+        "ExclusionsString": "Excluding Fennel, White wine and Lemon zest"
       }
     },
     {
@@ -7487,8 +7492,8 @@
         }
       ],
       "Cost": {
-        "Amount": 3.86,
-        "AmountPerUnit": 1.93,
+        "Amount": 4.13,
+        "AmountPerUnit": 2.06,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -7500,21 +7505,21 @@
           },
           {
             "Name": "Mayonnaise",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Mayonnaise"
+            "Amount": 0.3649450549450545,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Dijon mustard",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dijon mustard"
+            "Amount": 0.2044736842105265,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Lemon",
-            "Amount": 0.4975,
+            "Amount": 0.1975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7548,8 +7553,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.93* per serve",
-        "ExclusionsString": "Excluding Mayonnaise and Dijon mustard"
+        "CostString": "2.06 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -7668,7 +7673,12 @@
           "Content": "Cool in tin before turning out"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-06-05T22:50:29.2733067+10:00",
+          "Content": "Cooked for first time. Followed recipe as written and it turned out really nice. Not wet, fluffy and very consistent texture, slightly sticky and not too sweet. Used 2 small oranges from the community garden and the cake was still plenty orangey. Whisked eggs in mixmaster then threw everything else on top. Had only 215g almond meal so added 35g plain flour. Baked for approx 45 min but forgot to time. Served with double cream. Butter + flour worked great, fell straight out of glass floretted dish I used, but could sieve flour onto butter next time. Rose a little. Cake is probably 20cm by 2cm or so round."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 6.99,
@@ -7691,7 +7701,7 @@
           },
           {
             "Name": "Ground almond",
-            "Amount": 3.74375,
+            "Amount": 3.7475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7776,7 +7786,7 @@
           "Group": ""
         },
         {
-          "Name": "Egg",
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -7823,8 +7833,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 4.73,
-        "AmountPerUnit": 0.2,
+        "Amount": 5.17,
+        "AmountPerUnit": 0.22,
         "Unit": "biscuits",
         "ItemCosts": [
           {
@@ -7842,11 +7852,11 @@
             "Extra": ""
           },
           {
-            "Name": "Egg",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Egg"
+            "Name": "Eggs",
+            "Amount": 0.43250000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "SR flour",
@@ -7863,8 +7873,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.2* per unit",
-        "ExclusionsString": "Excluding Egg"
+        "CostString": "0.22 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -7906,7 +7916,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.5,
           "Unit": "whole",
@@ -7930,7 +7940,7 @@
           "Group": ""
         },
         {
-          "Name": "Mild salsa",
+          "Name": "Salsa",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "jar",
@@ -7954,7 +7964,7 @@
           "Group": ""
         },
         {
-          "Name": "Tortillas",
+          "Name": "White wraps",
           "NameDetail": "",
           "Quantity": 10.0,
           "Unit": "whole",
@@ -8011,8 +8021,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 14.34,
-        "AmountPerUnit": 2.39,
+        "Amount": 20.52,
+        "AmountPerUnit": 3.42,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8023,11 +8033,11 @@
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 1.12125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Chicken thigh",
@@ -8044,18 +8054,18 @@
             "Extra": "Couldn't convert unit. From:whole; To:grams"
           },
           {
-            "Name": "Mild salsa",
+            "Name": "Salsa",
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Mild salsa"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:jar; To:grams"
           },
           {
             "Name": "Diced tomatoes",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Diced tomatoes"
+            "Amount": 0.95,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Black beans",
@@ -8065,11 +8075,11 @@
             "Extra": ""
           },
           {
-            "Name": "Tortillas",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Tortillas"
+            "Name": "White wraps",
+            "Amount": 4.1125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Grated cheese",
@@ -8079,8 +8089,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.39* per serve",
-        "ExclusionsString": "Excluding Brown onion, Taco spice mix, Mild salsa, Diced tomatoes and Tortillas"
+        "CostString": "3.42* per serve",
+        "ExclusionsString": "Excluding Taco spice mix and Salsa"
       }
     },
     {
@@ -8138,7 +8148,7 @@
           "Group": ""
         },
         {
-          "Name": "Tomatoes",
+          "Name": "Tomato",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "kg",
@@ -8259,8 +8269,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 19.52,
-        "AmountPerUnit": 4.88,
+        "Amount": 29.51,
+        "AmountPerUnit": 7.38,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8285,11 +8295,11 @@
             "Extra": ""
           },
           {
-            "Name": "Tomatoes",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Tomatoes"
+            "Name": "Tomato",
+            "Amount": 8.99,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -8314,10 +8324,10 @@
           },
           {
             "Name": "Thyme",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Thyme"
+            "Amount": 1.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Arborio",
@@ -8355,8 +8365,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.88* per serve",
-        "ExclusionsString": "Excluding Tomatoes, White wine, Tomato paste and Thyme"
+        "CostString": "7.38* per serve",
+        "ExclusionsString": "Excluding White wine and Tomato paste"
       }
     },
     {
@@ -8422,15 +8432,15 @@
           "Group": ""
         },
         {
-          "Name": "Frozen peas",
-          "NameDetail": "",
+          "Name": "Peas",
+          "NameDetail": "frozen",
           "Quantity": 1.0,
           "Unit": "cup",
           "UnitDetail": "",
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -8500,8 +8510,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.32,
-        "AmountPerUnit": 1.77,
+        "Amount": 6.72,
+        "AmountPerUnit": 2.24,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8533,18 +8543,18 @@
             "Extra": ""
           },
           {
-            "Name": "Frozen peas",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Frozen peas"
+            "Name": "Peas",
+            "Amount": 0.6475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Grated cheese",
@@ -8568,8 +8578,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.77* per serve",
-        "ExclusionsString": "Excluding Frozen peas and Brown onion"
+        "CostString": "2.24 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -8577,7 +8587,7 @@
       "Type": "Main",
       "Category": "Stir Fries",
       "Cuisine": "World",
-      "Key": "Egg",
+      "Key": "Eggs",
       "Yield": {
         "Quantity": 2.0,
         "Unit": "serves",
@@ -8611,7 +8621,7 @@
           "Group": ""
         },
         {
-          "Name": "Onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -8619,7 +8629,7 @@
           "Group": ""
         },
         {
-          "Name": "Carrot",
+          "Name": "Carrots",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -8690,8 +8700,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.47,
-        "AmountPerUnit": 1.24,
+        "Amount": 3.46,
+        "AmountPerUnit": 1.73,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8702,18 +8712,18 @@
             "Extra": ""
           },
           {
-            "Name": "Onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Carrot",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Carrot"
+            "Name": "Carrots",
+            "Amount": 0.238,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Peas",
@@ -8751,8 +8761,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.24* per serve",
-        "ExclusionsString": "Excluding Onion and Carrot"
+        "CostString": "1.73 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -8826,7 +8836,7 @@
           "Group": ""
         },
         {
-          "Name": "Egg",
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -8909,8 +8919,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 4.92,
-        "AmountPerUnit": 0.14,
+        "Amount": 5.67,
+        "AmountPerUnit": 0.16,
         "Unit": "biscuits",
         "ItemCosts": [
           {
@@ -8949,11 +8959,11 @@
             "Extra": ""
           },
           {
-            "Name": "Egg",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Egg"
+            "Name": "Eggs",
+            "Amount": 0.43250000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Baking soda",
@@ -8985,14 +8995,14 @@
           },
           {
             "Name": "Nutmeg",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Nutmeg"
+            "Amount": 0.31875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "0.14* per unit",
-        "ExclusionsString": "Excluding Treacle, Egg and Nutmeg"
+        "CostString": "0.16* per unit",
+        "ExclusionsString": "Excluding Treacle"
       }
     },
     {
@@ -9042,7 +9052,7 @@
           "Group": ""
         },
         {
-          "Name": "Sugar",
+          "Name": "White sugar",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
@@ -9101,8 +9111,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.59,
-        "AmountPerUnit": 0.8,
+        "Amount": 1.66,
+        "AmountPerUnit": 0.83,
         "Unit": "loaves",
         "ItemCosts": [
           {
@@ -9120,15 +9130,15 @@
             "Extra": ""
           },
           {
-            "Name": "Sugar",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sugar"
+            "Name": "White sugar",
+            "Amount": 0.019425,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Salt",
-            "Amount": 0.039,
+            "Amount": 0.09,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9141,8 +9151,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.8* per unit",
-        "ExclusionsString": "Excluding Sugar"
+        "CostString": "0.83 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -9184,7 +9194,7 @@
           "Group": ""
         },
         {
-          "Name": "Onions",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -9282,8 +9292,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 16.86,
-        "AmountPerUnit": 4.22,
+        "Amount": 19.6,
+        "AmountPerUnit": 4.9,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -9294,11 +9304,11 @@
             "Extra": ""
           },
           {
-            "Name": "Onions",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Onions"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Peas",
@@ -9316,7 +9326,7 @@
           },
           {
             "Name": "Double cream",
-            "Amount": 3.4875,
+            "Amount": 5.4875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9357,8 +9367,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.22* per serve",
-        "ExclusionsString": "Excluding Onions"
+        "CostString": "4.9 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -9416,7 +9426,7 @@
           "Group": ""
         },
         {
-          "Name": "Onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -9469,8 +9479,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.17,
-        "AmountPerUnit": 0.54,
+        "Amount": 2.92,
+        "AmountPerUnit": 0.73,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -9495,11 +9505,11 @@
             "Extra": ""
           },
           {
-            "Name": "Onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Mushrooms",
@@ -9516,8 +9526,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.54* per unit",
-        "ExclusionsString": "Excluding \\hyperref[rec:Bechamel]{Bechamel sauce}, Onion and Mushrooms"
+        "CostString": "0.73* per unit",
+        "ExclusionsString": "Excluding \\hyperref[rec:Bechamel]{Bechamel sauce} and Mushrooms"
       }
     },
     {
@@ -9735,8 +9745,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.18,
-        "AmountPerUnit": 3.06,
+        "Amount": 9.2,
+        "AmountPerUnit": 3.07,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -9783,7 +9793,7 @@
           },
           {
             "Name": "Vegetable oil",
-            "Amount": 0.168525,
+            "Amount": 0.150525,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9839,13 +9849,13 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.026,
+            "Amount": 0.06,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "3.06 per serve",
+        "CostString": "3.07 per serve",
         "ExclusionsString": ""
       }
     },
@@ -9912,7 +9922,7 @@
           "Group": ""
         },
         {
-          "Name": "Sugar",
+          "Name": "White sugar",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
@@ -9991,11 +10001,16 @@
           "Content": "Stir pasta into sauce and serve."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-05-27T19:30:11.9658516+10:00",
+          "Content": "Done with a pile of olives, threw them in with the garlic, then tomato paste, then added a quarter cup red wine, deglazed then cherry tomatoes and sugar, simmer for 10 minutes. Next time I should add passata and simmer longer maybe. Serving over orecchiettes, trying so hard not to forget to stir them."
+        }
+      ],
       "Timers": [],
       "Cost": {
-        "Amount": 4.63,
-        "AmountPerUnit": 1.16,
+        "Amount": 4.61,
+        "AmountPerUnit": 1.15,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10027,18 +10042,18 @@
             "Extra": ""
           },
           {
-            "Name": "Sugar",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sugar"
+            "Name": "White sugar",
+            "Amount": 0.01295,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cherry tomatoes",
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cherry tomatoes"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:grams"
           },
           {
             "Name": "Tomato paste",
@@ -10049,7 +10064,7 @@
           },
           {
             "Name": "Red wine",
-            "Amount": 0.3839,
+            "Amount": 0.3584625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10076,8 +10091,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.16* per serve",
-        "ExclusionsString": "Excluding Sugar, Cherry tomatoes and Tomato paste"
+        "CostString": "1.15* per serve",
+        "ExclusionsString": "Excluding Cherry tomatoes and Tomato paste"
       }
     },
     {
@@ -10143,7 +10158,7 @@
           "Group": ""
         },
         {
-          "Name": "Egg",
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -10223,8 +10238,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.54,
-        "AmountPerUnit": 0.55,
+        "Amount": 6.98,
+        "AmountPerUnit": 0.58,
         "Unit": "muffins",
         "ItemCosts": [
           {
@@ -10256,18 +10271,18 @@
             "Extra": ""
           },
           {
-            "Name": "Egg",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Egg"
+            "Name": "Eggs",
+            "Amount": 0.43250000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "White vinegar",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: White vinegar"
+            "Amount": 0.003975,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Wholemeal flour",
@@ -10298,8 +10313,8 @@
             "Extra": "In ignored units: a pinch"
           }
         ],
-        "CostString": "0.55* per unit",
-        "ExclusionsString": "Excluding Egg and White vinegar"
+        "CostString": "0.58 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -10373,7 +10388,7 @@
           "Group": ""
         },
         {
-          "Name": "Pita bread",
+          "Name": "Souvlaki wraps",
           "NameDetail": "",
           "Quantity": 4.0,
           "Unit": "whole",
@@ -10417,20 +10432,20 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 14.95,
-        "AmountPerUnit": 3.74,
+        "Amount": 18.6,
+        "AmountPerUnit": 4.65,
         "Unit": "wraps",
         "ItemCosts": [
           {
             "Name": "Halloumi",
-            "Amount": 8.3376,
+            "Amount": 7.984,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Tomato",
-            "Amount": 3.192,
+            "Amount": 7.192,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10439,8 +10454,8 @@
             "Name": "Cucumber",
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cucumber"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:kg"
           },
           {
             "Name": "Red onion",
@@ -10457,7 +10472,7 @@
             "Extra": "Name not found: Tzatziki"
           },
           {
-            "Name": "Pita bread",
+            "Name": "Souvlaki wraps",
             "Amount": 2.8,
             "Success": true,
             "Reason": "",
@@ -10478,7 +10493,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.74* per unit",
+        "CostString": "4.65* per unit",
         "ExclusionsString": "Excluding Cucumber and Tzatziki"
       }
     },
@@ -10663,8 +10678,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.89,
-        "AmountPerUnit": 5.44,
+        "Amount": 10.9,
+        "AmountPerUnit": 5.45,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10732,10 +10747,10 @@
           },
           {
             "Name": "White vinegar",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: White vinegar"
+            "Amount": 0.00795,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "White sugar",
@@ -10745,8 +10760,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.44* per serve",
-        "ExclusionsString": "Excluding White vinegar"
+        "CostString": "5.45 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -10788,7 +10803,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -10796,7 +10811,7 @@
           "Group": ""
         },
         {
-          "Name": "Carrot",
+          "Name": "Carrots",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -10905,8 +10920,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.2,
-        "AmountPerUnit": 1.6,
+        "Amount": 4.19,
+        "AmountPerUnit": 2.1,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10917,18 +10932,18 @@
             "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Carrot",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Carrot"
+            "Name": "Carrots",
+            "Amount": 0.238,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Wombok",
@@ -10994,8 +11009,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.6* per serve",
-        "ExclusionsString": "Excluding Brown onion, Carrot and Soy sauce"
+        "CostString": "2.1* per serve",
+        "ExclusionsString": "Excluding Soy sauce"
       }
     },
     {
@@ -11069,7 +11084,7 @@
           "Group": ""
         },
         {
-          "Name": "Onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -11093,7 +11108,7 @@
           "Group": ""
         },
         {
-          "Name": "Egg",
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -11149,8 +11164,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 13.85,
-        "AmountPerUnit": 2.31,
+        "Amount": 38.06,
+        "AmountPerUnit": 6.34,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -11162,14 +11177,14 @@
           },
           {
             "Name": "Sliced cheese",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sliced cheese"
+            "Amount": 4.1175,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Tomato",
-            "Amount": 1.596,
+            "Amount": 3.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11183,17 +11198,17 @@
           },
           {
             "Name": "Potato chips",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Potato chips"
+            "Amount": 16.895,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Beef mince",
@@ -11210,15 +11225,15 @@
             "Extra": ""
           },
           {
-            "Name": "Egg",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Egg"
+            "Name": "Eggs",
+            "Amount": 0.43250000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Salt",
-            "Amount": 0.013,
+            "Amount": 0.03,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11231,8 +11246,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.31* per unit",
-        "ExclusionsString": "Excluding Sliced cheese, Lettuce, Potato chips, Onion and Egg"
+        "CostString": "6.34* per unit",
+        "ExclusionsString": "Excluding Lettuce"
       }
     },
     {
@@ -11474,8 +11489,8 @@
         }
       ],
       "Cost": {
-        "Amount": 20.33,
-        "AmountPerUnit": 5.08,
+        "Amount": 22.21,
+        "AmountPerUnit": 5.55,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -11494,10 +11509,10 @@
           },
           {
             "Name": "Coriander",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Coriander"
+            "Amount": 0.447,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cumin",
@@ -11522,7 +11537,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.026,
+            "Amount": 0.06,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11543,7 +11558,7 @@
           },
           {
             "Name": "Lemon",
-            "Amount": 0.995,
+            "Amount": 0.395,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11606,7 +11621,7 @@
           },
           {
             "Name": "Tomato",
-            "Amount": 1.596,
+            "Amount": 3.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11626,8 +11641,8 @@
             "Extra": "Name not found: Flatbread"
           }
         ],
-        "CostString": "5.08* per serve",
-        "ExclusionsString": "Excluding Coriander, Cardamom, Lettuce and Flatbread"
+        "CostString": "5.55* per serve",
+        "ExclusionsString": "Excluding Cardamom, Lettuce and Flatbread"
       }
     },
     {
@@ -11992,13 +12007,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.92,
+        "Amount": 7.52,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
           {
             "Name": "Sweet potato",
-            "Amount": 3.885,
+            "Amount": 4.485,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12162,8 +12177,8 @@
         }
       ],
       "Cost": {
-        "Amount": 2.12,
-        "AmountPerUnit": 2.12,
+        "Amount": 2.15,
+        "AmountPerUnit": 2.15,
         "Unit": "loaf",
         "ItemCosts": [
           {
@@ -12189,7 +12204,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.026,
+            "Amount": 0.06,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12202,7 +12217,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.12 per unit",
+        "CostString": "2.15 per unit",
         "ExclusionsString": ""
       }
     },
@@ -12305,7 +12320,7 @@
         }
       ],
       "Cost": {
-        "Amount": 1.58,
+        "Amount": 1.59,
         "AmountPerUnit": 0.26,
         "Unit": "loaves",
         "ItemCosts": [
@@ -12332,7 +12347,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.0065,
+            "Amount": 0.015,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12389,7 +12404,7 @@
           "Group": "sauce"
         },
         {
-          "Name": "Sugar",
+          "Name": "White sugar",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
@@ -12445,7 +12460,7 @@
           "Group": ""
         },
         {
-          "Name": "Carrot",
+          "Name": "Carrots",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -12538,8 +12553,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 11.87,
-        "AmountPerUnit": 4.75,
+        "Amount": 12.12,
+        "AmountPerUnit": 4.85,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -12557,11 +12572,11 @@
             "Extra": ""
           },
           {
-            "Name": "Sugar",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sugar"
+            "Name": "White sugar",
+            "Amount": 0.01295,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Sesame oil",
@@ -12606,11 +12621,11 @@
             "Extra": ""
           },
           {
-            "Name": "Carrot",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Carrot"
+            "Name": "Carrots",
+            "Amount": 0.238,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Wombok",
@@ -12655,8 +12670,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.75* per serve",
-        "ExclusionsString": "Excluding Sugar and Carrot"
+        "CostString": "4.85 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -12714,7 +12729,7 @@
           "Group": ""
         },
         {
-          "Name": "Carrot",
+          "Name": "Carrots",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -12722,7 +12737,7 @@
           "Group": ""
         },
         {
-          "Name": "Brown onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -12819,8 +12834,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 9.94,
-        "AmountPerUnit": 3.31,
+        "Amount": 10.53,
+        "AmountPerUnit": 3.51,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -12845,18 +12860,18 @@
             "Extra": "Couldn't convert unit. From:whole; To:kg"
           },
           {
-            "Name": "Carrot",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Carrot"
+            "Name": "Carrots",
+            "Amount": 0.238,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
-            "Name": "Brown onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brown onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -12867,7 +12882,7 @@
           },
           {
             "Name": "Tomato",
-            "Amount": 1.596,
+            "Amount": 3.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12895,14 +12910,14 @@
           },
           {
             "Name": "Lemon",
-            "Amount": 3.98,
+            "Amount": 1.58,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "3.31* per serve",
-        "ExclusionsString": "Excluding Broccoli, Capsicum, Carrot and Brown onion"
+        "CostString": "3.51* per serve",
+        "ExclusionsString": "Excluding Broccoli and Capsicum"
       }
     },
     {
@@ -12952,7 +12967,7 @@
           "Group": "rice"
         },
         {
-          "Name": "Onion",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -13115,8 +13130,8 @@
         }
       ],
       "Cost": {
-        "Amount": 3.35,
-        "AmountPerUnit": 1.12,
+        "Amount": 4.24,
+        "AmountPerUnit": 1.41,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -13134,11 +13149,11 @@
             "Extra": ""
           },
           {
-            "Name": "Onion",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Onion"
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Ginger",
@@ -13170,10 +13185,10 @@
           },
           {
             "Name": "Coriander",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Coriander"
+            "Amount": 0.149,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cumin",
@@ -13218,8 +13233,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.12* per serve",
-        "ExclusionsString": "Excluding Onion, Coriander, Tomato paste, Chickpeas and Coconut milk"
+        "CostString": "1.41* per serve",
+        "ExclusionsString": "Excluding Tomato paste, Chickpeas and Coconut milk"
       }
     },
     {
@@ -13476,13 +13491,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.12,
-        "AmountPerUnit": 1.12,
+        "Amount": 1.0,
+        "AmountPerUnit": 1.0,
         "Unit": "split",
         "ItemCosts": [
           {
             "Name": "Bananas",
-            "Amount": 1.1225,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13491,8 +13506,8 @@
             "Name": "Icecream",
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Icecream"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:litres"
           },
           {
             "Name": "Chocolate sauce",
@@ -13509,7 +13524,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.12* per unit",
+        "CostString": "1* per unit",
         "ExclusionsString": "Excluding Icecream"
       }
     },
@@ -13584,7 +13599,7 @@
           "Group": ""
         },
         {
-          "Name": "Tortillas",
+          "Name": "White wraps",
           "NameDetail": "",
           "Quantity": 6.0,
           "Unit": "whole",
@@ -13736,8 +13751,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.77,
-        "AmountPerUnit": 0.63,
+        "Amount": 9.42,
+        "AmountPerUnit": 1.57,
         "Unit": "Tacos",
         "ItemCosts": [
           {
@@ -13763,10 +13778,10 @@
           },
           {
             "Name": "Avocado",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Avocado"
+            "Amount": 2.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Shredded cheese",
@@ -13776,11 +13791,11 @@
             "Extra": "In ignored units: to taste"
           },
           {
-            "Name": "Tortillas",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Tortillas"
+            "Name": "White wraps",
+            "Amount": 2.4675000000000002,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic powder",
@@ -13791,10 +13806,10 @@
           },
           {
             "Name": "Coriander",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Coriander"
+            "Amount": 0.149,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cumin",
@@ -13826,7 +13841,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.0195,
+            "Amount": 0.045,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13840,10 +13855,10 @@
           },
           {
             "Name": "Mayonnaise",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Mayonnaise"
+            "Amount": 0.5068681318681325,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Aioli",
@@ -13881,8 +13896,8 @@
             "Extra": "Name not found: Sriracha"
           }
         ],
-        "CostString": "0.63* per unit",
-        "ExclusionsString": "Excluding Beef rump steak, Avocado, Tortillas, Coriander, Chilli flakes, Mayonnaise, Aioli, Lime juice and Sriracha"
+        "CostString": "1.57* per unit",
+        "ExclusionsString": "Excluding Beef rump steak, Chilli flakes, Aioli, Lime juice and Sriracha"
       }
     },
     {
@@ -14100,8 +14115,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 18.03,
-        "AmountPerUnit": 4.51,
+        "Amount": 19.39,
+        "AmountPerUnit": 4.85,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14143,8 +14158,8 @@
             "Name": "Sundried tomatoes",
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sundried tomatoes"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:grams"
           },
           {
             "Name": "Spinach",
@@ -14162,7 +14177,7 @@
           },
           {
             "Name": "Double cream",
-            "Amount": 2.325,
+            "Amount": 3.6583333333333248,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14204,7 +14219,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.0195,
+            "Amount": 0.045,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14238,7 +14253,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.51* per serve",
+        "CostString": "4.85* per serve",
         "ExclusionsString": "Excluding Sundried tomato oil, Sundried tomatoes and Chilli flakes"
       }
     },
@@ -14448,8 +14463,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.21,
-        "AmountPerUnit": 3.05,
+        "Amount": 13.57,
+        "AmountPerUnit": 3.39,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14477,8 +14492,8 @@
             "Name": "Sundried tomatoes",
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sundried tomatoes"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:grams"
           },
           {
             "Name": "Spinach",
@@ -14489,7 +14504,7 @@
           },
           {
             "Name": "Double cream",
-            "Amount": 2.325,
+            "Amount": 3.6583333333333248,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14531,7 +14546,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.0195,
+            "Amount": 0.045,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14565,7 +14580,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.05* per serve",
+        "CostString": "3.39* per serve",
         "ExclusionsString": "Excluding Sundried tomatoes and Chilli flakes"
       }
     },
@@ -14760,16 +14775,16 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 5.24,
-        "AmountPerUnit": 0.44,
+        "Amount": 12.57,
+        "AmountPerUnit": 1.05,
         "Unit": "sausage sandwiches",
         "ItemCosts": [
           {
             "Name": "Sausages",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sausages"
+            "Amount": 7.326666666666666,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Brown onions",
@@ -14814,8 +14829,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.44* per unit",
-        "ExclusionsString": "Excluding Sausages"
+        "CostString": "1.05 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -14906,30 +14921,30 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 0.0,
-        "AmountPerUnit": 0.0,
+        "Amount": 23.03,
+        "AmountPerUnit": 11.52,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Sausages",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sausages"
+            "Amount": 3.663333333333333,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Potato chips",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Potato chips"
+            "Amount": 16.895,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "White wraps",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: White wraps"
+            "Amount": 2.4675000000000002,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Tomato sauce",
@@ -14946,8 +14961,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0* per serve",
-        "ExclusionsString": "Excluding Sausages, Potato chips and White wraps"
+        "CostString": "11.52 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -15065,8 +15080,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 12.96,
-        "AmountPerUnit": 1.62,
+        "Amount": 14.81,
+        "AmountPerUnit": 1.85,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -15092,10 +15107,10 @@
           },
           {
             "Name": "Dijon mustard",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dijon mustard"
+            "Amount": 0.204473684210526,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Oregano",
@@ -15106,17 +15121,17 @@
           },
           {
             "Name": "Thyme",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Thyme"
+            "Amount": 1.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Coriander",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Coriander"
+            "Amount": 0.149,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Puff pastry",
@@ -15126,8 +15141,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.62* per unit",
-        "ExclusionsString": "Excluding Dijon mustard, Thyme and Coriander"
+        "CostString": "1.85 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -15313,7 +15328,7 @@
           "Group": "yoghurt sauce"
         },
         {
-          "Name": "Tomatoes",
+          "Name": "Tomato",
           "NameDetail": "Roma",
           "Quantity": 6.0,
           "Unit": "whole",
@@ -15431,8 +15446,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 10.72,
-        "AmountPerUnit": 2.68,
+        "Amount": 31.22,
+        "AmountPerUnit": 7.8,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15451,10 +15466,10 @@
           },
           {
             "Name": "Apple cider vinegar",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Apple cider vinegar"
+            "Amount": 0.0957,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Bay leaves",
@@ -15465,17 +15480,17 @@
           },
           {
             "Name": "Cinnamon sticks",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cinnamon sticks"
+            "Amount": 0.38,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cardamom pods",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cardamom pods"
+            "Amount": 0.11199999999999999,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cloves",
@@ -15493,17 +15508,17 @@
           },
           {
             "Name": "Pine nuts",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Pine nuts"
+            "Amount": 5.8625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Sliced almonds",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sliced almonds"
+            "Amount": 3.116071428571425,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Olive oil",
@@ -15556,10 +15571,10 @@
           },
           {
             "Name": "Mint",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Mint"
+            "Amount": 0.75,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Salt",
@@ -15569,18 +15584,18 @@
             "Extra": "In ignored units: to taste"
           },
           {
-            "Name": "Tomatoes",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Tomatoes"
+            "Name": "Tomato",
+            "Amount": 10.788,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cucumber",
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cucumber"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:kg"
           },
           {
             "Name": "Red onion",
@@ -15626,7 +15641,7 @@
           },
           {
             "Name": "Pita bread",
-            "Amount": 1.4,
+            "Amount": 0.796,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15639,8 +15654,8 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "2.68* per serve",
-        "ExclusionsString": "Excluding Apple cider vinegar, Bay leaves, Cinnamon sticks, Cardamom pods, Cloves, Pine nuts, Sliced almonds, Sumac, Mint, Tomatoes, Cucumber, Parsley and Sumac"
+        "CostString": "7.8* per serve",
+        "ExclusionsString": "Excluding Bay leaves, Cloves, Sumac, Cucumber, Parsley and Sumac"
       }
     },
     {
@@ -15823,8 +15838,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.24,
-        "AmountPerUnit": 4.06,
+        "Amount": 23.3,
+        "AmountPerUnit": 5.82,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15836,14 +15851,14 @@
           },
           {
             "Name": "Iceberg lettuce",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Iceberg lettuce"
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Tomato",
-            "Amount": 3.192,
+            "Amount": 7.192,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15864,17 +15879,17 @@
           },
           {
             "Name": "Mayonnaise",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Mayonnaise"
+            "Amount": 2.0274725274725274,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Dijon mustard",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dijon mustard"
+            "Amount": 0.136315789473684,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Worcestershire sauce",
@@ -15899,7 +15914,7 @@
           },
           {
             "Name": "Lemon",
-            "Amount": 0.995,
+            "Amount": 0.395,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15926,8 +15941,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.06* per serve",
-        "ExclusionsString": "Excluding Iceberg lettuce, Mayonnaise and Dijon mustard"
+        "CostString": "5.82 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -16150,8 +16165,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.18,
-        "AmountPerUnit": 2.7,
+        "Amount": 22.3,
+        "AmountPerUnit": 3.72,
         "Unit": "burritos",
         "ItemCosts": [
           {
@@ -16226,7 +16241,7 @@
           },
           {
             "Name": "Tomato",
-            "Amount": 0.798,
+            "Amount": 1.798,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16240,31 +16255,31 @@
           },
           {
             "Name": "Iceberg lettuce",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Iceberg lettuce"
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Avocado",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Avocado"
+            "Amount": 2.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Lemon",
-            "Amount": 0.995,
+            "Amount": 0.395,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "White wraps",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: White wraps"
+            "Amount": 2.4675000000000002,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Shredded cheese",
@@ -16281,8 +16296,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.7* per unit",
-        "ExclusionsString": "Excluding Tomato paste, Iceberg lettuce, Avocado and White wraps"
+        "CostString": "3.72* per unit",
+        "ExclusionsString": "Excluding Tomato paste"
       }
     },
     {
@@ -16502,8 +16517,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.51,
-        "AmountPerUnit": 2.63,
+        "Amount": 32.5,
+        "AmountPerUnit": 8.12,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -16536,7 +16551,7 @@
           },
           {
             "Name": "Sweet potato",
-            "Amount": 0.6475,
+            "Amount": 0.7475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16585,24 +16600,24 @@
           },
           {
             "Name": "Cos lettuce",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cos lettuce"
+            "Amount": 0.24875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Tomato",
-            "Amount": 1.596,
+            "Amount": 3.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Potato chips",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Potato chips"
+            "Amount": 16.895,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Brioche buns",
@@ -16613,14 +16628,14 @@
           },
           {
             "Name": "Sliced cheese",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Sliced cheese"
+            "Amount": 2.745,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "2.63* per unit",
-        "ExclusionsString": "Excluding Cos lettuce, Potato chips and Sliced cheese"
+        "CostString": "8.12 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -16880,8 +16895,8 @@
         }
       ],
       "Cost": {
-        "Amount": 14.24,
-        "AmountPerUnit": 2.85,
+        "Amount": 14.29,
+        "AmountPerUnit": 2.86,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -16921,7 +16936,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.026,
+            "Amount": 0.06,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16977,7 +16992,7 @@
           },
           {
             "Name": "Salt",
-            "Amount": 0.026,
+            "Amount": 0.06,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16998,7 +17013,7 @@
           },
           {
             "Name": "Red wine",
-            "Amount": 0.2908333333333325,
+            "Amount": 0.2715625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17018,7 +17033,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.85 per serve",
+        "CostString": "2.86 per serve",
         "ExclusionsString": ""
       }
     },
@@ -17378,16 +17393,16 @@
         }
       ],
       "Cost": {
-        "Amount": 4.68,
-        "AmountPerUnit": 0.94,
+        "Amount": 7.18,
+        "AmountPerUnit": 1.44,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Butternut pumpkin",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Butternut pumpkin"
+            "Amount": 2.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Potatoes",
@@ -17432,8 +17447,8 @@
             "Extra": "Name not found: Rosemary"
           }
         ],
-        "CostString": "0.94* per serve",
-        "ExclusionsString": "Excluding Butternut pumpkin, Ground ginger and Rosemary"
+        "CostString": "1.44* per serve",
+        "ExclusionsString": "Excluding Ground ginger and Rosemary"
       }
     }
   ]
