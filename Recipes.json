@@ -1267,7 +1267,12 @@
           "Content": "Bake in the oven for 15-20 minutes until cheese is browned"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-07-07T23:40:58.1647422+10:00",
+          "Content": "Did a vego version tonight. Diced an onion and most of a capsicum, fried in a large pot. Preheated oven to 200. Added tiny can of corn, a can each of red and black beans as well as taco spice mix and salt & pepper. Fried for a little bit then added a jar of aldi mild salsa and simmered a little longer. Layered in blue enamelled tray sauce chips cheese sauce cheese chips cheese sauce cheese chips etc. Baked for 25 min until brown. Ate with incorrect gauc (with cucumber) and fresh lime to squeeze. Used corn chips from Fireworks Foods."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },

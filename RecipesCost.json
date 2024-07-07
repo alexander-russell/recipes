@@ -7677,6 +7677,14 @@
         {
           "Date": "2024-06-05T22:50:29.2733067+10:00",
           "Content": "Cooked for first time. Followed recipe as written and it turned out really nice. Not wet, fluffy and very consistent texture, slightly sticky and not too sweet. Used 2 small oranges from the community garden and the cake was still plenty orangey. Whisked eggs in mixmaster then threw everything else on top. Had only 215g almond meal so added 35g plain flour. Baked for approx 45 min but forgot to time. Served with double cream. Butter + flour worked great, fell straight out of glass floretted dish I used, but could sieve flour onto butter next time. Rose a little. Cake is probably 20cm by 2cm or so round."
+        },
+        {
+          "Date": "2024-06-16T08:55:49.4720978+10:00",
+          "Content": "Cooked yesterday in morning for Claudia's birthday picnic. Made it probably GF & DF by switching out the tin lining for margarine and almond meal but it didn't come out of the pan. No problem though, easy enough to slice from in there. Also added a quarter cup of poppy seeds. Didn't really like what it did to the flavour and it makes the colour more grey, but I think thats just me. It was wetter with 100% almond meal. I reckon I'll do it again with the 35 grams flour substituted."
+        },
+        {
+          "Date": "2024-06-16T08:59:08.5268774+10:00",
+          "Content": "It baked for about 45 min again."
         }
       ],
       "Timers": [],
@@ -10005,6 +10013,10 @@
         {
           "Date": "2024-05-27T19:30:11.9658516+10:00",
           "Content": "Done with a pile of olives, threw them in with the garlic, then tomato paste, then added a quarter cup red wine, deglazed then cherry tomatoes and sugar, simmer for 10 minutes. Next time I should add passata and simmer longer maybe. Serving over orecchiettes, trying so hard not to forget to stir them."
+        },
+        {
+          "Date": "2024-06-25T14:03:31.3322939+10:00",
+          "Content": "Made this sauce for a spinach ricotta ravioli and it was delicious. Did one really big onion and used huge spanish garlic. Plenty of oil. Added 2 tbsp tomato paste soon after garlic, with heat pretty high, cooked it a bit. Then added maybe 1/3 cup red cask wine, properly fried it off for a bit before adding 3 cans diced tomatoes and half a can worth of water. simmered it for a good 15 min then added peas then stirred in the cooked ravioli (had a second pot boiling the ravioli). Squashed the tomatoes against the side of the pot a bit to try and get it a little thinner. Simmered with lid on mostly."
         }
       ],
       "Timers": [],
@@ -11164,8 +11176,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 38.06,
-        "AmountPerUnit": 6.34,
+        "Amount": 23.06,
+        "AmountPerUnit": 3.84,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -11198,7 +11210,7 @@
           },
           {
             "Name": "Potato chips",
-            "Amount": 16.895,
+            "Amount": 1.895,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11246,7 +11258,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "6.34* per unit",
+        "CostString": "3.84* per unit",
         "ExclusionsString": "Excluding Lettuce"
       }
     },
@@ -14921,8 +14933,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 23.03,
-        "AmountPerUnit": 11.52,
+        "Amount": 8.03,
+        "AmountPerUnit": 4.01,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14934,7 +14946,7 @@
           },
           {
             "Name": "Potato chips",
-            "Amount": 16.895,
+            "Amount": 1.895,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14961,7 +14973,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "11.52 per serve",
+        "CostString": "4.01 per serve",
         "ExclusionsString": ""
       }
     },
@@ -16517,8 +16529,8 @@
         }
       ],
       "Cost": {
-        "Amount": 32.5,
-        "AmountPerUnit": 8.12,
+        "Amount": 17.5,
+        "AmountPerUnit": 4.38,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -16614,7 +16626,7 @@
           },
           {
             "Name": "Potato chips",
-            "Amount": 16.895,
+            "Amount": 1.895,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16634,7 +16646,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.12 per unit",
+        "CostString": "4.38 per unit",
         "ExclusionsString": ""
       }
     },
