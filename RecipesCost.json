@@ -1872,7 +1872,12 @@
           "Content": "Bake in the oven for 15-20 minutes until cheese is browned"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-07-07T23:40:58.1647422+10:00",
+          "Content": "Did a vego version tonight. Diced an onion and most of a capsicum, fried in a large pot. Preheated oven to 200. Added tiny can of corn, a can each of red and black beans as well as taco spice mix and salt & pepper. Fried for a little bit then added a jar of aldi mild salsa and simmered a little longer. Layered in blue enamelled tray sauce chips cheese sauce cheese chips cheese sauce cheese chips etc. Baked for 25 min until brown. Ate with incorrect gauc (with cucumber) and fresh lime to squeeze. Used corn chips from Fireworks Foods."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 18.67,
@@ -2712,7 +2717,7 @@
         {
           "Name": "Peas",
           "NameDetail": "frozen",
-          "Quantity": 2.0,
+          "Quantity": 1.0,
           "Unit": "cups",
           "UnitDetail": "",
           "Group": ""
@@ -2784,25 +2789,28 @@
       ],
       "Steps": [
         {
-          "Content": "Salt and boil water, cook pasta for 12 minutes and drain."
+          "Content": "Salt and boil water, cook pasta for 12 minutes and drain. Place back in pot."
         },
         {
-          "Content": "Dice onion, bacon and garlic. Slice mushroom (5mm)."
+          "Content": "Dice onion (1cm), bacon (1cm). Slice garlic (thinly). Slice mushroom (5mm)."
         },
         {
-          "Content": "On medium high heat, add onion, bacon, mushroom then garlic in succession, adding a new item once the previous has browned a little."
+          "Content": "Add bacon, fry 3 min. mushroom then garlic in succession, adding a new item once the previous has browned a little."
         },
         {
-          "Content": "Add cream, worcestershire, soy sauce, salt and pepper."
+          "Content": "Add mushroom, fry 2 min."
         },
         {
-          "Content": "Throw in peas and mix."
+          "Content": "Add garlic, fry 10 sec."
         },
         {
-          "Content": "Stir on medium heat to thicken and slightly colour."
+          "Content": "Stir in cream, worcestershire, soy sauce, salt and pepper. Fry for 4 min."
         },
         {
-          "Content": "Add pasta, mix and serve."
+          "Content": "Throw in peas and mix. Simmer for 4 min. "
+        },
+        {
+          "Content": "Add to pasta, mix and serve."
         }
       ],
       "Diary": null,
@@ -2813,8 +2821,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.8,
-        "AmountPerUnit": 3.2,
+        "Amount": 12.16,
+        "AmountPerUnit": 3.04,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -2833,7 +2841,7 @@
           },
           {
             "Name": "Peas",
-            "Amount": 1.295,
+            "Amount": 0.6475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2895,7 +2903,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.2 per serve",
+        "CostString": "3.04 per serve",
         "ExclusionsString": ""
       }
     },
@@ -9086,10 +9094,10 @@
       ],
       "Steps": [
         {
-          "Content": "Mix yeast, 1 tsp flour, 1 tsp sugar, 0.5 cup warm water in a glass and wait for bubbles."
+          "Content": "Mix yeast, @1 tsp flour, @1 tsp sugar, @0.5 cup warm water in a glass and wait for bubbles."
         },
         {
-          "Content": "Sift flour into remaining sugar and salt, make a well and pour in yeast mix and remaining 2 cups warm water."
+          "Content": "Sift flour into remaining sugar and salt, make a well and pour in yeast mix and remaining @2 cups warm water."
         },
         {
           "Content": "Mix well and then knead until \"smooth, satiny and not sticky\", until dough springs back when pressed."
@@ -9101,7 +9109,7 @@
           "Content": "Preheat oven to 240 degrees (not fan-forced)."
         },
         {
-          "Content": "Flour 2 loaf pans."
+          "Content": "Flour @2 loaf pans."
         },
         {
           "Content": "Turn out bread, lightly knead and then roll flat into rectangle as wide as tins are long."
