@@ -798,36 +798,36 @@
       "Name": "Chicken Schnitzel",
       "Type": "Main",
       "Category": "Cutlets",
-      "Cuisine": "Austrian",
+      "Cuisine": "",
       "Key": "Chicken",
       "Yield": {
-        "Quantity": 4.0,
+        "Quantity": 6.0,
         "Unit": "serves",
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 120.0,
         "Extra": ""
       },
-      "Difficulty": 1,
+      "Difficulty": 3,
       "Bulk": true,
       "Favourite": true,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Mum. Goes best with \\hyperref[rec:Mashed Potato]{Mashed Potato} and a simple \\hyperref[rec:Garden Salad]{Garden Salad}. Easily scalable and keeps well. Good for low quality chicken.",
+      "Note": "From Mum, one of the first things I remember being able to cook with any confidence. In most of the places I've lived in, part of the preparation for this is taking the battery out of the smoke detector. Cooked for Aunty when we lived in Five Dock. The oil and the burnt bits are part of it. Serve with mash, peas and tomato sauce.",
       "Image": "Local",
       "Items": [
         {
           "Name": "Chicken breast",
           "NameDetail": "",
-          "Quantity": 1.0,
+          "Quantity": 2.0,
           "Unit": "kg",
           "UnitDetail": "",
           "Group": ""
@@ -835,39 +835,62 @@
         {
           "Name": "Eggs",
           "NameDetail": "",
-          "Quantity": 2.0,
+          "Quantity": 4.0,
           "Unit": "whole",
-          "UnitDetail": "",
+          "UnitDetail": "plus spare",
           "Group": ""
         },
         {
           "Name": "Breadcrumbs",
           "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "plus spare",
+          "Group": ""
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "cups",
-          "UnitDetail": "",
+          "UnitDetail": "egregious",
           "Group": ""
         }
       ],
       "Steps": [
         {
-          "Content": "Lay the breasts out flat and cut horizontally across into large thin slices"
+          "Content": "Lay the breasts out flat and cut horizontally across into large thin slices, 5mm or so. You could tenderise with the meat hammer. Pile onto a plate."
         },
         {
-          "Content": "If lumps and irregularities remain, beat with a meat hammer"
+          "Content": "Lay out 2 large bowls and a plate. Crack eggs into first bowl and beat lightly with fork. Pour breadcrumbs into second bowl."
         },
         {
-          "Content": "Crack eggs into large flat bowl and mix, pour breadcrumbs into another of the same bowls"
+          "Content": "Individually dredge each slice of chicken through the egg, then the breadcrumbs, then place on plate."
         },
         {
-          "Content": "Individually roll each slice of chicken through the egg, then the breadcrumbs"
+          "Content": "Heat 0.25 cup oil to smoking in each of two large frying pans over a notch less than highest heat. Set out another plate and lay 2 sheets paper towel onto it."
         },
         {
-          "Content": "Shallow fry (High heat, lots of oil) in a pan until golden brown"
+          "Content": "Place 2 large schnitzels or equivalent into each pan in a single layer with space around them."
+        },
+        {
+          "Content": "Fry for 3 minutes, then flip and fry for another 2 minutes. Less if thin or only one in the pan. Remove to paper towel lined plate, cover with another 2 sheets paper towel and lightly press."
+        },
+        {
+          "Content": "Repeat frying until schnitzels are all cooked, quickly replenishing the pans with another scant 0.25 cup oil each time. Allow the burnt crumbs to build up in the pan. Expect 5 batches."
         }
       ],
       "Diary": null,
-      "Timers": [],
+      "Timers": [
+        {
+          "Name": "Flip",
+          "Seconds": 180
+        },
+        {
+          "Name": "Done",
+          "Seconds": 120
+        }
+      ],
       "Cost": null
     },
     {
@@ -6940,7 +6963,7 @@
           "NameDetail": "",
           "Quantity": 300.0,
           "Unit": "grams",
-          "UnitDetail": "(@2 whole)",
+          "UnitDetail": "@2 whole",
           "Group": ""
         },
         {
