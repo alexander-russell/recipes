@@ -10558,9 +10558,9 @@
         {
           "Name": "Chicken thigh",
           "NameDetail": "",
-          "Quantity": 150.0,
+          "Quantity": 300.0,
           "Unit": "grams",
-          "UnitDetail": "",
+          "UnitDetail": "(@2 whole)",
           "Group": ""
         },
         {
@@ -10601,7 +10601,7 @@
           "Quantity": 1.0,
           "Unit": "tbsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Dark soy sauce",
@@ -10609,7 +10609,7 @@
           "Quantity": 2.0,
           "Unit": "tsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "Oyster sauce",
@@ -10617,7 +10617,7 @@
           "Quantity": 1.5,
           "Unit": "tbsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "White vinegar",
@@ -10625,7 +10625,7 @@
           "Quantity": 2.0,
           "Unit": "tsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         },
         {
           "Name": "White sugar",
@@ -10633,7 +10633,7 @@
           "Quantity": 2.0,
           "Unit": "tsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "sauce"
         }
       ],
       "Steps": [
@@ -10644,19 +10644,19 @@
           "Content": "Place noodles in a large bowl and pour over boiling water. Sit for a few min then drain."
         },
         {
-          "Content": "Dice garlic very finely. Separate gai lan stems from leaves. Chop stems to 5cm and cut leaves into large strips."
+          "Content": "Dice garlic very finely. Separate gai lan stems from leaves. Chop stems to 5cm and cut leaves into large strips. Cut chicken into medium-long thin strips."
         },
         {
-          "Content": "Mix soy sauces, oyster sauce, white vinegar and white sugar in a bowl until combined."
+          "Content": "Mix sauce ingredients in a bowl until combined."
         },
         {
-          "Content": "Heat 1 tbsp oil in frying pan on maximum heat."
+          "Content": "Heat @1 tbsp oil in frying pan on maximum heat."
         },
         {
           "Content": "Add garlic, stir for 10 seconds until golden."
         },
         {
-          "Content": "Add chicken, cook for 30 seconds until white but still raw."
+          "Content": "Add chicken, cook for 60 seconds until white but still raw."
         },
         {
           "Content": "Add gai lan stems, cook 1 minute."
@@ -10665,10 +10665,10 @@
           "Content": "Add gai lan leaves, stir for 20 seconds until just wilted."
         },
         {
-          "Content": "Push pan contents to side and crack eggs in, scramble them then transfer all contents to plate."
+          "Content": "Push pan contents to side and crack eggs in, scramble them then transfer pan contents to plate."
         },
         {
-          "Content": "Heat 2 tbsp oil in pan to smoking, then add cooked noodles and sauce and toss sparingly for 2 minutes."
+          "Content": "Heat 2 tbsp oil in pan to smoking, then add cooked noodles and sauce and toss sparingly and with care for 2 minutes using 2 pan tools."
         },
         {
           "Content": "Combine ingredients and serve right away."
@@ -10682,7 +10682,7 @@
         },
         {
           "Name": "Chicken",
-          "Seconds": 30
+          "Seconds": 60
         },
         {
           "Name": "Stems",
@@ -10698,8 +10698,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.9,
-        "AmountPerUnit": 5.45,
+        "Amount": 12.7,
+        "AmountPerUnit": 6.35,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10711,7 +10711,7 @@
           },
           {
             "Name": "Chicken thigh",
-            "Amount": 1.7985,
+            "Amount": 3.597,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10780,7 +10780,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.45 per serve",
+        "CostString": "6.35 per serve",
         "ExclusionsString": ""
       }
     },
@@ -12184,6 +12184,10 @@
         {
           "Date": "2024-04-28T11:01:46.1633396+10:00",
           "Content": "For the very warm water, today I measured it and did 40 degrees."
+        },
+        {
+          "Date": "2024-08-06T18:53:21.7244467+10:00",
+          "Content": "Trying to make baguettes ish to have with risotto. Made normally up until turning it out. Then I split it in half, left one in the bowl for later. With the other, did the usual flour and fold, but folded and rolled and floured more until it was a long roll, then shaped it a little more and put it on a tray on baking paper. set oven to max heat and baked for 20 minutes. It baked more unevenly than usual so I've turned it and am giving it another 10 min."
         }
       ],
       "Timers": [
