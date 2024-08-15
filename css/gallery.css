@@ -10,29 +10,34 @@ body {
     /* justify-content: center; */
     align-items: center;
     /* min-width: 100%; */
-    max-width: 100%;
     width: 100%;
+    max-width: 100%;
     /* border: 1px solid green; */
 }
 
 .gallery {
     display: flex;
     flex-direction: row;
-    flex-grow: 0;
-    justify-content: left;
-    align-items: center;
-    width: 100%;
-    /* max-width: 100%; */
     height: 60%;
+    overflow: hidden;
+    position: fixed;
+    left: 0px;
+    /* flex-grow: 0; */
+    /* justify-content: left; */
+    /* align-items: center; */
+    /* width: 100%; */
+    /* max-width: 100%; */
     /* height: 10px; */
     /* overflow: scroll; */
 }
 
 
 .gallery>div {
-    /* position: fixed; */
-    display: inline-block;
-    height: 100%;
+    display: flex;
+    min-width: 45vh;
+    /* min-width: 0px; */
+    /* line-height: 0; */
+    /* height: 100%; */
     /* padding: 10px; */
     /* position: relative; */
     /* background-color: darkcyan; */
@@ -40,19 +45,32 @@ body {
 }
 
 .gallery>div>a {
-    min-width: 0px;
-    display: inline-block;
-    height: 100%;
+    display: flex;
+    width: 100%;
+    /* min-width: 0px; */
+    /* display: inline-block; */
+    /* line-height: 0; */
+    /* height: 100%; */
     /* border: 1px solid greenyellow; */
 }
 
-.gallery>div>a>img {
+.gallery img {
+    /* display: ; */
+    /* display: inline-block; */
     height: 100%;
+    width: 100%;
+    object-fit: cover;
     /* max-height: 100px; */
-    width: 45vh;
-    object-fit: contain;
+    /* width: 45vh; */
+    /* width: auto; */
+    /* width: 100%; */
+    /* object-fit: contain; */
     /* max-width: 100%; */
     /* border: 1px solid blue; */
+}
+
+.gallery>div>a>img.fixed-width {
+    /* width: 45vh;  */
 }
 
 .gallery:hover>div>a>img {

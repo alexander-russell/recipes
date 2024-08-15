@@ -1,10 +1,15 @@
 const galleryElement = document.querySelector(".gallery");
+const galleryItemQueue = [];
+const imageMinAspectRatio = 4 / 3;
+let loadsNeededBeforeTranslate = 0;
+let galleryItemLoadCount = 0;
+const galleryItemLoadCountMax = 5;
 let recipeBook;
 let translateInterval;
 
 function startTranslate() {
     if (!translateInterval) {
-        translateInterval = setInterval(manageGallery, 10);
+        translateInterval = setInterval(manageGallery, 1);
     }
 }
 
@@ -24,113 +29,131 @@ fetch("RecipesCost.json")
 function start() {
     // Load all images into DOM
     loadGallery(recipeBook.Recipes);
-
-    // Add listener to last element
-    galleryElement.lastChild.childNodes[0].childNodes[0].addEventListener("load", () => {
-        // alert();
-        console.log(galleryElement.lastChild);
-        initialiseGallery();
-        startTranslate();
-    });
 }
 
 function loadGallery(recipes) {
-    console.log("loading");
-    for (const recipe of recipes) {
-        // Determine image address
-        let imageAddress = null;
-        if (recipe.Image == "Local") {
-            imageAddress = `Gallery/${recipe.Name}.jpg`;
+    // Calculate approximate minimum images needed to fill screen, assuming minimum aspect ratio, and using gallery height as image height
+    const minImageCount = Math.ceil(window.innerWidth / (galleryElement.offsetHeight / imageMinAspectRatio));
 
-        }
-        else if (recipe.image != "") {
-            imageAddress = recipe.image;
-        }
+    // Update first screen image load count
+    loadsNeededBeforeTranslate = minImageCount;
 
-        // If image found, create image elements
-        if (imageAddress != null) {
-            // Create image wrapper
-            const imageWrapper = document.createElement("div");
-            imageWrapper.setAttribute("leftInt", 0);
-            imageWrapper.style.left = `${imageWrapper.getAttribute("leftInt")}px`;
-            galleryElement.appendChild(imageWrapper);
+    // Get recipes containing images
+    recipes = recipes.filter((recipe) => {
+        return recipe.Image !== ""
+    })
 
-            // Create link wrapper
-            const imageLinkElement = document.createElement("a");
-            imageLinkElement.href = `/recipes/display?recipe=${recipe.Name}`;
-            imageWrapper.appendChild(imageLinkElement);
+    // Randomise order of images (do a dodgy 'random' shuffle for code simplicity)
+    recipes = recipes.sort(() => Math.random() - 0.5);
 
-            // Create actual image
-            const imageElement = document.createElement("img");
-            imageElement.setAttribute("src", imageAddress);
-            imageLinkElement.appendChild(imageElement);
+    // Load, or queue the load of, each gallery item
+    for (let i = 0; i < recipes.length; i++) {
+        // Make the structure for the image
+        const imageElement = createGalleryItem(recipes[i].Name);
 
-            // Handle png
-            imageElement.addEventListener("error", () => {
-                if (imageElement.src.match(".jpg")) {
-                    // Try for .png
-                    imageElement.src = imageElement.src.replace(".jpg", ".png");
-                } else {
-                    // Remove event listener
-                    imageElement.addEventListener("error", () => { });
-                }
-            });
+        // Load the first minImageCount right away, queue the rest
+        if (i < minImageCount) {
+            loadGalleryImage(imageElement, recipes[i]);
+        } else {
+            queueGalleryImage(imageElement, recipes[i]);
         }
     }
+}
 
+function createGalleryItem(recipeName) {
+    // Create image wrapper
+    const imageWrapper = document.createElement("div");
+    galleryElement.appendChild(imageWrapper);
+
+    // Create link wrapper
+    const imageLinkElement = document.createElement("a");
+    imageLinkElement.href = `/recipes/display?recipe=${recipeName}`;
+    imageWrapper.appendChild(imageLinkElement);
+
+    // Create actual image
+    const imageElement = document.createElement("img");
+    imageLinkElement.appendChild(imageElement);
+
+    // Send back imageElement for later use
+    return imageElement
+}
+
+function queueGalleryImage(imageElement, recipe) {
+    // Put this imageElement and recipe onto the queue
+    galleryItemQueue.push({
+        imageElement: imageElement,
+        recipe: recipe
+    });
+}
+
+function loadGalleryImage(imageElement, recipe) {
+    // Increment load counter
+    galleryItemLoadCount++;
+
+    // Determine image address (where Local means look in gallery folder by recipe name, and any other value is a web link)
+    let imageAddress = null;
+    if (recipe.Image == "Local") {
+        // BUG absolute path for debug
+        // imageAddress = `Gallery/${recipe.Name}.jpg`;
+        imageAddress = `https://alexanderrussell.com.au/recipes/Gallery/${recipe.Name}.jpg`;
+    }
+    else if (recipe.Image != "") {
+        imageAddress = recipe.Image;
+    }
+
+    // Load image source
+    imageElement.setAttribute("src", imageAddress);
+
+    imageElement.addEventListener("load", () => {
+        // Decrement load counter
+        galleryItemLoadCount--;
+
+        // Decrement loads before translate can start counter
+        loadsNeededBeforeTranslate--;
+
+        // Check whether ready to start translate
+        if (loadsNeededBeforeTranslate == 0) {
+            initialiseGallery();
+            startTranslate();
+        }
+
+        // Service load queue
+        if (galleryItemQueue.length > 0) {
+            if (galleryItemLoadCount < galleryItemLoadCountMax) {
+                galleryItem = galleryItemQueue.shift();
+                loadGalleryImage(galleryItem.imageElement, galleryItem.recipe);
+            }
+        }
+    })
 }
 
 function initialiseGallery() {
-    console.log("initialising");
-    // Set fixed positioning of all images based on loaded width
-    let sumWidth = 0;
-    for (const item of galleryElement.children) {
-        item.setAttribute("leftInt", sumWidth);
-        item.style.left = `${item.getAttribute("leftInt")}px`;
-        item.style.position = "fixed";
-        item.style.height = "60%";
-        sumWidth += item.childNodes[0].childNodes[0].width - 1;
-    }
+    // Set property to store left value for gallery position
+    galleryElement.setAttribute("leftInt", 0);
 
     // Handle mouseover (stop animation)
     galleryElement.addEventListener("mouseover", () => {
         stopTranslate();
     });
 
+    // Handle mouseout (start animation)
     galleryElement.addEventListener("mouseout", () => {
         startTranslate();
     });
 }
 
 function manageGallery() {
-    console.log("managing");
-    for (item of galleryElement.children) {
-        // Get current left and decrement it
-        let leftInt = +item.getAttribute("leftInt");
-        leftInt -= 1;
-        item.setAttribute("leftInt", leftInt);
-        // Get width
-        const itemImage = item.children[0].children[0];
-        const imageWidth = itemImage.width;
+    // Calculate new gallery position
+    let galleryPosition = +galleryElement.getAttribute("leftInt");
+    galleryPosition -= 5;
 
-        // Update position
-        item.style.left = `${leftInt}px`;
-
-        // Send to back
-        if (leftInt + imageWidth <= 0) {
-            // Get details about current last item
-            const lastItem = galleryElement.lastChild;
-            const lastItemImage = lastItem.children[0].children[0];
-            const lastItemLeftInt = +lastItem.getAttribute("leftInt");
-            const lastItemWidth = lastItemImage.width;
-
-            // Move this to last
-            galleryElement.appendChild(item);
-
-            // Update position
-            leftInt = lastItemLeftInt + lastItemWidth;
-            item.setAttribute("leftInt", leftInt);
-            item.style.left = `${leftInt}px`;
-        }
+    // If image will have moved to left of screen, move to end of row and reset gallery position to 0
+    if (galleryPosition + galleryElement.children[0].offsetWidth < 0) {
+        galleryElement.appendChild(galleryElement.children[0]);
+        galleryPosition = 0;
     }
+
+    // Update gallery position
+    galleryElement.setAttribute("leftInt", galleryPosition);
+    galleryElement.style.left = `${galleryPosition}px`;
 }
