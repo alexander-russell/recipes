@@ -1,8 +1,3 @@
-//Plan:
-// then with all that, build an index.html page
-// and maybe a gallery.html page 
-
-
 const recipeWrapper = document.querySelector(".recipe-wrapper")
 const recipeImageBackground = document.querySelector(".recipe-image-background");
 const costAttributeExtraWrapper = document.querySelector(".cost-attribute-extra-wrapper");
@@ -51,7 +46,7 @@ async function start() {
         recipesFiltered = recipeBook.Recipes.filter((currentValue) => {
             const active = !currentValue.Retired;
             const nameMatch =
-            currentValue.Name.toLowerCase().includes(recipeName.toLowerCase());
+                currentValue.Name.toLowerCase().includes(recipeName.toLowerCase());
             return active && nameMatch;
         });
 
