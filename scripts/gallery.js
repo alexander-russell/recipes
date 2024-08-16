@@ -44,7 +44,7 @@ function loadGallery(recipes) {
     })
 
     // Randomise order of images (do a dodgy 'random' shuffle for code simplicity)
-    recipes = recipes.sort(() => Math.random() - 0.5);
+    shuffleFisherYates(recipes);
 
     // Load, or queue the load of, each gallery item
     for (let i = 0; i < recipes.length; i++) {
@@ -172,3 +172,33 @@ function manageGallery() {
     galleryElement.setAttribute("leftInt", galleryPosition);
     galleryElement.style.left = `${galleryPosition}px`;
 }
+
+function shuffleFisherYates(array) {
+    // Iterate until no elements left unshuffled
+    var remaining = array.length;
+    while (remaining > 0) {
+        // Randomly pick one of the remaining elements
+        let selection = Math.floor(Math.random() * remaining);
+        remaining--;
+
+        // Swap the selected element with the last elemented in the unshuffled part of the array
+        let lastUnshuffledItem = array[remaining];
+        array[remaining] = array[selection];
+        array[selection] = lastUnshuffledItem;
+    }
+}
+
+// function fisherYatesShuffle(array) {
+//     let currentIndex = array.length;
+//     while (currentIndex !== 0) {
+//         // Pick a remaining element
+//         let randomIndex = Math.floor(Math.random() * currentIndex);
+//         currentIndex--;
+
+//         // And swap it with the current element
+//         let temporaryValue = array[currentIndex];
+//         array[currentIndex] = array[randomIndex];
+//         array[randomIndex] = temporaryValue;
+//     }
+//     return array;
+// }
