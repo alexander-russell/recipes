@@ -9,7 +9,7 @@ let translateInterval;
 
 function startTranslate() {
     if (!translateInterval) {
-        translateInterval = setInterval(manageGallery, 1);
+        translateInterval = setInterval(manageGallery, 5);
     }
 }
 
@@ -27,7 +27,6 @@ fetch("RecipesCost.json")
     .catch(error => console.error(error));
 
 function start() {
-    // Load all images into DOM
     loadGallery(recipeBook.Recipes);
 }
 
@@ -185,18 +184,3 @@ function shuffleFisherYates(array) {
         array[selection] = lastUnshuffledItem;
     }
 }
-
-// function fisherYatesShuffle(array) {
-//     let currentIndex = array.length;
-//     while (currentIndex !== 0) {
-//         // Pick a remaining element
-//         let randomIndex = Math.floor(Math.random() * currentIndex);
-//         currentIndex--;
-
-//         // And swap it with the current element
-//         let temporaryValue = array[currentIndex];
-//         array[currentIndex] = array[randomIndex];
-//         array[randomIndex] = temporaryValue;
-//     }
-//     return array;
-// }
