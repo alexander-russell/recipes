@@ -145,7 +145,7 @@ function initialiseGallery() {
 function manageGallery() {
     // Calculate new gallery position
     let galleryPosition = +galleryElement.getAttribute("leftInt");
-    galleryPosition -= 5;
+    galleryPosition -= 1;
 
     // If image will have moved to left of screen, move to end of row and reset gallery position to 0
     if (galleryPosition + galleryElement.children[0].offsetWidth < 0) {
