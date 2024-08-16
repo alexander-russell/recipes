@@ -95,7 +95,7 @@ function loadGalleryImage(imageElement, recipe) {
     if (recipe.Image == "Local") {
         // BUG absolute path for debug
         // imageAddress = `Gallery/${recipe.Name}.jpg`;
-        imageAddress = `https://alexanderrussell.com.au/recipes/Gallery/${recipe.Name}.jpg`;
+        imageAddress = `https://alexanderrussell.com.au/recipes/Gallery/${recipe.Name}.avif`;
     }
     else if (recipe.Image != "") {
         imageAddress = recipe.Image;
