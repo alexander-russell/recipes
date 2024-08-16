@@ -104,6 +104,7 @@ function loadGalleryImage(imageElement, recipe) {
     // Load image source
     imageElement.setAttribute("src", imageAddress);
 
+    // Configure a few different actions when the image loads
     imageElement.addEventListener("load", () => {
         // Decrement load counter
         galleryItemLoadCount--;
@@ -118,13 +119,27 @@ function loadGalleryImage(imageElement, recipe) {
         }
 
         // Service load queue
-        if (galleryItemQueue.length > 0) {
-            if (galleryItemLoadCount < galleryItemLoadCountMax) {
-                galleryItem = galleryItemQueue.shift();
-                loadGalleryImage(galleryItem.imageElement, galleryItem.recipe);
-            }
-        }
+        serviceLoadQueue();
     })
+
+    // Configure a few different actions if the image fails to load
+    imageElement.addEventListener("error", () => {
+        // Delete this <img>'s grandparent <div> 
+        imageElement.parentElement.parentElement.remove()
+
+        // Service load queue
+        serviceLoadQueue()
+    });
+}
+
+function serviceLoadQueue() {
+    // If still items in queue, and not already loading too many images concurrently, load one
+    if (galleryItemQueue.length > 0) {
+        if (galleryItemLoadCount < galleryItemLoadCountMax) {
+            galleryItem = galleryItemQueue.shift();
+            loadGalleryImage(galleryItem.imageElement, galleryItem.recipe);
+        }
+    }
 }
 
 function initialiseGallery() {
