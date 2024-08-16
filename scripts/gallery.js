@@ -121,6 +121,9 @@ function loadGalleryImage(imageElement, recipe) {
 
     // Configure a few different actions if the image fails to load
     imageElement.addEventListener("error", () => {
+        // Decrement load counter
+        galleryItemLoadCount--;
+
         // Delete this <img>'s grandparent <div> 
         imageElement.parentElement.parentElement.remove()
 
