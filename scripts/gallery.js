@@ -93,9 +93,7 @@ function loadGalleryImage(imageElement, recipe) {
     // Determine image address (where Local means look in gallery folder by recipe name, and any other value is a web link)
     let imageAddress = null;
     if (recipe.Image == "Local") {
-        // BUG absolute path for debug
-        // imageAddress = `Gallery/${recipe.Name}.jpg`;
-        imageAddress = `https://alexanderrussell.com.au/recipes/Gallery/${recipe.Name}.avif`;
+        imageAddress = `Gallery/${recipe.Name}.jpg`;
     }
     else if (recipe.Image != "") {
         imageAddress = recipe.Image;
