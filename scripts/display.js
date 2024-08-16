@@ -456,7 +456,7 @@ function configureRecipeImage(recipe) {
     let imageAddress = null;
     if (recipe.Image == "Local") {
         //TODO support png 
-        imageAddress = `Gallery/${recipe.Name}.jpg`;
+        imageAddress = `Gallery/${recipe.Name}.avif`;
     }
     else if (recipe.Image != "") {
         imageAddress = recipe.Image;
@@ -466,17 +466,6 @@ function configureRecipeImage(recipe) {
     if (imageAddress != null) {
         recipeImage.setAttribute("src", imageAddress);
     }
-
-    // Handle png
-    recipeImage.addEventListener("error", () => {
-        if (recipeImage.src.match(".jpg")) {
-            // Try for .png
-            recipeImage.src = recipeImage.src.replace(".jpg", ".png");
-        } else {
-            // Remove event listener
-            recipeImage.addEventListener("error", () => { });
-        }
-    });
 
     // On click of close button, hide image
     const imageCloseWrapper = document.querySelector(".image-close-wrapper");
