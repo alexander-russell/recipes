@@ -93,7 +93,7 @@ function loadGalleryImage(imageElement, recipe) {
     // Determine image address (where Local means look in gallery folder by recipe name, and any other value is a web link)
     let imageAddress = null;
     if (recipe.Image == "Local") {
-        imageAddress = `Gallery/${recipe.Name}.jpg`;
+        imageAddress = `Gallery/${recipe.Name}.avif`;
     }
     else if (recipe.Image != "") {
         imageAddress = recipe.Image;
