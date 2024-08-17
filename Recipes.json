@@ -11123,59 +11123,6 @@
       "Cost": null
     },
     {
-      "Name": "my recipe",
-      "Type": "Main",
-      "Category": "Pastas",
-      "Cuisine": "Italian",
-      "Key": "",
-      "Yield": {
-        "Quantity": 4.0,
-        "Unit": "beefs",
-        "Extra": ""
-      },
-      "Time": {
-        "Minutes": 12.0,
-        "Extra": ""
-      },
-      "Difficulty": 10,
-      "Bulk": false,
-      "Favourite": false,
-      "Retired": false,
-      "Tested": false,
-      "NeedsRevision": true,
-      "Dietary": {
-        "Vegetarian": true,
-        "OptionallyVegetarian": false,
-        "Vegan": true,
-        "GlutenFree": false
-      },
-      "Note": "made it up",
-      "Image": "",
-      "Items": [
-        {
-          "Name": "Beef rump steak",
-          "NameDetail": "",
-          "Quantity": 600.0,
-          "Unit": "grams",
-          "UnitDetail": "",
-          "Group": ""
-        }
-      ],
-      "Steps": [
-        {
-          "Content": "fjesfnsk"
-        }
-      ],
-      "Diary": [],
-      "Timers": [
-        {
-          "Name": "Beef",
-          "Seconds": 600
-        }
-      ],
-      "Cost": null
-    },
-    {
       "Name": "Cumquat Marmalade",
       "Type": "Component",
       "Category": "Jams",
@@ -11431,59 +11378,6 @@
         {
           "Name": "Simmer",
           "Seconds": 1200
-        }
-      ],
-      "Cost": null
-    },
-    {
-      "Name": "Beeble",
-      "Type": "Mai",
-      "Category": "Pizzas",
-      "Cuisine": "",
-      "Key": "",
-      "Yield": {
-        "Quantity": 2.0,
-        "Unit": "serves",
-        "Extra": ""
-      },
-      "Time": {
-        "Minutes": 30.0,
-        "Extra": ""
-      },
-      "Difficulty": 5,
-      "Bulk": false,
-      "Favourite": false,
-      "Retired": false,
-      "Tested": false,
-      "NeedsRevision": false,
-      "Dietary": {
-        "Vegetarian": false,
-        "OptionallyVegetarian": false,
-        "Vegan": false,
-        "GlutenFree": false
-      },
-      "Note": "beeble beeble.",
-      "Image": "",
-      "Items": [
-        {
-          "Name": "Eggs",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "",
-          "Group": ""
-        }
-      ],
-      "Steps": [
-        {
-          "Content": "First step"
-        }
-      ],
-      "Diary": [],
-      "Timers": [
-        {
-          "Name": "a",
-          "Seconds": 240
         }
       ],
       "Cost": null
