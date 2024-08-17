@@ -12129,6 +12129,148 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Mexican Red Rice",
+      "Type": "Side",
+      "Category": "Rice",
+      "Cuisine": "Mexican",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": "as a side"
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From the Fireworks Foods website, under Arroz a la Mexicana in all capital letters. Their website's top banner is a flame gif on loop. I haven't got this recipe quite right yet. It's definitely a side, but I've just been pretending it's a main and eating that, it's yum.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Rice",
+          "NameDetail": "long-grain",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": null,
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Tomato",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "small",
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": null,
+          "Quantity": 3.5,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "small (small)"
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "In large bowl add the rice, and hot water to cover. Stand for 10 minutes, then drain and rinse well in cold water, then drain again."
+        },
+        {
+          "Content": "Heat oil on high heat in large pot, then add rice and stir into the oil. Fry until the colour changes."
+        },
+        {
+          "Content": "Roughly chop the tomatoes, onion and garlic then blend until smooth."
+        },
+        {
+          "Content": "Add puree to pot and continue cooking over high heat until the mixture is dry."
+        },
+        {
+          "Content": "Dice the carrot into small pieces."
+        },
+        {
+          "Content": "Add the carrot, peas, stock and salt. Stir well and then reduce heat to medium and cover."
+        },
+        {
+          "Content": "Cook until liquid has been absorbed and the surface has air holes across it."
+        },
+        {
+          "Content": "Loosen rice with a fork before serving."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Soak",
+          "Seconds": 300
+        },
+        {
+          "Name": "Soak",
+          "Seconds": 600
+        }
+      ],
+      "Cost": null
     }
   ]
 }
