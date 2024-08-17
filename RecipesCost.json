@@ -3237,7 +3237,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitue the bechamel entirely for ricotta to save time. Tray should be 20x30cm.",
+      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitue the bechamel entirely for ricotta to save time. Tray should be 20x30cm. One box of lasagne sheets at Aldi has 15 pieces, but have 2 boxes around rather than running out halfway.",
       "Image": "Local",
       "Items": [
         {
@@ -10482,8 +10482,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 18.6,
-        "AmountPerUnit": 4.65,
+        "Amount": 19.6,
+        "AmountPerUnit": 4.9,
         "Unit": "wraps",
         "ItemCosts": [
           {
@@ -10502,10 +10502,10 @@
           },
           {
             "Name": "Cucumber",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.9985714285714296,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Red onion",
@@ -10543,8 +10543,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.65* per unit",
-        "ExclusionsString": "Excluding Cucumber and Tzatziki"
+        "CostString": "4.9* per unit",
+        "ExclusionsString": "Excluding Tzatziki"
       }
     },
     {
@@ -15500,8 +15500,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 31.22,
-        "AmountPerUnit": 7.8,
+        "Amount": 32.22,
+        "AmountPerUnit": 8.06,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15646,10 +15646,10 @@
           },
           {
             "Name": "Cucumber",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.9985714285714296,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Red onion",
@@ -15708,8 +15708,8 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "7.8* per serve",
-        "ExclusionsString": "Excluding Bay leaves, Cloves, Sumac, Cucumber, Parsley and Sumac"
+        "CostString": "8.06* per serve",
+        "ExclusionsString": "Excluding Bay leaves, Cloves, Sumac, Parsley and Sumac"
       }
     },
     {
@@ -16026,7 +16026,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "A common sense recipe, roughly what we did at Dads. The brown rice makes an enormous difference.",
+      "Note": "A common sense recipe, roughly what we did at Dads. Not much else to say.",
       "Image": "Local",
       "Items": [
         {
@@ -16185,7 +16185,10 @@
           "Content": "Add rice to pot and boil for 30 minutes, uncovered."
         },
         {
-          "Content": "Heat oil in a large frypan and add beef, tomato paste and seasonings. Fry for 10 min."
+          "Content": "Heat oil in a large frypan and add onions. Fry for 3 min."
+        },
+        {
+          "Content": "Add beef, tomato paste and seasonings. Fry for 10 min."
         },
         {
           "Content": "Drain rice thoroughly then place back in pot, covered, for 10 minutes. (Leave pot on the just switched off burner)."
@@ -16210,11 +16213,15 @@
           "Seconds": 1800
         },
         {
-          "Name": "Beef",
+          "Name": "Rice 2",
           "Seconds": 600
         },
         {
-          "Name": "Rice 2",
+          "Name": "Onions",
+          "Seconds": 180
+        },
+        {
+          "Name": "Beef",
           "Seconds": 600
         }
       ],
@@ -17092,74 +17099,6 @@
       }
     },
     {
-      "Name": "my recipe",
-      "Type": "Main",
-      "Category": "Pastas",
-      "Cuisine": "Italian",
-      "Key": "",
-      "Yield": {
-        "Quantity": 4.0,
-        "Unit": "beefs",
-        "Extra": ""
-      },
-      "Time": {
-        "Minutes": 12.0,
-        "Extra": ""
-      },
-      "Difficulty": 10,
-      "Bulk": false,
-      "Favourite": false,
-      "Retired": false,
-      "Tested": false,
-      "NeedsRevision": true,
-      "Dietary": {
-        "Vegetarian": true,
-        "OptionallyVegetarian": false,
-        "Vegan": true,
-        "GlutenFree": false
-      },
-      "Note": "made it up",
-      "Image": "",
-      "Items": [
-        {
-          "Name": "Beef rump steak",
-          "NameDetail": "",
-          "Quantity": 600.0,
-          "Unit": "grams",
-          "UnitDetail": "",
-          "Group": ""
-        }
-      ],
-      "Steps": [
-        {
-          "Content": "fjesfnsk"
-        }
-      ],
-      "Diary": [],
-      "Timers": [
-        {
-          "Name": "Beef",
-          "Seconds": 600
-        }
-      ],
-      "Cost": {
-        "Amount": 0.0,
-        "AmountPerUnit": 0.0,
-        "Unit": "beefs",
-        "ItemCosts": [
-          {
-            "Name": "Beef rump steak",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Beef rump steak"
-          }
-        ],
-        "CostString": "0* per unit",
-        "ExclusionsString": "Excluding Beef rump steak"
-      }
-    },
-    {
       "Name": "Cumquat Marmalade",
       "Type": "Component",
       "Category": "Jams",
@@ -17249,7 +17188,7 @@
           "Content": "Wash jars and place in warm oven for 20 minutes."
         },
         {
-          "Content": "Cool for 10 minutes."
+          "Content": "Cool marmalade for 10 minutes, leave jars in the oven if needed."
         },
         {
           "Content": "Spoon the mixture into hot jars and seal while hot. Let cool."
@@ -17506,74 +17445,6 @@
       }
     },
     {
-      "Name": "Beeble",
-      "Type": "Mai",
-      "Category": "Pizzas",
-      "Cuisine": "",
-      "Key": "",
-      "Yield": {
-        "Quantity": 2.0,
-        "Unit": "serves",
-        "Extra": ""
-      },
-      "Time": {
-        "Minutes": 30.0,
-        "Extra": ""
-      },
-      "Difficulty": 5,
-      "Bulk": false,
-      "Favourite": false,
-      "Retired": false,
-      "Tested": false,
-      "NeedsRevision": false,
-      "Dietary": {
-        "Vegetarian": false,
-        "OptionallyVegetarian": false,
-        "Vegan": false,
-        "GlutenFree": false
-      },
-      "Note": "beeble beeble.",
-      "Image": "",
-      "Items": [
-        {
-          "Name": "Eggs",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "",
-          "Group": ""
-        }
-      ],
-      "Steps": [
-        {
-          "Content": "First step"
-        }
-      ],
-      "Diary": [],
-      "Timers": [
-        {
-          "Name": "a",
-          "Seconds": 240
-        }
-      ],
-      "Cost": {
-        "Amount": 0.43,
-        "AmountPerUnit": 0.22,
-        "Unit": "serves",
-        "ItemCosts": [
-          {
-            "Name": "Eggs",
-            "Amount": 0.43250000000000005,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
-          }
-        ],
-        "CostString": "0.22 per serve",
-        "ExclusionsString": ""
-      }
-    },
-    {
       "Name": "Beijing Beef",
       "Type": "Main",
       "Category": "Stir Fries",
@@ -17632,14 +17503,6 @@
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": "marinade"
-        },
-        {
-          "Name": "Cornstarch",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "tbsp",
           "UnitDetail": "",
           "Group": "marinade"
         },
@@ -17894,13 +17757,6 @@
             "Extra": "Name not found: Soy sauce"
           },
           {
-            "Name": "Cornstarch",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cornstarch"
-          },
-          {
             "Name": "Cornflour",
             "Amount": 0.0657,
             "Success": true,
@@ -18014,7 +17870,7 @@
           }
         ],
         "CostString": "3.66* per serve",
-        "ExclusionsString": "Excluding Flank steak, Soy sauce, Cornstarch and Soy sauce"
+        "ExclusionsString": "Excluding Flank steak, Soy sauce and Soy sauce"
       }
     },
     {
@@ -18425,6 +18281,1043 @@
         ],
         "CostString": "0.26* per unit",
         "ExclusionsString": "Excluding Caraway seeds, Hing and Vegetable oil"
+      }
+    },
+    {
+      "Name": "Thai Beef Salad",
+      "Type": "Main",
+      "Category": "Salads",
+      "Cuisine": "Thai",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From Recipe Tin Eats via Claudia via her dad. Has a very fresh flavour, lots of citrus.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 2.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Fish sauce",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Lime juice",
+          "NameDetail": "",
+          "Quantity": 3.5,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Porterhouse steak",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Butter leaf lettuce",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cups (@1 pack)",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Cherry tomatoes",
+          "NameDetail": "",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Cucumber",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Peanuts",
+          "NameDetail": "roasted, unsalted",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "garnish"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Pat steak dry with paper towel, rub salt and pepper into both sides."
+        },
+        {
+          "Content": "In small jar add dressing ingredients. Use the garlic mincer."
+        },
+        {
+          "Content": "Julienne carrot and cucumber into thick matchsticks, halve (if not already) and thinly slice the onion. Halve the cherry tomatoes. Leave all aside."
+        },
+        {
+          "Content": "Heat oil in pan until smoking, fry steak for 2.5 minutes per side."
+        },
+        {
+          "Content": "Remove steak to plate, loosely cover with foil and rest for 10 minutes."
+        },
+        {
+          "Content": "Add lettuce to bowl and pour in a small portion of dressing to soak into it."
+        },
+        {
+          "Content": "Roughly chop peanuts. If salted, rub the salt off with a tea towel."
+        },
+        {
+          "Content": "Slice steak thinly (6mm) against grain."
+        },
+        {
+          "Content": "Toss together all ingredients besides peanuts, then sprinkle some peanuts over top. Serve with the remaining peanuts in a small bowl."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-17T15:09:42.9064759+10:00",
+          "Content": "Previously did this with lime juice from a bottle. I also maybe used both fresh lemon juice and bottled lime juice in the dressing, unsure if a typo or not."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Steak",
+          "Seconds": 150
+        },
+        {
+          "Name": "Rest",
+          "Seconds": 600
+        }
+      ],
+      "Cost": {
+        "Amount": 13.72,
+        "AmountPerUnit": 3.43,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Garlic",
+            "Amount": 0.24916666666666623,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "White sugar",
+            "Amount": 0.01456875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Fish sauce",
+            "Amount": 0.4999999999999995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.10035,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Lime juice",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Lime juice"
+          },
+          {
+            "Name": "Porterhouse steak",
+            "Amount": 7.000000000000001,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.050175,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.06,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Pepper",
+            "Amount": 0.894736842105265,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter leaf lettuce",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Butter leaf lettuce"
+          },
+          {
+            "Name": "Cherry tomatoes",
+            "Amount": 2.99,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Red onion",
+            "Amount": 0.6225,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Carrots",
+            "Amount": 0.238,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cucumber",
+            "Amount": 0.9985714285714296,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Peanuts",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Peanuts"
+          }
+        ],
+        "CostString": "3.43* per serve",
+        "ExclusionsString": "Excluding Lime juice, Butter leaf lettuce and Peanuts"
+      }
+    },
+    {
+      "Name": "Mexican Red Rice",
+      "Type": "Side",
+      "Category": "Rice",
+      "Cuisine": "Mexican",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": "as a side"
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From the Fireworks Foods website, under Arroz a la Mexicana in all capital letters. Their website's top banner is a flame gif on loop. I haven't got this recipe quite right yet. It's definitely a side, but I've just been pretending it's a main and eating that, it's yum.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Rice",
+          "NameDetail": "long-grain",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Tomato",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "small",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 3.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "small (small)"
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "In large bowl add the rice, and hot water to cover. Stand for 10 minutes, then drain and rinse well in cold water, then drain again."
+        },
+        {
+          "Content": "Heat oil on high heat in large pot, then add rice and stir into the oil. Fry until the colour changes."
+        },
+        {
+          "Content": "Roughly chop the tomatoes, onion and garlic then blend until smooth."
+        },
+        {
+          "Content": "Add puree to pot and continue cooking over high heat until the mixture is dry."
+        },
+        {
+          "Content": "Dice the carrot into small pieces."
+        },
+        {
+          "Content": "Add the carrot, peas, stock and salt. Stir well and then reduce heat to medium and cover."
+        },
+        {
+          "Content": "Cook until liquid has been absorbed and the surface has air holes across it."
+        },
+        {
+          "Content": "Loosen rice with a fork before serving."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-05-28T16:36:40.8215309+10:00",
+          "Content": "added an extra tomato, did a whole small onion, did like 4 cloves garlic, only a quarter cup oil, let the rice sit in hot water for closer to 12 min, went harder on the rice frying stage. Still frying rice but no colour change yet. Maybe starting to yellow. Will stop soon. Rice is now definitely a little off white, and has feels in the pan closer to when it is dry out of the packet, not sticking and not clumping. Didn’t drain the oil. Cooked on medium covered, but the sauce actually separated from the rice into a ring around top edge. Yummy but I don’t think as much as last time, maybe too tomatoey? Not as chicken brothy."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Soak",
+          "Seconds": 300
+        },
+        {
+          "Name": "Soak",
+          "Seconds": 600
+        }
+      ],
+      "Cost": {
+        "Amount": 7.61,
+        "AmountPerUnit": 1.9,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Rice",
+            "Amount": 0.673125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.2090625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tomato",
+            "Amount": 3.596,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.49833333333333374,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Amount": 1.56625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Carrots",
+            "Amount": 0.238,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Peas",
+            "Amount": 0.0777,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          }
+        ],
+        "CostString": "1.9 per serve",
+        "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Oat Sultana Cookies",
+      "Type": "Dessert",
+      "Category": "Biscuits",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 40.0,
+        "Unit": "cookies",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 180.0,
+        "Extra": "including 2 hours resting"
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.amaltesepantry.com/oat-sultana-cookies/}{A Maltese Pastry}, though they attribute it to an instagram story on the Ottolenghi page and specifically credit Verna Lochmuller. This version of the recipe contains mistakes, including forgetting to add half the ingredients it calls for, notably the sultanas are never used in this sultana cookie recipe. I've made some substitutions because they were initially quite crunchy. Less sugar and lower cooking time. The jury is out on how long I should leave them on the tray before transferring to rack, next time.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Wholemeal flour",
+          "NameDetail": "",
+          "Quantity": 160.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Ground almond",
+          "NameDetail": "",
+          "Quantity": 37.5,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Rolled oats",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 75.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": "",
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Caster sugar",
+          "NameDetail": "",
+          "Quantity": 50.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Vanilla",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Sultanas",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cinnamon",
+          "NameDetail": "ground",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Nutmeg",
+          "NameDetail": "ground",
+          "Quantity": 0.75,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bi-carb",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Baking powder",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Place first lot of butter (@200 grams) into a small saucepan on medium heat. Cook for 5-7 minutes until browned, stirring frequently. It should foam and then turn dark brown."
+        },
+        {
+          "Content": "In large mixing bowl, add the sugars, ground almond, salt, vanilla and remaining @75 grams of butter. Pour browned butter in and then stir well and cool for 10 minutes."
+        },
+        {
+          "Content": "Add egg and whisk mixture."
+        },
+        {
+          "Content": "Add oats, flour, baking powder, bi-carb, cinnamon, nutmeg and sultanas. Mix again, then cover with gladwrap and rest in fridge for 2 hours."
+        },
+        {
+          "Content": "Preheat oven to 180 degrees conventional."
+        },
+        {
+          "Content": "Preheat oven to 170 degrees conventional. (error: remove step above)"
+        },
+        {
+          "Content": "Measure 40 gram balls of dough. Place on tray lined with baking paper, plenty of room around them. Squash completely flat and tidy the sides."
+        },
+        {
+          "Content": "Bake each tray for 10 minutes, then cool on tray for 3 minutes, then remove to cooling rack."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-06-25T17:07:59.9298195+10:00",
+          "Content": "Did several batches as though running a science experiment. Arrived at 170 degrees being best, but didn't actually write much down about the results, just the conditions. First tray 180 degrees, 10 min, 3 min on tray then to rack (still crunchy). Second tray 170 degrees, 10 min, but placed on upper rack of oven, 3 min on tray (\"delicious\", still crunchy). Third tray 170 degrees, 10 min, upper rack, 10 min on tray, rolled edge inward (no notes). Fourth tray 170 degrees, 10 min, upper rack, moved to cooling rack right away, no rolled edge (no notes). Fifth tray 170 degrees, 10 min, upper rack, 3 min on tray, strongly rolled edge (no notes). Assuming 3 min on tray is good, and rolled edge is maybe good. Also messed up browning the butter."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Butter",
+          "Seconds": 420
+        },
+        {
+          "Name": "Rest",
+          "Seconds": 7200
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 600
+        },
+        {
+          "Name": "Tray",
+          "Seconds": 180
+        }
+      ],
+      "Cost": {
+        "Amount": 7.97,
+        "AmountPerUnit": 0.2,
+        "Unit": "cookies",
+        "ItemCosts": [
+          {
+            "Name": "Wholemeal flour",
+            "Amount": 0.36,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Ground almond",
+            "Amount": 0.562125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Rolled oats",
+            "Amount": 0.324,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.03,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Amount": 2.556,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Amount": 0.9585,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown sugar",
+            "Amount": 0.5235,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Caster sugar",
+            "Amount": 0.1245,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Eggs",
+            "Amount": 0.43250000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vanilla",
+            "Amount": 0.2495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Sultanas",
+            "Amount": 0.998,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cinnamon",
+            "Amount": 0.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Nutmeg",
+            "Amount": 0.31875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Bi-carb",
+            "Amount": 0.0239,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Baking powder",
+            "Amount": 0.005975,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "0.2 per unit",
+        "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Prawn Risotto",
+      "Type": "Main",
+      "Category": "Rice",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "None of the timing is unspecified, and the mix of different stocks is because that's what I had in the fridge. Nonetheless a very easy way to have a risotto.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Prawns",
+          "NameDetail": "frozen",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Arborio",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "White wine",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Vegetable stock",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "a handful",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Thaw prawns in colander under running water."
+        },
+        {
+          "Content": "Dice onion reasonably finely, slice garlic thinly."
+        },
+        {
+          "Content": "Saute onions in pan for a few minutes."
+        },
+        {
+          "Content": "Add garlic and fry for a few more minutes."
+        },
+        {
+          "Content": "Add arborio, fry until rice is sticking."
+        },
+        {
+          "Content": "Add white wine, fry it off."
+        },
+        {
+          "Content": "Add stocks bit by bit."
+        },
+        {
+          "Content": "Roughly chop parsley"
+        },
+        {
+          "Content": "Cook until stock is absorbed, then stir through parsley and serve."
+        }
+      ],
+      "Diary": [],
+      "Timers": [],
+      "Cost": {
+        "Amount": 17.9,
+        "AmountPerUnit": 5.97,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Prawns",
+            "Amount": 12.99,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.37375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Arborio",
+            "Amount": 1.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "White wine",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: White wine"
+          },
+          {
+            "Name": "Vegetable stock",
+            "Amount": 1.3425,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Amount": 0.4475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parsley",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: a handful"
+          }
+        ],
+        "CostString": "5.97* per serve",
+        "ExclusionsString": "Excluding White wine"
       }
     }
   ]

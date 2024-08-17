@@ -12165,72 +12165,72 @@
           "NameDetail": "long-grain",
           "Quantity": 1.5,
           "Unit": "cups",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Vegetable oil",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "cup",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Tomato",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Brown onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "small",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 4.0,
           "Unit": "cloves",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Chicken stock",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.5,
           "Unit": "cups",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Carrots",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "small (small)"
         },
         {
           "Name": "Peas",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -12259,7 +12259,12 @@
           "Content": "Loosen rice with a fork before serving."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-05-28T16:36:40.8215309+10:00",
+          "Content": "added an extra tomato, did a whole small onion, did like 4 cloves garlic, only a quarter cup oil, let the rice sit in hot water for closer to 12 min, went harder on the rice frying stage. Still frying rice but no colour change yet. Maybe starting to yellow. Will stop soon. Rice is now definitely a little off white, and has feels in the pan closer to when it is dry out of the packet, not sticking and not clumping. Didn’t drain the oil. Cooked on medium covered, but the sauce actually separated from the rice into a ring around top edge. Yummy but I don’t think as much as last time, maybe too tomatoey? Not as chicken brothy."
+        }
+      ],
       "Timers": [
         {
           "Name": "Soak",
@@ -12270,6 +12275,337 @@
           "Seconds": 600
         }
       ],
+      "Cost": null
+    },
+    {
+      "Name": "Oat Sultana Cookies",
+      "Type": "Dessert",
+      "Category": "Biscuits",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 40.0,
+        "Unit": "cookies",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 180.0,
+        "Extra": "including 2 hours resting"
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.amaltesepantry.com/oat-sultana-cookies/}{A Maltese Pastry}, though they attribute it to an instagram story on the Ottolenghi page and specifically credit Verna Lochmuller. This version of the recipe contains mistakes, including forgetting to add half the ingredients it calls for, notably the sultanas are never used in this sultana cookie recipe. I've made some substitutions because they were initially quite crunchy. Less sugar and lower cooking time. The jury is out on how long I should leave them on the tray before transferring to rack, next time.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Wholemeal flour",
+          "NameDetail": "",
+          "Quantity": 160.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Ground almond",
+          "NameDetail": "",
+          "Quantity": 37.5,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Rolled oats",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 75.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": "",
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Caster sugar",
+          "NameDetail": "",
+          "Quantity": 50.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Vanilla",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Sultanas",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cinnamon",
+          "NameDetail": "ground",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Nutmeg",
+          "NameDetail": "ground",
+          "Quantity": 0.75,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bi-carb",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Baking powder",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Place first lot of butter (@200 grams) into a small saucepan on medium heat. Cook for 5-7 minutes until browned, stirring frequently. It should foam and then turn dark brown."
+        },
+        {
+          "Content": "In large mixing bowl, add the sugars, ground almond, salt, vanilla and remaining @75 grams of butter. Pour browned butter in and then stir well and cool for 10 minutes."
+        },
+        {
+          "Content": "Add egg and whisk mixture."
+        },
+        {
+          "Content": "Add oats, flour, baking powder, bi-carb, cinnamon, nutmeg and sultanas. Mix again, then cover with gladwrap and rest in fridge for 2 hours."
+        },
+        {
+          "Content": "Preheat oven to 180 degrees conventional."
+        },
+        {
+          "Content": "Preheat oven to 170 degrees conventional. (error: remove step above)"
+        },
+        {
+          "Content": "Measure 40 gram balls of dough. Place on tray lined with baking paper, plenty of room around them. Squash completely flat and tidy the sides."
+        },
+        {
+          "Content": "Bake each tray for 10 minutes, then cool on tray for 3 minutes, then remove to cooling rack."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-06-25T17:07:59.9298195+10:00",
+          "Content": "Did several batches as though running a science experiment. Arrived at 170 degrees being best, but didn't actually write much down about the results, just the conditions. First tray 180 degrees, 10 min, 3 min on tray then to rack (still crunchy). Second tray 170 degrees, 10 min, but placed on upper rack of oven, 3 min on tray (\"delicious\", still crunchy). Third tray 170 degrees, 10 min, upper rack, 10 min on tray, rolled edge inward (no notes). Fourth tray 170 degrees, 10 min, upper rack, moved to cooling rack right away, no rolled edge (no notes). Fifth tray 170 degrees, 10 min, upper rack, 3 min on tray, strongly rolled edge (no notes). Assuming 3 min on tray is good, and rolled edge is maybe good. Also messed up browning the butter."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Butter",
+          "Seconds": 420
+        },
+        {
+          "Name": "Rest",
+          "Seconds": 7200
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 600
+        },
+        {
+          "Name": "Tray",
+          "Seconds": 180
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Prawn Risotto",
+      "Type": "Main",
+      "Category": "Rice",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "None of the timing is unspecified, and the mix of different stocks is because that's what I had in the fridge. Nonetheless a very easy way to have a risotto.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Prawns",
+          "NameDetail": "frozen",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Arborio",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "White wine",
+          "NameDetail": null,
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Vegetable stock",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": null,
+          "Quantity": 0,
+          "Unit": "a handful",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Thaw prawns in colander under running water."
+        },
+        {
+          "Content": "Dice onion reasonably finely, slice garlic thinly."
+        },
+        {
+          "Content": "Saute onions in pan for a few minutes."
+        },
+        {
+          "Content": "Add garlic and fry for a few more minutes."
+        },
+        {
+          "Content": "Add arborio, fry until rice is sticking."
+        },
+        {
+          "Content": "Add white wine, fry it off."
+        },
+        {
+          "Content": "Add stocks bit by bit."
+        },
+        {
+          "Content": "Roughly chop parsley"
+        },
+        {
+          "Content": "Cook until stock is absorbed, then stir through parsley and serve."
+        }
+      ],
+      "Diary": [],
+      "Timers": null,
       "Cost": null
     }
   ]
