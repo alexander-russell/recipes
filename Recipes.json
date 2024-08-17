@@ -2121,7 +2121,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitue the bechamel entirely for ricotta to save time. Tray should be 20x30cm.",
+      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitue the bechamel entirely for ricotta to save time. Tray should be 20x30cm. One box of lasagne sheets at Aldi has 15 pieces, but have 2 boxes around rather than running out halfway.",
       "Image": "Local",
       "Items": [
         {
@@ -12034,6 +12034,204 @@
         {
           "Name": "High Fry",
           "Seconds": 480
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Thai Beef Salad",
+      "Type": "Main",
+      "Category": "Salads",
+      "Cuisine": "Thai",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From Recipe Tin Eats via Claudia via her dad. Has a very fresh flavour, lots of citrus.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 2.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Fish sauce",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Lime juice",
+          "NameDetail": "",
+          "Quantity": 3.5,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Porterhouse steak",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "steak"
+        },
+        {
+          "Name": "Butter leaf lettuce",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cups (@1 pack)",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Cherry tomatoes",
+          "NameDetail": "",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Cucumber",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "vegetables"
+        },
+        {
+          "Name": "Peanuts",
+          "NameDetail": "roasted, unsalted",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "garnish"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Pat steak dry with paper towel, rub salt and pepper into both sides."
+        },
+        {
+          "Content": "In small jar add dressing ingredients. Use the garlic mincer."
+        },
+        {
+          "Content": "Julienne carrot and cucumber into thick matchsticks, halve (if not already) and thinly slice the onion. Halve the cherry tomatoes. Leave all aside."
+        },
+        {
+          "Content": "Heat oil in pan until smoking, fry steak for 2.5 minutes per side."
+        },
+        {
+          "Content": "Remove steak to plate, loosely cover with foil and rest for 10 minutes."
+        },
+        {
+          "Content": "Add lettuce to bowl and pour in a small portion of dressing to soak into it."
+        },
+        {
+          "Content": "Roughly chop peanuts. If salted, rub the salt off with a tea towel."
+        },
+        {
+          "Content": "Slice steak thinly (6mm) against grain."
+        },
+        {
+          "Content": "Toss together all ingredients besides peanuts, then sprinkle some peanuts over top. Serve with the remaining peanuts in a small bowl."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-17T15:09:42.9064759+10:00",
+          "Content": "Previously did this with lime juice from a bottle. I also maybe used both fresh lemon juice and bottled lime juice in the dressing, unsure if a typo or not."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Steak",
+          "Seconds": 150
+        },
+        {
+          "Name": "Rest",
+          "Seconds": 600
         }
       ],
       "Cost": null
