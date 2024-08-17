@@ -10445,7 +10445,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "A common sense recipe, roughly what we did at Dads. The brown rice makes an enormous difference.",
+      "Note": "A common sense recipe, roughly what we did at Dads. Not much else to say.",
       "Image": "Local",
       "Items": [
         {
@@ -10604,7 +10604,10 @@
           "Content": "Add rice to pot and boil for 30 minutes, uncovered."
         },
         {
-          "Content": "Heat oil in a large frypan and add beef, tomato paste and seasonings. Fry for 10 min."
+          "Content": "Heat oil in a large frypan and add onions. Fry for 3 min."
+        },
+        {
+          "Content": "Add beef, tomato paste and seasonings. Fry for 10 min."
         },
         {
           "Content": "Drain rice thoroughly then place back in pot, covered, for 10 minutes. (Leave pot on the just switched off burner)."
@@ -10629,11 +10632,15 @@
           "Seconds": 1800
         },
         {
-          "Name": "Beef",
+          "Name": "Rice 2",
           "Seconds": 600
         },
         {
-          "Name": "Rice 2",
+          "Name": "Onions",
+          "Seconds": 180
+        },
+        {
+          "Name": "Beef",
           "Seconds": 600
         }
       ],
