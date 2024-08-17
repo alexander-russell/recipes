@@ -4140,7 +4140,7 @@
           "Content": "Add pork, pak choy and cashews and fry a moment longer"
         },
         {
-          "Content": "Serve, ideally with rice"
+          "Content": "Serve with rice"
         }
       ],
       "Diary": null,
@@ -17503,6 +17503,514 @@
         ],
         "CostString": "1.44* per serve",
         "ExclusionsString": "Excluding Ground ginger and Rosemary"
+      }
+    },
+    {
+      "Name": "Beeble",
+      "Type": "Mai",
+      "Category": "Pizzas",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 2.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 30.0,
+        "Extra": ""
+      },
+      "Difficulty": 5,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "beeble beeble.",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Eggs",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "First step"
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "a",
+          "Seconds": 240
+        }
+      ],
+      "Cost": {
+        "Amount": 0.43,
+        "AmountPerUnit": 0.22,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Eggs",
+            "Amount": 0.43250000000000005,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "0.22 per serve",
+        "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Beijing Beef",
+      "Type": "Main",
+      "Category": "Stir Fries",
+      "Cuisine": "Chinese",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 120.0,
+        "Extra": "pretty involved"
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://thewoksoflife.com/mongolian-beef-recipe/#recipe}{The Woks of Life}. So delicious but a lot of work to dredge all of the beef and then fry it in batches. If the sauce is still pooling in the final frying, give it a little longer or add more corn flour slurry. Beef may take more than a minute to sear. I spent a little bit of time trying to find a good recipe, and a lot more time finding out about the name and origin. My sources are mostly Wikipedia but apparently Wu Zhaonan moved from China to Taiwan during the Chinese Civil War and opened a barbeque place that he would have called Beijing Barbeque, but instead called Mongolian Barbeque to avoid politics. The idea took off and a bunch of places started doing that style, where the diner selects a bunch of ingredients and then they get cooked on some rotating grill thing. One of the popular combinations was the ingredients for Mongolian Beef, and they eventually became their own dish separate from Mongolian Barbeque. Wu Zhaonan went on to have a successful career as a comedian.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Flank steak",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Chinese cooking wine",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Soy sauce",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Cornstarch",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Cornflour",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Baking soda",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Jasmine rice",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "hot",
+          "Quantity": 0.75,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Soy sauce",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cm",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dried red chilli",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Spring onions",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cornflour",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "slurry"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "slurry"
+        },
+        {
+          "Name": "Cornflour",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "dredging"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 0.66,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "searing"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Cut beef into medium length 6mm thick slices."
+        },
+        {
+          "Content": "Combine marinade ingredients and leave for 1 hour."
+        },
+        {
+          "Content": "Make rice. Add rice and water to a pot on medium-high heat, bring to simmer then reduce to medium-low and cover. Cook for 13 minutes, then remove from heat and leave for 10 minutes. Finally, remove lid and fluff rice, leave for 2 minutes."
+        },
+        {
+          "Content": "In a small bowl, disssolve the brown sugar in the hot water then add other sauce ingredients."
+        },
+        {
+          "Content": "Slice garlic thinly. Cut ginger into thin sticks. Chop spring onions at a 45 degree angle into 5cm lengths, separating green and white from each other."
+        },
+        {
+          "Content": "Make the slurry by mixing the cornflour and water together in a small glass."
+        },
+        {
+          "Content": "Spread most of the dredging cornflour on a tray or dish. Dredge each piece of beef until well coated, adding more cornflour as needed."
+        },
+        {
+          "Content": "On max heat, bring searing oil to smoking then add beef in batches, a third at a time. Fry until crispy then flip, about a minute per side."
+        },
+        {
+          "Content": "Reserve a tablespoon of oil in the pan and pour off the rest."
+        },
+        {
+          "Content": "Reduce heat to medium-high and add ginger and dried red chilli. Fry for 30 seconds."
+        },
+        {
+          "Content": "Add garlic and white parts of the spring onions, fry for 30 seconds."
+        },
+        {
+          "Content": "Add sauce and simmer for 2 minutes."
+        },
+        {
+          "Content": "Gradually stir in cornflour slurry until sauce is thick enough to \"coat the back of a spoon\". Don't overdo it, and likely won't need to use the entire slurry. Can add more later after adding beef."
+        },
+        {
+          "Content": "Add beef and green parts of spring onions and toss for 30 seconds. Aiming for almost all of the sauce to now be coating the other ingredients, rather than pooling."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-17T12:19:48.6497082+10:00",
+          "Content": "Bought beef at Uncles Butcher in Eastwood. Did a scant 1/3 cup soy sauce instead of 1/4 cup. Added some more corn flour slurry after adding the beef and it was fine. Was still some liquid left, no problems. Beef took more like 2-3 min per side until it got properly hot. "
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Sear",
+          "Seconds": 60
+        },
+        {
+          "Name": "Ginger",
+          "Seconds": 30
+        },
+        {
+          "Name": "garlic",
+          "Seconds": 30
+        },
+        {
+          "Name": "Sauce",
+          "Seconds": 120
+        },
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        },
+        {
+          "Name": "Final Fry",
+          "Seconds": 30
+        }
+      ],
+      "Cost": {
+        "Amount": 14.62,
+        "AmountPerUnit": 3.66,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Flank steak",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Flank steak"
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.03345,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chinese cooking wine",
+            "Amount": 0.028125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Soy sauce",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Soy sauce"
+          },
+          {
+            "Name": "Cornstarch",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Cornstarch"
+          },
+          {
+            "Name": "Cornflour",
+            "Amount": 0.0657,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Baking soda",
+            "Amount": 0.023125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Jasmine rice",
+            "Amount": 2.4,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown sugar",
+            "Amount": 0.218125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Soy sauce",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Soy sauce"
+          },
+          {
+            "Name": "Ginger",
+            "Amount": 0.19992,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Dried red chilli",
+            "Amount": 0.1196,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.37375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Spring onions",
+            "Amount": 9.96,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cornflour",
+            "Amount": 0.09855,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cornflour",
+            "Amount": 0.5475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.551925,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "3.66* per serve",
+        "ExclusionsString": "Excluding Flank steak, Soy sauce, Cornstarch and Soy sauce"
       }
     }
   ]
