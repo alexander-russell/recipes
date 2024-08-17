@@ -15031,7 +15031,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 50.0,
+        "Minutes": 90.0,
         "Extra": ""
       },
       "Difficulty": 4,
@@ -15046,7 +15046,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "Keeps well, travels well. To assemble, make all the bases first, fold their sides up then place on teatowel in fridge. Cut tops then place bases in pie maker, spoon in filling and cover. Leave them longer than you think.",
+      "Note": "From \\href{https://www.womensweeklyfood.com.au/recipe/baking/potato-onion-and-herb-pie-14900/}{Women's Weekly} mostly. Keeps well, travels well. To assemble, make all the bases first, fold their sides up then place on teatowel in fridge. Cut tops then place bases in pie maker, spoon in filling and cover. Leave them longer than you think.",
       "Image": "Local",
       "Items": [
         {
@@ -18015,6 +18015,416 @@
         ],
         "CostString": "3.66* per serve",
         "ExclusionsString": "Excluding Flank steak, Soy sauce, Cornstarch and Soy sauce"
+      }
+    },
+    {
+      "Name": "Samosas",
+      "Type": "Side",
+      "Category": "Pastry",
+      "Cuisine": "Indian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 14.0,
+        "Unit": "samosas",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 180.0,
+        "Extra": ""
+      },
+      "Difficulty": 9,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.cookwithmanali.com/samosa-recipe/#wprm-recipe-container-43459}{Cook with Manali}, and I'm suspicious of how similar the Recipe Tin Eats version is to Manali's. Adding water to the filling mixture is an adjustment suggested by Sunil at Sunil's Spice Centre after reading over the recipe. This recipe is so extremely involved and takes so long, and doesn't make a lot. It's a special occasion food, the result is delightful but it takes so much work. The samosas are fried on low heat initially or else the pastry bubbles in a not very cute way. Adjust frying temperature if it isn't working, I should have taken more notes.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Caraway seeds",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 6.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 7.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cm",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Cumin seeds",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Fennel seeds",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Coriander seeds",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Hing",
+          "NameDetail": "asafoetida",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": "frozen",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Coriander",
+          "NameDetail": "ground",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Garam masala",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Amchur",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to fill saucepan",
+          "UnitDetail": "",
+          "Group": "frying"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Mixflour, salt and caraway seeds in a bowl."
+        },
+        {
+          "Content": "Push @4 tbsp vegetable oil into the flour mixture with your fingers for 4 minutes until consistency is like crumbs and a pressed clump doesn't fall apart. Don't underdo it."
+        },
+        {
+          "Content": "Add @7 tbsp water gradually, mixing until a it is a stiff dough. Don't overwork it."
+        },
+        {
+          "Content": "Cover dough with a damp teatowel and sit for 40 minutes."
+        },
+        {
+          "Content": "Now for the filling. Boil the potatoes, drain and mash very lightly."
+        },
+        {
+          "Content": "Finely chop ginger."
+        },
+        {
+          "Content": "Heat @2 tbsp oil in a large pan on medium-high. Add cumin seeds, fennel seeds and coriander seeds. Fry for a 15 seconds."
+        },
+        {
+          "Content": "Add diced ginger and hing to pan and mix. Fry for 1 minute."
+        },
+        {
+          "Content": "Add potatoes and peas to pan, mix well. Add water to adjust consistency."
+        },
+        {
+          "Content": "Add coriander powder, garam masala, amchur, and salt. Mix and then remove from heat to cool."
+        },
+        {
+          "Content": "Make a water and flour slurry in a small cup, just mix a little of each until it feels vaguely gluey."
+        },
+        {
+          "Content": "Now to shape them. Knead the dough a little, then split into @7 pieces. Roll each piece out into a circle 15cm in diameter, and cut each circle in half, leaving you with 14 semicircles."
+        },
+        {
+          "Content": "Dipping a finger into the slurry, apply it along the straight edge of the semicircle. Press into a cone, pinching the end to form a point."
+        },
+        {
+          "Content": "Holding the cone in one hand like you would a tiny icecream cone, add 1-2 tbsp of filling. Apply the slurry along the top edges and press them together to seal. Repeat for each piece of dough."
+        },
+        {
+          "Content": "Now to fry them. Fill a medium saucepan with vegetable oil and heat on stove to 130 degrees. To test heat, drop a small piece of dough in and it should take a few seconds to come to the surface."
+        },
+        {
+          "Content": "Gently lower 5 samosas into the pot and fry for 10 minutes."
+        },
+        {
+          "Content": "Raise the heat to 180 degrees with the samosas still in the pot, then fry until browned, about 8 minutes."
+        },
+        {
+          "Content": "Remove samosa to dish and repeat until all samosas are cooked."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-17T14:11:34.1179351+10:00",
+          "Content": "When deep frying these for the first time (initially I tried to bake them), I tried a couple of different temperatures as they aren't specified in the original recipe. As far as I could glean from my limited notes, I always used 180 degrees for the second, high heat, fry. It looks like for the low heat, the first batch was on 150-160 and was too hot (caused bubbling), the second was 130 and the third and final batch was 140 (but then \"accidentally to 155\", assuming I left the heat increasing by accident). Unsure if 130 was too low or if I just wanted to try something different for 3rd batch."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Dough",
+          "Seconds": 2400
+        },
+        {
+          "Name": "Seeds",
+          "Seconds": 15
+        },
+        {
+          "Name": "Ginger",
+          "Seconds": 60
+        },
+        {
+          "Name": "Low Fry",
+          "Seconds": 600
+        },
+        {
+          "Name": "High Fry",
+          "Seconds": 480
+        }
+      ],
+      "Cost": {
+        "Amount": 3.65,
+        "AmountPerUnit": 0.26,
+        "Unit": "samosas",
+        "ItemCosts": [
+          {
+            "Name": "Plain flour",
+            "Amount": 0.645,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.0075,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Caraway seeds",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Caraway seeds"
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.2007,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Potatoes",
+            "Amount": 1.123125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Ginger",
+            "Amount": 0.19992,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.10035,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cumin seeds",
+            "Amount": 0.1745,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Fennel seeds",
+            "Amount": 0.0945,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Coriander seeds",
+            "Amount": 0.298,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Hing",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Hing"
+          },
+          {
+            "Name": "Peas",
+            "Amount": 0.32375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Coriander",
+            "Amount": 0.149,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garam masala",
+            "Amount": 0.26,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Amchur",
+            "Amount": 0.041,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.03,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:to fill saucepan; To:litres"
+          }
+        ],
+        "CostString": "0.26* per unit",
+        "ExclusionsString": "Excluding Caraway seeds, Hing and Vegetable oil"
       }
     }
   ]
