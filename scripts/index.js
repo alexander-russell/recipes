@@ -58,3 +58,9 @@ function populateResults(query) {
         }
     }
 }
+
+// 2024-8-18 Future plan for revamping search menu to look more fully specified:
+// - use an ol to contain them instead of an un, and each result is a <li> containing an <article> which has an <h2> and probably divs inside
+//   - thats what duck duck go does, google is just div div div div div div
+// - make each result a little recipe card, with Name type time cost per serve yield etc, only show if initialised value
+// - consider limiting to 5 results with a show all button underneath
