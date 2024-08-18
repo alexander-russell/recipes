@@ -12442,10 +12442,7 @@
           "Content": "Add oats, flour, baking powder, bi-carb, cinnamon, nutmeg and sultanas. Mix again, then cover with gladwrap and rest in fridge for 2 hours."
         },
         {
-          "Content": "Preheat oven to 180 degrees conventional."
-        },
-        {
-          "Content": "Preheat oven to 170 degrees conventional. (error: remove step above)"
+          "Content": "Preheat oven to 170 degrees conventional."
         },
         {
           "Content": "Measure 40 gram balls of dough. Place on tray lined with baking paper, plenty of room around them. Squash completely flat and tidy the sides."
@@ -12763,6 +12760,139 @@
         {
           "Name": "Bake",
           "Seconds": 1800
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Tomato Soup",
+      "Type": "Main",
+      "Category": "Soups",
+      "Cuisine": "",
+      "Key": "Tomato",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 100.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "I think this came from Claudia and I wanting to make tomato soup and not finding any good recipes. There was presumably a third of a capsicum sitting in the fridge. This is a very tart tomato soup. Basil quantity is made up, do whatever. Actually the whole recipe is made up, double do whatever.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Tomato",
+          "NameDetail": null,
+          "Quantity": 1.5,
+          "Unit": "kg",
+          "UnitDetail": "@12 whole",
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "head, @100 grams",
+          "Group": null
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Capsicum",
+          "NameDetail": null,
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.33 whole",
+          "Group": null
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": "",
+          "Quantity": 8.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Basil",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "whole",
+          "UnitDetail": "leaves",
+          "Group": "extra"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees conventional"
+        },
+        {
+          "Content": "Halve garlic head across."
+        },
+        {
+          "Content": "Place tomatoes and garlic on oiled tray and grind over salt and pepper. Bake for 60 minutes."
+        },
+        {
+          "Content": "Quarter onion and carrot, cut capsicum into 2 cm strips. Place on tray, toss with oil, salt and pepper and bake for 40 minutes."
+        },
+        {
+          "Content": "On medium heat in a large pot, fry 8 tbsp tomato paste for a minute or two."
+        },
+        {
+          "Content": "Add all roast vegetables to pot, including pan oil. Squash lightly."
+        },
+        {
+          "Content": "Add @2 cups of water, @1.5 tsp salt and @2 tsp pepper. Simmer for 15 minutes."
+        },
+        {
+          "Content": "Add basil leaves (error: tpaste and basil) then blend with immersion blender."
+        },
+        {
+          "Content": "Simmer for another 15 minutes."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Tomatoes",
+          "Seconds": 3600
+        },
+        {
+          "Name": "Carrot",
+          "Seconds": 2400
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 900
         }
       ],
       "Cost": null
