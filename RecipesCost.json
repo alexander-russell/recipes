@@ -19319,6 +19319,236 @@
         "CostString": "5.97* per serve",
         "ExclusionsString": "Excluding White wine"
       }
+    },
+    {
+      "Name": "Rugelach",
+      "Type": "Dessert",
+      "Category": "Pastries",
+      "Cuisine": "Polish",
+      "Key": "",
+      "Yield": {
+        "Quantity": 64.0,
+        "Unit": "rugelach",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 150.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Recipe from Claudia by email. A lot of time spent rolling them up but it should be noted that it's also a lot of fun to roll them up. Alternative fillings, in theory, are pecans, vanilla, chocolate, almond, caramel, strawberry. I'm told this flavour is the classic though. When making the dough, it's only split into 3 steps because I have a small food processor, it should all be done at once.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 2.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "heaped",
+          "Group": "dough"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Cream cheese",
+          "NameDetail": "",
+          "Quantity": 225.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Egg yolk",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Walnuts",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Cinnamon",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Roughly dice both butter and cream cheese (1.5cm)."
+        },
+        {
+          "Content": "A third of each at a time, pulse the flour and salt, then incorporate the butter and cream cheese. On the final thirds, add the egg yolk with the butter and cream cheese."
+        },
+        {
+          "Content": "Combine the pieces of dough on a floured bench. It should be moistened and crumbly with pea-sized curd-like pieces."
+        },
+        {
+          "Content": "Knead dough until it comes together."
+        },
+        {
+          "Content": "Split dough into 4 pieces, flatten each into 2 cm thick discs, wrap in clingfilm and refrigerate for an hour."
+        },
+        {
+          "Content": "Pulse filling ingredients in food processor until walnuts are finely chopped."
+        },
+        {
+          "Content": "Preheat oven to 175 degrees conventional, line trays with baking paper."
+        },
+        {
+          "Content": "Remove dough from fridge. Working witth one piece at a time, dust with flour and roll to 3 mm thick. Spread 0.5 cup of filling over the dough, taking care to distribute evenly. Gently press the filling into the dough with fingertips."
+        },
+        {
+          "Content": "With a sharp knife, cut the prepared circle into 16 wedges."
+        },
+        {
+          "Content": "Roll each wedge from the outer edge toward the centre of the circle, applying even tension. No need to roll extremely tightly. Gently press tip of wedge into itself to seal."
+        },
+        {
+          "Content": "Place wedges onto baking tray and bake until lightly golden (30 minutes), rotating at halfway. Cool on rack."
+        },
+        {
+          "Content": "Repeat with remaining dough."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-18T20:27:00.4243248+10:00",
+          "Content": "Did some experiments with filling. One batch was pecan (generous 0.33 cup, 44g), 1 was pecan (generous 0.25 cup 20g) and walnut (0.25 cup 22g) and 2 were walnut (0.25 cup, 40g each). As a note on weights, 1/8 cup of brown sugar is 16 grams. So to make each batch added the nuts and then 16g brown sugar, 1.5tsp white sugar and 1tsp cinnamon, then transferred each to food processor and back to bowl."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Turn",
+          "Seconds": 900
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 1800
+        }
+      ],
+      "Cost": {
+        "Amount": 14.41,
+        "AmountPerUnit": 0.23,
+        "Unit": "rugelach",
+        "ItemCosts": [
+          {
+            "Name": "Plain flour",
+            "Amount": 0.80625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.0075,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Amount": 3.195,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cream cheese",
+            "Amount": 3.92625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Egg yolk",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Egg yolk"
+          },
+          {
+            "Name": "Brown sugar",
+            "Amount": 0.43625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "White sugar",
+            "Amount": 0.03885,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Walnuts",
+            "Amount": 3.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cinnamon",
+            "Amount": 2.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "0.23* per unit",
+        "ExclusionsString": "Excluding Egg yolk"
+      }
     }
   ]
 }
