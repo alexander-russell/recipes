@@ -12786,7 +12786,7 @@
       "Tested": true,
       "NeedsRevision": false,
       "Dietary": {
-        "Vegetarian": false,
+        "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": true,
         "GlutenFree": true
@@ -12796,43 +12796,43 @@
       "Items": [
         {
           "Name": "Tomato",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.5,
           "Unit": "kg",
           "UnitDetail": "@12 whole",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "head, @100 grams",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Brown onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Carrots",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Capsicum",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 100.0,
           "Unit": "grams",
           "UnitDetail": "@0.33 whole",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Tomato paste",
@@ -12893,6 +12893,108 @@
         {
           "Name": "Simmer",
           "Seconds": 900
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Baked Beans",
+      "Type": "Main",
+      "Category": "Bakes",
+      "Cuisine": "English",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": "with bread"
+      },
+      "Time": {
+        "Minutes": 30.0,
+        "Extra": ""
+      },
+      "Difficulty": 2,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "I lied - there is no oven. Called dad before cooking to ask how to imitate his baked beans, happy with the result. Very tasty over crumbly toast with lots of butter.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Cannellini beans",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "cans",
+          "Group": null
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Bacon",
+          "NameDetail": "short cut",
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": "rashers, @5 rashers",
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Dice onion and bacon into small pieces, 8mm. Slice garlic thinly."
+        },
+        {
+          "Content": "Fry onion and bacon for a few minutes until edges are browned."
+        },
+        {
+          "Content": "Add garlic and tomato paste, fry for a minute or two."
+        },
+        {
+          "Content": "Add beans and stock, balance with salt and pepper. Cook for 5 minutes or so until dry and sauce clings to beans."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Fry",
+          "Seconds": 300
         }
       ],
       "Cost": null

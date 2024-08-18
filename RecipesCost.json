@@ -19569,7 +19569,7 @@
       "Tested": true,
       "NeedsRevision": false,
       "Dietary": {
-        "Vegetarian": false,
+        "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": true,
         "GlutenFree": true
@@ -19735,6 +19735,158 @@
         ],
         "CostString": "7.73* per serve",
         "ExclusionsString": "Excluding Tomato paste"
+      }
+    },
+    {
+      "Name": "Baked Beans",
+      "Type": "Main",
+      "Category": "Bakes",
+      "Cuisine": "English",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": "with bread"
+      },
+      "Time": {
+        "Minutes": 30.0,
+        "Extra": ""
+      },
+      "Difficulty": 2,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "I lied - there is no oven. Called dad before cooking to ask how to imitate his baked beans, happy with the result. Very tasty over crumbly toast with lots of butter.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cannellini beans",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "cans",
+          "Group": ""
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bacon",
+          "NameDetail": "short cut",
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": "rashers, @5 rashers",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Dice onion and bacon into small pieces, 8mm. Slice garlic thinly."
+        },
+        {
+          "Content": "Fry onion and bacon for a few minutes until edges are browned."
+        },
+        {
+          "Content": "Add garlic and tomato paste, fry for a minute or two."
+        },
+        {
+          "Content": "Add beans and stock, balance with salt and pepper. Cook for 5 minutes or so until dry and sauce clings to beans."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Fry",
+          "Seconds": 300
+        }
+      ],
+      "Cost": {
+        "Amount": 3.49,
+        "AmountPerUnit": 1.16,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Brown onions",
+            "Amount": 1.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cannellini beans",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Cannellini beans"
+          },
+          {
+            "Name": "Tomato paste",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Tomato paste"
+          },
+          {
+            "Name": "Bacon",
+            "Amount": 1.3980000000000001,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.37375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Amount": 0.22375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "1.16* per serve",
+        "ExclusionsString": "Excluding Cannellini beans and Tomato paste"
       }
     }
   ]
