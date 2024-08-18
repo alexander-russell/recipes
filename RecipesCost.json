@@ -15500,7 +15500,7 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 32.22,
+        "Amount": 32.23,
         "AmountPerUnit": 8.06,
         "Unit": "serves",
         "ItemCosts": [
@@ -15527,10 +15527,10 @@
           },
           {
             "Name": "Bay leaves",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:grams"
+            "Amount": 0.00533333333333334,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cinnamon sticks",
@@ -15709,7 +15709,7 @@
           }
         ],
         "CostString": "8.06* per serve",
-        "ExclusionsString": "Excluding Bay leaves, Cloves, Sumac, Parsley and Sumac"
+        "ExclusionsString": "Excluding Cloves, Sumac, Parsley and Sumac"
       }
     },
     {
@@ -16048,7 +16048,7 @@
         {
           "Name": "Brown onions",
           "NameDetail": "",
-          "Quantity": 0.5,
+          "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": ""
@@ -16226,8 +16226,8 @@
         }
       ],
       "Cost": {
-        "Amount": 22.3,
-        "AmountPerUnit": 3.72,
+        "Amount": 22.67,
+        "AmountPerUnit": 3.78,
         "Unit": "burritos",
         "ItemCosts": [
           {
@@ -16246,7 +16246,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.37375,
+            "Amount": 0.7475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16357,7 +16357,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.72* per unit",
+        "CostString": "3.78* per unit",
         "ExclusionsString": "Excluding Tomato paste"
       }
     },
@@ -19657,7 +19657,7 @@
           "Content": "Add @2 cups of water, @1.5 tsp salt and @2 tsp pepper. Simmer for 15 minutes."
         },
         {
-          "Content": "Add basil leaves (error: tpaste and basil) then blend with immersion blender."
+          "Content": "Add basil leaves then blend with immersion blender."
         },
         {
           "Content": "Simmer for another 15 minutes."
@@ -19887,6 +19887,238 @@
         ],
         "CostString": "1.16* per serve",
         "ExclusionsString": "Excluding Cannellini beans and Tomato paste"
+      }
+    },
+    {
+      "Name": "Split Pea Soup",
+      "Type": "Main",
+      "Category": "Soups",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 110.0,
+        "Extra": ""
+      },
+      "Difficulty": 6,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "Guanciale is a very fun word to say, and I think it makes the deli think you're clever. Unfortunately I didn't think it tasted that impressive. Warning that this recipe is a work in progress, it came out too salty and a bit too much in a general undefinable way.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Guanciale",
+          "NameDetail": "",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Split peas",
+          "NameDetail": "green",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Swede",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 7.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bay leaves",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to garnish",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Lemon juice",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to garnish",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Peel swede and onion and chop both finely. Slice @4 cloves garlic thinly, dice the other one as finely as possible."
+        },
+        {
+          "Content": "Remove skin from guanciale and chop into cute 1 cm pieces."
+        },
+        {
+          "Content": "On medium heat in a large pot fry guanciale until fat pools in the pot, 10 minuets."
+        },
+        {
+          "Content": "Remove guanciale and set aside in bowl, leaving oil in pot."
+        },
+        {
+          "Content": "Add onions, the first 4 cloves of garlic, salt and pepper to pot and saute on medium-high until lightly browned for 5 minutes."
+        },
+        {
+          "Content": "Add swede to pot, fry until tender, 10 minutes."
+        },
+        {
+          "Content": "Add split peas, stock and bay leaf. Bring to strong simmer then reduce heat and simmer for 50 minutes until swede is falling apart."
+        },
+        {
+          "Content": "Squash swede against side of pot a little during cooking."
+        },
+        {
+          "Content": "Add grated garlic and remove from heat."
+        },
+        {
+          "Content": "Serve by ladling soup into bowl and topping with guanciale and parsley, with a splash of oil and lemon juice."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-06-09T22:44:46.7191932+10:00",
+          "Content": "I used only half an onion and a mix of 5.75 cups chicken stock and 1.75 cups vegetable stock. I wrote that I should have simmerred for longer, that the end result is too salty and that the guanciale was better raw. Next time, I should cook without meat at all. Not sold on treating the garlic separately."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Guanciale",
+          "Seconds": 600
+        },
+        {
+          "Name": "Onions",
+          "Seconds": 300
+        },
+        {
+          "Name": "Swede",
+          "Seconds": 600
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 3000
+        }
+      ],
+      "Cost": {
+        "Amount": 22.21,
+        "AmountPerUnit": 5.55,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Guanciale",
+            "Amount": 12.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Split peas",
+            "Amount": 0.9875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Swede",
+            "Amount": 3.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.6229166666666662,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Amount": 3.35625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Bay leaves",
+            "Amount": 0.00266666666666666,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parsley",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to garnish"
+          },
+          {
+            "Name": "Lemon juice",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to garnish"
+          }
+        ],
+        "CostString": "5.55 per serve",
+        "ExclusionsString": ""
       }
     }
   ]
