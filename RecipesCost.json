@@ -19770,25 +19770,9 @@
         {
           "Name": "Brown onions",
           "NameDetail": "",
-          "Quantity": 2.0,
+          "Quantity": 1.5,
           "Unit": "whole",
-          "UnitDetail": "",
-          "Group": ""
-        },
-        {
-          "Name": "Cannellini beans",
-          "NameDetail": "",
-          "Quantity": 2.0,
-          "Unit": "whole",
-          "UnitDetail": "cans",
-          "Group": ""
-        },
-        {
-          "Name": "Tomato paste",
-          "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "cup",
-          "UnitDetail": "",
+          "UnitDetail": "or @2 medium ones",
           "Group": ""
         },
         {
@@ -19808,6 +19792,22 @@
           "Group": ""
         },
         {
+          "Name": "Tomato paste",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cannellini beans",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "cans",
+          "Group": ""
+        },
+        {
           "Name": "Chicken stock",
           "NameDetail": "",
           "Quantity": 0.5,
@@ -19818,50 +19818,57 @@
       ],
       "Steps": [
         {
-          "Content": "Dice onion and bacon into small pieces, 8mm. Slice garlic thinly."
+          "Content": "Dice onion and bacon into small pieces, 8mm. Slice garlic thinly. Drain liquid from beans."
         },
         {
-          "Content": "Fry onion and bacon for a few minutes until edges are browned."
+          "Content": "In a large pot on medium-high heat, fry onion and bacon in oil for a few minutes until edges are browned, 5 minutes."
         },
         {
           "Content": "Add garlic and tomato paste, fry for a minute or two."
         },
         {
-          "Content": "Add beans and stock, balance with salt and pepper. Cook for 5 minutes or so until dry and sauce clings to beans."
+          "Content": "Add beans and stock, balance with salt and pepper. Cook for 7 minutes or so until dry and sauce clings to beans. Now is a good time to put some bread in the toaster."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-20T18:28:18.572662+10:00",
+          "Content": "Did 2 large onions and I think that's probably too much. Taking a long time to fry done, giving them 6 minutes and then I'll proceed."
+        },
+        {
+          "Date": "2024-08-20T18:38:18.4379813+10:00",
+          "Content": "I'm also doing it without bacon today, will see how that goes."
+        },
+        {
+          "Date": "2024-08-20T19:17:34.7004195+10:00",
+          "Content": "Delicious but maybe a little wetter than usual, and the bacon definitely adds to it."
+        }
+      ],
       "Timers": [
         {
-          "Name": "Fry",
+          "Name": "Onions",
           "Seconds": 300
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 60
+        },
+        {
+          "Name": "Beans",
+          "Seconds": 420
         }
       ],
       "Cost": {
-        "Amount": 3.49,
-        "AmountPerUnit": 1.16,
+        "Amount": 3.12,
+        "AmountPerUnit": 1.04,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Brown onions",
-            "Amount": 1.495,
+            "Amount": 1.12125,
             "Success": true,
             "Reason": "",
             "Extra": ""
-          },
-          {
-            "Name": "Cannellini beans",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cannellini beans"
-          },
-          {
-            "Name": "Tomato paste",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Tomato paste"
           },
           {
             "Name": "Bacon",
@@ -19878,6 +19885,20 @@
             "Extra": ""
           },
           {
+            "Name": "Tomato paste",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Tomato paste"
+          },
+          {
+            "Name": "Cannellini beans",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Cannellini beans"
+          },
+          {
             "Name": "Chicken stock",
             "Amount": 0.22375,
             "Success": true,
@@ -19885,8 +19906,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.16* per serve",
-        "ExclusionsString": "Excluding Cannellini beans and Tomato paste"
+        "CostString": "1.04* per serve",
+        "ExclusionsString": "Excluding Tomato paste and Cannellini beans"
       }
     },
     {
@@ -20028,6 +20049,26 @@
         {
           "Date": "2024-06-09T22:44:46.7191932+10:00",
           "Content": "I used only half an onion and a mix of 5.75 cups chicken stock and 1.75 cups vegetable stock. I wrote that I should have simmerred for longer, that the end result is too salty and that the guanciale was better raw. Next time, I should cook without meat at all. Not sold on treating the garlic separately."
+        },
+        {
+          "Date": "2024-08-21T19:39:42.0524932+10:00",
+          "Content": "Cooking this tonight w/o guanciale. Using 2 small swedes and 1 very big onion, both feel like too much but I don't know how it's supposed to be. Took me 22 minutes to dice the veggies up. Would be a real time saver if I didn't need to do them so fine."
+        },
+        {
+          "Date": "2024-08-21T19:42:48.7422713+10:00",
+          "Content": "Planning to skip all the interim salt and pepper adding and just do it at the end, for fear of over salting like last time."
+        },
+        {
+          "Date": "2024-08-21T19:51:14.1167827+10:00",
+          "Content": "Gave the onions 6 min instead of 5."
+        },
+        {
+          "Date": "2024-08-21T20:02:18.9874654+10:00",
+          "Content": "Giving the swede some extra time to because after 10 min it doesn't seem to be tender. 12 minutes."
+        },
+        {
+          "Date": "2024-08-21T21:16:27.3259135+10:00",
+          "Content": "Simmering the whole lot for an extra 10 minutes too, still not falling apart."
         }
       ],
       "Timers": [
@@ -20119,6 +20160,316 @@
         ],
         "CostString": "5.55 per serve",
         "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Roast Vegetable Pie",
+      "Type": "Main",
+      "Category": "Pies",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 7.0,
+        "Unit": "pies",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 90.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Made this up vaguely in an attempt to recreate a tasty veggie pie I bought at a small food truck at the top of a waterfall somewhere I forget the name of. We bought the pies, went down the steps to the bottom of the waterfall, wandered about then climbed back up the stairs. The baker kept the pies warm in the oven for us the whole time. Substitute thyme for a few sprigs of fresh rosemary, roughly chopped. I've finally cracked using the pie cutter, line up the sheets side to side with a little overlap, cute all the bases you want, edge to edge alternating top/bottom of sheet, then make the tops out of the scraps.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Red potatoes",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Thyme",
+          "NameDetail": "dried",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Beef stock",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Red wine",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Worcestershire sauce",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": "frozen",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Puff pastry",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "whole",
+          "UnitDetail": "sheets",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Chop potatoes (small chunks), carrots (quarter lengthwise)."
+        },
+        {
+          "Content": "On oven tray (or two) toss potatoes and carrots in oil, salt and pepper then roast for 1 hour."
+        },
+        {
+          "Content": "Cut pastry sheets into pie cases, assemble and leave in fridge until time to cook."
+        },
+        {
+          "Content": "Dice onions (1.5cm squares), thinly slice garlic."
+        },
+        {
+          "Content": "Melt butter in large pot over medium-high heat. Add onions and fry for 4 minutes."
+        },
+        {
+          "Content": "Add garlic and fry for another 1 minute."
+        },
+        {
+          "Content": "Add thyme to pot and fry for 30 seconds."
+        },
+        {
+          "Content": "Add flour to pot and stir very thoroughly, fry stirring until lightly browned, 4 minutes."
+        },
+        {
+          "Content": "Add red wine and fry off briefly."
+        },
+        {
+          "Content": "Add beef stock, water, salt and pepper. Flavour can be over intense because it will soon be combined with the veggies."
+        },
+        {
+          "Content": "5 minutes after adding stock, add worcestershire sauce and stir well."
+        },
+        {
+          "Content": "Simmer pot until sauce thickens, stirring."
+        },
+        {
+          "Content": "Remove vegetables from oven, roughly chop carrots into cubes, then add potatoes, carrots and peas to sauce."
+        },
+        {
+          "Content": "Place pie cases in pie maker, spoon in filling, place cover and cook for 14 minutes until deep brown."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Roast",
+          "Seconds": 3600
+        },
+        {
+          "Name": "Onions",
+          "Seconds": 240
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 60
+        },
+        {
+          "Name": "Herbs",
+          "Seconds": 30
+        },
+        {
+          "Name": "Flour",
+          "Seconds": 240
+        },
+        {
+          "Name": "Pies",
+          "Seconds": 840
+        }
+      ],
+      "Cost": {
+        "Amount": 5.76,
+        "AmountPerUnit": 0.82,
+        "Unit": "pies",
+        "ItemCosts": [
+          {
+            "Name": "Red potatoes",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Red potatoes"
+          },
+          {
+            "Name": "Carrots",
+            "Amount": 0.476,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Amount": 0.7667999999999999,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.49833333333333374,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Thyme",
+            "Amount": 0.125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Beef stock",
+            "Amount": 0.67125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Red wine",
+            "Amount": 0.2715625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Worcestershire sauce",
+            "Amount": 0.0796,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Plain flour",
+            "Amount": 0.0774,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Peas",
+            "Amount": 0.6475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Puff pastry",
+            "Amount": 1.395,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "0.82* per unit",
+        "ExclusionsString": "Excluding Red potatoes"
       }
     }
   ]
