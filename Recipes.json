@@ -13611,6 +13611,213 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Sweet Potato Shepherds Pie",
+      "Type": "Main",
+      "Category": "Pies",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 5.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 120.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "After making this thoroughly UK feeling dinner, I sat and ate it infront of an episode of Are You Being Served. I measured the cheese but that's because initially I was putting it into the mash. Could add carrots. Consider putting a tray underneath in the oven to catch any oil.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Sweet potato",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "@2 whole",
+          "Group": null
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "around @4 whole",
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Beef mince",
+          "NameDetail": "3 star",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": "frozen",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Coriander",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Onion powder",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Worcestershire sauce",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Cheddar",
+          "NameDetail": null,
+          "Quantity": 30.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": null,
+          "Quantity": 20.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": null,
+          "Quantity": 100.0,
+          "Unit": "ml",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Peel sweet potato, wash the normal potatoes. Roughly cube both."
+        },
+        {
+          "Content": "Place both potatoes in a pot, cover with water and boil until skewer tender."
+        },
+        {
+          "Content": "Dice onion moderately finely, 8mm. (error: Forgot the 1kg 3 star beef mince). Slice garlic thinly."
+        },
+        {
+          "Content": "On medium-high heat in a large frying pan, fry onion in oil until lightly brown, 5 minutes."
+        },
+        {
+          "Content": "Add garlic and tomato paste to frying pan, fry 2 min."
+        },
+        {
+          "Content": "On slightly higher heat, add mince, a splash of water and spices. Fry until just browned, then reduce heat slightly and add worcestershire sauce, stir thoroughly."
+        },
+        {
+          "Content": "Fry until it smells good, about 10 minutes. Just before finished, add the peas."
+        },
+        {
+          "Content": "Preheat oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Mash potatoes, add butter, salt and pepepr to taste, as well as the milk."
+        },
+        {
+          "Content": "Pour mince into large baking dish and even out, spoon the mash over it and then top with desired cheese."
+        },
+        {
+          "Content": "Bake until yum, 50 minutes."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Onions",
+          "Seconds": 300
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 120
+        },
+        {
+          "Name": "Mince",
+          "Seconds": 600
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 3000
+        }
+      ],
+      "Cost": null
     }
   ]
 }

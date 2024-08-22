@@ -20654,7 +20654,12 @@
           "Content": "Bake until skewer tests clean, 45 minutes. Cool for 10 minutes."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-22T13:55:00.1204574+10:00",
+          "Content": "Did more time than the recipe suggests. Measured half of each mixture using a scale but the top rose much more, it also rose more in the middle than at the edges. Put the batter on as one big lump insstead of lots of little pieces, much easier."
+        }
+      ],
       "Timers": [
         {
           "Name": "Bake",
@@ -20771,6 +20776,326 @@
         ],
         "CostString": "0.98* per serve",
         "ExclusionsString": "Excluding Pecans"
+      }
+    },
+    {
+      "Name": "Sweet Potato Shepherds Pie",
+      "Type": "Main",
+      "Category": "Pies",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 5.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 120.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "After making this thoroughly UK feeling dinner, I sat and ate it infront of an episode of Are You Being Served. I measured the cheese but that's because initially I was putting it into the mash. Could add carrots. Consider putting a tray underneath in the oven to catch any oil.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Sweet potato",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "@2 whole",
+          "Group": ""
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "around @4 whole",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Beef mince",
+          "NameDetail": "3 star",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": "frozen",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Coriander",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Onion powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Worcestershire sauce",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cheddar",
+          "NameDetail": "",
+          "Quantity": 30.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": "",
+          "Quantity": 20.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 100.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Peel sweet potato, wash the normal potatoes. Roughly cube both."
+        },
+        {
+          "Content": "Place both potatoes in a pot, cover with water and boil until skewer tender."
+        },
+        {
+          "Content": "Dice onion moderately finely, 8mm. (error: Forgot the 1kg 3 star beef mince). Slice garlic thinly."
+        },
+        {
+          "Content": "On medium-high heat in a large frying pan, fry onion in oil until lightly brown, 5 minutes."
+        },
+        {
+          "Content": "Add garlic and tomato paste to frying pan, fry 2 min."
+        },
+        {
+          "Content": "On slightly higher heat, add mince, a splash of water and spices. Fry until just browned, then reduce heat slightly and add worcestershire sauce, stir thoroughly."
+        },
+        {
+          "Content": "Fry until it smells good, about 10 minutes. Just before finished, add the peas."
+        },
+        {
+          "Content": "Preheat oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Mash potatoes, add butter, salt and pepepr to taste, as well as the milk."
+        },
+        {
+          "Content": "Pour mince into large baking dish and even out, spoon the mash over it and then top with desired cheese."
+        },
+        {
+          "Content": "Bake until yum, 50 minutes."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Onions",
+          "Seconds": 300
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 120
+        },
+        {
+          "Name": "Mince",
+          "Seconds": 600
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 3000
+        }
+      ],
+      "Cost": {
+        "Amount": 22.41,
+        "AmountPerUnit": 4.48,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Sweet potato",
+            "Amount": 2.99,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Potatoes",
+            "Amount": 2.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.49833333333333374,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Beef mince",
+            "Amount": 11.98,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Peas",
+            "Amount": 0.6475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tomato paste",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Tomato paste"
+          },
+          {
+            "Name": "Paprika",
+            "Amount": 0.4,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Coriander",
+            "Amount": 0.149,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic powder",
+            "Amount": 0.2291666666666665,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Onion powder",
+            "Amount": 0.2857142857142855,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Worcestershire sauce",
+            "Amount": 0.0398,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cheddar",
+            "Amount": 0.6735,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parmesan",
+            "Amount": 0.6152000000000001,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Milk",
+            "Amount": 0.1545,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "4.48* per serve",
+        "ExclusionsString": "Excluding Tomato paste"
       }
     }
   ]
