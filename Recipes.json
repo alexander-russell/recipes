@@ -13448,23 +13448,23 @@
       "Items": [
         {
           "Name": "Pecans",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 165.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "topping"
         },
         {
           "Name": "White sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.33,
           "Unit": "cup",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "topping"
         },
         {
           "Name": "Brown sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.33,
           "Unit": "cup",
           "UnitDetail": "lightly packed",
@@ -13472,23 +13472,23 @@
         },
         {
           "Name": "Butter",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 53.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "topping"
         },
         {
           "Name": "Cinnamon",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "topping"
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.125,
           "Unit": "tsp",
           "UnitDetail": "@1 eighth",
@@ -13496,7 +13496,7 @@
         },
         {
           "Name": "Plain flour",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.875,
           "Unit": "cups",
           "UnitDetail": "@15 eighths",
@@ -13504,23 +13504,23 @@
         },
         {
           "Name": "Baking powder",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "cake"
         },
         {
           "Name": "Bi-carb",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.75,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "cake"
         },
         {
           "Name": "Butter",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 111.0,
           "Unit": "grams",
           "UnitDetail": "@0.5 cup",
@@ -13528,34 +13528,34 @@
         },
         {
           "Name": "White sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "cake"
         },
         {
           "Name": "Eggs",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "cake"
         },
         {
           "Name": "Sour cream",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "cake"
         },
         {
           "Name": "Vanilla",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.5,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "cake"
         }
       ],
@@ -13594,7 +13594,12 @@
           "Content": "Bake until skewer tests clean, 45 minutes. Cool for 10 minutes."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-22T13:55:00.1204574+10:00",
+          "Content": "Did more time than the recipe suggests. Measured half of each mixture using a scale but the top rose much more, it also rose more in the middle than at the edges. Put the batter on as one big lump insstead of lots of little pieces, much easier."
+        }
+      ],
       "Timers": [
         {
           "Name": "Bake",
