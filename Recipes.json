@@ -13179,6 +13179,10 @@
         {
           "Date": "2024-08-21T21:16:27.3259135+10:00",
           "Content": "Simmering the whole lot for an extra 10 minutes too, still not falling apart."
+        },
+        {
+          "Date": "2024-08-22T11:38:19.9877802+10:00",
+          "Content": "As described above turned out pretty nice. I think the flavour I didn't like might actually just be chicken stock, but it seems to get tastier as it cooks. Roughly cracked pepper is very delicious. Next time, I'd consider using some water instead of some stock, and separately, potato instead of swede. Maybe this could become an easy meal? I'd also like to try cutting everything a bit larger to save on prep time."
         }
       ],
       "Timers": [
@@ -13408,6 +13412,197 @@
         {
           "Name": "Pies",
           "Seconds": 840
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Pecan Coffee Cake",
+      "Type": "Dessert",
+      "Category": "Cakes",
+      "Cuisine": "American",
+      "Key": "",
+      "Yield": {
+        "Quantity": 8.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 120.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Apparently a coffee cake is either a coffee flavoured cake, or a cake of any flavour made to be eaten with coffee. The recipe is from \\href{https://www.allrecipes.com/recipe/246868/pecan-sour-cream-coffee-cake/}{All Recipes}, but I got it from my statistics lecturer who made this and several other cakes for his office to celebrate his birthday. I got lucky and walked past at the right time, and I later emailed to get the recipe. To get the halves even, I measured the batter and topping and did it by weight. The reason for the difficulty rating is that the measurements are super finicky. To get the brown sugar and flour quantities right, use a small spoon and fill up the larger measurement gradually, without packing it in.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Pecans",
+          "NameDetail": null,
+          "Quantity": 165.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "topping"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": null,
+          "Quantity": 0.33,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": "topping"
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": null,
+          "Quantity": 0.33,
+          "Unit": "cup",
+          "UnitDetail": "lightly packed",
+          "Group": "topping"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": null,
+          "Quantity": 53.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "topping"
+        },
+        {
+          "Name": "Cinnamon",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "topping"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 0.125,
+          "Unit": "tsp",
+          "UnitDetail": "@1 eighth",
+          "Group": "topping"
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": null,
+          "Quantity": 1.875,
+          "Unit": "cups",
+          "UnitDetail": "@15 eighths",
+          "Group": "cake"
+        },
+        {
+          "Name": "Baking powder",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "cake"
+        },
+        {
+          "Name": "Bi-carb",
+          "NameDetail": null,
+          "Quantity": 0.75,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "cake"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": null,
+          "Quantity": 111.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.5 cup",
+          "Group": "topping"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": "cake"
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "cake"
+        },
+        {
+          "Name": "Sour cream",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": "cake"
+        },
+        {
+          "Name": "Vanilla",
+          "NameDetail": null,
+          "Quantity": 1.5,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "cake"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Measure the pecans and lay them all out on biggest cutting board. Using largest knife, chop the pile across over and over until pieces are small."
+        },
+        {
+          "Content": "Preheat oven to 175 conventional."
+        },
+        {
+          "Content": "Melt the smaller portion of butter on the stove."
+        },
+        {
+          "Content": "Mix all crumb ingredients together very thoroughly, 4 minutes."
+        },
+        {
+          "Content": "In a large bowl, mix the flour, baking powder, bi-carb and salt."
+        },
+        {
+          "Content": "In a mixer, add the butter and sugar and blend well."
+        },
+        {
+          "Content": "Add the eggs, blend well. Then add the flour mixture and blend until only just incorporated, don't over mix."
+        },
+        {
+          "Content": "Butter a large, deep baking tray suitable for serving this in."
+        },
+        {
+          "Content": "Place half of the cake mixture into the dish and spread as evenly as possible. Then sprinkle half of the topping across and push it into the cake very gently."
+        },
+        {
+          "Content": "Pour the remaining cake mixture into the centre of the dish and spread it out like you would spread sauce on a pizza. Sprinkle over the remaining topping."
+        },
+        {
+          "Content": "Bake until skewer tests clean, 45 minutes. Cool for 10 minutes."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 2700
+        },
+        {
+          "Name": "Cool",
+          "Seconds": 600
         }
       ],
       "Cost": null
