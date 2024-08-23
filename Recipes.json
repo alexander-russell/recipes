@@ -14043,75 +14043,75 @@
       "Items": [
         {
           "Name": "Chicken maryland",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "kg",
           "UnitDetail": "3 pieces",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Rice",
           "NameDetail": "long grain",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Water",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.5,
           "Unit": "cup",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Diced tomatoes",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "can",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Chicken stock",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "cups",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Mole negro",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 128.0,
           "Unit": "grams",
           "UnitDetail": "@0.25 of a jar",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Red onion",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Capsicum",
           "NameDetail": "red",
           "Quantity": 0.5,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Sesame seeds",
           "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to garnish",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -14173,6 +14173,99 @@
           "Seconds": 120
         }
       ],
+      "Cost": null
+    },
+    {
+      "Name": "Lemon Butter",
+      "Type": "Component",
+      "Category": "Jams",
+      "Cuisine": "",
+      "Key": "Lemon",
+      "Yield": {
+        "Quantity": 2.0,
+        "Unit": "cups",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": false,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From Stephanie Alexander's The Cook's Companion. I don't have my grandma's recipe but this tastes similar and she would often have a little red lidded jar in the fridge to use on toast. I recently found exactly the same jar at an op-shop in the free pile. On the same trip a day later I found another identical jar, they must be from some product and there are some icons in the lid but nothing I can put together. The steps are simple but measuring out and preparing the ingredients takes time. I also may have been cooking it at too low a temperature out of fear.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Lemon",
+          "NameDetail": "large",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": null,
+          "Quantity": 175.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Zest both lemons, should yield ~@2 tbsp."
+        },
+        {
+          "Content": "Juice both lemons."
+        },
+        {
+          "Content": "Whisk the eggs in a bowl and then push through a strainer."
+        },
+        {
+          "Content": "In a small or medium pot on low heat, melt the butter."
+        },
+        {
+          "Content": "Add the lemon juice, lemon zest and sugar. Stir constantly until sugar has dissolved."
+        },
+        {
+          "Content": "Remove from heat, stir in eggs and then return to low heat. Stir constantly until mixture has thickened. Do not allow it to boil or it will curdle."
+        },
+        {
+          "Content": "Wash jars in soap and then place in warm oven until ready to pour."
+        },
+        {
+          "Content": "Pour mixture into jars and seal."
+        }
+      ],
+      "Diary": [],
+      "Timers": null,
       "Cost": null
     }
   ]
