@@ -16373,9 +16373,9 @@
       "Cuisine": "",
       "Key": "",
       "Yield": {
-        "Quantity": 4.0,
+        "Quantity": 6.0,
         "Unit": "burgers",
-        "Extra": "6 patties"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 70.0,
@@ -16485,11 +16485,11 @@
           "Group": "patty"
         },
         {
-          "Name": "Cos lettuce",
+          "Name": "Iceberg lettuce",
           "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "whole",
-          "UnitDetail": "",
+          "UnitDetail": "4 pieces or so",
           "Group": ""
         },
         {
@@ -16511,7 +16511,7 @@
         {
           "Name": "Brioche buns",
           "NameDetail": "",
-          "Quantity": 4.0,
+          "Quantity": 6.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": ""
@@ -16519,7 +16519,7 @@
         {
           "Name": "Sliced cheese",
           "NameDetail": "",
-          "Quantity": 8.0,
+          "Quantity": 12.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": ""
@@ -16545,7 +16545,7 @@
           "Content": "Bake chips for 30 min (?)."
         },
         {
-          "Content": "Add lentils, @1.5 cups of water to pot. Cover and simmer until soft. 25 min. Add more water as needed."
+          "Content": "Add lentils, @1.5 cups of water, salt and pepper to pot. Cover and simmer until soft. 25 min. Add more water as needed."
         },
         {
           "Content": "Slice tomato, chop lettuce into 1.5cm strips."
@@ -16554,16 +16554,21 @@
           "Content": "Remove mixture to cool in bowl."
         },
         {
-          "Content": "Add eggs, breadcrumbs, combine and shape into patties."
+          "Content": "Add eggs, breadcrumbs, combine and shape into patties. To shape, lay down a large sheet of baking paper and pour some flour or breadcrumbs onto it, then squash and shape, dusting in the breadcrumbs/flour."
         },
         {
-          "Content": "Fry patties 3 at a time."
+          "Content": "On medium-high heat in oil, fry patties 3 at a time. 5 minutes per side."
         },
         {
           "Content": "Toast buns."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-23T12:27:22.9598+10:00",
+          "Content": "Fried on large burner somewhere between 8 and 11 out of 11. Did patties of 100 grams. On second third or fourth thought (have made these a surprising number of times), these really don't compare to a beef burger. Still fun but there's no heart stopping grease."
+        }
+      ],
       "Timers": [
         {
           "Name": "Onions",
@@ -16583,8 +16588,8 @@
         }
       ],
       "Cost": {
-        "Amount": 17.5,
-        "AmountPerUnit": 4.38,
+        "Amount": 21.01,
+        "AmountPerUnit": 3.5,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -16665,8 +16670,8 @@
             "Extra": ""
           },
           {
-            "Name": "Cos lettuce",
-            "Amount": 0.24875,
+            "Name": "Iceberg lettuce",
+            "Amount": 0.7475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16687,20 +16692,20 @@
           },
           {
             "Name": "Brioche buns",
-            "Amount": 3.29,
+            "Amount": 4.9350000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Sliced cheese",
-            "Amount": 2.745,
+            "Amount": 4.1175,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "4.38 per unit",
+        "CostString": "3.5 per unit",
         "ExclusionsString": ""
       }
     },
@@ -20942,7 +20947,7 @@
           "Content": "Place both potatoes in a pot, cover with water and boil until skewer tender."
         },
         {
-          "Content": "Dice onion moderately finely, 8mm. (error: Forgot the 1kg 3 star beef mince). Slice garlic thinly."
+          "Content": "Dice onion moderately finely, 8mm. Slice garlic thinly."
         },
         {
           "Content": "On medium-high heat in a large frying pan, fry onion in oil until lightly brown, 5 minutes."
@@ -21251,7 +21256,12 @@
           "Content": "Add the bean sprouts and rest of the spring onions and toss again until the bean sprouts just start to turn transparent, still crunchy. 1 minute. Remove and plate."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-22T22:41:34.8737133+10:00",
+          "Content": "Followed the recipe pretty closely. Should maybe do less noodles next time as pan is very full. Flipped after 4 instead of 5 minutes because they started to burn, I added some extra oil too. Forgot rice wine."
+        }
+      ],
       "Timers": [
         {
           "Name": "Boil",
@@ -21363,6 +21373,241 @@
         ],
         "CostString": "4.04* per serve",
         "ExclusionsString": "Excluding Soy sauce"
+      }
+    },
+    {
+      "Name": "Chicken Mole Negro",
+      "Type": "Main",
+      "Category": "Cutlets",
+      "Cuisine": "Mexican",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 5,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Chocolate chicken. In the lead up to cooking this I had to convince several people that this was a real thing. Bought the mole negro from Fireworks Foods in North Rocks. Got the vague recipe plan from the person serving, though there was no pretense of authenticity, she was just scheming to cook the whole thing in one pot. The veggies are an addition because they were in the fridge, but they really do brighten up the meal. Such a fun thing to eat. The steps are probably overkill but it's what I ended up with, I put the chicken in I put the chicken out I put the chicken in and I shake it all about.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Chicken maryland",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "3 pieces",
+          "Group": ""
+        },
+        {
+          "Name": "Rice",
+          "NameDetail": "long grain",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Diced tomatoes",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "can",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Mole negro",
+          "NameDetail": "",
+          "Quantity": 128.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.25 of a jar",
+          "Group": ""
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Capsicum",
+          "NameDetail": "red",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Sesame seeds",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to garnish",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Wash chicken under water and pat dry."
+        },
+        {
+          "Content": "In large pot on medium-high heat warm oil and then add chicken flat in a single layer. Sear until well browned then flip and repeat. If not enough room, do the chicken in batches and remove to plate."
+        },
+        {
+          "Content": "Make the rice inbetween other steps. Add the rice and water to a medium pot, on medium heat bring to simmer then cover, reduce heat and cook for 13 minutes. Remove pot from heat and sit for 10 minutes, then remove lid, fluff and let sit for 2 minutes."
+        },
+        {
+          "Content": "Blend diced tomatoes in food processor."
+        },
+        {
+          "Content": "Remove chicken from pot and add diced tomatoes, simmer for 2 minutes."
+        },
+        {
+          "Content": "Add chicken stock, reduce heat to medium and cook for 5 minutes."
+        },
+        {
+          "Content": "Chop the onion and capsicum into strips and fry in a little oil in a separate frying pan."
+        },
+        {
+          "Content": "Add chicken to pot, cover and cook for 10 minutes. Remove cover and cook for another 10 minutes."
+        },
+        {
+          "Content": "Remove chicken again, then add mole negro. Stir very thoroughly to ensure all clumps are broken up, it's a very strong flavour. Remove from heat to stir further if needed, overheating supposedly breaks down the chocolate and bad things happen."
+        },
+        {
+          "Content": "Place chicken back in pot, baste with sauce and serve with rice and vegetables."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Tomatoes",
+          "Seconds": 120
+        },
+        {
+          "Name": "Stock",
+          "Seconds": 300
+        },
+        {
+          "Name": "Chicken",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        }
+      ],
+      "Cost": {
+        "Amount": 4.16,
+        "AmountPerUnit": 1.39,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Chicken maryland",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Chicken maryland"
+          },
+          {
+            "Name": "Rice",
+            "Amount": 0.44875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Diced tomatoes",
+            "Amount": 0.95,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Amount": 0.895,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Mole negro",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Mole negro"
+          },
+          {
+            "Name": "Red onion",
+            "Amount": 0.6225,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Capsicum",
+            "Amount": 1.2475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Sesame seeds",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to garnish"
+          }
+        ],
+        "CostString": "1.39* per serve",
+        "ExclusionsString": "Excluding Chicken maryland and Mole negro"
       }
     }
   ]

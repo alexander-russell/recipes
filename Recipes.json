@@ -14010,6 +14010,170 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Chicken Mole Negro",
+      "Type": "Main",
+      "Category": "Cutlets",
+      "Cuisine": "Mexican",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 5,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Chocolate chicken. In the lead up to cooking this I had to convince several people that this was a real thing. Bought the mole negro from Fireworks Foods in North Rocks. Got the vague recipe plan from the person serving, though there was no pretense of authenticity, she was just scheming to cook the whole thing in one pot. The veggies are an addition because they were in the fridge, but they really do brighten up the meal. Such a fun thing to eat. The steps are probably overkill but it's what I ended up with, I put the chicken in I put the chicken out I put the chicken in and I shake it all about.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Chicken maryland",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "3 pieces",
+          "Group": null
+        },
+        {
+          "Name": "Rice",
+          "NameDetail": "long grain",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Water",
+          "NameDetail": null,
+          "Quantity": 1.5,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Diced tomatoes",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "can",
+          "Group": null
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Mole negro",
+          "NameDetail": null,
+          "Quantity": 128.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.25 of a jar",
+          "Group": null
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Capsicum",
+          "NameDetail": "red",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Sesame seeds",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to garnish",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Wash chicken under water and pat dry."
+        },
+        {
+          "Content": "In large pot on medium-high heat warm oil and then add chicken flat in a single layer. Sear until well browned then flip and repeat. If not enough room, do the chicken in batches and remove to plate."
+        },
+        {
+          "Content": "Make the rice inbetween other steps. Add the rice and water to a medium pot, on medium heat bring to simmer then cover, reduce heat and cook for 13 minutes. Remove pot from heat and sit for 10 minutes, then remove lid, fluff and let sit for 2 minutes."
+        },
+        {
+          "Content": "Blend diced tomatoes in food processor."
+        },
+        {
+          "Content": "Remove chicken from pot and add diced tomatoes, simmer for 2 minutes."
+        },
+        {
+          "Content": "Add chicken stock, reduce heat to medium and cook for 5 minutes."
+        },
+        {
+          "Content": "Chop the onion and capsicum into strips and fry in a little oil in a separate frying pan."
+        },
+        {
+          "Content": "Add chicken to pot, cover and cook for 10 minutes. Remove cover and cook for another 10 minutes."
+        },
+        {
+          "Content": "Remove chicken again, then add mole negro. Stir very thoroughly to ensure all clumps are broken up, it's a very strong flavour. Remove from heat to stir further if needed, overheating supposedly breaks down the chocolate and bad things happen."
+        },
+        {
+          "Content": "Place chicken back in pot, baste with sauce and serve with rice and vegetables."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Tomatoes",
+          "Seconds": 120
+        },
+        {
+          "Name": "Stock",
+          "Seconds": 300
+        },
+        {
+          "Name": "Chicken",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        }
+      ],
+      "Cost": null
     }
   ]
 }
