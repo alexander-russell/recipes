@@ -11375,7 +11375,12 @@
           "Content": "Taste for salt and pepper."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-23T22:14:53.7852712+10:00",
+          "Content": "Made I think the best pumpkin soup I have ever made. Used a pumpkin from the community garden, it looks like a kent. Weighed 1.6 whole, 1.2 peeled and then 1kg peeled and cored. Used a whole head of garlic, which I crushed with the knife before peeling. This had such a good effect on the garlic that I've done it nearly every time I've cooked with garlic since. The garlic nearly burned in the oven and still tasted great. Tipped all the pan juices into the pot when I did the veggies. Instead of a a litre of vegetable stock I used 2 cups of water and 2 cups of vegetable stock, and later after blending I added an extra cup of boiling hot water to thin it. Added a tiny dash of ground ginger while simmering."
+        }
+      ],
       "Timers": [
         {
           "Name": "Bake",
@@ -14210,32 +14215,32 @@
           "NameDetail": "large",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Butter",
           "NameDetail": "unsalted",
           "Quantity": 100.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "White sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 175.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Eggs",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -14264,8 +14269,113 @@
           "Content": "Pour mixture into jars and seal."
         }
       ],
-      "Diary": [],
-      "Timers": null,
+      "Diary": [
+        {
+          "Date": "2024-08-23T21:12:49.8168275+10:00",
+          "Content": "I strained the eggs very carefully and the effect was magical. I also strained the lemon juice but I don't think I needed to. The recipe adds the butter with all the other ingredients but it took ages to melt so I figure melting first a good move. I took 25 minutes just for the cooking after adding the egg, but I think I was cooking on way too low a heat. By the end of it, I had it on the bottom-right burner at 6.5, I reckon I should have started with that. Made 3 little jars and was fantastic in colour, flavour and consistency."
+        }
+      ],
+      "Timers": [],
+      "Cost": null
+    },
+    {
+      "Name": "Scones",
+      "Type": "Dessert",
+      "Category": "Muffins",
+      "Cuisine": "English",
+      "Key": "",
+      "Yield": {
+        "Quantity": 8.0,
+        "Unit": "scones",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 30.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From the Commonsense Cookery Book, my copy is the centenary edition, a birthday present years ago from Dad. His note in the front makes deliberate mention of the pandemic to anchor it in time. The cooking time is a lot longer than it should be because my oven is lazy at times. I tried to shape them like hamburger patties but I'll cut them from here on. Serve warm with lemon butter and thickened cream. The book instructs you to tear them open rather than cutting with a knife, thems the rules.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "SR flour",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 240 degrees conventional."
+        },
+        {
+          "Content": "Into large bowl sift flour and salt."
+        },
+        {
+          "Content": "Dice butter and rub into flour mix lightly."
+        },
+        {
+          "Content": "Reserving a little for glazing, pour the milk into the mixture and mix quickly into a soft dough. Don't overwork."
+        },
+        {
+          "Content": "Turn onto floured bench and knead lightly and quickly, then roll out to a 2 cm thick round."
+        },
+        {
+          "Content": "Cut with a sharp floured knife. Can cut 8 pieces like a pizza, squared or use a round cookie cutter."
+        },
+        {
+          "Content": "Arrange close together on baking tray, glaze with milk and bake for 14 minutes."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-23T22:35:04.1926625+10:00",
+          "Content": "My notes are pretty much in the main recipe note. I haven't tried cutting them but assume that would work better. The original recipe gives a temperature range 230-260 degrees and a time range 8-10 minutes, so maybe I should use a higher heat next time."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 840
+        }
+      ],
       "Cost": null
     }
   ]
