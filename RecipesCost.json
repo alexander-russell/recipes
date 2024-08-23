@@ -2171,8 +2171,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.53,
-        "AmountPerUnit": 8.53,
+        "Amount": 3.79,
+        "AmountPerUnit": 3.79,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -2198,7 +2198,7 @@
           },
           {
             "Name": "Spring onions",
-            "Amount": 4.98,
+            "Amount": 0.24,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2295,7 +2295,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.53* per unit",
+        "CostString": "3.79* per unit",
         "ExclusionsString": "Excluding Whole white fish, Ginger root, Tamarind juice, White pepper and Wood fungus"
       }
     },
@@ -7535,8 +7535,8 @@
         }
       ],
       "Cost": {
-        "Amount": 4.13,
-        "AmountPerUnit": 2.06,
+        "Amount": 2.35,
+        "AmountPerUnit": 1.18,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -7569,7 +7569,7 @@
           },
           {
             "Name": "Spring onions",
-            "Amount": 1.8675,
+            "Amount": 0.09,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7596,7 +7596,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.06 per serve",
+        "CostString": "1.18 per serve",
         "ExclusionsString": ""
       }
     },
@@ -17380,7 +17380,12 @@
           "Content": "Taste for salt and pepper."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-23T22:14:53.7852712+10:00",
+          "Content": "Made I think the best pumpkin soup I have ever made. Used a pumpkin from the community garden, it looks like a kent. Weighed 1.6 whole, 1.2 peeled and then 1kg peeled and cored. Used a whole head of garlic, which I crushed with the knife before peeling. This had such a good effect on the garlic that I've done it nearly every time I've cooked with garlic since. The garlic nearly burned in the oven and still tasted great. Tipped all the pan juices into the pot when I did the veggies. Instead of a a litre of vegetable stock I used 2 cups of water and 2 cups of vegetable stock, and later after blending I added an extra cup of boiling hot water to thin it. Added a tiny dash of ground ginger while simmering."
+        }
+      ],
       "Timers": [
         {
           "Name": "Bake",
@@ -17734,8 +17739,8 @@
         }
       ],
       "Cost": {
-        "Amount": 14.62,
-        "AmountPerUnit": 3.66,
+        "Amount": 5.14,
+        "AmountPerUnit": 1.28,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -17845,7 +17850,7 @@
           },
           {
             "Name": "Spring onions",
-            "Amount": 9.96,
+            "Amount": 0.48,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17879,7 +17884,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.66* per serve",
+        "CostString": "1.28* per serve",
         "ExclusionsString": "Excluding Flank steak, Soy sauce and Soy sauce"
       }
     },
@@ -21289,8 +21294,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.09,
-        "AmountPerUnit": 4.04,
+        "Amount": 3.35,
+        "AmountPerUnit": 1.68,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -21302,7 +21307,7 @@
           },
           {
             "Name": "Spring onions",
-            "Amount": 4.98,
+            "Amount": 0.24,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21371,7 +21376,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.04* per serve",
+        "CostString": "1.68* per serve",
         "ExclusionsString": "Excluding Soy sauce"
       }
     },
@@ -21608,6 +21613,585 @@
         ],
         "CostString": "1.39* per serve",
         "ExclusionsString": "Excluding Chicken maryland and Mole negro"
+      }
+    },
+    {
+      "Name": "Lemon Butter",
+      "Type": "Component",
+      "Category": "Jams",
+      "Cuisine": "",
+      "Key": "Lemon",
+      "Yield": {
+        "Quantity": 2.0,
+        "Unit": "cups",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": false,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From Stephanie Alexander's The Cook's Companion. I don't have my grandma's recipe but this tastes similar and she would often have a little red lidded jar in the fridge to use on toast. I recently found exactly the same jar at an op-shop in the free pile. On the same trip a day later I found another identical jar, they must be from some product and there are some icons in the lid but nothing I can put together. The steps are simple but measuring out and preparing the ingredients takes time. I also may have been cooking it at too low a temperature out of fear.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Lemon",
+          "NameDetail": "large",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 175.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Zest both lemons, should yield ~@2 tbsp."
+        },
+        {
+          "Content": "Juice both lemons."
+        },
+        {
+          "Content": "Whisk the eggs in a bowl and then push through a strainer."
+        },
+        {
+          "Content": "In a small or medium pot on low heat, melt the butter."
+        },
+        {
+          "Content": "Add the lemon juice, lemon zest and sugar. Stir constantly until sugar has dissolved."
+        },
+        {
+          "Content": "Remove from heat, stir in eggs and then return to low heat. Stir constantly until mixture has thickened. Do not allow it to boil or it will curdle."
+        },
+        {
+          "Content": "Wash jars in soap and then place in warm oven until ready to pour."
+        },
+        {
+          "Content": "Pour mixture into jars and seal."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-23T21:12:49.8168275+10:00",
+          "Content": "I strained the eggs very carefully and the effect was magical. I also strained the lemon juice but I don't think I needed to. The recipe adds the butter with all the other ingredients but it took ages to melt so I figure melting first a good move. I took 25 minutes just for the cooking after adding the egg, but I think I was cooking on way too low a heat. By the end of it, I had it on the bottom-right burner at 6.5, I reckon I should have started with that. Made 3 little jars and was fantastic in colour, flavour and consistency."
+        }
+      ],
+      "Timers": [],
+      "Cost": {
+        "Amount": 4.38,
+        "AmountPerUnit": 2.19,
+        "Unit": "cups",
+        "ItemCosts": [
+          {
+            "Name": "Lemon",
+            "Amount": 1.58,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Amount": 1.278,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "White sugar",
+            "Amount": 0.226625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Eggs",
+            "Amount": 1.2975,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "2.19 per unit",
+        "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Scones",
+      "Type": "Dessert",
+      "Category": "Muffins",
+      "Cuisine": "English",
+      "Key": "",
+      "Yield": {
+        "Quantity": 8.0,
+        "Unit": "scones",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 30.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From the Commonsense Cookery Book, my copy is the centenary edition, a birthday present years ago from Dad. His note in the front makes deliberate mention of the pandemic to anchor it in time. The cooking time is a lot longer than it should be because my oven is lazy at times. I tried to shape them like hamburger patties but I'll cut them from here on. Serve warm with lemon butter and thickened cream. The book instructs you to tear them open rather than cutting with a knife, thems the rules.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "SR flour",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 240 degrees conventional."
+        },
+        {
+          "Content": "Into large bowl sift flour and salt."
+        },
+        {
+          "Content": "Dice butter and rub into flour mix lightly."
+        },
+        {
+          "Content": "Reserving a little for glazing, pour the milk into the mixture and mix quickly into a soft dough. Don't overwork."
+        },
+        {
+          "Content": "Turn onto floured bench and knead lightly and quickly, then roll out to a 2 cm thick round."
+        },
+        {
+          "Content": "Cut with a sharp floured knife. Can cut 8 pieces like a pizza, squared or use a round cookie cutter."
+        },
+        {
+          "Content": "Arrange close together on baking tray, glaze with milk and bake for 14 minutes."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-23T22:35:04.1926625+10:00",
+          "Content": "My notes are pretty much in the main recipe note. I haven't tried cutting them but assume that would work better. The original recipe gives a temperature range 230-260 degrees and a time range 8-10 minutes, so maybe I should use a higher heat next time."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Bake",
+          "Seconds": 840
+        }
+      ],
+      "Cost": {
+        "Amount": 1.81,
+        "AmountPerUnit": 0.23,
+        "Unit": "scones",
+        "ItemCosts": [
+          {
+            "Name": "SR flour",
+            "Amount": 0.645,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.0075,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Amount": 0.7667999999999999,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Milk",
+            "Amount": 0.38625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "0.23 per unit",
+        "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Lamb Korma",
+      "Type": "Main",
+      "Category": "Curries",
+      "Cuisine": "Indian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://nishkitchen.com/lamb-korma/}{Nish Kitchen}, who's delightful slogan is \"A Delicious Adventure!\". I tried to make this after buying some for lunch at Tandoori Connection. error: rice.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Lamb cubes",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Basmati rice",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cm",
+          "UnitDetail": "@2 tsp once chopped",
+          "Group": ""
+        },
+        {
+          "Name": "Bay leaves",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cinnamon sticks",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dried red chilli",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cumin",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Nutmeg",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garam masala",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Yoghurt",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Make rice. Add rice and water to a pot on medium-high heat, bring to simmer then reduce to medium-low and cover. Cook for 13 minutes, then remove from heat and leave for 10 minutes. Finally, remove lid and fluff rice, leave for 2 minutes."
+        },
+        {
+          "Content": "Chop onion roughly, slice garlic and ginger finely."
+        },
+        {
+          "Content": "On medium high heat in oil, fry onion until softened, 5 minutes."
+        },
+        {
+          "Content": "Add ginger and garlic, fry until fragrant."
+        },
+        {
+          "Content": "Add cinnamon stick, bay leavves, red chilli, nutmeg, cumin, garam masala. Fry for another few seconds."
+        },
+        {
+          "Content": "Add lamb, fry for 3 minutes."
+        },
+        {
+          "Content": "Mix together the yoghurt and water, add to pot and cover. Bring to a boil, reduce heat to medium and simmer for 20 minutes."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-23T22:59:13.3857531+10:00",
+          "Content": "Both times I've made it, the amount is kind of awkward, just not quite 4 serves. Should serve with paratha, goes so deliciously."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Onion",
+          "Seconds": 300
+        },
+        {
+          "Name": "Lamb",
+          "Seconds": 180
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 1200
+        }
+      ],
+      "Cost": {
+        "Amount": 11.48,
+        "AmountPerUnit": 3.83,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Lamb cubes",
+            "Amount": 5.996,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Basmati rice",
+            "Amount": 1.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.37375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Ginger",
+            "Amount": 0.19992,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Bay leaves",
+            "Amount": 0.00533333333333334,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cinnamon sticks",
+            "Amount": 0.19,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Dried red chilli",
+            "Amount": 0.0398666666666667,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cumin",
+            "Amount": 0.220238095238095,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Nutmeg",
+            "Amount": 0.425,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garam masala",
+            "Amount": 1.56,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Pepper",
+            "Amount": 0.223684210526316,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Yoghurt",
+            "Amount": 0.49875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "3.83 per serve",
+        "ExclusionsString": ""
       }
     }
   ]

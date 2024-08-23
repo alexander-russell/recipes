@@ -14377,6 +14377,202 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Lamb Korma",
+      "Type": "Main",
+      "Category": "Curries",
+      "Cuisine": "Indian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 40.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://nishkitchen.com/lamb-korma/}{Nish Kitchen}, who's delightful slogan is \"A Delicious Adventure!\". I tried to make this after buying some for lunch at Tandoori Connection. error: rice.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Lamb cubes",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Basmati rice",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cm",
+          "UnitDetail": "@2 tsp once chopped",
+          "Group": ""
+        },
+        {
+          "Name": "Bay leaves",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cinnamon sticks",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dried red chilli",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cumin",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Nutmeg",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garam masala",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Yoghurt",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Make rice. Add rice and water to a pot on medium-high heat, bring to simmer then reduce to medium-low and cover. Cook for 13 minutes, then remove from heat and leave for 10 minutes. Finally, remove lid and fluff rice, leave for 2 minutes."
+        },
+        {
+          "Content": "Chop onion roughly, slice garlic and ginger finely."
+        },
+        {
+          "Content": "On medium high heat in oil, fry onion until softened, 5 minutes."
+        },
+        {
+          "Content": "Add ginger and garlic, fry until fragrant."
+        },
+        {
+          "Content": "Add cinnamon stick, bay leavves, red chilli, nutmeg, cumin, garam masala. Fry for another few seconds."
+        },
+        {
+          "Content": "Add lamb, fry for 3 minutes."
+        },
+        {
+          "Content": "Mix together the yoghurt and water, add to pot and cover. Bring to a boil, reduce heat to medium and simmer for 20 minutes."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-23T22:59:13.3857531+10:00",
+          "Content": "Both times I've made it, the amount is kind of awkward, just not quite 4 serves. Should serve with paratha, goes so deliciously."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Onion",
+          "Seconds": 300
+        },
+        {
+          "Name": "Lamb",
+          "Seconds": 180
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 1200
+        }
+      ],
+      "Cost": null
     }
   ]
 }
