@@ -10658,9 +10658,9 @@
       "Cuisine": "",
       "Key": "",
       "Yield": {
-        "Quantity": 4.0,
+        "Quantity": 6.0,
         "Unit": "burgers",
-        "Extra": "6 patties"
+        "Extra": ""
       },
       "Time": {
         "Minutes": 70.0,
@@ -10770,11 +10770,11 @@
           "Group": "patty"
         },
         {
-          "Name": "Cos lettuce",
+          "Name": "Iceberg lettuce",
           "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "whole",
-          "UnitDetail": "",
+          "UnitDetail": "4 pieces or so",
           "Group": ""
         },
         {
@@ -10796,7 +10796,7 @@
         {
           "Name": "Brioche buns",
           "NameDetail": "",
-          "Quantity": 4.0,
+          "Quantity": 6.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": ""
@@ -10804,7 +10804,7 @@
         {
           "Name": "Sliced cheese",
           "NameDetail": "",
-          "Quantity": 8.0,
+          "Quantity": 12.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": ""
@@ -10830,7 +10830,7 @@
           "Content": "Bake chips for 30 min (?)."
         },
         {
-          "Content": "Add lentils, @1.5 cups of water to pot. Cover and simmer until soft. 25 min. Add more water as needed."
+          "Content": "Add lentils, @1.5 cups of water, salt and pepper to pot. Cover and simmer until soft. 25 min. Add more water as needed."
         },
         {
           "Content": "Slice tomato, chop lettuce into 1.5cm strips."
@@ -10839,16 +10839,21 @@
           "Content": "Remove mixture to cool in bowl."
         },
         {
-          "Content": "Add eggs, breadcrumbs, combine and shape into patties."
+          "Content": "Add eggs, breadcrumbs, combine and shape into patties. To shape, lay down a large sheet of baking paper and pour some flour or breadcrumbs onto it, then squash and shape, dusting in the breadcrumbs/flour."
         },
         {
-          "Content": "Fry patties 3 at a time."
+          "Content": "On medium-high heat in oil, fry patties 3 at a time. 5 minutes per side."
         },
         {
           "Content": "Toast buns."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-23T12:27:22.9598+10:00",
+          "Content": "Fried on large burner somewhere between 8 and 11 out of 11. Did patties of 100 grams. On second third or fourth thought (have made these a surprising number of times), these really don't compare to a beef burger. Still fun but there's no heart stopping grease."
+        }
+      ],
       "Timers": [
         {
           "Name": "Onions",
@@ -13856,74 +13861,74 @@
       "Items": [
         {
           "Name": "Bean sprouts",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.5,
           "Unit": "cups",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Spring onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Soy sauce",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Dark soy sauce",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Sesame oil",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "White sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Chinese cooking wine",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Pepper",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
@@ -13931,16 +13936,16 @@
           "NameDetail": "Hong Kong Style Egg Noodles",
           "Quantity": 225.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Vegetable oil",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -13972,7 +13977,12 @@
           "Content": "Add the bean sprouts and rest of the spring onions and toss again until the bean sprouts just start to turn transparent, still crunchy. 1 minute. Remove and plate."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-22T22:41:34.8737133+10:00",
+          "Content": "Followed the recipe pretty closely. Should maybe do less noodles next time as pan is very full. Flipped after 4 instead of 5 minutes because they started to burn, I added some extra oil too. Forgot rice wine."
+        }
+      ],
       "Timers": [
         {
           "Name": "Boil",
