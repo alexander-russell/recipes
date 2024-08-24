@@ -23424,13 +23424,18 @@
           "Content": "Add carrots and onions to pan and fry until edges are browned, then remove to slow cooker. "
         },
         {
-          "Content": "Add all other ingredients to slow cooker, stir well and cook on high for 4 hours. error: forgot cranberries."
+          "Content": "Add all other ingredients to slow cooker, stir well and cook on high for 4 hours."
         },
         {
           "Content": "About 35 minutes before you plan to eat, make rice. Add rice and water to a pot on medium-high heat, bring to simmer then reduce to medium-low and cover. Cook for 13 minutes, then remove from heat and leave for 10 minutes. Finally, remove lid and fluff rice, leave for 2 minutes."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-24T16:59:35.8013987+10:00",
+          "Content": "Seared the meat on higher heat than the recipe originally recommended, it only just fit in one pan, could probably be two batches. I could also up the meat content a whole bunch I think. I added bonus cranberries, but they were undetectable in the final thing, even when eaten by themselves. I did put it in the slow cooker at 9:13 and leave it there until nearly 17:00. I think that might be too much, the flavours melded together and all but individual ingredients no longer had any kick to them, maybe I could add some ingredients later next time."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 6.43,
@@ -23566,6 +23571,221 @@
         ],
         "CostString": "1.61* per serve",
         "ExclusionsString": "Excluding Lamb shoulder, Dried apricots and Dried cranberries"
+      }
+    },
+    {
+      "Name": "Potato and Leek Soup",
+      "Type": "Main",
+      "Category": "Soups",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 0.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{recipetineats.com/leek-and-potato-soup/#wprm-recipe-container-23935}{Recipe Tin Eats} who actually credit someone for this recipe and mention using stock instead of water to make it more modern. The original recipe emphasises not over-blending or the potato will make the texture gluey. Besides chopping the leeks, this is a really easy recipe to make.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Leeks",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 30.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Thickened cream",
+          "NameDetail": "",
+          "Quantity": 0.75,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Wash leek and separate the white or pale green parts from the dark green parts. Discard the latter. Peel pale green bits and then slice into thin circles. Slice garlic thinly."
+        },
+        {
+          "Content": "In a large pot on medium heat, melt the butter."
+        },
+        {
+          "Content": "Add garlic and leek and saute for 10 minutes until softened."
+        },
+        {
+          "Content": "Cut potatoes into 2 cm chunks then add to pot with stock and water. Bring to simmer (takes a while) then cover and reduce heat to a gentle simmer. Cook for 25 minutes."
+        },
+        {
+          "Content": "Remove from heat and puree with immersion blender until just smooth, don't over puree."
+        },
+        {
+          "Content": "Toast a bunch of bread."
+        },
+        {
+          "Content": "And cream, as well as salt and pepper to taste."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-24T17:20:40.9686076+10:00",
+          "Content": "I used 3 leeks as instructed but ended up with 5 cups instead of 2, which is why I sauted for longer. I also used a pile more garlic but I think the garlic I was using wasn't very strong. The half stock half water is because I ran out of stock, but it came out fine. Very bland but I think that's the point of making a potato and leek soup. Probably could do without the cream."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Saute",
+          "Seconds": 600
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 1500
+        }
+      ],
+      "Cost": {
+        "Amount": 7.09,
+        "AmountPerUnit": 1.77,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Leeks",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Leeks"
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.6229166666666662,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Amount": 0.38339999999999996,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Potatoes",
+            "Amount": 2.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Amount": 1.3425,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Thickened cream",
+            "Amount": 1.74375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "Pepper",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          }
+        ],
+        "CostString": "1.77* per serve",
+        "ExclusionsString": "Excluding Leeks"
       }
     }
   ]
