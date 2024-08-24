@@ -4233,7 +4233,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Dad, using Stephanie Alexander's \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry}. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great. ",
+      "Note": "From Dad, using Stephanie Alexander's \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry}. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great.",
       "Image": "Local",
       "Items": [
         {
@@ -15101,14 +15101,6 @@
           "Seconds": 30
         },
         {
-          "Name": "SImmer",
-          "Seconds": 1200
-        },
-        {
-          "Name": "error: delete above timer",
-          "Seconds": 0
-        },
-        {
           "Name": "Simmer",
           "Seconds": 1200
         }
@@ -15269,14 +15261,6 @@
           "Seconds": 1800
         },
         {
-          "Name": "Tadka",
-          "Seconds": 30000
-        },
-        {
-          "Name": "error: remove above timer",
-          "Seconds": 60
-        },
-        {
           "Name": "Seeds",
           "Seconds": 60
         },
@@ -15289,6 +15273,205 @@
           "Seconds": 600
         }
       ],
+      "Cost": null
+    },
+    {
+      "Name": "Lamb Tagine",
+      "Type": "Main",
+      "Category": "Stews",
+      "Cuisine": "Moroccan",
+      "Key": "Dried apricots",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 270.0,
+        "Extra": ""
+      },
+      "Difficulty": 2,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{https://www.slowcookerclub.com/slow-cooker-lamb-tagine/}{The Slow Cooker Club}, this was the first thing I used our slow cooker for. I woke up early and prepared everything, and then very excitingly left the house for class and let it cook away with no-one home. It was sufficiently exciting that I announced it to the class when I started the lesson.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Lamb shoulder",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "kg",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Cumin",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "smoked",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Coriander",
+          "NameDetail": "ground",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Diced tomatoes",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "can",
+          "Group": null
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": null,
+          "Quantity": 250.0,
+          "Unit": "ml",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Dried apricots",
+          "NameDetail": null,
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Dried cranberries",
+          "NameDetail": null,
+          "Quantity": 0.125,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "cm",
+          "UnitDetail": "@1 tbsp",
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Chickpeas",
+          "NameDetail": null,
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 can",
+          "Group": null
+        },
+        {
+          "Name": "Cinnamon sticks",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Basmati rice",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "rice"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Roughly chop onions. Quarter carrots lengthwise and then chop into dice."
+        },
+        {
+          "Content": "Trim any enormous pieces of fat from lamb and then chop into 3 cm pieces."
+        },
+        {
+          "Content": "Heat oil in a large frying pan on medium-high. Place lamb pieces in a single layer to sear. Rotate pieces to sear as much surface area as possible. Remove to slow cooker."
+        },
+        {
+          "Content": "Add carrots and onions to pan and fry until edges are browned, then remove to slow cooker. "
+        },
+        {
+          "Content": "Add all other ingredients to slow cooker, stir well and cook on high for 4 hours. error: forgot cranberries."
+        },
+        {
+          "Content": "About 35 minutes before you plan to eat, make rice. Add rice and water to a pot on medium-high heat, bring to simmer then reduce to medium-low and cover. Cook for 13 minutes, then remove from heat and leave for 10 minutes. Finally, remove lid and fluff rice, leave for 2 minutes."
+        }
+      ],
+      "Diary": [],
+      "Timers": null,
       "Cost": null
     }
   ]
