@@ -14405,7 +14405,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From \\href{https://nishkitchen.com/lamb-korma/}{Nish Kitchen}, who's delightful slogan is \"A Delicious Adventure!\". I tried to make this after buying some for lunch at Tandoori Connection. error: rice.",
+      "Note": "From \\href{https://nishkitchen.com/lamb-korma/}{Nish Kitchen}, who's delightful slogan is \"A Delicious Adventure!\". I tried to make this after buying some for lunch at Tandoori Connection.",
       "Image": "Local",
       "Items": [
         {
@@ -14570,6 +14570,238 @@
         {
           "Name": "Simmer",
           "Seconds": 1200
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Buffalo Chicken",
+      "Type": "Main",
+      "Category": "Roasts",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 80.0,
+        "Extra": ""
+      },
+      "Difficulty": 5,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "Calling this a roast is a stretch. This recipe is from a TikTok meal prepper via Claudia. In the spirit of meal prepping, this is best enjoyed in a tupperware container as pictured.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Potatoes",
+          "NameDetail": null,
+          "Quantity": 900.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Chicken breast",
+          "NameDetail": null,
+          "Quantity": 900.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "sprigs",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "smoked",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Cumin",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Sriracha",
+          "NameDetail": null,
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Sriracha",
+          "NameDetail": null,
+          "Quantity": 50.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Yoghurt",
+          "NameDetail": null,
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Mayonnaise",
+          "NameDetail": null,
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Tomato",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Cucumber",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Spring onions",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": null,
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Cumin",
+          "NameDetail": null,
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": null,
+          "Group": "salad"
+        },
+        {
+          "Name": "Lemon",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "salad"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Dice potatoes into 2 cm cubes. Finely chop parsley. Toss potatoes with oil, half the parsley and  half of the dry spices (@1.5 tbsp of each). Bake for 1 hour, flipping every 15 minutes."
+        },
+        {
+          "Content": "Dice chicken breast into 2 cm cubes and toss in bowl with oil, sriracha and remaining spices and parsley."
+        },
+        {
+          "Content": "Add oil to a frying pan on medium-high and fry the chicken in @2 batches. Don't move it until the bottom browns, 2 minutes or so. Then stir frequently until cooked, 4 more minutes or more."
+        },
+        {
+          "Content": "While chicken cooking, combine sauce ingredients in a small bowl."
+        },
+        {
+          "Content": "While chicken cooking, chop tomatoes, red onion and cucumber into 1 cm cubes. Slice spring onions then combine all salad ingredients in a medium bowl, squeezing the lemon juice over top."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Potatoes",
+          "Seconds": 3600
+        },
+        {
+          "Name": "Flip",
+          "Seconds": 900
+        },
+        {
+          "Name": "Sear",
+          "Seconds": 120
+        },
+        {
+          "Name": "Fry",
+          "Seconds": 240
         }
       ],
       "Cost": null

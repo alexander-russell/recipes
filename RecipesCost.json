@@ -21912,7 +21912,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From \\href{https://nishkitchen.com/lamb-korma/}{Nish Kitchen}, who's delightful slogan is \"A Delicious Adventure!\". I tried to make this after buying some for lunch at Tandoori Connection. error: rice.",
+      "Note": "From \\href{https://nishkitchen.com/lamb-korma/}{Nish Kitchen}, who's delightful slogan is \"A Delicious Adventure!\". I tried to make this after buying some for lunch at Tandoori Connection.",
       "Image": "Local",
       "Items": [
         {
@@ -22192,6 +22192,386 @@
         ],
         "CostString": "3.83 per serve",
         "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Buffalo Chicken",
+      "Type": "Main",
+      "Category": "Roasts",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 80.0,
+        "Extra": ""
+      },
+      "Difficulty": 5,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "Calling this a roast is a stretch. This recipe is from a TikTok meal prepper via Claudia. In the spirit of meal prepping, this is best enjoyed in a tupperware container as pictured.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 900.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken breast",
+          "NameDetail": "",
+          "Quantity": 900.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "sprigs",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "smoked",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Cumin",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Sriracha",
+          "NameDetail": "",
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Sriracha",
+          "NameDetail": "",
+          "Quantity": 50.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Yoghurt",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Mayonnaise",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Tomato",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Cucumber",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Spring onions",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Cumin",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "salad"
+        },
+        {
+          "Name": "Lemon",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "salad"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Dice potatoes into 2 cm cubes. Finely chop parsley. Toss potatoes with oil, half the parsley and  half of the dry spices (@1.5 tbsp of each). Bake for 1 hour, flipping every 15 minutes."
+        },
+        {
+          "Content": "Dice chicken breast into 2 cm cubes and toss in bowl with oil, sriracha and remaining spices and parsley."
+        },
+        {
+          "Content": "Add oil to a frying pan on medium-high and fry the chicken in @2 batches. Don't move it until the bottom browns, 2 minutes or so. Then stir frequently until cooked, 4 more minutes or more."
+        },
+        {
+          "Content": "While chicken cooking, combine sauce ingredients in a small bowl."
+        },
+        {
+          "Content": "While chicken cooking, chop tomatoes, red onion and cucumber into 1 cm cubes. Slice spring onions then combine all salad ingredients in a medium bowl, squeezing the lemon juice over top."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Potatoes",
+          "Seconds": 3600
+        },
+        {
+          "Name": "Flip",
+          "Seconds": 900
+        },
+        {
+          "Name": "Sear",
+          "Seconds": 120
+        },
+        {
+          "Name": "Fry",
+          "Seconds": 240
+        }
+      ],
+      "Cost": {
+        "Amount": 29.42,
+        "AmountPerUnit": 9.81,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Potatoes",
+            "Amount": 2.6955,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken breast",
+            "Amount": 8.991,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parsley",
+            "Amount": 5.98,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.09,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Paprika",
+            "Amount": 1.2,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic powder",
+            "Amount": 0.6874999999999994,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cumin",
+            "Amount": 0.660714285714285,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Sriracha",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Sriracha"
+          },
+          {
+            "Name": "Sriracha",
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Sriracha"
+          },
+          {
+            "Name": "Yoghurt",
+            "Amount": 0.2394,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Mayonnaise",
+            "Amount": 0.48659340659340655,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tomato",
+            "Amount": 5.394,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Red onion",
+            "Amount": 1.245,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cucumber",
+            "Amount": 0.9985714285714296,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Spring onions",
+            "Amount": 0.24,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic powder",
+            "Amount": 0.0572916666666665,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cumin",
+            "Amount": 0.055059523809524,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "Pepper",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "Lemon",
+            "Amount": 0.395,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "9.81* per serve",
+        "ExclusionsString": "Excluding Sriracha and Sriracha"
       }
     }
   ]
