@@ -36,7 +36,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2023-11-07 00:00:00,Mozzarella cheese,6.99,500,grams,Aldi,
 2023-11-07 00:00:00,Shredded cheese,6.99,500,grams,Aldi,Assuming tasty cheese is meant
 2023-11-07 00:00:00,Mushrooms,3.49,200,grams,Aldi,
-2023-11-07 00:00:00,Parsley,2.99,1,whole,Aldi,one whole is one plant
+2023-11-07 00:00:00,Parsley,2.99,10,whole,Aldi,one whole is one sprig
 2023-11-07 00:00:00,Pizza cheese,6.99,500,grams,Aldi,
 2023-11-07 00:00:00,Plain flour,1.29,1,kg,Aldi,
 2023-11-07 00:00:00,Potatoes,5.99,2,kg,Aldi,
