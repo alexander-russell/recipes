@@ -14957,6 +14957,163 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Cauliflower Soup",
+      "Type": "Main",
+      "Category": "Soups",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 90.0,
+        "Extra": ""
+      },
+      "Difficulty": 6,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe}{Cookie and Kate}. The first time I cooked it, I was prepared ahead of time, starting making the accompanying bread in the morning, had it timed out to go into the oven before I started a meeting, and come back out in time for me to make the soup, because Claudia was only home for a 30 minute window after work. Right as my meeting started, we had a full power outage and the bread just had to sit in the oven doing nothing. I still tried to bake it later and the result was delicious and chewy, but only about 4 cm tall. Anyway, I had an unlimited amount of time to prepare everything because I couldn't cook without electricity. Independently of that, the evening's plans got changed around and I then also had an unlimited amount of time to do the cooking part too. A really pleasant meal to take your time with. A note that blending it bit by bit gives it a fantastic texture that I can't get with our cheap immersion blender.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Cauliflower",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Vegetable stock",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Lemon",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "to juice",
+          "Group": ""
+        },
+        {
+          "Name": "Nutmeg",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 220 degrees conventional."
+        },
+        {
+          "Content": "Split cauiflower into florets and halve all but the smallest ones."
+        },
+        {
+          "Content": "Toss in oil and salt on tray, place cut side down and bake for 30 minutes, turning after 15 minutes."
+        },
+        {
+          "Content": "Dice onion into medium pieces, 1.5 cm. Slice garlic thinly."
+        },
+        {
+          "Content": "To a large pot on medium heat in oil, add the onion and some salt. Fry until translucent, 7 minutes."
+        },
+        {
+          "Content": "Add the garlic and fry for 30 seconds."
+        },
+        {
+          "Content": "Remove cauliflower from oven, reserve 4 cute pieces to a bowl."
+        },
+        {
+          "Content": "Add the remaining cauliflower and the stock, increase heat to medium-high and until it starts to simmer, then knock heat down until it is simmering gently. Cook for 20 minutes."
+        },
+        {
+          "Content": "Working in batches, transfer the soup to a food processor and blend thoroughly."
+        },
+        {
+          "Content": "Once all processed, add the nutmeg and ~@1 tbsp of lemon juice. Mix and adjust for more salt, pepper or lemon juice. Serve by garnishing with one of the stashed florets. "
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-24T15:20:48.9646904+10:00",
+          "Content": "As of uploading, this recipe is just based on the original website and my memmory of cooking it atleast a month ago, I forgot to make any notes."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Roast",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Turn",
+          "Seconds": 900
+        },
+        {
+          "Name": "Onion",
+          "Seconds": 420
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 30
+        },
+        {
+          "Name": "SImmer",
+          "Seconds": 1200
+        },
+        {
+          "Name": "error: delete above timer",
+          "Seconds": 0
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 1200
+        }
+      ],
+      "Cost": null
     }
   ]
 }
