@@ -1898,7 +1898,12 @@
           "Content": "Add to pasta, mix and serve."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-08-24T12:11:48.936013+10:00",
+          "Content": "Used 175 grams of bacon, 2 onions (too much i reckon), crushed garlic with knife before slicing, skipped mushrooms."
+        }
+      ],
       "Timers": [
         {
           "Name": "Pasta",
@@ -5941,7 +5946,7 @@
       "Cost": null
     },
     {
-      "Name": "White Bread",
+      "Name": "White Bread (old commonsense version)",
       "Type": "Component",
       "Category": "Breads",
       "Cuisine": "",
@@ -5958,7 +5963,7 @@
       "Difficulty": 3,
       "Bulk": true,
       "Favourite": false,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
       "NeedsRevision": true,
       "Dietary": {
@@ -6043,7 +6048,12 @@
           "Content": "Turn out onto cooling rack."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-08-24T12:19:25.7096234+10:00",
+          "Content": "Original version of this was from common sense, going to revise all the steps, I suppose the original will live on in GitHub changes."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -14606,23 +14616,23 @@
       "Items": [
         {
           "Name": "Potatoes",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 900.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Chicken breast",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 900.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Parsley",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
           "UnitDetail": "sprigs",
@@ -14630,10 +14640,10 @@
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
@@ -14641,127 +14651,127 @@
           "NameDetail": "smoked",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Garlic powder",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Cumin",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Sriracha",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 100.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Sriracha",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 50.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Yoghurt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 60.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Mayonnaise",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 60.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Tomato",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Red onion",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Cucumber",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Spring onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Garlic powder",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Cumin",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.25,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Pepper",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         },
         {
           "Name": "Lemon",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "salad"
         }
       ],
@@ -14802,6 +14812,148 @@
         {
           "Name": "Fry",
           "Seconds": 240
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "White Bread",
+      "Type": "Component",
+      "Category": "Breads",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 1.0,
+        "Unit": "loaf",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 180.0,
+        "Extra": ""
+      },
+      "Difficulty": 6,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": false
+      },
+      "Note": "A constant work in progress to make bread that works for sandwiches. Mostly appropriated from The Commonsense Cookery Book. Every time I make it I come up with something I should change for the next time. The 15 minutes of kneading is long enough that I usually take a little break in the middle, but it is usually a really pleasant activity.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Bread flour",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bread flour",
+          "NameDetail": "",
+          "Quantity": 6.0,
+          "Unit": "tbsp",
+          "UnitDetail": "for kneading",
+          "Group": ""
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dry yeast",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 375.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "In a large bowl combine dry ingredients and stir."
+        },
+        {
+          "Content": "Measure out hot water (40 degrees) and mix until the dry mixture."
+        },
+        {
+          "Content": "Pour a small pile of extra flour (@4-@6 tbsp) onto the bench and then turn mixture out and knead, incorporating flour little by little as needed. Knead for 15 minutes."
+        },
+        {
+          "Content": "Pour oil around the sides of a large bowl and use your hand to coat the bowl. Place dough into it and then turn over so top is coated in oil. Run a teatowel through hot water, wring out and then cover bowl with it. Rise until doubled, 1 hour."
+        },
+        {
+          "Content": "Preheat oven to 230 conventional, boil a kettle."
+        },
+        {
+          "Content": "Knock back and knead dough for 1 minute."
+        },
+        {
+          "Content": "Shape dough and lower into floured bread tin, cover again and rise for 20 minutes."
+        },
+        {
+          "Content": "Place cake dish in oven and fill with boiling water."
+        },
+        {
+          "Content": "After second rise, bake the loaf for 30 minutes."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-24T13:47:06.9556618+10:00",
+          "Content": "Felt like too much water but ended up really supple and slightly sticky. Next time I should score it diagonally three times after shaping, before the second rise. First rise went really fast, doubled in 30 minutes."
+        },
+        {
+          "Date": "2024-08-24T13:48:47.7788492+10:00",
+          "Content": "Organised the timings around a meeting. Used 3.5 tbsp of flour while kneading, gave it an 80 minute second rise, got big and texture looks nice, but there are some large bubbles. Baked for more like 35 minutes, and it never got to a point of knocking hollow in the middle, though it did at the edges. Didn't score it this time either. Next time I should bake it all the way until it knocks hollow."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Knead",
+          "Seconds": 900
+        },
+        {
+          "Name": "Rise",
+          "Seconds": 3600
+        },
+        {
+          "Name": "Knock back",
+          "Seconds": 60
+        },
+        {
+          "Name": "Second Rise",
+          "Seconds": 1200
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 1800
         }
       ],
       "Cost": null
