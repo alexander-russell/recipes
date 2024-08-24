@@ -22989,6 +22989,267 @@
         "CostString": "1.14* per serve",
         "ExclusionsString": "Excluding Cauliflower"
       }
+    },
+    {
+      "Name": "Dal",
+      "Type": "Main",
+      "Category": "Curries",
+      "Cuisine": "Indian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 2.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 45.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{https://www.thedeliciouscrescent.com/dal-recipe/}{The Delicious Crescent}, but I also asked young Laxsmi from the college kitchen while I was visiting Mik. The original version has options for either a restaurant or home style tadka. Don't discard the oil in the frying pan, my impression is that that is the whole point of tadka, to infuse the flavours into the oil.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Tomato",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Lentils",
+          "NameDetail": "yellow",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Turmeric",
+          "NameDetail": "",
+          "Quantity": 0.75,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "tadka"
+        },
+        {
+          "Name": "Vegetable oil",
+          "NameDetail": "",
+          "Quantity": 2.5,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "tadka"
+        },
+        {
+          "Name": "Mustard seeds",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "tadka"
+        },
+        {
+          "Name": "Cumin seeds",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "tadka"
+        },
+        {
+          "Name": "Dried red chilli",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Finely dice onion and first lot of garlic. Moderately dice tomato."
+        },
+        {
+          "Content": "Heat oil in a large pot on medium-high. Add lentils, onion, garlic, tomato, water and turmeric. Bring to a boil, then reduce heat to simmer for 30 minutes."
+        },
+        {
+          "Content": "Slice remaining @5 cloves garlic thinly."
+        },
+        {
+          "Content": "In medium frying pan heat vegetable oil on medium high. Add seeds and fry until they splutter, 1 minute."
+        },
+        {
+          "Content": "To pan, add garlic and whole chillis, saute until garlic changes colour, 1 minute. Remove from heat."
+        },
+        {
+          "Content": "When dal has simmered, use a potato masher to break up the contents."
+        },
+        {
+          "Content": "Then, add the tadka, including pan oil, to the pot and simmer for a further 10 minutes, mashing again to achieve a nice consistency. "
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-08-24T15:50:51.0655291+10:00",
+          "Content": "Next time I should simmer for longer, either by adding more water or simmering with the lid on for some portion. I should also try scaling it up to 4 servings worth."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Simmer",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Tadka",
+          "Seconds": 30000
+        },
+        {
+          "Name": "error: remove above timer",
+          "Seconds": 60
+        },
+        {
+          "Name": "Seeds",
+          "Seconds": 60
+        },
+        {
+          "Name": "Chilli",
+          "Seconds": 60
+        },
+        {
+          "Name": "Simmer again",
+          "Seconds": 600
+        }
+      ],
+      "Cost": {
+        "Amount": 5.38,
+        "AmountPerUnit": 2.69,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Brown onions",
+            "Amount": 0.7475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.49833333333333374,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tomato",
+            "Amount": 1.798,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Lentils",
+            "Amount": 0.5892857142857151,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Turmeric",
+            "Amount": 0.375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.6229166666666662,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vegetable oil",
+            "Amount": 0.1254375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Mustard seeds",
+            "Amount": 0.155,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cumin seeds",
+            "Amount": 0.349,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Dried red chilli",
+            "Amount": 0.1196,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "2.69 per serve",
+        "ExclusionsString": ""
+      }
     }
   ]
 }
