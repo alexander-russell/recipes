@@ -15655,106 +15655,106 @@
       "Items": [
         {
           "Name": "Carrots",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Wombok",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 80.0,
           "Unit": "grams",
           "UnitDetail": "@2 cups",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Spring onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "cloves",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Bean sprouts",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Cornflour",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.5,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Water",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "White sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Dark soy sauce",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Light soy sauce",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Chinese cooking wine",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Oyster sauce",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
           "Name": "Pepper",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "sauce"
         },
         {
@@ -15762,32 +15762,32 @@
           "NameDetail": "",
           "Quantity": 200.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Canola oil",
           "NameDetail": "",
-          "Quantity": 2,
+          "Quantity": 2.0,
           "Unit": "tbsp",
           "UnitDetail": "",
           "Group": ""
         },
         {
           "Name": "Beef mince",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 250.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Eggs",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -15828,7 +15828,12 @@
           "Content": "Add remaining spring onions, toss for another 1 minute."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-08-25T21:49:56.9924166+10:00",
+          "Content": "Cooked for the first time tonight, and in rare form actually wrote it up same day delivery. Forgot to add pepper to the sauce. The egg is fun. Upped the sauce quantities so they're easier to measure."
+        }
+      ],
       "Timers": [
         {
           "Name": "Boil",
