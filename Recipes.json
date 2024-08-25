@@ -8162,7 +8162,7 @@
       "Cost": null
     },
     {
-      "Name": "Chow Mein",
+      "Name": "Chicken Chow Mein",
       "Type": "Main",
       "Category": "Noodles",
       "Cuisine": "Chinese",
@@ -15619,6 +15619,244 @@
         {
           "Name": "Simmer",
           "Seconds": 1500
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Beef Chow Mein",
+      "Type": "Main",
+      "Category": "Stir Fries",
+      "Cuisine": "Chinese",
+      "Key": "",
+      "Yield": {
+        "Quantity": 2.0,
+        "Unit": "serves",
+        "Extra": "big"
+      },
+      "Time": {
+        "Minutes": 50.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Another \\href{https://www.recipetineats.com/beef-chow-mein-noodles/}{Recipe Tin Eats} recipe. After cooking this I went to a friends housewarming and spotted yet another Recipe Tin Eats cookbook. This recipe gets to be almost too big for my frying pan. The flavour of beef mince feels out of place but I could definitely get used to it.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Carrots",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Wombok",
+          "NameDetail": null,
+          "Quantity": 80.0,
+          "Unit": "grams",
+          "UnitDetail": "@2 cups",
+          "Group": null
+        },
+        {
+          "Name": "Spring onions",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Bean sprouts",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Cornflour",
+          "NameDetail": null,
+          "Quantity": 1.5,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Dark soy sauce",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Light soy sauce",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Chinese cooking wine",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Oyster sauce",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": null,
+          "Group": "sauce"
+        },
+        {
+          "Name": "Chow mein noodles",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Canola oil",
+          "NameDetail": "",
+          "Quantity": 2,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Beef mince",
+          "NameDetail": null,
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "In a medium pot, boil enough water to submerge noodles (don't put them in until boiling)."
+        },
+        {
+          "Content": "Julienne carrot, slice wombok into strips (4mm), chop spring onions into 3cm lengths separating white from green, dice garlic finely."
+        },
+        {
+          "Content": "In a colander, wash and drain bean sprouts then pat dry."
+        },
+        {
+          "Content": "In a small bowl add the cornflour and water, stir until clumps are gone. Add all other sauce ingredients and stir again."
+        },
+        {
+          "Content": "Add noodles to boiling water for 1 minute, then remove to colander and rinse in cold water, then drain well."
+        },
+        {
+          "Content": "Add canola oil to large frying pan on high heat. Add garlic and fry for 10 seconds."
+        },
+        {
+          "Content": "Add beef and fry until brown, 5 minutes."
+        },
+        {
+          "Content": "Add 1.5 tbsp of the sauce and the white part of the spring onions. Fry 2 minutes."
+        },
+        {
+          "Content": "Crack egg into pan and quickly mix it through the beef until the egg is mostly cooked."
+        },
+        {
+          "Content": "Add carrot and wombok. Fry until the wombok wilts, 2 minutes."
+        },
+        {
+          "Content": "Add bean sprouts, noodles and sauce. Toss well for 1 minute."
+        },
+        {
+          "Content": "Add remaining spring onions, toss for another 1 minute."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Boil",
+          "Seconds": 60
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 10
+        },
+        {
+          "Name": "Beef",
+          "Seconds": 300
+        },
+        {
+          "Name": "Sauce",
+          "Seconds": 120
+        },
+        {
+          "Name": "Wombok",
+          "Seconds": 120
+        },
+        {
+          "Name": "Noodles",
+          "Seconds": 60
+        },
+        {
+          "Name": "Spring onions",
+          "Seconds": 60
         }
       ],
       "Cost": null
