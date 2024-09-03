@@ -46,7 +46,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2023-11-07 00:00:00,Roasted cashews,11.99,750,grams,Aldi,called natural cashews. roasted are 8.49 for 400 grams
 2023-11-07 00:00:00,Rolled oats,1.35,750,grams,Aldi,
 2023-11-07 00:00:00,Sour cream,3.19,300,grams,Aldi,
-2023-11-07 00:00:00,Spring onions,1.20,10,whole,7 Fresh Eastwood,"sold per ""bunch"""
+2023-11-07 00:00:00,Spring onions,1.2,10,whole,7 Fresh Eastwood,"sold per ""bunch"""
 2023-11-07 00:00:00,SR flour,1.29,1,kg,Aldi,
 2023-11-07 00:00:00,Strawberries,5.49,350,grams,Aldi,
 2023-11-07 00:00:00,Sweet potato,2.99,1,kg,Aldi,
@@ -104,7 +104,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-02-19 00:00:00,Spaghetti,0.99,500,grams,Aldi,
 2024-02-19 00:00:00,Worcestershire Sauce,1.99,250,ml,Aldi,
 2024-02-19 00:00:00,Lemon,1.99,1,whole,Freshtown,Generally bigger lemons than aldi
-2024-02-19 00:00:00,Gai lan,1.5,1,whole,New Yen Yen,
+2024-02-19 00:00:00,Gai lan,1.5,8,whole,New Yen Yen,
 2024-02-19 00:00:00,Shallots,1.1,1,whole,New yen yen; Evergreen fresh world,One bunch is so enormous.
 2024-02-19 00:00:00,Sweet potato,2.59,1,kg,Sakura supermarket,
 2024-02-19 00:00:00,Breadcrumbs,1.69,500,grams,Aldi,
@@ -235,3 +235,55 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-12 11:13:21,Semolina flour,4.75,925,grams,Woolworths,
 2024-08-13 20:24:59,Broccoli,5.99,1,kg,Sakura supermarket,One head was 400 grams.
 2024-08-13 20:28:38,Capsicum,4.99,1,kg,Tonyon Warehouse,Red capsicum
+2024-08-30 22:44:52,Beef mince,9.99,1,kg,Hong Meat,
+2024-08-30 22:45:14,Chicken breast,9.99,1,kg,Hong Meat,
+2024-08-30 22:45:51,Chicken thigh,11.99,1,kg,Hong Meat,
+2024-08-30 22:46:38,Bananas,3.99,1,kg,Sakura,
+2024-08-30 22:47:02,Red onion,4.99,1,kg,Sakura,
+2024-08-30 22:47:31,Ginger,16.99,1,kg,Sakura,
+2024-08-30 22:47:57,Cucumber,6.99,1,kg,Yonghui,
+2024-08-30 22:48:21,Sweet potato,1.99,1,kg,Tonyon Warehouse,
+2024-08-30 22:49:13,Leeks,2.88,1,whole,Tonyon Warehouse,
+2024-08-30 22:49:41,Spring onions,1.99,10,whole,Tonyon Supermarket,
+2024-08-30 22:50:15,Tomato,5.99,1,kg,Freshtown,
+2024-08-30 22:50:38,Milk,4.19,2,litres,Super Fresh,
+2024-08-30 22:50:55,Yoghurt,7.5,1,kg,Super Fresh,
+2024-08-30 22:51:15,Potatoes,3.99,1,kg,Super Fresh,
+2024-08-30 22:51:42,Bacon,4.4,200,grams,Woolworths,
+2024-08-30 22:52:21,Mascarpone,4.8,250,grams,Woolworths,
+2024-08-30 22:52:45,Avocado,3.99,1,whole,Super Fresh,Very nice quality though.
+2024-08-30 22:53:15,Red onion,5.99,1,kg,Super Fresh,
+2024-08-30 22:53:40,Carrots,3.99,1,kg,Super Fresh,
+2024-08-30 22:55:03,Chow mein noodles,3.6,500,grams,New Yen Yen,
+2024-08-30 22:56:00,Brown onions,2.59,1,kg,Sakura,
+2024-08-30 22:56:58,Cannellini beans,2.5,400,grams,Super Fresh,Other beans for $1.69
+2024-08-30 22:57:48,Swede,7.99,1,kg,Super Fresh,
+2024-08-30 22:58:07,Thickened cream,3.99,300,ml,Super Fresh,
+2024-08-30 22:59:12,Coconut milk,2.38,400,ml,Yonghui,
+2024-08-30 22:59:40,Sesame oil,5.99,370,ml,Yonghui,
+2024-08-30 23:00:16,Bean sprouts,1.28,450,grams,Tonyon Warehouse,
+2024-08-30 23:01:29,Lamb shoulder,7.99,1,kg,Hong Meat,
+2024-08-30 23:01:47,Spring onions,2,10,whole,7Fresh,
+2024-08-30 23:02:09,Red onion,4.99,1,kg,Freshtown,
+2024-08-30 23:02:31,Eggs,7.99,12,whole,Freshtown,Free range 800 grams.
+2024-08-30 23:03:10,Carrots,1.99,1,kg,Sakura,
+2024-08-30 23:03:28,Broccoli,5.99,1,kg,Sakura,
+2024-08-30 23:03:49,Bread flour,21.5,12.5,kg,New Yen Yen,Manilda protein enriched flour in bulk.
+2024-08-30 23:04:20,Jasmine rice,4.8,1,kg,New Yen Yen,Rose brand.
+2024-08-30 23:04:42,Parmesan,10.99,200,grams,Super Fresh,Parmigiano Reggiano with some certification.
+2024-08-30 23:05:08,Halloumi,6.99,225,grams,Super Fresh,Dodoni.
+2024-08-30 23:05:41,Rolled oats,3.2,1,kg,Super Fresh,
+2024-08-30 23:06:08,Cucumber,5.99,1,kg,Yonghui,
+2024-08-30 23:06:30,Tomato,6.99,1,kg,Yonghui,
+2024-08-30 23:06:51,Cherry tomatoes,9.99,1,kg,Yonghui,
+2024-08-30 23:07:10,Brown onions,1.99,1,kg,Yonghui,Consistently large and blemish free.
+2024-09-02 23:11:38,Brown onions,2.59,1,kg,Sakura,
+2024-09-02 23:12:44,Red onion,4.99,1,kg,Sakura,
+2024-09-02 23:13:09,Broccoli,2.99,1,kg,Yonghui,
+2024-09-02 23:13:35,Iceberg lettuce,1.99,1,whole,Yonghui,
+2024-09-02 23:13:52,Spring onions,2.29,10,whole,Yonghui,
+2024-09-02 23:14:28,Tomato,2.88,1,kg,Tonyon Warehouse,Cheapest I think I've ever seen.
+2024-09-02 23:14:52,Lemon,0.4,1,whole,Tonyon Warehouse,"At 2.88 per kilogram, possibly price error."
+2024-09-02 23:15:54,Gai lan,1.99,1,whole,Tonyon Supermarket,
+2024-09-02 23:16:28,Rice noodles,3.8,950,grams,New Yen Yen,Price has gone up.
+2024-09-02 23:17:02,Cucumber,8.99,800,grams,Freshtown,
