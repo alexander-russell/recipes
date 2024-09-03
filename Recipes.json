@@ -6967,8 +6967,8 @@
       "Items": [
         {
           "Name": "Rice noodles",
-          "NameDetail": "wide, dried",
-          "Quantity": 200.0,
+          "NameDetail": "wide, fresh",
+          "Quantity": 500.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": ""
@@ -7022,14 +7022,6 @@
           "Group": "sauce"
         },
         {
-          "Name": "Dark soy sauce",
-          "NameDetail": "",
-          "Quantity": 2.0,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": "sauce"
-        },
-        {
           "Name": "Oyster sauce",
           "NameDetail": "",
           "Quantity": 1.5,
@@ -7038,7 +7030,7 @@
           "Group": "sauce"
         },
         {
-          "Name": "White vinegar",
+          "Name": "White sugar",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
@@ -7046,7 +7038,15 @@
           "Group": "sauce"
         },
         {
-          "Name": "White sugar",
+          "Name": "Dark soy sauce",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "White vinegar",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
@@ -7092,7 +7092,36 @@
           "Content": "Combine ingredients and serve right away."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-09-03T18:52:14.8811001+10:00",
+          "Content": "Starting now"
+        },
+        {
+          "Date": "2024-09-03T18:52:19.8589636+10:00",
+          "Content": "Took the noodles out of the fridge about an hour ago to hopefully stop them being so stiff."
+        },
+        {
+          "Date": "2024-09-03T18:56:08.2429795+10:00",
+          "Content": "Noodles are actuall 1.1kg, the pack says 950g. 200g is for dried but from memory I use half of the pack. Recipe should be updated for correct noodle type."
+        },
+        {
+          "Date": "2024-09-03T19:08:19.0007207+10:00",
+          "Content": "After 5 minutes in the water, the noodles are actually really well separated. Drained in colander."
+        },
+        {
+          "Date": "2024-09-03T19:09:07.2127343+10:00",
+          "Content": "Chopped stems to 4cm and cut large stems lengthwise into slices."
+        },
+        {
+          "Date": "2024-09-03T19:31:11.5703232+10:00",
+          "Content": "Done."
+        },
+        {
+          "Date": "2024-09-03T19:31:14.6382527+10:00",
+          "Content": "Some notes: Heated the pan to smoking without any oil in it for the first step by accident, burned the garlic. Cooked without chicken tonight, so just skipped that step. Heat is maybe too high and I used more oil. Added some extra oil to fry the egg as well. "
+        }
+      ],
       "Timers": [
         {
           "Name": "Garlic",
