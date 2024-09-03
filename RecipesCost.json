@@ -10772,8 +10772,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.62,
-        "AmountPerUnit": 8.31,
+        "Amount": 9.66,
+        "AmountPerUnit": 4.83,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10792,7 +10792,7 @@
           },
           {
             "Name": "Gai lan",
-            "Amount": 7.96,
+            "Amount": 0.995,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10854,7 +10854,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.31 per serve",
+        "CostString": "4.83 per serve",
         "ExclusionsString": ""
       }
     },
