@@ -46,7 +46,7 @@ async function start() {
         recipesFiltered = recipeBook.Recipes.filter((currentValue) => {
             const active = !currentValue.Retired;
             const nameMatch =
-                currentValue.Name.toLowerCase().includes(recipeName.toLowerCase());
+                currentValue.Name.toLowerCase() == recipeName.toLowerCase();
             return active && nameMatch;
         });
 
