@@ -64,7 +64,7 @@ async function configureRecipe(recipe) {
     params = new URLSearchParams(document.location.search);
 
     // Deep copy the recipe
-    recipe = structuredClone(recipesFiltered[0]);
+    recipe = structuredClone(recipe);
 
     // Scale the recipe
     scaleRecipe(recipe, params.get("yield"));
