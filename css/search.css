@@ -1,0 +1,61 @@
+/*******************************************************************/
+/******************************* FORM INPUT ************************/
+/*******************************************************************/
+
+.search {
+    width: 100%;
+}
+
+.recipe-searchbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-row>label {
+    font-weight: bold;
+}
+
+.form-row>input {
+    /* display: flex; */
+    /* flex-direction: row; */
+    border: none;
+    font-size: inherit;
+    border-bottom: 2px solid black;
+    border-radius: 0px;
+    /* width: 20%; */
+}
+
+.form-row>input:focus {
+    outline: none;
+    color: darkred;
+    border-bottom-color: darkred;
+}
+
+.advanced-search-toggle {
+    /* border: 1px solid black; */
+    border: none;
+    border-radius: 0;
+    background: none;
+    font-size: inherit;
+    font-weight: bold;
+}
+
+.recipe-searchbox-advanced {
+    display: none;
+}
+
+/*******************************************************************/
+/***************************** SEARCH RESULTS **********************/
+/*******************************************************************/
+
+.search-results {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+}
+
+.search-result {
+    display: flex;
+    list-style: none;
+    border: 1px solid red;
+}

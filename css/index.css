@@ -76,48 +76,6 @@ section {
     font-size: 1.2em;
 }
 
-.search {
-    width: 100%;
-}
-
-.recipe-searchbox {
-    display: flex;
-    justify-content: space-between;
-}
-
-.form-row>label {
-    font-weight: bold;
-}
-
-.form-row>input {
-    /* display: flex; */
-    /* flex-direction: row; */
-    border: none;
-    font-size: inherit;
-    border-bottom: 2px solid black;
-    border-radius: 0px;
-    /* width: 20%; */
-}
-
-.form-row>input:focus {
-    outline: none;
-    color: darkred;
-    border-bottom-color: darkred;
-}
-
-.advanced-search-toggle {
-    /* border: 1px solid black; */
-    border: none;
-    border-radius: 0;
-    background: none;
-    font-size: inherit;
-    font-weight: bold;
-}
-
-.recipe-searchbox-advanced {
-    display: none;
-}
-
 a {
    text-decoration: none;
    color: black; 
