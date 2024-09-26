@@ -120,8 +120,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.95,
-        "AmountPerUnit": 8.95,
+        "Amount": 8.8,
+        "AmountPerUnit": 8.8,
         "Unit": "loaf",
         "ItemCosts": [
           {
@@ -147,14 +147,14 @@
           },
           {
             "Name": "Butter",
-            "Amount": 3.195,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Bananas",
-            "Amount": 2.9925,
+            "Amount": 2.8425,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -181,7 +181,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.95 per unit",
+        "CostString": "8.8 per unit",
         "ExclusionsString": ""
       }
     },
@@ -287,8 +287,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.98,
-        "AmountPerUnit": 0.33,
+        "Amount": 2.01,
+        "AmountPerUnit": 0.34,
         "Unit": "bases",
         "ItemCosts": [
           {
@@ -314,7 +314,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.0732666666666665,
+            "Amount": 0.108,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -334,7 +334,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.33 per unit",
+        "CostString": "0.34 per unit",
         "ExclusionsString": ""
       }
     },
@@ -430,7 +430,7 @@
         "ItemCosts": [
           {
             "Name": "Butter",
-            "Amount": 1.7253,
+            "Amount": 1.728,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -610,7 +610,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.7892,
+            "Amount": 1.792,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -932,7 +932,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.8946,
+            "Amount": 0.896,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1121,8 +1121,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 20.37,
-        "AmountPerUnit": 3.4,
+        "Amount": 21.14,
+        "AmountPerUnit": 3.52,
         "Unit": "meatballs",
         "ItemCosts": [
           {
@@ -1134,7 +1134,7 @@
           },
           {
             "Name": "Breadcrumbs",
-            "Amount": 0.4225,
+            "Amount": 0.5,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1190,7 +1190,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 1.4653333333333334,
+            "Amount": 2.16,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1210,7 +1210,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.4* per unit",
+        "CostString": "3.52* per unit",
         "ExclusionsString": "Excluding Parsley"
       }
     },
@@ -1312,8 +1312,8 @@
         }
       ],
       "Cost": {
-        "Amount": 31.32,
-        "AmountPerUnit": 5.22,
+        "Amount": 35.04,
+        "AmountPerUnit": 5.84,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -1332,20 +1332,20 @@
           },
           {
             "Name": "Breadcrumbs",
-            "Amount": 1.3519999999999999,
+            "Amount": 1.6,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Olive oil",
-            "Amount": 7.326666666666675,
+            "Amount": 10.8,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "5.22 per serve",
+        "CostString": "5.84 per serve",
         "ExclusionsString": ""
       }
     },
@@ -1661,8 +1661,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.99,
-        "AmountPerUnit": 0.15,
+        "Amount": 3.3,
+        "AmountPerUnit": 0.16,
         "Unit": "rolls",
         "ItemCosts": [
           {
@@ -1730,7 +1730,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.6594,
+            "Amount": 0.972,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1771,7 +1771,7 @@
             "Extra": "Couldn't convert unit. From:tbsp; To:whole"
           }
         ],
-        "CostString": "0.15* per unit",
+        "CostString": "0.16* per unit",
         "ExclusionsString": "Excluding Spring roll wrappers, Lean pork, Peeled prawns, Coriander roots and Shallots"
       }
     },
@@ -2171,8 +2171,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.99,
-        "AmountPerUnit": 3.99,
+        "Amount": 4.67,
+        "AmountPerUnit": 4.67,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -2233,7 +2233,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.4475,
+            "Amount": 1.125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2295,7 +2295,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.99* per unit",
+        "CostString": "4.67* per unit",
         "ExclusionsString": "Excluding Whole white fish, Ginger root, Tamarind juice, White pepper and Wood fungus"
       }
     },
@@ -2856,8 +2856,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.33,
-        "AmountPerUnit": 4.08,
+        "Amount": 15.14,
+        "AmountPerUnit": 3.78,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -2904,7 +2904,7 @@
           },
           {
             "Name": "Thickened cream",
-            "Amount": 3.99,
+            "Amount": 2.8,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2938,7 +2938,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.08 per serve",
+        "CostString": "3.78 per serve",
         "ExclusionsString": ""
       }
     },
@@ -3046,7 +3046,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.7667999999999999,
+            "Amount": 0.768,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4156,7 +4156,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.54,
+        "Amount": 6.43,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -4190,7 +4190,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.27184,
+            "Amount": 0.1584,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4547,7 +4547,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.0224,
+            "Amount": 1.024,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4733,7 +4733,7 @@
         "ItemCosts": [
           {
             "Name": "Butter",
-            "Amount": 1.5975,
+            "Amount": 1.6,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4917,7 +4917,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.5975,
+            "Amount": 1.6,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5096,7 +5096,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 26.59,
+        "Amount": 26.6,
         "AmountPerUnit": 0.66,
         "Unit": "biscuits",
         "ItemCosts": [
@@ -5116,7 +5116,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 5.7509999999999994,
+            "Amount": 5.760000000000001,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5179,7 +5179,7 @@
       "Name": "Apple Crumble",
       "Type": "Dessert",
       "Category": "Crumbles",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 6.0,
@@ -5187,22 +5187,22 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
-        "Extra": ""
+        "Minutes": 75.0,
+        "Extra": "only 25 hands on"
       },
       "Difficulty": 1,
       "Bulk": true,
       "Favourite": true,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From \\href{https://www.recipetineats.com/apple-crumble/}{Recipe Tin Eats}. Make sure the oven has a hot top element for browning. Flour to the apples is a good addition, the base gets a nice bit syrupy. Plenty of crumble in this ratio. Don’t bother precooking the apple. Don’t forget to get cream/ice-cream.",
+      "Note": "From \\href{https://www.recipetineats.com/apple-crumble/}{Recipe Tin Eats}. Make sure the oven has a hot top element for browning. Flour to the apples is a neat trick, makes the base all syrupy. Plenty of crumble in this ratio. Don't need to precook the apple. Do need to buy cream/ice-cream. A shallow and large baking dish gives you better mileage for the crumble.",
       "Image": "Local",
       "Items": [
         {
@@ -5312,28 +5312,36 @@
       ],
       "Steps": [
         {
-          "Content": "Preheat oven to 180 degrees"
+          "Content": "Preheat oven to 200 degrees conventional."
         },
         {
-          "Content": "Melt butter in a saucepan"
+          "Content": "Melt butter in a saucepan."
         },
         {
-          "Content": "Cut apples into 1.5 cm cubes"
+          "Content": "Cut apples into 2 cm chunks."
         },
         {
-          "Content": "Toss apple with other base ingredients in baking tray"
+          "Content": "Toss apple with other base ingredients in large bowl then pour into stylish baking dish."
         },
         {
-          "Content": "Mix all topping ingredients and spread over tray"
+          "Content": "Mix all dry topping ingredients in the same large bowl. mix in butter and then spread over tray."
         },
         {
-          "Content": "Bake for 50 minutes until brown, cover with foil for 10 minutes and serve"
+          "Content": "Bake for 50 minutes until brown. Cool under foil for 10 minutes and serve."
         }
       ],
       "Diary": [
         {
           "Date": "2024-05-13T09:52:28.426825+10:00",
           "Content": "scaled to 9. worked fine, just thicker layer of apples. had some leftover crumble though and gave it longer in oven. too much lemon juice."
+        },
+        {
+          "Date": "2024-09-17T21:10:28.8524514+10:00",
+          "Content": "making it with bruised discounted fruit, 3 pears, 4 green apples."
+        },
+        {
+          "Date": "2024-09-17T21:25:33.2679801+10:00",
+          "Content": "Prep is done, that went super fast and super easy. I think this recipe should actually be treated with a much more easy going attitude than I usually have, it's downright fun. I got out a big bowl and did all the mixing with my hands and reused the bowl for the topping too. The mix didn't all fit in the cute container I picked out (I normally use a large and shallow pyrex for maximum crumble) so I put the rest in a little ramekin. Took 25 minutes to prep tops."
         }
       ],
       "Timers": [],
@@ -5393,7 +5401,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.5975,
+            "Amount": 1.6,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5534,7 +5542,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 11.69,
+        "Amount": 11.7,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -5561,7 +5569,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 3.195,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5711,8 +5719,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 20.88,
-        "AmountPerUnit": 20.88,
+        "Amount": 19.4,
+        "AmountPerUnit": 19.4,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -5724,7 +5732,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 3.195,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5738,7 +5746,7 @@
           },
           {
             "Name": "Thickened cream",
-            "Amount": 4.9875,
+            "Amount": 3.5,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5779,7 +5787,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "20.88* per unit",
+        "CostString": "19.4* per unit",
         "ExclusionsString": "Excluding Gelatine sheets and Passionfruit"
       }
     },
@@ -5982,8 +5990,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 11.14,
-        "AmountPerUnit": 11.14,
+        "Amount": 9.55,
+        "AmountPerUnit": 9.55,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -6002,7 +6010,7 @@
           },
           {
             "Name": "Thickened cream",
-            "Amount": 5.32,
+            "Amount": 3.733333333333333,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -6022,7 +6030,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "11.14* per unit",
+        "CostString": "9.55* per unit",
         "ExclusionsString": "Excluding \\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}"
       }
     },
@@ -6119,7 +6127,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 15.71,
+        "Amount": 15.92,
         "AmountPerUnit": 0.05,
         "Unit": "ml",
         "ItemCosts": [
@@ -6139,7 +6147,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.4396000000000005,
+            "Amount": 0.648,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -6423,7 +6431,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.639,
+            "Amount": 0.64,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -6642,8 +6650,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 0.66,
-        "AmountPerUnit": 0.22,
+        "Amount": 0.97,
+        "AmountPerUnit": 0.32,
         "Unit": "wraps",
         "ItemCosts": [
           {
@@ -6669,13 +6677,13 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.6594,
+            "Amount": 0.972,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "0.22* per unit",
+        "CostString": "0.32* per unit",
         "ExclusionsString": "Excluding Flatbread and Za'atar"
       }
     },
@@ -7080,8 +7088,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 9.48,
-        "AmountPerUnit": 9.48,
+        "Amount": 9.69,
+        "AmountPerUnit": 9.69,
         "Unit": "tart",
         "ItemCosts": [
           {
@@ -7107,7 +7115,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.4396000000000005,
+            "Amount": 0.648,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7155,7 +7163,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "9.48 per unit",
+        "CostString": "9.69 per unit",
         "ExclusionsString": ""
       }
     },
@@ -7323,13 +7331,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 4.45,
-        "AmountPerUnit": 1.11,
+        "Amount": 4.66,
+        "AmountPerUnit": 1.16,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Olive oil",
-            "Amount": 0.4396000000000005,
+            "Amount": 0.648,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7419,7 +7427,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.11* per serve",
+        "CostString": "1.16* per serve",
         "ExclusionsString": "Excluding Fennel, White wine and Lemon zest"
       }
     },
@@ -7895,7 +7903,7 @@
         "ItemCosts": [
           {
             "Name": "Butter",
-            "Amount": 1.5975,
+            "Amount": 1.6,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8325,13 +8333,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 23.65,
-        "AmountPerUnit": 5.91,
+        "Amount": 23.75,
+        "AmountPerUnit": 5.94,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "olive oil",
-            "Amount": 0.2197999999999995,
+            "Amount": 0.324,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8421,7 +8429,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "5.91* per serve",
+        "CostString": "5.94* per serve",
         "ExclusionsString": "Excluding White wine and Tomato paste"
       }
     },
@@ -8756,8 +8764,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.89,
-        "AmountPerUnit": 1.94,
+        "Amount": 3.77,
+        "AmountPerUnit": 1.88,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8797,7 +8805,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.27184,
+            "Amount": 0.1584,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8817,7 +8825,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.94 per serve",
+        "CostString": "1.88 per serve",
         "ExclusionsString": ""
       }
     },
@@ -8975,13 +8983,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.78,
+        "Amount": 5.68,
         "AmountPerUnit": 0.16,
         "Unit": "biscuits",
         "ItemCosts": [
           {
             "Name": "Butter",
-            "Amount": 1.7892,
+            "Amount": 1.792,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9030,7 +9038,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.25485,
+            "Amount": 0.1485,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9353,7 +9361,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 25.55,
+        "Amount": 25.56,
         "AmountPerUnit": 6.39,
         "Unit": "serves",
         "ItemCosts": [
@@ -9380,7 +9388,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 3.195,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9806,8 +9814,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.34,
-        "AmountPerUnit": 3.45,
+        "Amount": 10.29,
+        "AmountPerUnit": 3.43,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -9819,7 +9827,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.13592,
+            "Amount": 0.0792,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9916,7 +9924,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.45 per serve",
+        "CostString": "3.43 per serve",
         "ExclusionsString": ""
       }
     },
@@ -10316,7 +10324,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.4697,
+            "Amount": 1.472,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10747,6 +10755,18 @@
         {
           "Date": "2024-09-03T19:31:14.6382527+10:00",
           "Content": "Some notes: Heated the pan to smoking without any oil in it for the first step by accident, burned the garlic. Cooked without chicken tonight, so just skipped that step. Heat is maybe too high and I used more oil. Added some extra oil to fry the egg as well. "
+        },
+        {
+          "Date": "2024-09-04T14:35:16.65498+10:00",
+          "Content": "Starting now.."
+        },
+        {
+          "Date": "2024-09-04T14:56:25.2049879+10:00",
+          "Content": "Plated."
+        },
+        {
+          "Date": "2024-09-04T14:56:30.9237969+10:00",
+          "Content": "A note that I cooked it without chicken so it went a little faster than normal. But mainly I cooked it last night so I knew what to do when."
         }
       ],
       "Timers": [
@@ -10772,8 +10792,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.66,
-        "AmountPerUnit": 4.83,
+        "Amount": 9.51,
+        "AmountPerUnit": 4.76,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10792,7 +10812,7 @@
           },
           {
             "Name": "Gai lan",
-            "Amount": 0.995,
+            "Amount": 0.845,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10854,7 +10874,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.83 per serve",
+        "CostString": "4.76 per serve",
         "ExclusionsString": ""
       }
     },
@@ -11258,8 +11278,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 19.76,
-        "AmountPerUnit": 3.29,
+        "Amount": 19.83,
+        "AmountPerUnit": 3.3,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -11313,7 +11333,7 @@
           },
           {
             "Name": "Breadcrumbs",
-            "Amount": 0.4225,
+            "Amount": 0.5,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11340,7 +11360,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.29* per unit",
+        "CostString": "3.3* per unit",
         "ExclusionsString": "Excluding Lettuce"
       }
     },
@@ -11583,8 +11603,8 @@
         }
       ],
       "Cost": {
-        "Amount": 20.45,
-        "AmountPerUnit": 5.11,
+        "Amount": 20.97,
+        "AmountPerUnit": 5.24,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -11596,7 +11616,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.4396000000000005,
+            "Amount": 0.648,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11659,7 +11679,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.6594,
+            "Amount": 0.972,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11735,7 +11755,7 @@
             "Extra": "Name not found: Flatbread"
           }
         ],
-        "CostString": "5.11* per serve",
+        "CostString": "5.24* per serve",
         "ExclusionsString": "Excluding Cardamom, Lettuce and Flatbread"
       }
     },
@@ -12101,7 +12121,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.02,
+        "Amount": 6.72,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -12135,7 +12155,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 1.4653333333333334,
+            "Amount": 2.16,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12424,7 +12444,7 @@
         "ItemCosts": [
           {
             "Name": "Butter",
-            "Amount": 0.639,
+            "Amount": 0.64,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12651,8 +12671,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 11.95,
-        "AmountPerUnit": 4.78,
+        "Amount": 11.88,
+        "AmountPerUnit": 4.75,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -12748,7 +12768,7 @@
           },
           {
             "Name": "Bean sprouts",
-            "Amount": 1.0666666666666675,
+            "Amount": 1.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12768,7 +12788,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.78 per serve",
+        "CostString": "4.75 per serve",
         "ExclusionsString": ""
       }
     },
@@ -12929,16 +12949,45 @@
           "Content": "Lightly squeeze lemon wedges over paella then push gently into surface, skin down"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-09-23T17:35:20.118952+10:00",
+          "Content": "Starting now, expecting to do everything normally, but will modify to try and get a hard base on it. Might just straight up burn it to see it."
+        },
+        {
+          "Date": "2024-09-23T17:41:51.595397+10:00",
+          "Content": "I don't peel carrots, dunno why I wrote that."
+        },
+        {
+          "Date": "2024-09-23T17:59:45.8887435+10:00",
+          "Content": "First fry looks ridiculously short. Stay tuned but I expect a lot longer than 3 minutes."
+        },
+        {
+          "Date": "2024-09-23T18:14:36.5494305+10:00",
+          "Content": "Yep gave it 8 minutes."
+        },
+        {
+          "Date": "2024-09-23T18:49:33.9516591+10:00",
+          "Content": "For the simmer on low, I gave it the full 10 minutes."
+        },
+        {
+          "Date": "2024-09-23T18:57:24.9220881+10:00",
+          "Content": "Just put it in the oven on max heat (but with door open so real heat was much lower) for 10 minutes, it still hasn't burned and the base seems soft. Putting on stove on max heat for 5 minutes."
+        },
+        {
+          "Date": "2024-09-23T20:13:22.117631+10:00",
+          "Content": "Actively smoking and still no crust. The base is burnt black but only a millimetre thick."
+        }
+      ],
       "Timers": [],
       "Cost": {
-        "Amount": 11.16,
-        "AmountPerUnit": 3.72,
+        "Amount": 11.57,
+        "AmountPerUnit": 3.86,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Olive oil",
-            "Amount": 0.8792000000000001,
+            "Amount": 1.296,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13014,7 +13063,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.72 per serve",
+        "CostString": "3.86 per serve",
         "ExclusionsString": ""
       }
     },
@@ -13228,8 +13277,8 @@
         }
       ],
       "Cost": {
-        "Amount": 4.01,
-        "AmountPerUnit": 1.34,
+        "Amount": 3.9,
+        "AmountPerUnit": 1.3,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -13255,7 +13304,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.27184,
+            "Amount": 0.1584,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13331,7 +13380,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.34* per serve",
+        "CostString": "1.3* per serve",
         "ExclusionsString": "Excluding Tomato paste, Chickpeas and Coconut milk"
       }
     },
@@ -13460,7 +13509,7 @@
         "ItemCosts": [
           {
             "Name": "Butter",
-            "Amount": 2.8116,
+            "Amount": 2.8160000000000003,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13589,13 +13638,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.0,
-        "AmountPerUnit": 1.0,
+        "Amount": 0.95,
+        "AmountPerUnit": 0.95,
         "Unit": "split",
         "ItemCosts": [
           {
             "Name": "Bananas",
-            "Amount": 0.9975,
+            "Amount": 0.9475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13622,7 +13671,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1* per unit",
+        "CostString": "0.95* per unit",
         "ExclusionsString": "Excluding Icecream"
       }
     },
@@ -14213,8 +14262,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 22.41,
-        "AmountPerUnit": 5.6,
+        "Amount": 22.75,
+        "AmountPerUnit": 5.69,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14233,7 +14282,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.5751,
+            "Amount": 0.576,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14247,7 +14296,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.22375,
+            "Amount": 0.5625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14351,7 +14400,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.6* per serve",
+        "CostString": "5.69* per serve",
         "ExclusionsString": "Excluding Sundried tomato oil, Sundried tomatoes and Chilli flakes"
       }
     },
@@ -14561,8 +14610,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.59,
-        "AmountPerUnit": 4.15,
+        "Amount": 16.93,
+        "AmountPerUnit": 4.23,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14581,7 +14630,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.22375,
+            "Amount": 0.5625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14678,7 +14727,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.15* per serve",
+        "CostString": "4.23* per serve",
         "ExclusionsString": "Excluding Sundried tomatoes and Chilli flakes"
       }
     },
@@ -14740,7 +14789,40 @@
           "Content": "Serve with shaved parmesan."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-09-11T16:12:44.568896+10:00",
+          "Content": "Doing it with an actual sauce again. I have 630g leggo's ricotta spinach agnolotti, 2 carrots, 1 onion, 3 cl garlic, 2 diced tomato cans, some tomato paste and some red wine. Plan is boil water, cut onion and garlic, pot onion in pot, then carrot, then garlic and t paste, then red wine, then diced tomatoes. simmer for awhile then add peas, deal with ravioli, then combine."
+        },
+        {
+          "Date": "2024-09-11T16:17:31.0229132+10:00",
+          "Content": "Would use another onion if it were available. Also forgot to write cut carrot. And I'm going 1cm dice of onion, 2mm semicircle of carrot and thinest slice of garlic."
+        },
+        {
+          "Date": "2024-09-11T16:25:22.2536982+10:00",
+          "Content": "Probably gave the onion 3 minutes, I mostly added the carrots because I got bored. Gonna give them a while, 10 minutes. Then g+t for like 30 seconds then wine until it reduces and then the rest and sit for 20 minutes? Dunno"
+        },
+        {
+          "Date": "2024-09-11T16:28:14.2564263+10:00",
+          "Content": "Nevermind I've just decided to switch to passata and 1 can diced tomatoes instead of just 2 diced tomatoes and no passata."
+        },
+        {
+          "Date": "2024-09-11T16:31:34.9020141+10:00",
+          "Content": "Just sprayed salt on the carrots & onions."
+        },
+        {
+          "Date": "2024-09-11T16:41:40.9336756+10:00",
+          "Content": "Gave it 3tbsp of tomato paste and probably a full minute to burn onto the bottom, then 0.25 cup cask red wine and another minute to evaporate and get sticky, then the passata and diced tomatoes, a pile of salt and pepper and lid on to buble for as long as I can wait. ravioli wants 5 minutes and the water is ready."
+        },
+        {
+          "Date": "2024-09-11T17:48:22.2811416+10:00",
+          "Content": "Added 1 cup frozen peas a few min before finishing the sauce. Combined with drained ravioli and it was really very delicious. I went crazy on the pepper and it was a fantastic choice, the sauce is heaps acidic and buzzing, I attribute the latter to the pepper.n"
+        },
+        {
+          "Date": "2024-09-11T17:49:41.38051+10:00",
+          "Content": "Sauce probably got 30 minutes of simmering, first while was covered, maybe halfway through I took the lid off and stirred a lot."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 0.0,
@@ -14873,8 +14955,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 12.17,
-        "AmountPerUnit": 1.01,
+        "Amount": 12.59,
+        "AmountPerUnit": 1.05,
         "Unit": "sausage sandwiches",
         "ItemCosts": [
           {
@@ -14921,13 +15003,13 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.8791999999999995,
+            "Amount": 1.296,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "1.01 per unit",
+        "CostString": "1.05 per unit",
         "ExclusionsString": ""
       }
     },
@@ -15191,7 +15273,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.278,
+            "Amount": 1.28,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15544,8 +15626,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 26.72,
-        "AmountPerUnit": 6.68,
+        "Amount": 26.93,
+        "AmountPerUnit": 6.73,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15725,7 +15807,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.4396000000000005,
+            "Amount": 0.648,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15752,7 +15834,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "6.68* per serve",
+        "CostString": "6.73* per serve",
         "ExclusionsString": "Excluding Cloves, Sumac, Parsley and Sumac"
       }
     },
@@ -16627,8 +16709,8 @@
         }
       ],
       "Cost": {
-        "Amount": 18.45,
-        "AmountPerUnit": 3.08,
+        "Amount": 18.71,
+        "AmountPerUnit": 3.12,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -16654,7 +16736,7 @@
           },
           {
             "Name": "Olive oil",
-            "Amount": 0.2197999999999995,
+            "Amount": 0.324,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16703,7 +16785,7 @@
           },
           {
             "Name": "Breadcrumbs",
-            "Amount": 0.845,
+            "Amount": 1.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16744,7 +16826,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.08 per unit",
+        "CostString": "3.12 per unit",
         "ExclusionsString": ""
       }
     },
@@ -17005,8 +17087,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.71,
-        "AmountPerUnit": 2.54,
+        "Amount": 12.78,
+        "AmountPerUnit": 2.56,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -17018,7 +17100,7 @@
           },
           {
             "Name": "Breadcrumbs",
-            "Amount": 0.4225,
+            "Amount": 0.5,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17143,7 +17225,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.54 per serve",
+        "CostString": "2.56 per serve",
         "ExclusionsString": ""
       }
     },
@@ -17778,16 +17860,16 @@
         }
       ],
       "Cost": {
-        "Amount": 5.51,
-        "AmountPerUnit": 1.38,
+        "Amount": 18.58,
+        "AmountPerUnit": 4.64,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Flank steak",
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Flank steak"
+            "Amount": 13.12,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Vegetable oil",
@@ -17868,7 +17950,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.13592,
+            "Amount": 0.0792,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17923,8 +18005,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.38* per serve",
-        "ExclusionsString": "Excluding Flank steak, Soy sauce and Soy sauce"
+        "CostString": "4.64* per serve",
+        "ExclusionsString": "Excluding Soy sauce and Soy sauce"
       }
     },
     {
@@ -18195,7 +18277,7 @@
         }
       ],
       "Cost": {
-        "Amount": 3.96,
+        "Amount": 3.9,
         "AmountPerUnit": 0.28,
         "Unit": "samosas",
         "ItemCosts": [
@@ -18250,7 +18332,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.13592,
+            "Amount": 0.0792,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -18794,8 +18876,8 @@
         }
       ],
       "Cost": {
-        "Amount": 5.02,
-        "AmountPerUnit": 1.25,
+        "Amount": 7.39,
+        "AmountPerUnit": 1.85,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -18835,7 +18917,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 1.56625,
+            "Amount": 3.9375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -18862,7 +18944,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.25 per serve",
+        "CostString": "1.85 per serve",
         "ExclusionsString": ""
       }
     },
@@ -19065,7 +19147,7 @@
         }
       ],
       "Cost": {
-        "Amount": 8.45,
+        "Amount": 8.46,
         "AmountPerUnit": 0.21,
         "Unit": "cookies",
         "ItemCosts": [
@@ -19099,14 +19181,14 @@
           },
           {
             "Name": "Butter",
-            "Amount": 2.556,
+            "Amount": 2.56,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Butter",
-            "Amount": 0.9585,
+            "Amount": 0.9600000000000001,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19141,7 +19223,7 @@
           },
           {
             "Name": "Sultanas",
-            "Amount": 0.998,
+            "Amount": 1.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19306,8 +19388,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 17.8,
-        "AmountPerUnit": 5.93,
+        "Amount": 18.47,
+        "AmountPerUnit": 6.16,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -19354,7 +19436,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.4475,
+            "Amount": 1.125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19367,7 +19449,7 @@
             "Extra": "In ignored units: a handful"
           }
         ],
-        "CostString": "5.93* per serve",
+        "CostString": "6.16* per serve",
         "ExclusionsString": "Excluding White wine"
       }
     },
@@ -19549,7 +19631,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 3.195,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19913,8 +19995,8 @@
         }
       ],
       "Cost": {
-        "Amount": 4.87,
-        "AmountPerUnit": 1.62,
+        "Amount": 5.21,
+        "AmountPerUnit": 1.74,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -19954,13 +20036,13 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.22375,
+            "Amount": 0.5625,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "1.62* per serve",
+        "CostString": "1.74* per serve",
         "ExclusionsString": "Excluding Tomato paste and Cannellini beans"
       }
     },
@@ -20148,8 +20230,8 @@
         }
       ],
       "Cost": {
-        "Amount": 22.11,
-        "AmountPerUnit": 5.53,
+        "Amount": 27.19,
+        "AmountPerUnit": 6.8,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -20189,7 +20271,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 3.35625,
+            "Amount": 8.4375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20216,7 +20298,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "5.53 per serve",
+        "CostString": "6.8 per serve",
         "ExclusionsString": ""
       }
     },
@@ -20450,7 +20532,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.7667999999999999,
+            "Amount": 0.768,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20725,8 +20807,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.33,
-        "AmountPerUnit": 1.04,
+        "Amount": 8.38,
+        "AmountPerUnit": 1.05,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -20752,7 +20834,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.6773399999999999,
+            "Amount": 0.6784,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20794,7 +20876,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.41858,
+            "Amount": 1.4208,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20815,7 +20897,7 @@
           },
           {
             "Name": "Sour cream",
-            "Amount": 2.6583333333333248,
+            "Amount": 2.7083333333333246,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20828,7 +20910,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.04* per serve",
+        "CostString": "1.05* per serve",
         "ExclusionsString": "Excluding Pecans"
       }
     },
@@ -21333,13 +21415,13 @@
         }
       ],
       "Cost": {
-        "Amount": 3.51,
-        "AmountPerUnit": 1.76,
+        "Amount": 3.45,
+        "AmountPerUnit": 1.72,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Bean sprouts",
-            "Amount": 1.0666666666666675,
+            "Amount": 1.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21415,7 +21497,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.76* per serve",
+        "CostString": "1.72* per serve",
         "ExclusionsString": "Excluding Soy sauce"
       }
     },
@@ -21582,8 +21664,8 @@
         }
       ],
       "Cost": {
-        "Amount": 4.17,
-        "AmountPerUnit": 1.39,
+        "Amount": 5.52,
+        "AmountPerUnit": 1.84,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -21616,7 +21698,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.895,
+            "Amount": 2.25,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21650,7 +21732,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "1.39* per serve",
+        "CostString": "1.84* per serve",
         "ExclusionsString": "Excluding Chicken maryland and Mole negro"
       }
     },
@@ -21764,7 +21846,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 1.278,
+            "Amount": 1.28,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21907,7 +21989,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.7667999999999999,
+            "Amount": 0.768,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22119,8 +22201,8 @@
         }
       ],
       "Cost": {
-        "Amount": 11.75,
-        "AmountPerUnit": 3.92,
+        "Amount": 11.7,
+        "AmountPerUnit": 3.9,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -22160,7 +22242,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.13592,
+            "Amount": 0.0792,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22229,7 +22311,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.92 per serve",
+        "CostString": "3.9 per serve",
         "ExclusionsString": ""
       }
     },
@@ -22240,19 +22322,19 @@
       "Cuisine": "",
       "Key": "",
       "Yield": {
-        "Quantity": 3.0,
+        "Quantity": 4.0,
         "Unit": "serves",
         "Extra": ""
       },
       "Time": {
-        "Minutes": 80.0,
+        "Minutes": 70.0,
         "Extra": ""
       },
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": false,
       "Retired": false,
-      "Tested": false,
+      "Tested": true,
       "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
@@ -22266,7 +22348,7 @@
         {
           "Name": "Potatoes",
           "NameDetail": "",
-          "Quantity": 900.0,
+          "Quantity": 1000.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": ""
@@ -22274,7 +22356,7 @@
         {
           "Name": "Chicken breast",
           "NameDetail": "",
-          "Quantity": 900.0,
+          "Quantity": 1000.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": ""
@@ -22322,7 +22404,7 @@
         {
           "Name": "Sriracha",
           "NameDetail": "",
-          "Quantity": 100.0,
+          "Quantity": 50.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": "marinade"
@@ -22330,7 +22412,7 @@
         {
           "Name": "Sriracha",
           "NameDetail": "",
-          "Quantity": 50.0,
+          "Quantity": 25.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": "sauce"
@@ -22354,7 +22436,7 @@
         {
           "Name": "Tomato",
           "NameDetail": "",
-          "Quantity": 3.0,
+          "Quantity": 4.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": "salad"
@@ -22370,7 +22452,7 @@
         {
           "Name": "Cucumber",
           "NameDetail": "",
-          "Quantity": 1.0,
+          "Quantity": 3.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": "salad"
@@ -22429,22 +22511,59 @@
           "Content": "Preheat oven to 200 degrees conventional."
         },
         {
-          "Content": "Dice potatoes into 2 cm cubes. Finely chop parsley. Toss potatoes with oil, half the parsley and  half of the dry spices (@1.5 tbsp of each). Bake for 1 hour, flipping every 15 minutes."
+          "Content": "Dice potatoes into 1.5 cm cubes. Finely chop parsley. Toss potatoes with oil, the parsley and half of the dry spices (@1.5 tsp of each). Bake for 1 hour, flipping every 15 minutes."
         },
         {
-          "Content": "Dice chicken breast into 2 cm cubes and toss in bowl with oil, sriracha and remaining spices and parsley."
+          "Content": "Dice tomatoes, red onion and cucumber into 1 cm cubes. Slice spring onions then combine all salad ingredients in a medium bowl, squeezing the lemon juice over top."
         },
         {
-          "Content": "Add oil to a frying pan on medium-high and fry the chicken in @2 batches. Don't move it until the bottom browns, 2 minutes or so. Then stir frequently until cooked, 4 more minutes or more."
+          "Content": "Combine sauce ingredients in a small bowl."
         },
         {
-          "Content": "While chicken cooking, combine sauce ingredients in a small bowl."
+          "Content": "Dice chicken breast into 1.5 cm cubes and toss in bowl with oil, sriracha and remaining spices."
         },
         {
-          "Content": "While chicken cooking, chop tomatoes, red onion and cucumber into 1 cm cubes. Slice spring onions then combine all salad ingredients in a medium bowl, squeezing the lemon juice over top."
+          "Content": "Add oil to a frying pan on high and fry the chicken in @3 batches for 5 minutes. Shake it around but give it time to brown."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-09-26T17:28:35.0347001+10:00",
+          "Content": "Making tonight wiht more 1kg potato and 750g chicken breast. Next time I want 1kg of each and I think I'll get chicken thigh."
+        },
+        {
+          "Date": "2024-09-26T17:45:29.2607087+10:00",
+          "Content": "Using 4 tomatoes. Baking the chicken instead of frying. No sriracha on potatoes, lots of parsley and 100% of it is on the potatoes."
+        },
+        {
+          "Date": "2024-09-26T18:03:04.9910864+10:00",
+          "Content": "Half the sriracha in the sauce."
+        },
+        {
+          "Date": "2024-09-26T18:03:35.7279136+10:00",
+          "Content": "Did potatoes, then salad, then sauce and now moving on to chicken."
+        },
+        {
+          "Date": "2024-09-26T18:16:15.346347+10:00",
+          "Content": "Diced the chicken fairly small. Again halved the sriracha. 50ml but weighed in at 44 grams so either way is fine. Frying it after all, high heat in stainless steel pan."
+        },
+        {
+          "Date": "2024-09-26T18:16:52.8324875+10:00",
+          "Content": "and in small batches."
+        },
+        {
+          "Date": "2024-09-26T18:17:05.6331276+10:00",
+          "Content": "with lots of oil."
+        },
+        {
+          "Date": "2024-09-26T18:19:24.0276978+10:00",
+          "Content": "Bumped heat up to max. Doing 3 batches. I reckon I put too much oil."
+        },
+        {
+          "Date": "2024-09-26T18:39:45.1808949+10:00",
+          "Content": "Took potato out 8 min early. Fried each batch of chicken for 5 min on max. Forgot spring onions entirely. Delicious."
+        }
+      ],
       "Timers": [
         {
           "Name": "Potatoes",
@@ -22464,20 +22583,20 @@
         }
       ],
       "Cost": {
-        "Amount": 22.11,
-        "AmountPerUnit": 7.37,
+        "Amount": 27.29,
+        "AmountPerUnit": 6.82,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Potatoes",
-            "Amount": 3.591,
+            "Amount": 3.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Chicken breast",
-            "Amount": 8.991,
+            "Amount": 9.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22547,7 +22666,7 @@
           },
           {
             "Name": "Tomato",
-            "Amount": 1.728,
+            "Amount": 2.304,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22561,7 +22680,7 @@
           },
           {
             "Name": "Cucumber",
-            "Amount": 1.6053571428571445,
+            "Amount": 4.816071428571433,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22609,7 +22728,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.37* per serve",
+        "CostString": "6.82* per serve",
         "ExclusionsString": "Excluding Sriracha and Sriracha"
       }
     },
@@ -22987,7 +23106,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.7667999999999999,
+            "Amount": 0.768,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23467,8 +23586,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 10.18,
-        "AmountPerUnit": 2.54,
+        "Amount": 10.81,
+        "AmountPerUnit": 2.7,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -23536,7 +23655,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 0.4475,
+            "Amount": 1.125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23557,7 +23676,7 @@
           },
           {
             "Name": "Ginger",
-            "Amount": 0.13592,
+            "Amount": 0.0792,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23571,7 +23690,7 @@
           },
           {
             "Name": "Chickpeas",
-            "Amount": 0.9428571428571428,
+            "Amount": 0.9523809523809524,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23598,7 +23717,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.54* per serve",
+        "CostString": "2.7* per serve",
         "ExclusionsString": "Excluding Dried apricots and Dried cranberries"
       }
     },
@@ -23745,13 +23864,13 @@
         }
       ],
       "Cost": {
-        "Amount": 17.47,
-        "AmountPerUnit": 4.37,
+        "Amount": 19.11,
+        "AmountPerUnit": 4.78,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Leeks",
-            "Amount": 8.64,
+            "Amount": 8.985,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23765,7 +23884,7 @@
           },
           {
             "Name": "Butter",
-            "Amount": 0.38339999999999996,
+            "Amount": 0.384,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23779,7 +23898,7 @@
           },
           {
             "Name": "Chicken stock",
-            "Amount": 1.3425,
+            "Amount": 3.375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23793,7 +23912,7 @@
           },
           {
             "Name": "Thickened cream",
-            "Amount": 2.49375,
+            "Amount": 1.75,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23813,7 +23932,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.37 per serve",
+        "CostString": "4.78 per serve",
         "ExclusionsString": ""
       }
     },
@@ -23829,7 +23948,7 @@
         "Extra": "big"
       },
       "Time": {
-        "Minutes": 50.0,
+        "Minutes": 35.0,
         "Extra": ""
       },
       "Difficulty": 4,
@@ -24026,6 +24145,42 @@
         {
           "Date": "2024-08-25T21:49:56.9924166+10:00",
           "Content": "Cooked for the first time tonight, and in rare form actually wrote it up same day delivery. Forgot to add pepper to the sauce. The egg is fun. Upped the sauce quantities so they're easier to measure."
+        },
+        {
+          "Date": "2024-09-17T18:52:01.3965849+10:00",
+          "Content": "Making tonight with iceberg lettuce instead of wombok, and probably only 1.5 cups. Also skipping bean sprouts and making it slow because trying to time it with arrival of housemate. Just discovered that combining water and cornflour is really easily done by swishing the water by moving the bowl in your hand."
+        },
+        {
+          "Date": "2024-09-17T20:22:04.2949637+10:00",
+          "Content": "Was delicious. Times are pretty accurate, not sure how long it took total, I think I could get it faster than 50 minutes but the chopping does take time. Removing bean sprouts didn't really diminish it at all for me, and iceberg lettuce was a fine wombok substitute I think."
+        },
+        {
+          "Date": "2024-09-17T20:24:54.0123836+10:00",
+          "Content": "I forgot to say, I used 250 grams noodles not 200 because the packet is 500 grams."
+        },
+        {
+          "Date": "2024-09-18T16:06:06.0250497+10:00",
+          "Content": "Starting now with same substitutions as above, will see how long it takes today."
+        },
+        {
+          "Date": "2024-09-18T16:33:46.8575561+10:00",
+          "Content": "I added the carrot, stirred, then added the wombok, rather than adding both simultaneously."
+        },
+        {
+          "Date": "2024-09-18T16:34:01.8402791+10:00",
+          "Content": "At times it felt I should turn the pan down but I didn't and now the beef is real crispy in a good way."
+        },
+        {
+          "Date": "2024-09-18T16:37:04.186689+10:00",
+          "Content": "Stirred the noodles pretty thoroughly before starting the 1 minute timer."
+        },
+        {
+          "Date": "2024-09-18T16:38:59.4481924+10:00",
+          "Content": "Done"
+        },
+        {
+          "Date": "2024-09-18T17:01:36.9290554+10:00",
+          "Content": "A note that in the above record setting time, I made the sauce while the beef was frying, which saved nearly 5 minutes but was a push to fit in."
         }
       ],
       "Timers": [
@@ -24059,8 +24214,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.0,
-        "AmountPerUnit": 4.0,
+        "Amount": 7.95,
+        "AmountPerUnit": 3.98,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -24093,7 +24248,7 @@
           },
           {
             "Name": "Bean sprouts",
-            "Amount": 0.71111111111111,
+            "Amount": 0.6666666666666675,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -24183,7 +24338,212 @@
             "Extra": ""
           }
         ],
-        "CostString": "4 per serve",
+        "CostString": "3.98 per serve",
+        "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Gnocchi Alla Sorrentina",
+      "Type": "Main",
+      "Category": "Pastas",
+      "Cuisine": "Italian",
+      "Key": "Basil",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 50.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": false,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.maricruzavalos.com/gnocchi-alla-sorrentina/#recipe}{Maricruz Avalos}. I saw this recipe but looked at the other recipes on the site and thought I could find something more authentic. I arrived at an authentic recipe that opened with a rant against less authentic versions of the recipe, which snapped me right out of it. This one is delicious.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Gnocchi",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cherry tomatoes",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Tomato passata",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Mozzarella cheese",
+          "NameDetail": "",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Basil",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Bring large pot of water to boil."
+        },
+        {
+          "Content": "Preheat grill element of oven on high."
+        },
+        {
+          "Content": "Slice garlic thinly, grate two thirds of the mozzarella coarsely and break the rest into cute little pieces."
+        },
+        {
+          "Content": "Heat oil in another large pot on medium-high."
+        },
+        {
+          "Content": "Add garlic, fry until fragrant, 10 seconds."
+        },
+        {
+          "Content": "Add cherry tomatoes and fry until softened, 5 minutes. Towards the end, squash them just enough to make them burst."
+        },
+        {
+          "Content": "Add passata, salt and pepper. Fry for a moment while you tear up basil leaves, reserving some whole ones for garnish later."
+        },
+        {
+          "Content": "Add torn basil leaves, stir, reduce heat to low and simmer until thickened, 5 minutes."
+        },
+        {
+          "Content": "Drop gnocchi into boiling water and drain all of them in colander once like 10 have risen to the surface, 2 minutes or so."
+        },
+        {
+          "Content": "Add gnocchi and grated mozzarella to pan and stir well."
+        },
+        {
+          "Content": "Transfer to stylish baking dish, arrange whole basil leaves and remaining mozzarella. Bake under grill until cheese melts, 4 minutes."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-09-26T23:21:09.4166166+10:00",
+          "Content": "Not convinced that 5 minutes was enough for the cherry tomatoes, the're not very softened. Seems fine but tomatoes are a little bit harder than I'd like. Needs more gnocchi relative to tomatoes. I think to balance the extra gnocchi I would use the whole jar of passata, and maybe more mozzarella. I could add more tomatoes but I don't think I will. Next time I should use a large pot instead of a frying pan."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Tomatoes",
+          "Seconds": 300
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 300
+        },
+        {
+          "Name": "Gnocchi",
+          "Seconds": 120
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 240
+        }
+      ],
+      "Cost": {
+        "Amount": 17.36,
+        "AmountPerUnit": 4.34,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Gnocchi",
+            "Amount": 6.58,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cherry tomatoes",
+            "Amount": 4.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tomato passata",
+            "Amount": 1.0660714285714274,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Mozzarella cheese",
+            "Amount": 3.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Amount": 0.24916666666666623,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Basil",
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "Olive oil",
+            "Amount": 0.972,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "4.34 per serve",
         "ExclusionsString": ""
       }
     }

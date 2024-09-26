@@ -3373,7 +3373,7 @@
       "Name": "Apple Crumble",
       "Type": "Dessert",
       "Category": "Crumbles",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 6.0,
@@ -3381,22 +3381,22 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
-        "Extra": ""
+        "Minutes": 75.0,
+        "Extra": "only 25 hands on"
       },
       "Difficulty": 1,
       "Bulk": true,
       "Favourite": true,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From \\href{https://www.recipetineats.com/apple-crumble/}{Recipe Tin Eats}. Make sure the oven has a hot top element for browning. Flour to the apples is a good addition, the base gets a nice bit syrupy. Plenty of crumble in this ratio. Don’t bother precooking the apple. Don’t forget to get cream/ice-cream.",
+      "Note": "From \\href{https://www.recipetineats.com/apple-crumble/}{Recipe Tin Eats}. Make sure the oven has a hot top element for browning. Flour to the apples is a neat trick, makes the base all syrupy. Plenty of crumble in this ratio. Don't need to precook the apple. Do need to buy cream/ice-cream. A shallow and large baking dish gives you better mileage for the crumble.",
       "Image": "Local",
       "Items": [
         {
@@ -3506,28 +3506,36 @@
       ],
       "Steps": [
         {
-          "Content": "Preheat oven to 180 degrees"
+          "Content": "Preheat oven to 200 degrees conventional."
         },
         {
-          "Content": "Melt butter in a saucepan"
+          "Content": "Melt butter in a saucepan."
         },
         {
-          "Content": "Cut apples into 1.5 cm cubes"
+          "Content": "Cut apples into 2 cm chunks."
         },
         {
-          "Content": "Toss apple with other base ingredients in baking tray"
+          "Content": "Toss apple with other base ingredients in large bowl then pour into stylish baking dish."
         },
         {
-          "Content": "Mix all topping ingredients and spread over tray"
+          "Content": "Mix all dry topping ingredients in the same large bowl. mix in butter and then spread over tray."
         },
         {
-          "Content": "Bake for 50 minutes until brown, cover with foil for 10 minutes and serve"
+          "Content": "Bake for 50 minutes until brown. Cool under foil for 10 minutes and serve."
         }
       ],
       "Diary": [
         {
           "Date": "2024-05-13T09:52:28.426825+10:00",
           "Content": "scaled to 9. worked fine, just thicker layer of apples. had some leftover crumble though and gave it longer in oven. too much lemon juice."
+        },
+        {
+          "Date": "2024-09-17T21:10:28.8524514+10:00",
+          "Content": "making it with bruised discounted fruit, 3 pears, 4 green apples."
+        },
+        {
+          "Date": "2024-09-17T21:25:33.2679801+10:00",
+          "Content": "Prep is done, that went super fast and super easy. I think this recipe should actually be treated with a much more easy going attitude than I usually have, it's downright fun. I got out a big bowl and did all the mixing with my hands and reused the bowl for the topping too. The mix didn't all fit in the cute container I picked out (I normally use a large and shallow pyrex for maximum crumble) so I put the rest in a little ramekin. Took 25 minutes to prep tops."
         }
       ],
       "Timers": [],
@@ -8556,7 +8564,36 @@
           "Content": "Lightly squeeze lemon wedges over paella then push gently into surface, skin down"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-09-23T17:35:20.118952+10:00",
+          "Content": "Starting now, expecting to do everything normally, but will modify to try and get a hard base on it. Might just straight up burn it to see it."
+        },
+        {
+          "Date": "2024-09-23T17:41:51.595397+10:00",
+          "Content": "I don't peel carrots, dunno why I wrote that."
+        },
+        {
+          "Date": "2024-09-23T17:59:45.8887435+10:00",
+          "Content": "First fry looks ridiculously short. Stay tuned but I expect a lot longer than 3 minutes."
+        },
+        {
+          "Date": "2024-09-23T18:14:36.5494305+10:00",
+          "Content": "Yep gave it 8 minutes."
+        },
+        {
+          "Date": "2024-09-23T18:49:33.9516591+10:00",
+          "Content": "For the simmer on low, I gave it the full 10 minutes."
+        },
+        {
+          "Date": "2024-09-23T18:57:24.9220881+10:00",
+          "Content": "Just put it in the oven on max heat (but with door open so real heat was much lower) for 10 minutes, it still hasn't burned and the base seems soft. Putting on stove on max heat for 5 minutes."
+        },
+        {
+          "Date": "2024-09-23T20:13:22.117631+10:00",
+          "Content": "Actively smoking and still no crust. The base is burnt black but only a millimetre thick."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -9674,7 +9711,40 @@
           "Content": "Serve with shaved parmesan."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-09-11T16:12:44.568896+10:00",
+          "Content": "Doing it with an actual sauce again. I have 630g leggo's ricotta spinach agnolotti, 2 carrots, 1 onion, 3 cl garlic, 2 diced tomato cans, some tomato paste and some red wine. Plan is boil water, cut onion and garlic, pot onion in pot, then carrot, then garlic and t paste, then red wine, then diced tomatoes. simmer for awhile then add peas, deal with ravioli, then combine."
+        },
+        {
+          "Date": "2024-09-11T16:17:31.0229132+10:00",
+          "Content": "Would use another onion if it were available. Also forgot to write cut carrot. And I'm going 1cm dice of onion, 2mm semicircle of carrot and thinest slice of garlic."
+        },
+        {
+          "Date": "2024-09-11T16:25:22.2536982+10:00",
+          "Content": "Probably gave the onion 3 minutes, I mostly added the carrots because I got bored. Gonna give them a while, 10 minutes. Then g+t for like 30 seconds then wine until it reduces and then the rest and sit for 20 minutes? Dunno"
+        },
+        {
+          "Date": "2024-09-11T16:28:14.2564263+10:00",
+          "Content": "Nevermind I've just decided to switch to passata and 1 can diced tomatoes instead of just 2 diced tomatoes and no passata."
+        },
+        {
+          "Date": "2024-09-11T16:31:34.9020141+10:00",
+          "Content": "Just sprayed salt on the carrots & onions."
+        },
+        {
+          "Date": "2024-09-11T16:41:40.9336756+10:00",
+          "Content": "Gave it 3tbsp of tomato paste and probably a full minute to burn onto the bottom, then 0.25 cup cask red wine and another minute to evaporate and get sticky, then the passata and diced tomatoes, a pile of salt and pepper and lid on to buble for as long as I can wait. ravioli wants 5 minutes and the water is ready."
+        },
+        {
+          "Date": "2024-09-11T17:48:22.2811416+10:00",
+          "Content": "Added 1 cup frozen peas a few min before finishing the sauce. Combined with drained ravioli and it was really very delicious. I went crazy on the pepper and it was a fantastic choice, the sauce is heaps acidic and buzzing, I attribute the latter to the pepper.n"
+        },
+        {
+          "Date": "2024-09-11T17:49:41.38051+10:00",
+          "Content": "Sauce probably got 30 minutes of simmering, first while was covered, maybe halfway through I took the lid off and stirred a lot."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -14632,19 +14702,19 @@
       "Cuisine": "",
       "Key": "",
       "Yield": {
-        "Quantity": 3.0,
+        "Quantity": 4.0,
         "Unit": "serves",
         "Extra": ""
       },
       "Time": {
-        "Minutes": 80.0,
+        "Minutes": 70.0,
         "Extra": ""
       },
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": false,
       "Retired": false,
-      "Tested": false,
+      "Tested": true,
       "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
@@ -14658,7 +14728,7 @@
         {
           "Name": "Potatoes",
           "NameDetail": "",
-          "Quantity": 900.0,
+          "Quantity": 1000.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": ""
@@ -14666,7 +14736,7 @@
         {
           "Name": "Chicken breast",
           "NameDetail": "",
-          "Quantity": 900.0,
+          "Quantity": 1000.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": ""
@@ -14714,7 +14784,7 @@
         {
           "Name": "Sriracha",
           "NameDetail": "",
-          "Quantity": 100.0,
+          "Quantity": 50.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": "marinade"
@@ -14722,7 +14792,7 @@
         {
           "Name": "Sriracha",
           "NameDetail": "",
-          "Quantity": 50.0,
+          "Quantity": 25.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": "sauce"
@@ -14746,7 +14816,7 @@
         {
           "Name": "Tomato",
           "NameDetail": "",
-          "Quantity": 3.0,
+          "Quantity": 4.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": "salad"
@@ -14762,7 +14832,7 @@
         {
           "Name": "Cucumber",
           "NameDetail": "",
-          "Quantity": 1.0,
+          "Quantity": 3.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": "salad"
@@ -14821,22 +14891,59 @@
           "Content": "Preheat oven to 200 degrees conventional."
         },
         {
-          "Content": "Dice potatoes into 2 cm cubes. Finely chop parsley. Toss potatoes with oil, half the parsley and  half of the dry spices (@1.5 tbsp of each). Bake for 1 hour, flipping every 15 minutes."
+          "Content": "Dice potatoes into 1.5 cm cubes. Finely chop parsley. Toss potatoes with oil, the parsley and half of the dry spices (@1.5 tsp of each). Bake for 1 hour, flipping every 15 minutes."
         },
         {
-          "Content": "Dice chicken breast into 2 cm cubes and toss in bowl with oil, sriracha and remaining spices and parsley."
+          "Content": "Dice tomatoes, red onion and cucumber into 1 cm cubes. Slice spring onions then combine all salad ingredients in a medium bowl, squeezing the lemon juice over top."
         },
         {
-          "Content": "Add oil to a frying pan on medium-high and fry the chicken in @2 batches. Don't move it until the bottom browns, 2 minutes or so. Then stir frequently until cooked, 4 more minutes or more."
+          "Content": "Combine sauce ingredients in a small bowl."
         },
         {
-          "Content": "While chicken cooking, combine sauce ingredients in a small bowl."
+          "Content": "Dice chicken breast into 1.5 cm cubes and toss in bowl with oil, sriracha and remaining spices."
         },
         {
-          "Content": "While chicken cooking, chop tomatoes, red onion and cucumber into 1 cm cubes. Slice spring onions then combine all salad ingredients in a medium bowl, squeezing the lemon juice over top."
+          "Content": "Add oil to a frying pan on high and fry the chicken in @3 batches for 5 minutes. Shake it around but give it time to brown."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-09-26T17:28:35.0347001+10:00",
+          "Content": "Making tonight wiht more 1kg potato and 750g chicken breast. Next time I want 1kg of each and I think I'll get chicken thigh."
+        },
+        {
+          "Date": "2024-09-26T17:45:29.2607087+10:00",
+          "Content": "Using 4 tomatoes. Baking the chicken instead of frying. No sriracha on potatoes, lots of parsley and 100% of it is on the potatoes."
+        },
+        {
+          "Date": "2024-09-26T18:03:04.9910864+10:00",
+          "Content": "Half the sriracha in the sauce."
+        },
+        {
+          "Date": "2024-09-26T18:03:35.7279136+10:00",
+          "Content": "Did potatoes, then salad, then sauce and now moving on to chicken."
+        },
+        {
+          "Date": "2024-09-26T18:16:15.346347+10:00",
+          "Content": "Diced the chicken fairly small. Again halved the sriracha. 50ml but weighed in at 44 grams so either way is fine. Frying it after all, high heat in stainless steel pan."
+        },
+        {
+          "Date": "2024-09-26T18:16:52.8324875+10:00",
+          "Content": "and in small batches."
+        },
+        {
+          "Date": "2024-09-26T18:17:05.6331276+10:00",
+          "Content": "with lots of oil."
+        },
+        {
+          "Date": "2024-09-26T18:19:24.0276978+10:00",
+          "Content": "Bumped heat up to max. Doing 3 batches. I reckon I put too much oil."
+        },
+        {
+          "Date": "2024-09-26T18:39:45.1808949+10:00",
+          "Content": "Took potato out 8 min early. Fried each batch of chicken for 5 min on max. Forgot spring onions entirely. Delicious."
+        }
+      ],
       "Timers": [
         {
           "Name": "Potatoes",
@@ -15676,7 +15783,7 @@
         "Extra": "big"
       },
       "Time": {
-        "Minutes": 50.0,
+        "Minutes": 35.0,
         "Extra": ""
       },
       "Difficulty": 4,
@@ -15873,6 +15980,42 @@
         {
           "Date": "2024-08-25T21:49:56.9924166+10:00",
           "Content": "Cooked for the first time tonight, and in rare form actually wrote it up same day delivery. Forgot to add pepper to the sauce. The egg is fun. Upped the sauce quantities so they're easier to measure."
+        },
+        {
+          "Date": "2024-09-17T18:52:01.3965849+10:00",
+          "Content": "Making tonight with iceberg lettuce instead of wombok, and probably only 1.5 cups. Also skipping bean sprouts and making it slow because trying to time it with arrival of housemate. Just discovered that combining water and cornflour is really easily done by swishing the water by moving the bowl in your hand."
+        },
+        {
+          "Date": "2024-09-17T20:22:04.2949637+10:00",
+          "Content": "Was delicious. Times are pretty accurate, not sure how long it took total, I think I could get it faster than 50 minutes but the chopping does take time. Removing bean sprouts didn't really diminish it at all for me, and iceberg lettuce was a fine wombok substitute I think."
+        },
+        {
+          "Date": "2024-09-17T20:24:54.0123836+10:00",
+          "Content": "I forgot to say, I used 250 grams noodles not 200 because the packet is 500 grams."
+        },
+        {
+          "Date": "2024-09-18T16:06:06.0250497+10:00",
+          "Content": "Starting now with same substitutions as above, will see how long it takes today."
+        },
+        {
+          "Date": "2024-09-18T16:33:46.8575561+10:00",
+          "Content": "I added the carrot, stirred, then added the wombok, rather than adding both simultaneously."
+        },
+        {
+          "Date": "2024-09-18T16:34:01.8402791+10:00",
+          "Content": "At times it felt I should turn the pan down but I didn't and now the beef is real crispy in a good way."
+        },
+        {
+          "Date": "2024-09-18T16:37:04.186689+10:00",
+          "Content": "Stirred the noodles pretty thoroughly before starting the 1 minute timer."
+        },
+        {
+          "Date": "2024-09-18T16:38:59.4481924+10:00",
+          "Content": "Done"
+        },
+        {
+          "Date": "2024-09-18T17:01:36.9290554+10:00",
+          "Content": "A note that in the above record setting time, I made the sauce while the beef was frying, which saved nearly 5 minutes but was a push to fit in."
         }
       ],
       "Timers": [
@@ -15903,6 +16046,154 @@
         {
           "Name": "Spring onions",
           "Seconds": 60
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Gnocchi Alla Sorrentina",
+      "Type": "Main",
+      "Category": "Pastas",
+      "Cuisine": "Italian",
+      "Key": "Basil",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 50.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": false,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.maricruzavalos.com/gnocchi-alla-sorrentina/#recipe}{Maricruz Avalos}. I saw this recipe but looked at the other recipes on the site and thought I could find something more authentic. I arrived at an authentic recipe that opened with a rant against less authentic versions of the recipe, which snapped me right out of it. This one is delicious.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Gnocchi",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cherry tomatoes",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Tomato passata",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Mozzarella cheese",
+          "NameDetail": "",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Basil",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Bring large pot of water to boil."
+        },
+        {
+          "Content": "Preheat grill element of oven on high."
+        },
+        {
+          "Content": "Slice garlic thinly, grate two thirds of the mozzarella coarsely and break the rest into cute little pieces."
+        },
+        {
+          "Content": "Heat oil in another large pot on medium-high."
+        },
+        {
+          "Content": "Add garlic, fry until fragrant, 10 seconds."
+        },
+        {
+          "Content": "Add cherry tomatoes and fry until softened, 5 minutes. Towards the end, squash them just enough to make them burst."
+        },
+        {
+          "Content": "Add passata, salt and pepper. Fry for a moment while you tear up basil leaves, reserving some whole ones for garnish later."
+        },
+        {
+          "Content": "Add torn basil leaves, stir, reduce heat to low and simmer until thickened, 5 minutes."
+        },
+        {
+          "Content": "Drop gnocchi into boiling water and drain all of them in colander once like 10 have risen to the surface, 2 minutes or so."
+        },
+        {
+          "Content": "Add gnocchi and grated mozzarella to pan and stir well."
+        },
+        {
+          "Content": "Transfer to stylish baking dish, arrange whole basil leaves and remaining mozzarella. Bake under grill until cheese melts, 4 minutes."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-09-26T23:21:09.4166166+10:00",
+          "Content": "Not convinced that 5 minutes was enough for the cherry tomatoes, the're not very softened. Seems fine but tomatoes are a little bit harder than I'd like. Needs more gnocchi relative to tomatoes. I think to balance the extra gnocchi I would use the whole jar of passata, and maybe more mozzarella. I could add more tomatoes but I don't think I will. Next time I should use a large pot instead of a frying pan."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Tomatoes",
+          "Seconds": 300
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 300
+        },
+        {
+          "Name": "Gnocchi",
+          "Seconds": 120
+        },
+        {
+          "Name": "Bake",
+          "Seconds": 240
         }
       ],
       "Cost": null
