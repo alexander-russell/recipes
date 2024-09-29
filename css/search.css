@@ -49,13 +49,13 @@
 /*******************************************************************/
 
 .search-results {
-    display: flex;
-    flex-direction: column;
-    border: 1px solid green;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* border: 1px solid green; */
 }
 
 .search-result {
-    display: flex;
-    list-style: none;
-    border: 1px solid red;
+    /* display: flex; */
+    /* list-style: none; */
+    /* border: 1px solid red; */
 }

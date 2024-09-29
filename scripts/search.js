@@ -49,17 +49,17 @@ function populateResults(query) {
 
         // Add new results
         for (const result of results) {
-            searchResultsList.appendChild(createSearchResultElement(result));
-            // // Create list item
-            // searchResultElement = document.createElement("li");
-            // searchResultElement.classList.add("search-result");
-            // searchResultsList.appendChild(searchResultElement);
+            // searchResultsList.appendChild(createSearchResultElement(result));
+            // Create list item
+            searchResultElement = document.createElement("li");
+            searchResultElement.classList.add("search-result");
+            searchResultsList.appendChild(searchResultElement);
 
-            // // Create link
-            // searchResultLinkElement = document.createElement("a");
-            // searchResultLinkElement.href = `display?recipe=${result.Name}`;
-            // searchResultLinkElement.textContent = result.Name;
-            // searchResultElement.appendChild(searchResultLinkElement);
+            // Create link
+            searchResultLinkElement = document.createElement("a");
+            searchResultLinkElement.href = `display?recipe=${result.Name}`;
+            searchResultLinkElement.textContent = result.Name;
+            searchResultElement.appendChild(searchResultLinkElement);
         }
     }
 }
