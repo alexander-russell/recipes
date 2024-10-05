@@ -22,8 +22,8 @@ function start() {
         });
 
         // DEBUG autoload search result for "ban" so i can write the search design faster
-        searchInputted = true;
-        populateResults("ban");
+        // searchInputted = true;
+        // populateResults("ban");
     }
 }
 
