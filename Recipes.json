@@ -11738,7 +11738,7 @@
           "Content": "Cut beef into medium length 6mm thick slices."
         },
         {
-          "Content": "Combine marinade ingredients and leave for 1 hour."
+          "Content": "In a medium bowl combine the marinade cornflour and water, then add remaining marinade ingredients. Combine, cover and leave for 1 hour."
         },
         {
           "Content": "Make rice. Add rice and water to a pot on medium-high heat, bring to simmer then reduce to medium-low and cover. Cook for 13 minutes, then remove from heat and leave for 10 minutes. Finally, remove lid and fluff rice, leave for 2 minutes."
@@ -11785,6 +11785,46 @@
         {
           "Date": "2024-08-17T12:42:42.7042622+10:00",
           "Content": "Next time I make this, I should try a totally different looking recipe, here: https://www.onionringsandthings.com/mongolian-beef/#wprm-recipe-container-14557."
+        },
+        {
+          "Date": "2024-10-02T15:26:16.7731835+10:00",
+          "Content": "Starting now, plan is to do it same as last time I think."
+        },
+        {
+          "Date": "2024-10-02T15:47:34.0205555+10:00",
+          "Content": "Using only 3 spring onions."
+        },
+        {
+          "Date": "2024-10-02T15:49:34.4870568+10:00",
+          "Content": "Making rice like way later than the recipe suggests."
+        },
+        {
+          "Date": "2024-10-02T15:53:21.9503328+10:00",
+          "Content": "Doing 0.25 cup rather than the 1/3 I used by accident last time."
+        },
+        {
+          "Date": "2024-10-02T15:59:11.9556193+10:00",
+          "Content": "Probably did a little extra ginger"
+        },
+        {
+          "Date": "2024-10-02T16:38:42.0028814+10:00",
+          "Content": "The dredging begins."
+        },
+        {
+          "Date": "2024-10-02T16:47:48.9331268+10:00",
+          "Content": "No way I'm putting all that oil in a pan at once, gonna measure by tablespoons. oh, the dredging is done"
+        },
+        {
+          "Date": "2024-10-02T17:10:00.9700893+10:00",
+          "Content": "Beef did take 1 min per side, excluding time to take it out and put it in and lay it out and all. Giving sauce an extra min or two."
+        },
+        {
+          "Date": "2024-10-02T17:15:47.8393531+10:00",
+          "Content": "done."
+        },
+        {
+          "Date": "2024-10-02T18:29:15.3012839+10:00",
+          "Content": "Tasted good, not as mind blowing as I remembered. Yields like 3 hungry serves."
         }
       ],
       "Timers": [
@@ -16218,6 +16258,128 @@
         {
           "Name": "Bake",
           "Seconds": 240
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Pizza Dough",
+      "Type": "Component",
+      "Category": "Breads",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "bases",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 150.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": false
+      },
+      "Note": "From The Cook's Companion. 15 minutes is a really long time.",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Plain flour",
+          "NameDetail": null,
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Dry yeast",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "lukewarm",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "to grease bowl"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "In large bowl combine flour, yeast and salt."
+        },
+        {
+          "Content": "Add water and oil to the dry ingredients and mix thoroughly."
+        },
+        {
+          "Content": "Knead until smooth and elastic, 15 minutes by hand."
+        },
+        {
+          "Content": "Grease large bowl with oil and place dough into it. Flip over, then cover with a damp teatowel."
+        },
+        {
+          "Content": "Rise until doubled, 1.5 hours."
+        },
+        {
+          "Content": "Knock back dough, split into @4 pieces, coover again."
+        },
+        {
+          "Content": "Rise for 30-45 minutes."
+        },
+        {
+          "Content": "Roll out and make pizza."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Knead",
+          "Seconds": 900
+        },
+        {
+          "Name": "Rise 1",
+          "Seconds": 5400
+        },
+        {
+          "Name": "Rise 2",
+          "Seconds": 1800
         }
       ],
       "Cost": null
