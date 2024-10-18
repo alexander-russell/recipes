@@ -1,0 +1,144 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    max-height: 100vh;
+    margin: 0;
+}
+
+.gallery-wrapper {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    /* min-width: 100%; */
+    width: 100%;
+    max-width: 100%;
+    /* border: 1px solid green; */
+}
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    height: 60%;
+    overflow: hidden;
+    position: fixed;
+    left: 0px;
+    /* flex-grow: 0; */
+    /* justify-content: left; */
+    /* align-items: center; */
+    /* width: 100%; */
+    /* max-width: 100%; */
+    /* height: 10px; */
+    /* overflow: scroll; */
+}
+
+
+.gallery>div {
+    display: flex;
+    min-width: 45vh;
+    /* min-width: 0px; */
+    /* line-height: 0; */
+    /* height: 100%; */
+    /* padding: 10px; */
+    /* position: relative; */
+    /* background-color: darkcyan; */
+    /* border: 1px solid red; */
+}
+
+.gallery>div>a {
+    display: flex;
+    width: 100%;
+    /* min-width: 0px; */
+    /* display: inline-block; */
+    /* line-height: 0; */
+    /* height: 100%; */
+    /* border: 1px solid greenyellow; */
+}
+
+.gallery img {
+    /* display: ; */
+    /* display: inline-block; */
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    /* max-height: 100px; */
+    /* width: 45vh; */
+    /* width: auto; */
+    /* width: 100%; */
+    /* object-fit: contain; */
+    /* max-width: 100%; */
+    /* border: 1px solid blue; */
+}
+
+.gallery>div>a>img.fixed-width {
+    /* width: 45vh;  */
+}
+
+.gallery:hover>div>a>img {
+    filter: grayscale(100%);
+}
+
+.gallery>div>a>img:hover {
+    filter: grayscale(0%);
+}
+
+.home-button-wrapper {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+
+.home-button {
+    background: none;
+    border: none;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 1.6em;
+}
+
+.home-button>a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.home-button>a:hover {
+    color: darkred;
+}
+
+
+/* new */
+
+.gallery-wrapper {
+    /* height: 350px; */
+    /* position: relative; */
+    /* overflow: hidden; */
+}
+
+.gallery {
+    /* position: absolute; */
+    /* top: 0px; */
+    /* left: 0px; */
+    overflow: hidden;
+    white-space: nowrap;
+    animation: gallerymove 10s linear infinite;
+}
+
+.gallery img {
+    /* margin: 0 0.5em */
+}
+
+@keyframes gallerymove {
+    0% {
+        transform: translate(0, 0);
+    }
+
+    100% {
+        transform: translate(-100%, 0);
+    }
+}
+
+.gallery:hover {
+    -webkit-animation-play-state:paused;
+    -moz-animation-play-state:paused;
+    -o-animation-play-state:paused; 
+    animation-play-state:paused;
+}
