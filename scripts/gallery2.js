@@ -46,7 +46,7 @@ function loadGallery(recipes) {
     shuffleFisherYates(recipes);
 
     // Load, or queue the load of, each gallery item
-    for (let i = 0; i < recipes.length && i < 10; i++) {
+    for (let i = 0; i < recipes.length; i++) {
         // Make the structure for the image
         const imageElement = createGalleryItem(recipes[i].Name);
 

@@ -111,28 +111,26 @@ body {
     /* height: 350px; */
     /* position: relative; */
     /* overflow: hidden; */
+    /* border: 1px solid red; */
 }
 
-.gallery {
+.main-gallery {
     /* position: absolute; */
     /* top: 0px; */
     /* left: 0px; */
     overflow: hidden;
     white-space: nowrap;
-    animation: gallerymove 10s linear infinite;
-}
-
-.gallery img {
-    /* margin: 0 0.5em */
+    animation: gallerymove 240s linear infinite;
+    /* border: 1px solid green; */
 }
 
 @keyframes gallerymove {
     0% {
-        transform: translate(0, 0);
+        transform: translate3d(100vw, 0, 0);
     }
 
     100% {
-        transform: translate(-100%, 0);
+        transform: translate3d(-100%, 0, 0);
     }
 }
 
