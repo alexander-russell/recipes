@@ -880,7 +880,20 @@
           "Content": "Repeat frying until schnitzels are all cooked, quickly replenishing the pans with another scant 0.25 cup oil each time. Allow the burnt crumbs to build up in the pan. Expect 5 batches."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-10-31T17:21:02.6913452+11:00",
+          "Content": "Trying with veal pieces instead, from aldi. Only 450 grams. Still doing like 10 potatoes for mash."
+        },
+        {
+          "Date": "2024-10-31T17:58:59.492732+11:00",
+          "Content": "Two eggs was too much, for fun I've crumbed 3 pieces of short cut bacon too. Still leftover egg."
+        },
+        {
+          "Date": "2024-10-31T20:23:10.8953637+11:00",
+          "Content": "Not sure when I finished but before 19:45. Was very tasty, bacon tasted like shapes crackers. Forgot peas but went back and made some real speedy."
+        }
+      ],
       "Timers": [
         {
           "Name": "Flip",
@@ -1620,7 +1633,20 @@
           "Content": "Serve and garnish with parmesan (shaved with peeler)"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-10-09T18:56:22.9523482+11:00",
+          "Content": "Once again making without chicken. Wrist is injuerd so plan is to chop sweet potatoes a bit smaller than usual and then fry everything in a pot."
+        },
+        {
+          "Date": "2024-10-09T19:16:58.6723697+11:00",
+          "Content": "2 s potato, 2 brown onion. diced and s potato in pot on high heat. plan is to burn it then add onions then later garlic. Garlic is like 4cl minced. Aldi pesto sauce."
+        },
+        {
+          "Date": "2024-10-09T20:48:06.5196348+11:00",
+          "Content": "Was okay but just a worse tasting version of using multiple pans. Impossible to get a good char on the sweet potatoes, and I put the onions in perhaps too late."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -5242,7 +5268,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From \\href{https://myfoodbook.com.au/recipes/show/chicken-and-rice-enchiladas}{myfoodbook}. Cooked with Claudia as the inaugural meal in our new home in Eastwood. Serve with sour cream, chopped avocado and pica de gallo.",
+      "Note": "From \\href{https://myfoodbook.com.au/recipes/show/chicken-and-rice-enchiladas}{myfoodbook}. Cooked with Claudia as the inaugural meal in our new home in Eastwood. Serve with sour cream, chopped avocado and pico de gallo.",
       "Image": "Local",
       "Items": [
         {
@@ -5794,7 +5820,24 @@
           "Content": "Ensure rice is drained, then combine all ingredients and add more sauce."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-11-06T16:48:09.3797577+11:00",
+          "Content": "Making tonight, 2 small carrots 1 large onion basmati rice. Cutting as per picture."
+        },
+        {
+          "Date": "2024-11-06T16:50:34.431611+11:00",
+          "Content": "Not gonna cook the onions slow and using med-high not high heat"
+        },
+        {
+          "Date": "2024-11-06T16:51:47.2831543+11:00",
+          "Content": "I'm questioning whether their really is any garlic or ginger in the picture. Will dice both finely and throw in with the sauces."
+        },
+        {
+          "Date": "2024-11-06T17:01:19.538635+11:00",
+          "Content": "Nevermind there wasn't meant to be garlic. I've added 1 clove."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -6498,6 +6541,14 @@
         {
           "Date": "2024-04-04T22:45:05.2009277+11:00",
           "Content": "Cooked again, this time made the potatoes a bit smaller and didn't bother processing the diced tomatoes. used half the rice and added peas instead of green beans. Used coconut cream instead of milk, I truly don't know the difference but this one seemed oilier."
+        },
+        {
+          "Date": "2024-10-12T16:55:59.365004+11:00",
+          "Content": "Making tonight with injured wrist, using green beans skipping carrots"
+        },
+        {
+          "Date": "2024-10-12T17:12:54.7628268+11:00",
+          "Content": "Adding  spices a few min  late, not blending tomato"
         }
       ],
       "Timers": [
@@ -7140,6 +7191,22 @@
         {
           "Date": "2024-09-04T14:56:30.9237969+10:00",
           "Content": "A note that I cooked it without chicken so it went a little faster than normal. But mainly I cooked it last night so I knew what to do when."
+        },
+        {
+          "Date": "2024-11-01T18:04:13.5989736+11:00",
+          "Content": "Making without chicken again. 3 cloves garlic. Plan is to use a stainless stell pan and see how poorly it goes."
+        },
+        {
+          "Date": "2024-11-01T18:33:11.6574357+11:00",
+          "Content": "Done, no major problem with stainless steel. Fried the noodles longer."
+        },
+        {
+          "Date": "2024-11-04T17:49:41.5425263+11:00",
+          "Content": "Making vegetarian again, using leftovers from first batch."
+        },
+        {
+          "Date": "2024-11-04T18:14:26.7291855+11:00",
+          "Content": "done"
         }
       ],
       "Timers": [
@@ -12238,8 +12305,8 @@
           "Name": "Butter leaf lettuce",
           "NameDetail": "",
           "Quantity": 4.0,
-          "Unit": "cups (@1 pack)",
-          "UnitDetail": "",
+          "Unit": "cups",
+          "UnitDetail": "@1 pack",
           "Group": "vegetables"
         },
         {
@@ -13202,6 +13269,10 @@
         {
           "Date": "2024-08-20T19:17:34.7004195+10:00",
           "Content": "Delicious but maybe a little wetter than usual, and the bacon definitely adds to it."
+        },
+        {
+          "Date": "2024-10-26T19:43:20.2783298+11:00",
+          "Content": "Did it without bacon again, used 1 very  large onion and 4 large cloves of garlic. Red kidney beans instead. And for tomato paste I had double concentrate from a tube. I burnt it by while doing dishes and it ended up tasty. The texturee of the red kidney beans isn't as satisfying in this."
         }
       ],
       "Timers": [
@@ -14066,6 +14137,14 @@
           "Group": ""
         },
         {
+          "Name": "Chinese cooking wine",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
           "Name": "Soy sauce",
           "NameDetail": "",
           "Quantity": 2.0,
@@ -14090,14 +14169,6 @@
           "Group": "sauce"
         },
         {
-          "Name": "Salt",
-          "NameDetail": "",
-          "Quantity": 0.25,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": "sauce"
-        },
-        {
           "Name": "White sugar",
           "NameDetail": "",
           "Quantity": 0.25,
@@ -14106,10 +14177,10 @@
           "Group": "sauce"
         },
         {
-          "Name": "Chinese cooking wine",
+          "Name": "Salt",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "tbsp",
+          "Quantity": 0.25,
+          "Unit": "tsp",
           "UnitDetail": "",
           "Group": "sauce"
         },
@@ -14146,7 +14217,7 @@
           "Content": "Rinse bean sprouts in cold water and drain. Cut the spring onions into 2 inch julienned sticks."
         },
         {
-          "Content": "Mix sauce ingreidents in small bowl."
+          "Content": "Mix sauce ingredients in small bowl."
         },
         {
           "Content": "Boil the noodles for 1 minute, rinse in cold water and drain well."
@@ -14158,7 +14229,7 @@
           "Content": "Flip noodles and add another @1 tbsp of oil around the outside, tilt pan again. Fry until crunchy and a fair bit dried out, 2 minutes. Set aside."
         },
         {
-          "Content": "Still on high heat, add another tablespoon of oil and then the white parts of the spring oniosn. Fry for 15 seconds."
+          "Content": "Still on high heat, add another tablespoon of oil and then the white parts of the spring onions. Fry for 15 seconds."
         },
         {
           "Content": "Break up the noodles a little bit, then add them to the frying pan and continue breaking them up. Add the sauce and toss well for 2 minutes."
@@ -15465,6 +15536,14 @@
         {
           "Date": "2024-08-24T15:50:51.0655291+10:00",
           "Content": "Next time I should simmer for longer, either by adding more water or simmering with the lid on for some portion. I should also try scaling it up to 4 servings worth."
+        },
+        {
+          "Date": "2024-10-17T19:27:09.6409959+11:00",
+          "Content": "Making tonight. Probably takes closer to an hour all things considered. Sliced garlic instead of dicing. Everything else by the book."
+        },
+        {
+          "Date": "2024-10-17T19:54:58.6590476+11:00",
+          "Content": "Gave the first simmer more like 40 minutes, but it is getting a little dry so perhaps lid on would be a good move."
         }
       ],
       "Timers": [
@@ -15821,6 +15900,18 @@
         {
           "Date": "2024-08-24T17:20:40.9686076+10:00",
           "Content": "I used 3 leeks as instructed but ended up with 5 cups instead of 2, which is why I sauted for longer. I also used a pile more garlic but I think the garlic I was using wasn't very strong. The half stock half water is because I ran out of stock, but it came out fine. Very bland but I think that's the point of making a potato and leek soup. Probably could do without the cream."
+        },
+        {
+          "Date": "2024-10-20T18:37:40.5726196+11:00",
+          "Content": "Doing a smaller batch, 2 leeks, 0.75 kg potato, 2.25cup c stock and 2.25 cup water, 0.5 cup cream. I.e. 3 serves instead of 4. Still same 30g butter and 4cl garlic."
+        },
+        {
+          "Date": "2024-10-20T18:47:37.3809633+11:00",
+          "Content": "Used vegetable stock instead of chicken (by necessity)."
+        },
+        {
+          "Date": "2024-10-20T18:50:09.2053913+11:00",
+          "Content": "Only 1.5 cups veg stock, made up the difference with more water."
         }
       ],
       "Timers": [
@@ -16294,50 +16385,50 @@
       "Items": [
         {
           "Name": "Plain flour",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 400.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Dry yeast",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Water",
           "NameDetail": "lukewarm",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Olive oil",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Olive oil",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "to grease bowl"
         }
       ],
@@ -16367,7 +16458,20 @@
           "Content": "Roll out and make pizza."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2024-10-05T15:23:25.822345+10:00",
+          "Content": "Making a double batch for calzone. Used plain flour, didn't mix oil with water, combined ingredients with mixmaster dough hook and used that to knead aswell."
+        },
+        {
+          "Date": "2024-10-05T17:26:06.9589072+10:00",
+          "Content": "Kneaded by machine for 10 minutes then brought on a train then knocked back after an hour. Rising another 45 or so. Mum made a batch of Tony's pizza sauce with added garlic. Plan is chop some mushrooms and olives, stir them in, roll dough out thin, add filling and bake at like 240 fan for 20 min."
+        },
+        {
+          "Date": "2024-10-05T20:20:06.3834534+10:00",
+          "Content": "240 fan for 12 minutes. can roll a little bit thicker, doesn't look cute if you make it flat. Don't score, maybe make a little hole at top. Brush with oil. Next time, use mozzarella. Used 2 small onions in sauce, 6 mushrooms or a little less, and a handful of olives. maybe quarter cup. some garlic, a can of diced tomatoes. 1 tbsp tomato paste. 0.5 tsp dried oregano. salt and pepper. and oil."
+        }
+      ],
       "Timers": [
         {
           "Name": "Knead",
