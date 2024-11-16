@@ -25,7 +25,7 @@ function round(number, decimalPlaces) {
     return +number.toFixed(decimalPlaces);
 }
 
-//Read in the recipe data (not used anymore)
+//Read in the recipe data
 fetch("RecipesCost.json")
     .then((response) => response.json())
     .then((data) => {
