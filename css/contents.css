@@ -1,0 +1,40 @@
+* {
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif, monospace;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    /* border: 2px solid red; */
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    margin: 0;
+    line-height: 0.6;
+    font-size: 4rem;
+}
+
+.icons-list {
+    display: flex;
+    align-items: start;
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid pink; */
+}
+
+.icons-list>li {
+    display: flex;
+    align-items: center;
+    /* border: 2px solid lime; */
+}
+
+.icons-list>li>svg {
+    padding: 1px;
+}
