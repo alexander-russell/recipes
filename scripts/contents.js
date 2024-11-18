@@ -1,3 +1,7 @@
+// Load recipes
+fetchRecipeBook()
+    .then((recipeBook => start(recipeBook)));
+
 // Start function runs when recipeBook is loaded from file
 async function start(recipeBook) {
     const contentsElement = document.querySelector(".contents")
