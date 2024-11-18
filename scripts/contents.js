@@ -1,28 +1,28 @@
-const contents = document.querySelector(".contents")
-
 // Start function runs when recipeBook is loaded from file
 async function start(recipeBook) {
-    // console.log(recipeBook.Recipes.length)
-    displayContents(recipeBook.Recipes);
+    const contentsElement = document.querySelector(".contents")
+    // Filter to active recipes and display
+    const activeRecipes = filterActiveRecipes(recipeBook.Recipes);
+    displayContents(activeRecipes, contentsElement);
 }
 
 // Display contents using recipe list
-function displayContents(recipes) {
+function displayContents(recipes, contentsElement) {
     // Display each type of recipe
     const allTypes = recipes.map((recipe) => recipe.Type)
     const types = [...new Set(allTypes)]
     for (const type of types.sort()) {
         // Filter relevant recipes and use them
         const subRecipes = recipes.filter((recipe) => recipe.Type == type)
-        displayType(type, subRecipes)
+        displayType(type, subRecipes, contentsElement)
     }
 }
 
-function displayType(type, recipes) {
+function displayType(type, recipes, contentsElement) {
     // Display type information
     const heading = document.createElement("h2");
     heading.textContent = type;
-    contents.appendChild(heading)
+    contentsElement.appendChild(heading)
 
     // Display sub-categories
     const allCategories = recipes.map((recipe) => recipe.Category)
@@ -30,11 +30,11 @@ function displayType(type, recipes) {
     for (const category of categories.sort()) {
         // Filter relevant recipes and use them
         const subRecipes = recipes.filter((recipe) => recipe.Category == category)
-        displayCategory(category, subRecipes);
+        displayCategory(category, subRecipes, contentsElement);
     }
 }
 
-function displayCategory(category, recipes) {
+function displayCategory(category, recipes, contentsElement) {
     // Display category information
     const details = document.createElement("details");
     const summary = document.createElement("summary");
@@ -47,7 +47,7 @@ function displayCategory(category, recipes) {
     count.textContent = recipes.length;
     summary.appendChild(count);
     details.appendChild(summary);
-    contents.appendChild(details);
+    contentsElement.appendChild(details);
 
     // Configure category dropdown menu
 
