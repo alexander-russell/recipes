@@ -1,3 +1,5 @@
+const contents = document.querySelector(".contents")
+
 // Start function runs when recipeBook is loaded from file
 async function start(recipeBook) {
     // console.log(recipeBook.Recipes.length)
@@ -18,7 +20,9 @@ function displayContents(recipes) {
 
 function displayType(type, recipes) {
     // Display type information
-    console.log(`TYPE: ${type.toUpperCase()}`);
+    const heading = document.createElement("h2");
+    heading.textContent = type;
+    contents.appendChild(heading)
 
     // Display sub-categories
     const allCategories = recipes.map((recipe) => recipe.Category)
@@ -32,16 +36,52 @@ function displayType(type, recipes) {
 
 function displayCategory(category, recipes) {
     // Display category information
-    console.log(` CATEGORY: ${category}`);
+    const details = document.createElement("details");
+    const summary = document.createElement("summary");
+    const name = document.createElement("span");
+    name.classList.add("name");
+    name.textContent = `${category}`;
+    summary.appendChild(name);
+    const count = document.createElement("span");
+    count.classList.add("count");
+    count.textContent = recipes.length;
+    summary.appendChild(count);
+    details.appendChild(summary);
+    contents.appendChild(details);
 
     // Configure category dropdown menu
 
     // Populate category dropdown menu with recipes
-    populateCategoryDropdown(recipes);
+    populateCategoryDropdown(recipes, details);
 }
 
-function populateCategoryDropdown(recipes) {
+function populateCategoryDropdown(recipes, details) {
+    const list = document.createElement("ul");
+    details.appendChild(list);
     for (recipe of recipes) {    
-        console.log(`  ${recipe.Name}`)
+        const item = document.createElement("li");
+        list.appendChild(item);
+        const link = document.createElement("a");
+        link.textContent = recipe.Name;
+        link.href = `../display?recipe=${recipe.Name}`;
+        item.appendChild(link);
+    }
+}
+
+function toggleList() {
+    // Determine which control is visible, and therefore what action to perform
+    const visibleControl = document.querySelector(".list-control:not(.hidden)")
+    expand = visibleControl.querySelector("#expand-icon") != null
+    
+    // Switch visible control (either expand or minimise)
+    const listControls = document.querySelectorAll(".list-control");
+    listControls.forEach(listControl => listControl.classList.toggle("hidden"));
+
+    // Expand or minimise details elements
+    const allDetails = document.querySelectorAll("details");
+    if (expand) {
+        allDetails.forEach(detail => detail.setAttribute("open", ""));
+    } else {
+        allDetails.forEach(detail => detail.removeAttribute("open"));
     }
 }
