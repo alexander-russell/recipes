@@ -37,7 +37,9 @@ function displayType(type, recipes, contentsElement) {
 function displayCategory(category, recipes, contentsElement) {
     // Display category information
     const details = document.createElement("details");
+    contentsElement.appendChild(details);
     const summary = document.createElement("summary");
+    details.appendChild(summary);
     const name = document.createElement("span");
     name.classList.add("name");
     name.textContent = `${category}`;
@@ -46,8 +48,6 @@ function displayCategory(category, recipes, contentsElement) {
     count.classList.add("count");
     count.textContent = recipes.length;
     summary.appendChild(count);
-    details.appendChild(summary);
-    contentsElement.appendChild(details);
 
     // Configure category dropdown menu
 
