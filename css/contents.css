@@ -104,6 +104,7 @@ summary>span.count::after {
 ul {
     margin: 0.2em;
     padding-left: 0.5em;
+    list-style-type: none;
     font-size: 1.6rem;
 }
 
