@@ -1,6 +1,6 @@
 //Read in the recipe data
 async function fetchRecipeBook() {
-    return fetch("RecipesCost.json")
+    return fetch("/recipes/RecipesCost.json")
         .then((response) => response.json())
         .catch(error => console.error(error));
 }
