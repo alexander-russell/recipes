@@ -73,7 +73,7 @@ function populateCategoryDropdown(recipes, details) {
         list.appendChild(item);
         const link = document.createElement("a");
         link.textContent = recipe.Name;
-        link.href = `display?recipe=${recipe.Name}`;
+        link.href = `/recipes/display/${recipe.Slug}`;
         item.appendChild(link);
     }
 }
