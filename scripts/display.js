@@ -457,7 +457,7 @@ function configureRecipeImage(recipe) {
     let imageAddress = null;
     if (recipe.Image == "Local") {
         //TODO support png 
-        imageAddress = `Gallery/${recipe.Name}.avif`;
+        imageAddress = `/recipes/Gallery/${recipe.Name}.avif`;
     }
     else if (recipe.Image != "") {
         imageAddress = recipe.Image;
