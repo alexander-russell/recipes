@@ -26,7 +26,7 @@ function round(number, decimalPlaces) {
 }
 
 //Read in the recipe data
-fetch("RecipesCost.json")
+fetch("/recipes/RecipesCost.json")
     .then((response) => response.json())
     .then((data) => {
         recipeBook = data;
@@ -40,13 +40,14 @@ async function start() {
     if (recipesLoaded) {
         // Extract URL arguments
         params = new URLSearchParams(document.location.search);
-        recipeName = params.get("recipe");
+        // recipeName = params.get("recipe");
+        slug = window.location.pathname.split("display/")[1].split(".html")[0]
 
         // Filter recipe
         recipesFiltered = recipeBook.Recipes.filter((currentValue) => {
             const active = !currentValue.Retired;
             const nameMatch =
-                currentValue.Name.toLowerCase() == recipeName.toLowerCase();
+                currentValue.Slug == slug;
             return active && nameMatch;
         });
 
