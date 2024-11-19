@@ -65,7 +65,14 @@ h2 {
 
 
 details {
+    padding-left: 0.8rem;
     marker: none;
+}
+
+details.focus {
+    /* background: #f4f4f4; */
+    border-left: 2px solid black;
+    outline: black;
 }
 
 details[open] .count {
