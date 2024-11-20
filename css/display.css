@@ -630,6 +630,10 @@ body {
 /* Stuff for Mobile Layout */
 
 @media (max-aspect-ratio: 2/3) {
+    /* Debug to check if new styles are loaded */
+    .recipe-name {
+        color: red !important;
+    }
     /* Switch to vertical layout */
     .recipe-content-wrapper {
         flex-direction: column;
