@@ -630,104 +630,42 @@ body {
 /* Stuff for Mobile Layout */
 
 @media (max-aspect-ratio: 2/3) {
-
-
-    .recipe-wrapper {
-        justify-content: center;
-    }
-
-    .recipe {
-        /* width: 400px; */
-        width: 100%;
-        /* max-width: 400px; */
-        min-width: 0px;
-    }
-
+    /* Switch to vertical layout */
     .recipe-content-wrapper {
         flex-direction: column;
-        /* max-width: 400px; */
     }
 
-    .info-wrapper {
-        overflow: visible;
-        width: 100%;
-    }
-
-    .timers-wrapper {
-        border-bottom: 1px solid black;
-        touch-action: manipulation;
-    }
-
-    .items-wrapper,
-    .steps-wrapper {
-        overflow: visible;
-        border-left: none;
-    }
-
-    .items-wrapper>h3 {
-        margin-top: 5%;
-        text-align: left;
-    }
-
-    .items-list-wrapper {
-        justify-content: left;
-    }
-
-    /* Add a bunch of extra padding on the sides */
-    .recipe-header-wrapper,
-    .attributes-wrapper,
+    /* Remove individual scrollbars */
+    .info-wrapper,
     .notes-wrapper,
     .items-wrapper,
     .steps-wrapper {
-        padding-left: 5vw;
-        padding-right: 5vw;
+        overflow: visible;
     }
-
-    .recipe-header-wrapper {
-        padding-top: 5vw;
-    }
-
-    /* Stop greedy height of items and steps */
+    
+    /* Full width left aligned */
     .info-wrapper,
+    .items-list {
+        width: 100%;
+    }
+    .items-wrapper>h3 {
+        text-align: left;
+    }
+
+    /* Tidy section borders */
     .items-wrapper,
     .steps-wrapper {
-        flex: none;
+        border-left: none;
+    }
+    .timers-wrapper {
+        border-bottom: 1px solid black;
     }
 
-    /* Make everything bigger */
-    p,
-    li,
-    .items-wrapper>h3,
-    .steps-wrapper>h3 {
-        font-size: 3rem;
+    /* Disable double-tap zoom on timer element */
+    .timers-wrapper {
+        touch-action: manipulation;
     }
 
-    .recipe-name {
-        font-size: 5rem;
-    }
-
-    .recipe-grouping {
-        font-size: 3rem;
-    }
-
-    .clock {
-        font-size: 4em;
-    }
-
-    /* Show note overflow */
-    .info-wrapper {
-        max-height: none;
-    }
-    .notes-wrapper {
-        /* overflow: visible; */
-        max-height: none;
-    }
-
-    /* Enlarge icons */
-    .icon {
-        width: 50px;
-        height: 50px;
-    }
 }
 
 
