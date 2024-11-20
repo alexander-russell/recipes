@@ -14213,7 +14213,7 @@
       "Name": "Cajun Chicken Pasta",
       "Slug": "cajun-chicken-pasta",
       "Type": "Main",
-      "Category": "Pasta",
+      "Category": "Pastas",
       "Cuisine": "American",
       "Key": "",
       "Yield": {
@@ -14571,7 +14571,7 @@
       "Name": "Cajun Pasta Sans Chicken",
       "Slug": "cajun-pasta-sans-chicken",
       "Type": "Main",
-      "Category": "Pasta",
+      "Category": "Pastas",
       "Cuisine": "American",
       "Key": "",
       "Yield": {
@@ -16860,6 +16860,18 @@
         {
           "Date": "2024-08-23T12:27:22.9598+10:00",
           "Content": "Fried on large burner somewhere between 8 and 11 out of 11. Did patties of 100 grams. On second third or fourth thought (have made these a surprising number of times), these really don't compare to a beef burger. Still fun but there's no heart stopping grease."
+        },
+        {
+          "Date": "2024-11-19T16:53:08.3396684+11:00",
+          "Content": "Used only 1 egg, added a handful of flour to the mix, fried the lentils for longer, heavy handed on spices, used red split lentils, no sliced cheese, shaped the patties in a mix of breadcrumbs and flour, fried on 8 out of 11 medium-high heat for ? min (probably 2-3)"
+        },
+        {
+          "Date": "2024-11-19T16:56:33.023556+11:00",
+          "Content": "First batch with 2 min per side, outside really soft and only lightly brown, will bump up the heat to 9 and give it an extra minute for next batch.."
+        },
+        {
+          "Date": "2024-11-19T17:01:58.6762596+11:00",
+          "Content": "Did one with 3 min first side, one with 2 min first side. 3 min is kinda burnt."
         }
       ],
       "Timers": [
