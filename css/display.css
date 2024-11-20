@@ -21,22 +21,18 @@ body {
     min-height: 100vh;
     max-height: 100vh;
     margin: 0;
-    /* border: 0px solid orange; */
 }
 
 .recipe-wrapper {
     display: flex;
     min-height: 100%;
     min-width: 100%;
-    /* padding: 10px; */
-    /* border: 2px solid purple; */
 }
 
 .recipe {
     display: flex;
     flex-direction: column;
     min-width: 100%;
-    /* border: 2px solid cyan; */
 }
 
 /* Stuff for the header */
@@ -44,7 +40,6 @@ body {
     display: flex;
     flex-direction: column;
     padding: 15px;
-    /* border: 2px solid red; */
     border-bottom: 1px solid black;
 }
 
@@ -58,7 +53,6 @@ body {
 /* Stuff for the recipe grouping */
 .recipe-grouping {
     margin: 0;
-    /* border: 2px solid green; */
     font-size: 2em;
     color: grey;
 }
@@ -72,21 +66,15 @@ body {
 /* end Stuff for the recipe grouping */
 
 /* Stuff for icons section */
-.icons-wrapper {
-    /* border: 2px solid blue; */
-}
-
 .icons-list {
     display: flex;
     margin: 0;
     padding: 0;
-    /* border: 2px solid pink; */
 }
 
 .icons-list>li {
     display: flex;
     align-items: center;
-    /* border: 2px solid lime; */
 }
 
 .icons-list>li>svg {
@@ -100,9 +88,7 @@ body {
 /* Stuff for the recipe name */
 .recipe-name {
     margin: 0;
-    /* margin-top: -10; */
     line-height: 0.6;
-    /* border: 2px solid green; */
     font-size: 4em;
 }
 
@@ -113,10 +99,8 @@ body {
 /* Stuff for the content lump */
 .recipe-content-wrapper {
     display: flex;
-    flex: 1;
-    /* max-height: 100%; */
+    /* flex: 1; */
     overflow: scroll;
-    /* border: 2px solid red; */
 }
 
 /* * { outline: 1px solid red; } */
@@ -125,10 +109,10 @@ body {
 .info-wrapper {
     display: flex;
     flex-direction: column;
-    flex: 2 1 0;
-    max-height: 100%;
+    /* flex: 2 1 0; */
+    /* max-height: 100%;  */
     width: 25%;
-    overflow: scroll;
+    /* overflow: scroll; */
     scrollbar-width: none;
 }
 
@@ -224,30 +208,6 @@ body {
     /* border: 2px solid red; */
 }
 
-/* .cost-attribute-extra::before {
-    content: "Excluding: ";
-} */
-
-/* .cost-attribute-extra>li {
-    display: flex;
-    border: 2px solid blue;
-}
-
-.cost-attribute-extra>li:first-child::before {
-    content: "Excluding: ";
-}
-
-.cost-attribute-extra>li::before {
-    content: ",";
-    padding-right: 0.1em;
-}
-
-.cost-attribute-extra>li:last-child::before {
-    content: " and ";
-    padding-left: 0.1em;
-} */
-
-
 /* end Stuff for cost attribute extra info */
 
 /* end Stuff for attributes section */
@@ -255,15 +215,11 @@ body {
 /* Stuff for notes section */
 .notes-wrapper {
     /* border: 2px solid blue; */
-    padding: 20px;
+    padding: 1em;
     text-align: center;
-    flex-grow: 1;
+    /* flex-grow: 1; */
     border-bottom: 1px solid black;
     overflow: scroll;
-}
-
-.notes-wrapper:last-child {
-    border-bottom: none;
 }
 
 /* end Stuff for notes section */
@@ -299,7 +255,7 @@ body {
     display: flex;
     height: 100%;
     flex-direction: row;
-    overflow: scroll;
+    overflow-x: scroll;
     /* border: 1px solid blue; */
 }
 
@@ -360,7 +316,7 @@ body {
 /* Stuff for items section */
 
 .items-wrapper {
-    flex: 3 1 0;
+    /* flex: 3 1 0; */
     overflow: scroll;
     padding-left: 10px;
     padding-right: 10px;
@@ -453,7 +409,7 @@ body {
 
 /* Stuff for steps section */
 .steps-wrapper {
-    flex: 3 1 0;
+    /* flex: 3 1 0; */
     overflow: scroll;
     padding-left: 10px;
     padding-right: 20px;
@@ -640,8 +596,9 @@ body {
     }
 
     /* Remove individual scrollbars */
+    .recipe-content-wrapper,
     .info-wrapper,
-    .notes-wrapper,
+    /* .notes-wrapper, */
     .items-wrapper,
     .steps-wrapper {
         overflow: visible;
@@ -670,6 +627,11 @@ body {
         touch-action: manipulation;
     }
 
+    /* Wrap glance bar and icon list */
+    .recipe-glance,
+    .icons-list {
+        flex-wrap: wrap;
+    }
 }
 
 
