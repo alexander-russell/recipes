@@ -162,7 +162,7 @@ function displayRecipeHeaderIcons(recipe) {
     homeIcon = createIconHome();
     iconsListElement.appendChild(homeIcon);
     homeIcon.addEventListener("click", () => {
-        location.href = "../recipes";
+        location.href = "/recipes";
     });
 
     // If image: add camera icon
