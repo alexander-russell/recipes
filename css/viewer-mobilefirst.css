@@ -148,8 +148,8 @@ body {
 /* TODO clock */
 
 .timers-wrapper {
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
     border-bottom: 1px solid black;
 }
 
@@ -195,15 +195,33 @@ body {
 
 /* end Stuff for making timers feel interactive */
 
+/* Stuff for clock */
+
+.clock-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.clock {
+    background: none;
+    border: none;
+    font-size: 1.4em;
+}
+
+/* end Stuff for clock */
+
 /* end Stuff for timers section */
 
 /* Stuff for items section */
 
-.items-wrapper {
+.items-wrapper,
+.steps-wrapper {
     padding: 0.4em;
 }
 
-.items-wrapper>h3 {
+.items-wrapper>h3,
+.steps-wrapper>h3 {
     margin-top: 0.1em;
     margin-bottom: 0.1em;
 }
@@ -236,16 +254,10 @@ body {
     width: 100%;
     float: inline-start;
     clear: both;
-    /* float:inline-start; */
-    /* display: flex; */
-    /* justify-content: space-between; */
-    /* overflow-y: scroll; */
-    /* float: left; */
 }
 
 .item-name-wrapper {
     float: left;
-    /* clear: right; */
 }
 
 .item-name-wrapper,
@@ -266,18 +278,7 @@ body {
 }
 
 .item-details {
-    /* display: flex; */
-    /* align-content: end; */
-    /* justify-content: right; */
-    /* text-align: end; */
     float: right;
-    /* flex-shrink: 0; */
-    /* overflow: scroll; */
-    /* white-space: nowrap; */
-    /* vertical-align: bottom; */
-    /* line-break: strict; */
-    /* min-width: 40px; */
-    /* border: 2px solid violet; */
 }
 
 .item-unit-extra {
@@ -296,13 +297,91 @@ body {
     clear: both;
 }
 
+/* end Stuff for items section */
 
+/* Stuff for steps section */
+.steps-wrapper {
+    padding: 0.4em;
+}
 
+.steps-list {
+    margin-top: 0;
+}
 
+.steps-list>li::marker {
+    font-size: 1.5em;
+}
 
+/* end Stuff for steps section */
 
-/* temp */
+/* end Stuff for content lump */
+
+/* Stuff for image */
+
 .recipe-image-background,
 .recipe-diary-background {
+    display: none;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100vw;
+    background: white;
+}
+
+.recipe-image-wrapper,
+.recipe-diary-wrapper {
+    padding: 10px;
+    position: relative;
+    background-color: white;
+}
+
+.recipe-image,
+.recipe-diary {
+    display: block;
+    max-height: 80vh;
+    max-width: 80vw;
+    border: 1px solid black;
+}
+
+.recipe-diary {
+    margin: 0;
+    overflow: scroll;
+    overscroll-behavior: contain;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.image-close-wrapper,
+.diary-close-wrapper {
+    position: absolute;
+    right: 15px;
+}
+
+.image-close,
+.diary-close {
+    border: none;
+    background: none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.image-close:hover,
+.diary-close:hover {
+    color: darkred;
+}
+
+.recipe-diary>dt {
+    font-weight: bold;
+}
+
+.recipe-diary:empty::after {
+    content: "(none)";
+}
+
+/* temp */
+.recipe-extra-background {
     display: none;
 }
