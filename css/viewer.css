@@ -99,7 +99,6 @@ body {
 /* Stuff for the content lump */
 .recipe-content-wrapper {
     display: flex;
-    /* flex: 1; */
     overflow: scroll;
 }
 
@@ -110,6 +109,7 @@ body {
     display: flex;
     flex-direction: column;
     /* flex: 2 1 0; */
+    /* flex-basis: 25vw; */
     /* max-height: 100%;  */
     width: 25%;
     /* overflow: scroll; */
@@ -215,11 +215,11 @@ body {
 /* Stuff for notes section */
 .notes-wrapper {
     /* border: 2px solid blue; */
-    padding: 1em;
+    padding: 2em;
     text-align: center;
     /* flex-grow: 1; */
     border-bottom: 1px solid black;
-    overflow: scroll;
+    /* overflow: scroll; */
 }
 
 /* end Stuff for notes section */
@@ -317,6 +317,8 @@ body {
 
 .items-wrapper {
     /* flex: 3 1 0; */
+    flex: 1 1 0;
+    /* flex-basis: auto; */
     overflow: scroll;
     padding-left: 10px;
     padding-right: 10px;
@@ -410,6 +412,7 @@ body {
 /* Stuff for steps section */
 .steps-wrapper {
     /* flex: 3 1 0; */
+    flex: 1 1 0;
     overflow: scroll;
     padding-left: 10px;
     padding-right: 20px;
