@@ -4,6 +4,11 @@
     font-size: 1.3rem;
 }
 
+/* Hidden style for toggling element visibility */
+.hidden {
+    display: none !important;
+}
+
 /* Body style */
 body {
     margin: 0;
@@ -329,7 +334,7 @@ body {
 
 .recipe-image-background,
 .recipe-diary-background {
-    display: none;
+    display: flex;
     position: absolute;
     justify-content: center;
     align-items: center;

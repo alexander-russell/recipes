@@ -172,7 +172,9 @@ function displayRecipeHeaderIcons(recipe) {
         iconsListElement.appendChild(cameraIcon);
         // Configure click event for camera icon, display image on click
         cameraIcon.addEventListener("click", (event) => {
-            recipeImageBackground.style = "display: flex;";
+            // recipeImageBackground.style = "display: flex;";
+            recipeImageBackground.classList.remove("hidden");
+            document.querySelector(".recipe-content-wrapper").classList.add("hidden");
         });
     }
 
@@ -186,7 +188,8 @@ function displayRecipeHeaderIcons(recipe) {
 
         // Configure click event for book icon, display diary on click
         bookIcon.addEventListener("click", (event) => {
-            recipeDiaryBackground.style = "display: flex;";
+            recipeDiaryBackground.classList.remove("hidden");
+            document.querySelector(".recipe-content-wrapper").classList.add("hidden");
         });
     }
 
@@ -468,15 +471,19 @@ function configureRecipeImage(recipe) {
         recipeImage.setAttribute("src", imageAddress);
     }
 
-    // On click of close button, hide image
+    // On click of close button, hide image and show content
     const imageCloseWrapper = document.querySelector(".image-close-wrapper");
     imageCloseWrapper.addEventListener("click", (mouse) => {
-        recipeImageBackground.style = "display: none;";
+        // recipeImageBackground.style = "display: none;";
+        recipeImageBackground.classList.add("hidden");
+        document.querySelector(".recipe-content-wrapper").classList.remove("hidden");
     });
 
     // On click anywhere (except image itself), hide image
     recipeImageBackground.addEventListener("click", (mouse) => {
-        recipeImageBackground.style = "display: none;";
+        // recipeImageBackground.style = "display: none;";
+        recipeImageBackground.classList.add("hidden");
+        document.querySelector(".recipe-content-wrapper").classList.remove("hidden");
     });
 
     // On click on image itself, catch event bubble, do nothing
@@ -513,12 +520,16 @@ function configureRecipeDiary(recipe) {
     // On click of close button, hide diary
     const diaryCloseWrapper = document.querySelector(".diary-close-wrapper");
     diaryCloseWrapper.addEventListener("click", (mouse) => {
-        recipeDiaryBackground.style = "display: none;";
+        recipeDiaryBackground.classList.add("hidden");
+        document.querySelector(".recipe-content-wrapper").classList.remove("hidden");
+        // recipeDiaryBackground.style = "display: none;";
     });
 
     // On click anywhere (except diary itself), hide diary
     recipeDiaryBackground.addEventListener("click", (mouse) => {
-        recipeDiaryBackground.style = "display: none;";
+        recipeDiaryBackground.classList.add("hidden");
+        document.querySelector(".recipe-content-wrapper").classList.remove("hidden");
+        // recipeDiaryBackground.style = "display: none;";
     });
 
     // On click on diary itself, catch event bubble, do nothing
