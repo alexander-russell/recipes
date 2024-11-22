@@ -8,6 +8,7 @@
 body {
     margin: 0;
 }
+
 /* TODO fix borders */
 
 /* Stuff for the header */
@@ -106,6 +107,7 @@ body {
     padding: none;
     border-bottom: 2px solid black;
     border-radius: 0px;
+    text-align: center;
 }
 
 .yield-quantity:focus {
@@ -228,8 +230,7 @@ body {
 }
 
 
-.items-list-wrapper {
-}
+.items-list-wrapper {}
 
 .items-list {
     margin: 0;
@@ -390,3 +391,87 @@ body {
 }
 
 /* end Stuff for image and diary */
+
+/* Stuff for landscape layout */
+
+@media (min-aspect-ratio: 2/3) {
+    /* Use multicolumn */
+    .recipe-content-wrapper {
+        flex-direction: row;
+    }
+
+    .info-wrapper {
+        width: 25%;
+    }
+
+    .items-wrapper,
+    .steps-wrapper {
+        width: 37.5%;
+    }
+
+    /* Adjust borders */
+    .items-wrapper,
+    .steps-wrapper {
+        border-left: 1px solid black;
+    }
+
+    .timers-wrapper {
+        border-bottom: none;
+    }
+
+    /* Make items list right-aligned and fit to content */
+    .items-wrapper>h3 {
+        text-align: right;
+    }
+
+    .items-list-wrapper {
+        display: flex;
+        justify-content: end;
+    }
+
+    .items-list {
+        list-style: none;
+    }
+
+    .item::marker {
+        display: none;
+    }
+
+    .item-name-wrapper {
+        margin-right: 0.2em;
+    }
+
+    /* Fixed page with individual scrollbars */
+    body {
+        display: flex;
+        min-height: 100vh;
+        max-height: 100vh;
+    }
+
+    .recipe-wrapper {
+        display: flex;
+    }
+
+    .recipe {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .recipe-content-wrapper {
+        display: flex;
+        flex-grow: 1;
+        overflow: hidden;
+    }
+
+    .info-wrapper,
+    .notes-wrapper,
+    .items-wrapper,
+    .steps-wrapper {
+        overflow: scroll;
+    }
+
+    .notes-wrapper {
+        display: flex;
+        flex-grow: 1;
+    }
+}
