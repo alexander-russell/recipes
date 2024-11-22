@@ -319,6 +319,7 @@ body {
 }
 
 .steps-list>li::marker {
+    line-height: 0;
     font-size: 1.5em;
     border: 1px solid blue;
 }
