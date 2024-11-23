@@ -399,94 +399,97 @@ body {
 
 /* Stuff for landscape layout */
 
-@media (min-aspect-ratio: 3/3) {
-    /* Add marker */
-    .recipe-name {
-        text-decoration: underline;
-    }
+@media not print {
+    @media (min-aspect-ratio: 3/3) {
 
-    /* Use multicolumn */
-    .recipe-content-wrapper {
-        flex-direction: row;
-    }
+        /* Add marker */
+        .recipe-name {
+            text-decoration: underline;
+        }
 
-    .info-wrapper {
-        width: 25%;
-    }
+        /* Use multicolumn */
+        .recipe-content-wrapper {
+            flex-direction: row;
+        }
 
-    .items-wrapper,
-    .steps-wrapper {
-        width: 37.5%;
-    }
+        .info-wrapper {
+            width: 25%;
+        }
 
-    /* Adjust borders */
-    .items-wrapper,
-    .steps-wrapper {
-        border-left: 1px solid black;
-    }
+        .items-wrapper,
+        .steps-wrapper {
+            width: 37.5%;
+        }
 
-    .timers-wrapper {
-        border-bottom: none;
-    }
+        /* Adjust borders */
+        .items-wrapper,
+        .steps-wrapper {
+            border-left: 1px solid black;
+        }
 
-    /* Make items list right-aligned and fit to content */
-    .items-wrapper>h3 {
-        text-align: right;
-    }
+        .timers-wrapper {
+            border-bottom: none;
+        }
 
-    .items-list-wrapper {
-        display: flex;
-        justify-content: end;
-    }
+        /* Make items list right-aligned and fit to content */
+        .items-wrapper>h3 {
+            text-align: right;
+        }
 
-    .items-list {
-        list-style: none;
-    }
+        .items-list-wrapper {
+            display: flex;
+            justify-content: end;
+        }
 
-    .item::marker {
-        display: none;
-    }
+        .items-list {
+            list-style: none;
+        }
 
-    .item-name-wrapper {
-        margin-right: 0.2em;
-    }
+        .item::marker {
+            display: none;
+        }
 
-    /* Fixed page with individual scrollbars */
-    body {
-        display: flex;
-        min-height: 100vh;
-        max-height: 100vh;
-        max-width: 100vw;
-        overflow: hidden;
-    }
+        .item-name-wrapper {
+            margin-right: 0.2em;
+        }
 
-    .recipe-wrapper {
-        display: flex;
-        max-width: 100vw;
-    }
+        /* Fixed page with individual scrollbars */
+        body {
+            display: flex;
+            min-height: 100vh;
+            max-height: 100vh;
+            max-width: 100vw;
+            overflow: hidden;
+        }
 
-    .recipe {
-        display: flex;
-        flex-direction: column;
-        max-width: 100vw;
-    }
+        .recipe-wrapper {
+            display: flex;
+            max-width: 100vw;
+        }
 
-    .recipe-content-wrapper {
-        display: flex;
-        flex-grow: 1;
-        overflow: hidden;
-    }
+        .recipe {
+            display: flex;
+            flex-direction: column;
+            max-width: 100vw;
+        }
 
-    .info-wrapper,
-    .notes-wrapper,
-    .items-wrapper,
-    .steps-wrapper {
-        overflow: scroll;
-    }
+        .recipe-content-wrapper {
+            display: flex;
+            flex-grow: 1;
+            overflow: hidden;
+        }
 
-    .notes-wrapper {
-        display: flex;
-        flex-grow: 1;
+        .info-wrapper,
+        .notes-wrapper,
+        .items-wrapper,
+        .steps-wrapper {
+            overflow: scroll;
+        }
+
+        .notes-wrapper {
+            display: flex;
+            flex-grow: 1;
+        }
     }
 }
 
