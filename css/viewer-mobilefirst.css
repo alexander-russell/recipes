@@ -489,3 +489,32 @@ body {
         flex-grow: 1;
     }
 }
+
+@media print {
+    /* Italicise title as marker of style */
+    .recipe-name {
+        font-style: italic;
+    }
+
+    /* Remove heading border */
+    .recipe-header-wrapper {
+        border-bottom: none;
+    }
+
+    /* Hide timers */
+    .timers-wrapper {
+        display: none !important;
+    }
+
+    /* Display all links in-text */
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        color: black;
+    }
+    a::after {
+        content: " [" attr(href) "] ";
+        font-weight: normal;
+        text-decoration: none !important;
+    }
+}
