@@ -399,7 +399,7 @@ body {
 
 /* Stuff for landscape layout */
 
-@media (min-aspect-ratio: 2/3) {
+@media (min-aspect-ratio: 3/3) {
     /* Add marker */
     .recipe-name {
         text-decoration: underline;
