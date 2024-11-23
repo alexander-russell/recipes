@@ -400,6 +400,11 @@ body {
 /* Stuff for landscape layout */
 
 @media (min-aspect-ratio: 2/3) {
+    /* Add marker */
+    .recipe-name {
+        text-decoration: underline;
+    }
+
     /* Use multicolumn */
     .recipe-content-wrapper {
         flex-direction: row;
