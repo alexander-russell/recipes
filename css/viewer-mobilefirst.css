@@ -491,6 +491,7 @@ body {
 }
 
 @media print {
+
     /* Italicise title as marker of style */
     .recipe-name {
         font-style: italic;
@@ -512,9 +513,52 @@ body {
         font-weight: bold;
         color: black;
     }
+
     a::after {
         content: " [" attr(href) "] ";
         font-weight: normal;
         text-decoration: none !important;
+    }
+
+    /* Show image and diary at bottom of recipe */
+    .recipe-image-background,
+    .recipe-diary-background {
+        flex-direction: column;
+        align-items: center;
+        page-break-before: always;
+        display: flex !important;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        background: none;
+
+    }
+
+    .recipe-image-background {
+        height: 100vh;
+    }
+
+    .recipe-image-background::before,
+    .recipe-diary-background::before {
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    .recipe-image-background::before {
+        content: "Image";
+    }
+
+    .recipe-diary-background::before {
+        content: "Diary";
+    }
+
+    .recipe-image,
+    .recipe-diary {
+        border: none;
+    }
+
+    .image-close-wrapper,
+    .diary-close-wrapper {
+        display: none;
     }
 }
