@@ -401,12 +401,6 @@ body {
 
 @media not print {
     @media (min-aspect-ratio: 3/3) {
-
-        /* Add marker */
-        .recipe-name {
-            text-decoration: underline;
-        }
-
         /* Use multicolumn */
         .recipe-content-wrapper {
             flex-direction: row;
@@ -494,12 +488,6 @@ body {
 }
 
 @media print {
-
-    /* Italicise title as marker of style */
-    .recipe-name {
-        font-style: italic;
-    }
-
     /* Remove heading border */
     .recipe-header-wrapper {
         border-bottom: none;
