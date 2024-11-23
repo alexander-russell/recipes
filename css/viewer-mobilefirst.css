@@ -514,15 +514,13 @@ body {
     /* Show image and diary at bottom of recipe */
     .recipe-image-background,
     .recipe-diary-background {
+        display: flex !important;
         flex-direction: column;
         align-items: center;
-        page-break-before: always;
-        display: flex !important;
-        position: relative;
         justify-content: center;
-        align-items: center;
+        position: relative;
         background: none;
-
+        page-break-before: always;
     }
 
     .recipe-image-background {
