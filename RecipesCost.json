@@ -768,8 +768,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.49,
-        "AmountPerUnit": 10.49,
+        "Amount": 10.46,
+        "AmountPerUnit": 10.46,
         "Unit": "quiche",
         "ItemCosts": [
           {
@@ -788,7 +788,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -822,7 +822,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "10.49 per unit",
+        "CostString": "10.46 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1732,7 +1732,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.00995,
+            "Amount": 0.0094,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1934,8 +1934,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 24.87,
-        "AmountPerUnit": 6.22,
+        "Amount": 23.31,
+        "AmountPerUnit": 5.83,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -1954,7 +1954,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1982,7 +1982,7 @@
           },
           {
             "Name": "Capsicum",
-            "Amount": 3.495,
+            "Amount": 1.995,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1995,7 +1995,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6.22 per serve",
+        "CostString": "5.83 per serve",
         "ExclusionsString": ""
       }
     },
@@ -2196,8 +2196,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.9,
-        "AmountPerUnit": 3.9,
+        "Amount": 3.85,
+        "AmountPerUnit": 3.85,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -2293,14 +2293,14 @@
           },
           {
             "Name": "Capsicum",
-            "Amount": 0.10485,
+            "Amount": 0.05985,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.0597,
+            "Amount": 0.0564,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2320,7 +2320,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.9* per unit",
+        "CostString": "3.85* per unit",
         "ExclusionsString": "Excluding Whole white fish, Garlic, Ginger root, Tamarind juice, White pepper and Wood fungus"
       }
     },
@@ -2477,13 +2477,13 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 20.13,
-        "AmountPerUnit": 5.03,
+        "Amount": 19.77,
+        "AmountPerUnit": 4.94,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Farfalle pasta",
-            "Amount": 4.0,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2497,14 +2497,14 @@
           },
           {
             "Name": "Sweet potato",
-            "Amount": 2.49,
+            "Amount": 2.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2538,7 +2538,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "5.03 per serve",
+        "CostString": "4.94 per serve",
         "ExclusionsString": ""
       }
     },
@@ -2671,8 +2671,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.34,
-        "AmountPerUnit": 2.08,
+        "Amount": 8.28,
+        "AmountPerUnit": 2.07,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -2684,7 +2684,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2746,7 +2746,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.08* per serve",
+        "CostString": "2.07* per serve",
         "ExclusionsString": "Excluding Spaghettoni and Garlic"
       }
     },
@@ -2909,8 +2909,8 @@
         }
       ],
       "Cost": {
-        "Amount": 13.03,
-        "AmountPerUnit": 3.26,
+        "Amount": 12.98,
+        "AmountPerUnit": 3.24,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -2922,7 +2922,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2991,7 +2991,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.26* per serve",
+        "CostString": "3.24* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -3367,13 +3367,13 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 5.58,
-        "AmountPerUnit": 0.93,
+        "Amount": 6.32,
+        "AmountPerUnit": 1.05,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Lasagne sheets",
-            "Amount": 2.016,
+            "Amount": 2.753103448275862,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -3400,7 +3400,7 @@
             "Extra": "Name not found: \\hyperref[rec:Bolognese]{Bolognese sauce}"
           }
         ],
-        "CostString": "0.93* per serve",
+        "CostString": "1.05* per serve",
         "ExclusionsString": "Excluding \\hyperref[rec:Bechamel]{Bechamel sauce} and \\hyperref[rec:Bolognese]{Bolognese sauce}"
       }
     },
@@ -3824,13 +3824,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.91,
-        "AmountPerUnit": 7.91,
+        "Amount": 7.9,
+        "AmountPerUnit": 7.9,
         "Unit": "Pizza",
         "ItemCosts": [
           {
             "Name": "Brown onions",
-            "Amount": 0.24875,
+            "Amount": 0.235,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -3892,7 +3892,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.91 per unit",
+        "CostString": "7.9 per unit",
         "ExclusionsString": ""
       }
     },
@@ -4009,8 +4009,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.53,
-        "AmountPerUnit": 2.51,
+        "Amount": 7.47,
+        "AmountPerUnit": 2.49,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -4043,7 +4043,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4070,7 +4070,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.51* per serve",
+        "CostString": "2.49* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -4217,7 +4217,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.37,
+        "Amount": 5.61,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -4230,7 +4230,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.1047,
+            "Amount": 0.099,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4258,7 +4258,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 0.74875,
+            "Amount": 0.49875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4272,7 +4272,7 @@
           },
           {
             "Name": "Capsicum",
-            "Amount": 3.495,
+            "Amount": 1.995,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4590,8 +4590,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 9.28,
-        "AmountPerUnit": 9.28,
+        "Amount": 9.25,
+        "AmountPerUnit": 9.25,
         "Unit": "20x30x3cm oven tray",
         "ItemCosts": [
           {
@@ -4603,7 +4603,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4679,7 +4679,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "9.28* per unit",
+        "CostString": "9.25* per unit",
         "ExclusionsString": "Excluding Vegetable stock"
       }
     },
@@ -4791,7 +4791,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.96,
+        "Amount": 6.93,
         "AmountPerUnit": 0.2,
         "Unit": "Biscuits",
         "ItemCosts": [
@@ -4804,7 +4804,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.43625,
+            "Amount": 0.4125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4962,8 +4962,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.23,
-        "AmountPerUnit": 0.33,
+        "Amount": 5.18,
+        "AmountPerUnit": 0.32,
         "Unit": "Biscuits",
         "ItemCosts": [
           {
@@ -5003,7 +5003,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.8725,
+            "Amount": 0.825,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5023,7 +5023,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.33* per unit",
+        "CostString": "0.32* per unit",
         "ExclusionsString": "Excluding Golden syrup"
       }
     },
@@ -5162,7 +5162,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 27.57,
+        "Amount": 27.49,
         "AmountPerUnit": 0.69,
         "Unit": "biscuits",
         "ItemCosts": [
@@ -5189,7 +5189,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 1.457075,
+            "Amount": 1.37775,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5413,8 +5413,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 10.33,
-        "AmountPerUnit": 1.72,
+        "Amount": 10.27,
+        "AmountPerUnit": 1.71,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -5433,7 +5433,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.218125,
+            "Amount": 0.20625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5489,7 +5489,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.8725,
+            "Amount": 0.825,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5509,7 +5509,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.72* per serve",
+        "CostString": "1.71* per serve",
         "ExclusionsString": "Excluding Lemon juice"
       }
     },
@@ -7167,8 +7167,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 10.26,
-        "AmountPerUnit": 10.26,
+        "Amount": 8.74,
+        "AmountPerUnit": 8.74,
         "Unit": "tart",
         "ItemCosts": [
           {
@@ -7180,14 +7180,14 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Capsicum",
-            "Amount": 3.495,
+            "Amount": 1.995,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7242,7 +7242,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "10.26 per unit",
+        "CostString": "8.74 per unit",
         "ExclusionsString": ""
       }
     },
@@ -7411,7 +7411,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.81,
+        "Amount": 3.79,
         "AmountPerUnit": 0.95,
         "Unit": "serves",
         "ItemCosts": [
@@ -7424,7 +7424,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7629,8 +7629,8 @@
         }
       ],
       "Cost": {
-        "Amount": 3.39,
-        "AmountPerUnit": 1.7,
+        "Amount": 3.27,
+        "AmountPerUnit": 1.64,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -7642,7 +7642,7 @@
           },
           {
             "Name": "Mayonnaise",
-            "Amount": 0.84375,
+            "Amount": 0.722222222222223,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7690,7 +7690,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.7 per serve",
+        "CostString": "1.64 per serve",
         "ExclusionsString": ""
       }
     },
@@ -7980,7 +7980,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.55,
+        "Amount": 5.52,
         "AmountPerUnit": 0.23,
         "Unit": "biscuits",
         "ItemCosts": [
@@ -7993,7 +7993,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.57585,
+            "Amount": 0.5445,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8169,8 +8169,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 22.24,
-        "AmountPerUnit": 3.71,
+        "Amount": 22.2,
+        "AmountPerUnit": 3.7,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8182,7 +8182,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.74625,
+            "Amount": 0.705,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8237,7 +8237,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.71* per serve",
+        "CostString": "3.7* per serve",
         "ExclusionsString": "Excluding Taco spice mix and Salsa"
       }
     },
@@ -8418,8 +8418,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 23.03,
-        "AmountPerUnit": 5.76,
+        "Amount": 22.97,
+        "AmountPerUnit": 5.74,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8431,7 +8431,7 @@
           },
           {
             "Name": "brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8514,7 +8514,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "5.76* per serve",
+        "CostString": "5.74* per serve",
         "ExclusionsString": "Excluding Garlic and White wine"
       }
     },
@@ -8660,8 +8660,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.89,
-        "AmountPerUnit": 2.96,
+        "Amount": 8.86,
+        "AmountPerUnit": 2.95,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8701,7 +8701,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8728,7 +8728,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.96 per serve",
+        "CostString": "2.95 per serve",
         "ExclusionsString": ""
       }
     },
@@ -8868,8 +8868,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 3.93,
-        "AmountPerUnit": 1.96,
+        "Amount": 3.9,
+        "AmountPerUnit": 1.95,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -8881,7 +8881,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8929,7 +8929,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.96 per serve",
+        "CostString": "1.95 per serve",
         "ExclusionsString": ""
       }
     },
@@ -9088,7 +9088,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.01,
+        "Amount": 5.99,
         "AmountPerUnit": 0.17,
         "Unit": "biscuits",
         "ItemCosts": [
@@ -9101,7 +9101,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.40135,
+            "Amount": 0.3795,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9468,8 +9468,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 26.52,
-        "AmountPerUnit": 6.63,
+        "Amount": 26.5,
+        "AmountPerUnit": 6.62,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -9481,7 +9481,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9543,7 +9543,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6.63 per serve",
+        "CostString": "6.62 per serve",
         "ExclusionsString": ""
       }
     },
@@ -9656,7 +9656,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.13,
+        "Amount": 3.1,
         "AmountPerUnit": 0.78,
         "Unit": "pies",
         "ItemCosts": [
@@ -9683,7 +9683,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -9931,13 +9931,13 @@
         }
       ],
       "Cost": {
-        "Amount": 9.5,
-        "AmountPerUnit": 3.17,
+        "Amount": 9.47,
+        "AmountPerUnit": 3.16,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10041,7 +10041,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.17* per serve",
+        "CostString": "3.16* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -10200,8 +10200,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 3.98,
-        "AmountPerUnit": 1.0,
+        "Amount": 3.92,
+        "AmountPerUnit": 0.98,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -10213,7 +10213,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10282,7 +10282,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1* per serve",
+        "CostString": "0.98* per serve",
         "ExclusionsString": "Excluding Garlic and Cherry tomatoes"
       }
     },
@@ -10430,7 +10430,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.44,
+        "Amount": 7.4,
         "AmountPerUnit": 0.62,
         "Unit": "muffins",
         "ItemCosts": [
@@ -10450,7 +10450,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.8725,
+            "Amount": 0.825,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10625,13 +10625,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 16.3,
-        "AmountPerUnit": 4.08,
+        "Amount": 17.63,
+        "AmountPerUnit": 4.41,
         "Unit": "wraps",
         "ItemCosts": [
           {
             "Name": "Halloumi",
-            "Amount": 9.6,
+            "Amount": 11.184,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10652,7 +10652,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 0.74875,
+            "Amount": 0.49875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10686,7 +10686,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.08* per unit",
+        "CostString": "4.41* per unit",
         "ExclusionsString": "Excluding Tzatziki"
       }
     },
@@ -11172,8 +11172,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.39,
-        "AmountPerUnit": 1.7,
+        "Amount": 3.36,
+        "AmountPerUnit": 1.68,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -11185,7 +11185,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11234,7 +11234,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.026175,
+            "Amount": 0.02475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11261,7 +11261,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.7* per serve",
+        "CostString": "1.68* per serve",
         "ExclusionsString": "Excluding Garlic and Soy sauce"
       }
     },
@@ -11417,8 +11417,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 18.53,
-        "AmountPerUnit": 3.09,
+        "Amount": 18.5,
+        "AmountPerUnit": 3.08,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -11458,7 +11458,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11499,7 +11499,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.09* per unit",
+        "CostString": "3.08* per unit",
         "ExclusionsString": "Excluding Potato chips"
       }
     },
@@ -11743,8 +11743,8 @@
         }
       ],
       "Cost": {
-        "Amount": 21.62,
-        "AmountPerUnit": 5.4,
+        "Amount": 21.12,
+        "AmountPerUnit": 5.28,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -11882,7 +11882,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 1.4975,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -11895,7 +11895,7 @@
             "Extra": "Name not found: Flatbread"
           }
         ],
-        "CostString": "5.4* per serve",
+        "CostString": "5.28* per serve",
         "ExclusionsString": "Excluding Cardamom, Garlic, Garlic, Lettuce and Flatbread"
       }
     },
@@ -12066,8 +12066,8 @@
         }
       ],
       "Cost": {
-        "Amount": 6.04,
-        "AmountPerUnit": 3.02,
+        "Amount": 6.01,
+        "AmountPerUnit": 3.0,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -12079,7 +12079,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12148,7 +12148,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.02* per serve",
+        "CostString": "3* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -12263,13 +12263,13 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.04,
+        "Amount": 6.78,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
           {
             "Name": "Sweet potato",
-            "Amount": 3.735,
+            "Amount": 4.485,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13151,8 +13151,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 12.81,
-        "AmountPerUnit": 4.27,
+        "Amount": 11.28,
+        "AmountPerUnit": 3.76,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -13171,7 +13171,7 @@
           },
           {
             "Name": "Capsicum",
-            "Amount": 3.495,
+            "Amount": 1.995,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13185,7 +13185,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13233,7 +13233,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.27* per serve",
+        "CostString": "3.76* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -13448,8 +13448,8 @@
         }
       ],
       "Cost": {
-        "Amount": 3.43,
-        "AmountPerUnit": 1.14,
+        "Amount": 3.4,
+        "AmountPerUnit": 1.13,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -13468,7 +13468,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13551,7 +13551,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.14* per serve",
+        "CostString": "1.13* per serve",
         "ExclusionsString": "Excluding Garlic, Chickpeas and Coconut milk"
       }
     },
@@ -14072,8 +14072,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 9.16,
-        "AmountPerUnit": 1.53,
+        "Amount": 8.49,
+        "AmountPerUnit": 1.42,
         "Unit": "Tacos",
         "ItemCosts": [
           {
@@ -14092,7 +14092,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 1.4975,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14148,7 +14148,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.05235,
+            "Amount": 0.0495,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14176,7 +14176,7 @@
           },
           {
             "Name": "Mayonnaise",
-            "Amount": 1.171875,
+            "Amount": 1.0030864197530875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14217,7 +14217,7 @@
             "Extra": "Name not found: Sriracha"
           }
         ],
-        "CostString": "1.53* per unit",
+        "CostString": "1.42* per unit",
         "ExclusionsString": "Excluding Beef rump steak, Chilli flakes, Aioli, Lime juice and Sriracha"
       }
     },
@@ -14437,8 +14437,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 25.17,
-        "AmountPerUnit": 6.29,
+        "Amount": 24.36,
+        "AmountPerUnit": 6.09,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14513,14 +14513,14 @@
           },
           {
             "Name": "Farfalle pasta",
-            "Amount": 4.0,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.0698,
+            "Amount": 0.066,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14575,7 +14575,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "6.29* per serve",
+        "CostString": "6.09* per serve",
         "ExclusionsString": "Excluding Sundried tomato oil, Garlic, Sundried tomatoes and Chilli flakes"
       }
     },
@@ -14786,8 +14786,8 @@
         }
       ],
       "Cost": {
-        "Amount": 19.34,
-        "AmountPerUnit": 4.84,
+        "Amount": 18.54,
+        "AmountPerUnit": 4.64,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14841,14 +14841,14 @@
           },
           {
             "Name": "Farfalle pasta",
-            "Amount": 4.0,
+            "Amount": 3.2,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.0698,
+            "Amount": 0.066,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14903,7 +14903,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.84* per serve",
+        "CostString": "4.64* per serve",
         "ExclusionsString": "Excluding Garlic, Sundried tomatoes and Chilli flakes"
       }
     },
@@ -15133,8 +15133,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 9.1,
-        "AmountPerUnit": 0.76,
+        "Amount": 8.99,
+        "AmountPerUnit": 0.75,
         "Unit": "sausage sandwiches",
         "ItemCosts": [
           {
@@ -15146,7 +15146,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 1.99,
+            "Amount": 1.88,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15187,7 +15187,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.76 per unit",
+        "CostString": "0.75 per unit",
         "ExclusionsString": ""
       }
     },
@@ -15440,7 +15440,7 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 15.46,
+        "Amount": 15.41,
         "AmountPerUnit": 1.93,
         "Unit": "pies",
         "ItemCosts": [
@@ -15460,7 +15460,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.995,
+            "Amount": 0.94,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15807,8 +15807,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 27.05,
-        "AmountPerUnit": 6.76,
+        "Amount": 26.77,
+        "AmountPerUnit": 6.69,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15890,7 +15890,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15960,7 +15960,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 0.74875,
+            "Amount": 0.49875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16015,7 +16015,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "6.76* per serve",
+        "CostString": "6.69* per serve",
         "ExclusionsString": "Excluding Cloves, Garlic, Sumac, Garlic, Parsley and Sumac"
       }
     },
@@ -16200,8 +16200,8 @@
         }
       ],
       "Cost": {
-        "Amount": 24.01,
-        "AmountPerUnit": 6.0,
+        "Amount": 23.33,
+        "AmountPerUnit": 5.83,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -16241,7 +16241,7 @@
           },
           {
             "Name": "Mayonnaise",
-            "Amount": 4.6875,
+            "Amount": 4.01234567901235,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16303,7 +16303,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6* per serve",
+        "CostString": "5.83* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -16535,8 +16535,8 @@
         }
       ],
       "Cost": {
-        "Amount": 19.09,
-        "AmountPerUnit": 3.18,
+        "Amount": 18.57,
+        "AmountPerUnit": 3.1,
         "Unit": "burritos",
         "ItemCosts": [
           {
@@ -16555,7 +16555,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16618,7 +16618,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 1.4975,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16666,7 +16666,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.18 per unit",
+        "CostString": "3.1 per unit",
         "ExclusionsString": ""
       }
     },
@@ -16905,8 +16905,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.57,
-        "AmountPerUnit": 2.76,
+        "Amount": 17.01,
+        "AmountPerUnit": 2.84,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -16918,7 +16918,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.24875,
+            "Amount": 0.235,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16939,7 +16939,7 @@
           },
           {
             "Name": "Sweet potato",
-            "Amount": 0.6225,
+            "Amount": 0.7475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16967,7 +16967,7 @@
           },
           {
             "Name": "Lentils",
-            "Amount": 0.29464285714285754,
+            "Amount": 0.61875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17022,7 +17022,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.76* per unit",
+        "CostString": "2.84* per unit",
         "ExclusionsString": "Excluding Garlic and Potato chips"
       }
     },
@@ -17284,8 +17284,8 @@
         }
       ],
       "Cost": {
-        "Amount": 11.58,
-        "AmountPerUnit": 2.32,
+        "Amount": 11.5,
+        "AmountPerUnit": 2.3,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -17311,7 +17311,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.24875,
+            "Amount": 0.235,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17353,7 +17353,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17367,7 +17367,7 @@
           },
           {
             "Name": "Parsley",
-            "Amount": 0.07475,
+            "Amount": 0.03225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17422,7 +17422,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.32* per serve",
+        "CostString": "2.3* per serve",
         "ExclusionsString": "Excluding Garlic and Garlic"
       }
     },
@@ -17721,8 +17721,8 @@
         }
       ],
       "Cost": {
-        "Amount": 6.83,
-        "AmountPerUnit": 1.37,
+        "Amount": 6.8,
+        "AmountPerUnit": 1.36,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -17741,7 +17741,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17775,7 +17775,7 @@
             "Extra": "Name not found: Rosemary"
           }
         ],
-        "CostString": "1.37* per serve",
+        "CostString": "1.36* per serve",
         "ExclusionsString": "Excluding Garlic, Ground ginger and Rosemary"
       }
     },
@@ -18100,7 +18100,7 @@
         }
       ],
       "Cost": {
-        "Amount": 18.27,
+        "Amount": 18.26,
         "AmountPerUnit": 4.57,
         "Unit": "serves",
         "ItemCosts": [
@@ -18169,7 +18169,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.218125,
+            "Amount": 0.20625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -18882,8 +18882,8 @@
         }
       ],
       "Cost": {
-        "Amount": 11.68,
-        "AmountPerUnit": 2.92,
+        "Amount": 11.43,
+        "AmountPerUnit": 2.86,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -18965,7 +18965,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 0.74875,
+            "Amount": 0.49875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -18992,7 +18992,7 @@
             "Extra": "Name not found: Peanuts"
           }
         ],
-        "CostString": "2.92* per serve",
+        "CostString": "2.86* per serve",
         "ExclusionsString": "Excluding Garlic, Lime juice, Butter leaf lettuce and Peanuts"
       }
     },
@@ -19143,7 +19143,7 @@
         }
       ],
       "Cost": {
-        "Amount": 7.06,
+        "Amount": 7.04,
         "AmountPerUnit": 1.76,
         "Unit": "serves",
         "ItemCosts": [
@@ -19170,7 +19170,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19415,7 +19415,7 @@
         }
       ],
       "Cost": {
-        "Amount": 9.19,
+        "Amount": 9.16,
         "AmountPerUnit": 0.23,
         "Unit": "cookies",
         "ItemCosts": [
@@ -19463,7 +19463,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.5235,
+            "Amount": 0.495,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19657,7 +19657,7 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 16.3,
+        "Amount": 16.28,
         "AmountPerUnit": 5.43,
         "Unit": "serves",
         "ItemCosts": [
@@ -19670,7 +19670,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19881,7 +19881,7 @@
         }
       ],
       "Cost": {
-        "Amount": 14.96,
+        "Amount": 14.94,
         "AmountPerUnit": 0.23,
         "Unit": "rugelach",
         "ItemCosts": [
@@ -19922,7 +19922,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.43625,
+            "Amount": 0.4125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20086,8 +20086,8 @@
         }
       ],
       "Cost": {
-        "Amount": 21.94,
-        "AmountPerUnit": 5.48,
+        "Amount": 21.61,
+        "AmountPerUnit": 5.4,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -20106,7 +20106,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20120,7 +20120,7 @@
           },
           {
             "Name": "Capsicum",
-            "Amount": 0.699,
+            "Amount": 0.399,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20140,7 +20140,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.48* per serve",
+        "CostString": "5.4* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -20271,13 +20271,13 @@
         }
       ],
       "Cost": {
-        "Amount": 3.78,
-        "AmountPerUnit": 1.26,
+        "Amount": 3.74,
+        "AmountPerUnit": 1.25,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Brown onions",
-            "Amount": 0.74625,
+            "Amount": 0.705,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20318,7 +20318,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.26* per serve",
+        "CostString": "1.25* per serve",
         "ExclusionsString": "Excluding Garlic and Cannellini beans"
       }
     },
@@ -20507,7 +20507,7 @@
         }
       ],
       "Cost": {
-        "Amount": 26.42,
+        "Amount": 26.39,
         "AmountPerUnit": 6.6,
         "Unit": "serves",
         "ItemCosts": [
@@ -20527,7 +20527,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20790,8 +20790,8 @@
         }
       ],
       "Cost": {
-        "Amount": 5.58,
-        "AmountPerUnit": 0.8,
+        "Amount": 5.56,
+        "AmountPerUnit": 0.79,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -20817,7 +20817,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20886,7 +20886,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.8* per unit",
+        "CostString": "0.79* per unit",
         "ExclusionsString": "Excluding Red potatoes and Garlic"
       }
     },
@@ -21086,8 +21086,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.05,
-        "AmountPerUnit": 1.26,
+        "Amount": 10.04,
+        "AmountPerUnit": 1.25,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -21106,7 +21106,7 @@
           },
           {
             "Name": "Brown sugar",
-            "Amount": 0.287925,
+            "Amount": 0.27225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21189,7 +21189,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.26* per serve",
+        "CostString": "1.25* per serve",
         "ExclusionsString": "Excluding Pecans"
       }
     },
@@ -21400,13 +21400,13 @@
         }
       ],
       "Cost": {
-        "Amount": 21.31,
-        "AmountPerUnit": 4.26,
+        "Amount": 21.79,
+        "AmountPerUnit": 4.36,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Sweet potato",
-            "Amount": 2.49,
+            "Amount": 2.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21427,7 +21427,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21510,7 +21510,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.26* per serve",
+        "CostString": "4.36* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -21946,8 +21946,8 @@
         }
       ],
       "Cost": {
-        "Amount": 6.14,
-        "AmountPerUnit": 2.05,
+        "Amount": 5.14,
+        "AmountPerUnit": 1.71,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -21994,14 +21994,14 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 0.74875,
+            "Amount": 0.49875,
             "Success": true,
             "Reason": "",
             "Extra": ""
           },
           {
             "Name": "Capsicum",
-            "Amount": 1.7475,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22014,7 +22014,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "2.05* per serve",
+        "CostString": "1.71* per serve",
         "ExclusionsString": "Excluding Chicken maryland and Mole negro"
       }
     },
@@ -22486,8 +22486,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.14,
-        "AmountPerUnit": 4.05,
+        "Amount": 12.11,
+        "AmountPerUnit": 4.04,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -22513,7 +22513,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22596,7 +22596,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.05* per serve",
+        "CostString": "4.04* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -22869,8 +22869,8 @@
         }
       ],
       "Cost": {
-        "Amount": 25.31,
-        "AmountPerUnit": 6.33,
+        "Amount": 24.31,
+        "AmountPerUnit": 6.08,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -22889,7 +22889,7 @@
           },
           {
             "Name": "Parsley",
-            "Amount": 0.5980000000000001,
+            "Amount": 0.258,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22945,7 +22945,7 @@
           },
           {
             "Name": "Mayonnaise",
-            "Amount": 1.125,
+            "Amount": 0.962962962962963,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22959,7 +22959,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 1.4975,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23014,7 +23014,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "6.33* per serve",
+        "CostString": "6.08* per serve",
         "ExclusionsString": "Excluding Sriracha and Sriracha"
       }
     },
@@ -23360,8 +23360,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.56,
-        "AmountPerUnit": 2.39,
+        "Amount": 9.06,
+        "AmountPerUnit": 2.26,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -23373,7 +23373,7 @@
           },
           {
             "Name": "Red onion",
-            "Amount": 1.4975,
+            "Amount": 0.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23414,7 +23414,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.39* per serve",
+        "CostString": "2.26* per serve",
         "ExclusionsString": "Excluding Garlic"
       }
     },
@@ -23594,13 +23594,13 @@
         }
       ],
       "Cost": {
-        "Amount": 2.92,
-        "AmountPerUnit": 1.46,
+        "Amount": 3.54,
+        "AmountPerUnit": 1.77,
         "Unit": "serves",
         "ItemCosts": [
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23621,7 +23621,7 @@
           },
           {
             "Name": "Lentils",
-            "Amount": 0.5892857142857151,
+            "Amount": 1.2375,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23676,7 +23676,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.46* per serve",
+        "CostString": "1.77* per serve",
         "ExclusionsString": "Excluding Garlic and Garlic"
       }
     },
@@ -23884,8 +23884,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 10.45,
-        "AmountPerUnit": 2.61,
+        "Amount": 10.42,
+        "AmountPerUnit": 2.6,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -23897,7 +23897,7 @@
           },
           {
             "Name": "Brown onions",
-            "Amount": 0.4975,
+            "Amount": 0.47,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -24015,7 +24015,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.61* per serve",
+        "CostString": "2.6* per serve",
         "ExclusionsString": "Excluding Dried apricots, Dried cranberries and Garlic"
       }
     },
