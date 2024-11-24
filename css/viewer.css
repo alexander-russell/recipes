@@ -61,6 +61,14 @@ body {
     padding: 0.08rem;
 }
 
+.icon-wrapper.clickable {
+    cursor: pointer;
+}
+
+.icon-wrapper.clickable:hover {
+    fill: darkred;
+}
+
 /* end Stuff for icons section */
 
 /* end Stuff for the recipe glance bar */

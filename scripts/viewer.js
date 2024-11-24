@@ -160,6 +160,7 @@ function displayRecipeHeaderIcons(recipe) {
 
     // Add a home icon to go to home page
     homeIcon = createIconHome();
+    homeIcon.classList.add("clickable");
     iconsListElement.appendChild(homeIcon);
     homeIcon.addEventListener("click", () => {
         location.href = "/recipes";
@@ -169,6 +170,7 @@ function displayRecipeHeaderIcons(recipe) {
     if (recipe.Image != "") {
         // Add element
         const cameraIcon = createIconCamera();
+        cameraIcon.classList.add("clickable");
         iconsListElement.appendChild(cameraIcon);
         // Configure click event for camera icon, display image on click
         cameraIcon.addEventListener("click", (event) => {
@@ -184,6 +186,7 @@ function displayRecipeHeaderIcons(recipe) {
 
         // Add icon
         const bookIcon = createIconBook()
+        bookIcon.classList.add("clickable");
         iconsListElement.appendChild(bookIcon);
 
         // Configure click event for book icon, display diary on click
@@ -652,6 +655,7 @@ function configureRecipeClock(timers) {
         //Add a clock icon to icons bar to bring it back
         const iconsListElement = document.querySelector(".icons-list")
         const clockIcon = createIconClock();
+        clockIcon.classList.add("clickable");
         iconsListElement.appendChild(clockIcon);
 
         // Configure click event for clock icon - bring back clock
