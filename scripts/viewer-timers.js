@@ -23,7 +23,7 @@ function createTimer(name, seconds) {
 
     // Configure attributes
     timer.setAttribute("total", seconds);
-    timer.setAttribute("started", getEpochSeconds());
+    timer.setAttribute("started", Date.now());
     timer.setAttribute("remaining", seconds);
 
     // Add single click listener (start/stop)
@@ -32,7 +32,7 @@ function createTimer(name, seconds) {
         if (!timer.classList.contains("active")) {
             timer.classList.add("active");
             // Log start time
-            timer.setAttribute("started", getEpochSeconds());
+            timer.setAttribute("started", Date.now());
         } 
         // Stop or reset timer
         else {
@@ -44,8 +44,8 @@ function createTimer(name, seconds) {
             else {
                 timer.classList.remove("active");
                 // Deduct runtime from remaining time, save it as attribute
-                const runtime = getEpochSeconds() - timer.getAttribute("started");
-                const remaining = 0 + timer.getAttribute("remaining") - runtime
+                const runtime = Date.now() - timer.getAttribute("started");
+                const remaining = 0 + timer.getAttribute("remaining") - (runtime / 1000)
                 timer.setAttribute("remaining", remaining);
             }
         }
@@ -102,8 +102,8 @@ function createClock() {
 function manageTimers() {
     document.querySelectorAll(".timer.active").forEach((timer) => {
         // Calculate remaining time
-        const runtime = getEpochSeconds() - timer.getAttribute("started");
-        const remaining = 0 + timer.getAttribute("remaining") - runtime
+        const runtime = Date.now() - timer.getAttribute("started");
+        const remaining = 0 + timer.getAttribute("remaining") - (runtime / 1000);
 
         // If still time remaining, just update time
         if (remaining > 0) {
