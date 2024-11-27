@@ -451,9 +451,6 @@ function configureRecipeDiary(diary) {
 }
 
 function configureRecipeCostBreakdown(cost) {
-    // Debug display cost by default
-    document.querySelector(".recipe-cost-background").classList.remove("hidden");
-    console.log(cost)
     // Get cost breakdown element
     const table = document.querySelector(".recipe-cost");
     const tbody = table.querySelector("tbody");
