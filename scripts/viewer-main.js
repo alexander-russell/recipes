@@ -214,9 +214,15 @@ function displayRecipeAttributes(recipe, recipeOriginal) {
 
         // Add yield change event handler
         attributeYieldQuantityElement.oninput = (event) => {
-            // Modify the URL without reload, then rescale recipe
-            history.pushState({}, "", window.location.href.split('?')[0] + `?yield=${event.target.value}`);
+            // Rescale recipe
             configureRecipe(recipeOriginal, event.target.value);
+            // Modify the URL without reload
+            if (event.target.value != 0) {
+                history.pushState({}, "", window.location.href.split('?')[0] + `?yield=${event.target.value}`);
+            } else {
+                // Strip yield parameter from URL
+                history.pushState({}, "", window.location.href.split('?')[0]);
+            }
         };
     } else {
         document.querySelector("span.yield").remove();
