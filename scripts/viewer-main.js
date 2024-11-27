@@ -202,7 +202,8 @@ function displayRecipeAttributes(recipe, recipeOriginal) {
     }
 
     // Handle yield (nested object)
-    if (recipe.Yield.Quantity != 0) {
+    // Test against unscaled yield to determine if field filled out, rather than just form unfilled
+    if (recipeOriginal.Yield.Quantity != 0) {
         const attributeYieldQuantityElement = document.querySelector(".yield-quantity");
         attributeYieldQuantityElement.setAttribute("placeholder", `${recipe.Yield.Quantity}`);
         const attributeYieldUnitElement = document.querySelector(".yield-unit");

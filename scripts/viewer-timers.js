@@ -33,13 +33,13 @@ function createTimer(name, seconds) {
             timer.classList.add("active");
             // Log start time
             timer.setAttribute("started", Date.now());
-        } 
+        }
         // Stop or reset timer
         else {
             // Reset the timer
             if (timer.classList.contains("elapsed")) {
                 resetTimer(timer);
-            } 
+            }
             // Stop timer
             else {
                 timer.classList.remove("active");
@@ -118,6 +118,22 @@ function manageTimers() {
 
             // Every odd second, toggle flashing class
             timer.classList.toggle("flashing");
+
+            //Speak timer name aloud
+            if (!timer.classList.contains("speaking")) {
+                //Add speaking class (so too many utterances aren't queued)
+                timer.classList.add("speaking");
+
+                //Arrange text to speech of timer name
+                const speaker = window.speechSynthesis
+                const utterance = new SpeechSynthesisUtterance(timer.getAttribute("name"));
+                speaker.speak(utterance);
+
+                //Remove speaking class when this is done
+                utterance.addEventListener("end", () => {
+                    timer.classList.remove("speaking");
+                });
+            }
         }
     });
 }
