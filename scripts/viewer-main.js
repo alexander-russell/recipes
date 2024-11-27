@@ -58,6 +58,14 @@ function scaleRecipe(recipe, yield) {
         step.Content = scaleRecipeString(step.Content, factor);
     }
 
+    console.log(recipe.Cost);   
+    // Scale item costs
+    recipe.Cost.Amount = (recipe.Cost.Amount * factor)
+    for (const itemCost of recipe.Cost.ItemCosts) {
+        itemCost.Amount = round(itemCost.Amount * factor, 2);
+        itemCost.Item.Quantity = round(itemCost.Item.Quantity * factor, 2);
+    }
+
     // Return modified recipe
     return recipe;
 }
@@ -462,13 +470,19 @@ function configureRecipeCostBreakdown(cost) {
     const table = document.querySelector(".recipe-cost");
     const tbody = table.querySelector("tbody");
 
+    // Remove old rows
+    while (tbody.hasChildNodes()) {
+        tbody.childNodes[0].remove();
+    }
+
+
     // Add a row for each item
     for (itemCost of cost.ItemCosts) {
         const row = tbody.insertRow();
         row.insertCell().textContent = itemCost.Name;
-        row.insertCell().textContent = `${itemCost.Item.Quantity == 0 ? "" : itemCost.Item.Quantity} ${itemCost.Item.Unit}`;
+        row.insertCell().textContent = `${itemCost.Item.Quantity == 0 ? "" : round(itemCost.Item.Quantity, 2)} ${itemCost.Item.Unit}`;
         row.insertCell().textContent = (itemCost.Ingredient != null && itemCost.Ingredient.Price != 0) ? `$${itemCost.Ingredient.Price} per ${itemCost.Ingredient.Quantity} ${itemCost.Ingredient.Unit}` : "";
-        row.insertCell().textContent = itemCost.Amount != 0 ? `$${itemCost.Amount.toFixed(2)}` : '';
+        row.insertCell().textContent = itemCost.Amount != 0 ? `$${itemCost.Amount}` : '';
 
         // If item wasn't found, mark row
         if (!itemCost.Success) {
