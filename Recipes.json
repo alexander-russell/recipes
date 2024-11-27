@@ -11517,7 +11517,7 @@
           "Content": "Get out one large bowl and one small one and deseed the sliced cumquats, taking a handful at a time, putting the fruit into the large bowl and the seeds into the other."
         },
         {
-          "Content": "Wrap the seeds in a bunch in a teatoweland, tie shut with a rubberband."
+          "Content": "Wrap the seeds in a bunch in a teatowel and, tie shut with a rubberband."
         },
         {
           "Content": "Submerge seeds in bowl of fruit. Add water until it has just covered the tops of the fruit. Cover bowl with a damp teatowel."
@@ -13252,9 +13252,9 @@
         {
           "Name": "Basil",
           "NameDetail": "",
-          "Quantity": 5.0,
-          "Unit": "whole",
-          "UnitDetail": "leaves",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
           "Group": "extra"
         }
       ],

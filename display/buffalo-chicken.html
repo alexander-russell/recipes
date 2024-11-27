@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/recipes/css/viewer.css">
     <script src="/recipes/scripts/common.js"></script>
-    <script src="/recipes/scripts/viewer.js" defer></script>
+    <script src="/recipes/scripts/viewer-timers.js"></script>
+    <script src="/recipes/scripts/viewer-main.js"></script>
 </head>
 
 <body>
@@ -76,7 +77,7 @@
                     </ol>
                 </div>
             </div>
-            <div class="recipe-image-background hidden">
+            <div class="overlay-background recipe-image-background hidden">
                 <div class="recipe-image-wrapper">
                     <img class="recipe-image" src="" alt="">
                     <div class="image-close-wrapper">
@@ -84,13 +85,41 @@
                     </div>
                 </div>
             </div>
-            <div class="recipe-diary-background hidden">
+            <div class="overlay-background recipe-diary-background hidden">
                 <div class="recipe-diary-wrapper">
                     <div>
                         <dl class="recipe-diary">
                         </dl>
                         <div class="diary-close-wrapper">
                             <button class="diary-close">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay-background recipe-cost-background hidden">
+                <div class="recipe-cost-wrapper">
+                    <div>
+                        <table class="recipe-cost">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Quantity</th>
+                                    <th>Price</th>
+                                    <th>Cost</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                            <tfoot>
+                                <tr>
+                                    <td colspan="3">
+                                        Total
+                                    </td>
+                                    <td class="total-cell">$-</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                        <div class="cost-close-wrapper">
+                            <button class="cost-close">Close</button>
                         </div>
                     </div>
                 </div>

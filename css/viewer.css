@@ -117,7 +117,7 @@ body {
 
 .yield-quantity {
     border: none;
-    padding: none;
+    padding: 0;
     border-bottom: 2px solid black;
     border-radius: 0px;
     text-align: center;
@@ -252,7 +252,8 @@ body {
 
 .items-group-title {
     clear: both;
-    padding-top: 0.8rem;
+    padding-top: 0.6rem;
+    margin-top: 0;
     margin-bottom: 0;
     font-size: 0.6em;
     text-transform: uppercase;
@@ -292,8 +293,20 @@ body {
     content: ")";
 }
 
+.item:has(.item-name-extra:not(:empty)) .item-name::after {
+    content: " ";
+}
+
 .item-details {
     float: right;
+}
+
+.item-quantity::after {
+    content: " ";
+}
+
+.item:has(.item-unit-extra:not(:empty)) .item-unit::after {
+    content: " ";
 }
 
 .item-unit-extra {
@@ -341,7 +354,8 @@ body {
 /* Stuff for image and diary */
 
 .recipe-image-background,
-.recipe-diary-background {
+.recipe-diary-background,
+.recipe-cost-background {
     display: flex;
     position: absolute;
     justify-content: center;
@@ -354,14 +368,16 @@ body {
 }
 
 .recipe-image-wrapper,
-.recipe-diary-wrapper {
+.recipe-diary-wrapper,
+.recipe-cost-wrapper {
     padding: 10px;
     position: relative;
     background-color: white;
 }
 
 .recipe-image,
-.recipe-diary {
+.recipe-diary,
+.recipe-cost {
     display: block;
     max-height: 80vh;
     max-width: 80vw;
@@ -376,14 +392,62 @@ body {
     border-bottom: 1px solid black;
 }
 
+.recipe-cost {
+    border-collapse: collapse;
+    overflow: auto;
+    /* margin: 0.1em 0.3em; */
+    /* padding-right: 0.3em; */
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.recipe-cost thead tr {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.recipe-cost tbody tr:last-child {
+    border-bottom: none;
+}
+
+.recipe-cost th {
+    text-align: left;
+}
+
+.recipe-cost th,
+.recipe-cost td {
+    white-space: nowrap;
+    padding: 0.3em 0.6em;
+    /* padding-right: 0.5em; */
+}
+
+.recipe-cost tbody tr:not(:last-child) td {
+    padding-bottom: 0;
+}
+
+.recipe-cost tfoot tr {
+    border-top: 1px solid black;
+}
+
+.recipe-cost tr.cost-failed {
+    color: grey;
+}
+
+.recipe-cost td:empty::after {
+    content: "–";
+    /* background-color: red; */
+}
+
 .image-close-wrapper,
-.diary-close-wrapper {
+.diary-close-wrapper,
+.cost-close-wrapper {
     position: absolute;
     right: 15px;
 }
 
 .image-close,
-.diary-close {
+.diary-close,
+.cost-close {
     border: none;
     background: none;
     font-size: 1.2em;
@@ -391,7 +455,8 @@ body {
 }
 
 .image-close:hover,
-.diary-close:hover {
+.diary-close:hover,
+.cost-close:hover {
     color: darkred;
 }
 
@@ -433,6 +498,13 @@ body {
             border-bottom: none;
         }
 
+        /* Conditionally remove bottom border of info pane if timers is hidden */
+        .info-wrapper:has(.timers-wrapper.hidden) .notes-wrapper {
+            border-bottom: none;
+        }
+
+
+
         /* Make items list right-aligned and fit to content */
         .items-wrapper>h3 {
             text-align: right;
@@ -467,11 +539,13 @@ body {
         .recipe-wrapper {
             display: flex;
             max-width: 100vw;
+            min-width: 100vw;
         }
 
         .recipe {
             display: flex;
             flex-direction: column;
+            min-width: 100vw;
             max-width: 100vw;
         }
 
