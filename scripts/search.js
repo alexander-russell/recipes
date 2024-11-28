@@ -24,7 +24,7 @@ function start(recipes) {
     });
 
     // DEBUG autoload search result for "ban" so i can write the search design faster
-    populateResults("ban", activeRecipes);
+    // populateResults("ban", activeRecipes);
 }
 
 function populateResults(query, recipes) {
