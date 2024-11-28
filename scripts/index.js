@@ -50,7 +50,7 @@ function populateQuickResults(query, recipes) {
 
         // Create link
         searchResultLinkElement = document.createElement("a");
-        searchResultLinkElement.href = `display?recipe=${result.Name}`;
+        searchResultLinkElement.href = `display/${result.Slug}`;
         searchResultLinkElement.textContent = result.Name;
         searchResultElement.appendChild(searchResultLinkElement);
     }
