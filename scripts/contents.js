@@ -8,7 +8,7 @@ async function start(recipeBook) {
 
     // Retrieve URL params, obliterate them
     urlParams = new URLSearchParams(document.location.search);
-    history.pushState({}, "", window.location.href.split('?')[0])
+    history.replaceState({}, "", window.location.href.split('?')[0])
 
     // Filter to active recipes and display
     const activeRecipes = filterActiveRecipes(recipeBook.Recipes);
