@@ -6,6 +6,16 @@ function start(recipes) {
     // Filter active recipes
     const activeRecipes = filterActiveRecipes(recipes);
 
+    // Analyse URL parameters, clear them
+    const urlParams = new URLSearchParams(document.location.search);
+    const urlQuery = urlParams.get("query");
+    history.replaceState({}, "", window.location.href.split('?')[0])
+
+    // Use URL query if provided
+    if (urlQuery != null) {
+        populateResults(urlQuery, activeRecipes);
+    }
+
     // Add form event listener to display quick results on input change
     const input = document.querySelector("input#name");
     input.addEventListener("input", () => {
