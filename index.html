@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="css/search.css">
-    <script src="scripts/search.js" defer></script>
+    <script src="scripts/common.js" defer></script>
+    <script src="scripts/index.js" defer></script>
     <title>Alex's Recipes!</title>
 </head>
 
@@ -58,19 +58,9 @@
                     <label for="name">Name:</label>
                     <input type="search" name="name" id="name" value="" />
                 </div>
-                <button class="advanced-search-toggle" onclick="alert('Not ready yet!')">
-                    Advanced Search
+                <button class="search-button">
+                    Search
                 </button>
-            </div>
-            <div class="form recipe-searchbox-advanced">
-                <div class="form-row advanced-search">
-                    <label for="type">Type:</label>
-                    <input type="text" name="type" id="type" placeholder="Main" value="" />
-                </div>
-                <div class="form-row advanced-search">
-                    <label for="category">Category:</label>
-                    <input type="text" name="category" id="category" placeholder="Pizza" value="" />
-                </div>
             </div>
             <div class="search-results-wrapper">
                 <ul class="search-results">

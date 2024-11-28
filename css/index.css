@@ -85,3 +85,38 @@ a {
 a:hover {
     color: darkred;
 }
+
+.search {
+    width: 100%;
+}
+
+.recipe-searchbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-row>label,
+.search-button {
+    font-weight: bold;
+}
+
+.form-row>input {
+    border: none;
+    font-size: inherit;
+    border-bottom: 2px solid black;
+    border-radius: 0px;
+}
+
+.form-row>input:focus {
+    outline: none;
+    color: darkred;
+    border-bottom-color: darkred;
+}
+
+.search-button {
+    border: none;
+    border-radius: 0;
+    background: none;
+    font-size: inherit;
+    font-weight: bold;
+}
