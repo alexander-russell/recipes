@@ -6,10 +6,9 @@ function start(recipes) {
     // Filter active recipes
     const activeRecipes = filterActiveRecipes(recipes);
 
-    // Analyse URL parameters, clear them
+    // Analyse URL parameters
     const urlParams = new URLSearchParams(document.location.search);
     const urlQuery = urlParams.get("query");
-    history.replaceState({}, "", window.location.href.split('?')[0])
 
     // Use URL query if provided
     if (urlQuery != null) {
