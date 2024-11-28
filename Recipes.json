@@ -12909,12 +12909,12 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "None of the timing is unspecified, and the mix of different stocks is because that's what I had in the fridge. Nonetheless a very easy way to have a risotto.",
+      "Note": "None of the timing is specified, and the mix of different stocks is because that's what I had in the fridge. Nonetheless a very easy way to have a risotto.",
       "Image": "Local",
       "Items": [
         {
           "Name": "Prawns",
-          "NameDetail": "frozen",
+          "NameDetail": "frozen, cooked",
           "Quantity": 500.0,
           "Unit": "grams",
           "UnitDetail": "",
@@ -13003,7 +13003,7 @@
           "Content": "Roughly chop parsley"
         },
         {
-          "Content": "Cook until stock is absorbed, then stir through parsley and serve."
+          "Content": "Cook until stock is absorbed, then stir in the prawns and parsley."
         }
       ],
       "Diary": [],
