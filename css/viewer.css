@@ -34,8 +34,19 @@ body {
 /* Stuff for the grouping */
 .recipe-grouping {
     margin: 0;
+    z-index: 1;
     font-size: 2rem;
     color: grey;
+}
+
+.recipe-grouping>a {
+    color: grey;
+    text-decoration: none;
+}
+
+.recipe-grouping>a:hover {
+    color: darkred;
+    text-decoration: underline;
 }
 
 .grouping-type::after {

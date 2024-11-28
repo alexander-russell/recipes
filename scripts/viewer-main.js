@@ -96,6 +96,10 @@ function displayRecipeHeaderName(name, type, category) {
     groupingTypeElement.textContent = type
     const groupingCategoryElement = document.querySelector(".grouping-category");
     groupingCategoryElement.textContent = category
+
+    // Configure grouping link
+    const recipeGroupLinkElement = document.querySelector(".recipe-grouping a")
+    recipeGroupLinkElement.href = `/recipes/contents?focus=${category}`
 }
 
 function displayRecipeHeaderIcons(recipe) {
