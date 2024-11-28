@@ -159,6 +159,14 @@ h1 {
 }
 
 @media only screen and (min-width: 992px) {
+    .search {
+        justify-content: left;
+    }
+
+    .search-button {
+        margin-left: 0.8em;
+    }
+
     .search-results {
         columns: 2;
     }
