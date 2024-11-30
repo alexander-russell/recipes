@@ -127,13 +127,20 @@ function displayRecipeHeaderIcons(recipe) {
 
 function createRecipeHeaderIconHome() {
     // Create icon
-    homeIcon = createIconHome();
+    const homeIcon = createIconHome();
+
+    // Sneak an anchor tag into the icon
+    const anchor = document.createElement("a");
+    anchor.innerHTML = homeIcon.innerHTML;
+    anchor.href = "/recipes"
+    homeIcon.children[0].remove();
+    homeIcon.appendChild(anchor);
 
     // Configure click event
     homeIcon.classList.add("clickable");
-    homeIcon.addEventListener("click", () => {
-        location.href = "/recipes";
-    });
+    // homeIcon.addEventListener("click", (event) => {
+    //     console.log(event);
+    // });
 
     return homeIcon
 }
@@ -500,6 +507,3 @@ function configureRecipeCostBreakdown(cost) {
     // Set up click to close
     configureOverlayBehaviour("cost");
 }
-
-// TODO:
-// cost breakdown overlay

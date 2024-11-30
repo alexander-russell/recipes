@@ -68,7 +68,7 @@ body {
     display: flex;
 }
 
-.icons-list>li>svg {
+.icons-list>li svg {
     padding: 0.08rem;
 }
 
@@ -78,6 +78,11 @@ body {
 
 .icon-wrapper.clickable:hover {
     fill: darkred;
+}
+
+/* Additional rule for icons wrapped in anchor tags to fix vertical sizing */
+.icon-wrapper>a>svg {
+    vertical-align: sub;
 }
 
 /* end Stuff for icons section */
