@@ -3,6 +3,9 @@ fetchRecipeBook()
     .then((recipeBook => start(recipeBook.Recipes)));
 
 function start(recipes) {
+    // Select input element
+    const input = document.querySelector("input#query");
+
     // Filter active recipes
     const activeRecipes = filterActiveRecipes(recipes);
 
@@ -12,25 +15,25 @@ function start(recipes) {
 
     // Use URL query if provided
     if (urlQuery != null) {
-        populateResults(urlQuery, activeRecipes);
+        // populateResults(urlQuery, activeRecipes);
+        // input.value = urlQuery;
     }
 
     // Add form event listener to display quick results on input change
-    const input = document.querySelector("input#name");
     input.addEventListener("input", () => {
-        populateResults(input.value, activeRecipes);
+        // populateResults(input.value, activeRecipes);
     });
 
     // Add form event listeners to go to full results on return or button press
-    input.addEventListener("keydown", (event) => {
-        if (event.key === "Enter") {
-            populateResults(input.value, activeRecipes);
-        }
-    });
-    const button = document.querySelector(".search-button");
-    button.addEventListener("click", () => {
-        populateResults(input.value, activeRecipes);
-    });
+    // input.addEventListener("keydown", (event) => {
+    //     if (event.key === "Enter") {
+    //         populateResults(input.value, activeRecipes);
+    //     }
+    // });
+    // const button = document.querySelector(".search-button");
+    // button.addEventListener("click", () => {
+    //     populateResults(input.value, activeRecipes);
+    // });
 
     // DEBUG autoload search result for "ban" so i can write the search design faster
     // populateResults("ban", activeRecipes);
@@ -125,7 +128,8 @@ function createSearchResultElement(recipe) {
 
     // Add cost
     const cost = document.createElement("li");
-    cost.textContent = recipe.Cost.AmountPerUnit.toLocaleString(undefined, { style: "currency", currency: "AUD", minimumFractionDigits: 2 }) + " per unit";
+    // cost.textContent = recipe.Cost.AmountPerUnit.toLocaleString(undefined, { style: "currency", currency: "AUD", minimumFractionDigits: 2 }) + " per unit";
+    cost.textContent = "$" + recipe.Cost.CostString;
     attributes.appendChild(cost);
 
     // Add difficulty
