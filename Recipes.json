@@ -113,7 +113,32 @@
           "Content": "Pour into bread pan and bake for 1 hour"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-12-03T15:28:03.1561698+11:00",
+          "Content": "Cooking today, 4 old bananas from freezer."
+        },
+        {
+          "Date": "2024-12-03T15:28:54.4632134+11:00",
+          "Content": "Interpreting baking soda as bicarb."
+        },
+        {
+          "Date": "2024-12-03T15:54:35.9029728+11:00",
+          "Content": "Didn't sift the flour. Crush banana in large bowl then add eggs and whisk a little, then add that to the rest. Ingredients should be reordered."
+        },
+        {
+          "Date": "2024-12-03T16:02:59.9445947+11:00",
+          "Content": "Doing 200 degrees for conventional oven."
+        },
+        {
+          "Date": "2024-12-03T16:39:10.9111334+11:00",
+          "Content": "Turned at half time."
+        },
+        {
+          "Date": "2024-12-03T17:11:55.9539909+11:00",
+          "Content": "Took 1hr15min to bake and cooling on rack for 10min."
+        }
+      ],
       "Timers": [
         {
           "Name": "Bake",
@@ -1955,6 +1980,22 @@
         {
           "Date": "2024-08-24T12:11:48.936013+10:00",
           "Content": "Used 175 grams of bacon, 2 onions (too much i reckon), crushed garlic with knife before slicing, skipped mushrooms."
+        },
+        {
+          "Date": "2024-12-01T21:50:01.0237812+11:00",
+          "Content": "I seem to be adding the mushrooms and garlic twice, and never the onion. Instead doing onion first, then bacon, then garlic (skipping mushrooms). Also I put the bacon in first so it's mostly fried, but removed to a bowl to add back in later."
+        },
+        {
+          "Date": "2024-12-01T21:53:20.9124515+11:00",
+          "Content": "3 minutes also is nowhere near enough for this amount of onions, and next time I should only do 1. Double also, I used the cream for tiramisu so there's less than 150ml."
+        },
+        {
+          "Date": "2024-12-01T21:57:23.4695587+11:00",
+          "Content": "Onion took 9 min."
+        },
+        {
+          "Date": "2024-12-01T23:15:51.1199107+11:00",
+          "Content": "Very plain without the rest of the cream."
         }
       ],
       "Timers": [
@@ -4965,7 +5006,7 @@
         "Minutes": 30.0,
         "Extra": ""
       },
-      "Difficulty": 3,
+      "Difficulty": 1,
       "Bulk": false,
       "Favourite": false,
       "Retired": false,
@@ -5059,7 +5100,12 @@
           "Content": "Combine sauce with potatoes, spring onions, chives. Season to taste with salt and pepper"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-11-30T20:07:36.5923163+11:00",
+          "Content": "Did a double batch today. 20min too long for the boiling, recipe should say keep an eye on them."
+        }
+      ],
       "Timers": [
         {
           "Name": "Potatoes",
@@ -6054,7 +6100,12 @@
           "Content": "Bake for 10 minutes, cool for 5"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2024-12-15T21:45:24.4157364+11:00",
+          "Content": "Made last night for christmas 2024. Did a quadruple batch and it made 630 biscuits, well above my estimate of 144."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -7277,6 +7328,14 @@
         {
           "Date": "2024-11-04T18:14:26.7291855+11:00",
           "Content": "done"
+        },
+        {
+          "Date": "2024-12-09T19:25:15.4083981+11:00",
+          "Content": "Used 3 cloves garlic, no chicken, washed the leaves and stems thoroughly. Stuck vaguely to the timers. Rounded all the sauce ingredients up to the nearest tablespoon."
+        },
+        {
+          "Date": "2024-12-09T19:26:00.2004853+11:00",
+          "Content": "And it was tastier than whatever I did last time."
         }
       ],
       "Timers": [
@@ -7841,6 +7900,10 @@
         {
           "Date": "2024-04-20T18:34:18.2295779+10:00",
           "Content": "Cooked today. Thick pieces of chicken take considerably longer, test with thermometer. Forgot to marinate and it came out okay. If someone helping in kitchen, can fry chicken, roll and fry flatbread at same time."
+        },
+        {
+          "Date": "2024-12-16T16:46:45.528736+11:00",
+          "Content": "Actually marinating ahead of time. Using 2cl garlic for marinade instead of 1."
         }
       ],
       "Timers": [
@@ -8762,6 +8825,14 @@
         {
           "Date": "2024-09-23T20:13:22.117631+10:00",
           "Content": "Actively smoking and still no crust. The base is burnt black but only a millimetre thick."
+        },
+        {
+          "Date": "2024-12-29T17:02:08.5131887+11:00",
+          "Content": "Used only half of capsicum, onion and broccoli, 4 large cloves garlic, the full carrot. Using chicken stock from can instead of proper vegetable stock from carton."
+        },
+        {
+          "Date": "2024-12-29T20:02:38.4270418+11:00",
+          "Content": "Did 1.5 cups risotto and scaled stock with it. Did something like double the tomato. Cooked the arborio for like 30 minutes on varying heat."
         }
       ],
       "Timers": [],
@@ -8941,6 +9012,18 @@
         {
           "Date": "2024-04-30T12:42:10.2781548+10:00",
           "Content": "Careful of spices sticking to bottom of pot and overcooking."
+        },
+        {
+          "Date": "2024-12-16T17:26:33.2282487+11:00",
+          "Content": "2 onions, cream instead of milk. Big leafed spinach chopped up."
+        },
+        {
+          "Date": "2024-12-16T17:57:26.6154231+11:00",
+          "Content": "Added an extra tbsp of tomato paste and gave it a minute before adding chickpeas. Simmered uncovered but could have covered for last bit?"
+        },
+        {
+          "Date": "2024-12-16T18:14:39.3219645+11:00",
+          "Content": "Skipped cornflour and simmered an extra 8 minutes."
         }
       ],
       "Timers": [
@@ -16642,6 +16725,472 @@
         },
         {
           "Name": "Rise 2",
+          "Seconds": 1800
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Tiramisu",
+      "Slug": "tiramisu",
+      "Type": "Dessert",
+      "Category": "Cakes",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 10.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 135.0,
+        "Extra": "plus chilling"
+      },
+      "Difficulty": 7,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Mum's recipe, conveyed with photo of the original newspaper article she snipped it out of. From someone running ec'co. It's meant to be 3 spirits, 30 ml brandy, 30 ml tia maria and 30 ml galliano. The original also does 2 layers not 3. The eggs and shaving the chocolate are a lot of fuss, and the chocolate makes a mess. Fantastic food.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Ground coffee",
+          "NameDetail": "",
+          "Quantity": 0.75,
+          "Unit": "cup",
+          "UnitDetail": "to make @400 ml",
+          "Group": ""
+        },
+        {
+          "Name": "Dark cooking chocolate",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Caster sugar",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Mascarpone",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brandy",
+          "NameDetail": "",
+          "Quantity": 45.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Tia maria",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Savoiardi",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@48 biscuits ish",
+          "Group": ""
+        },
+        {
+          "Name": "Thickened cream",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to serve",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Make coffee in cafetierra to @400 mls black coffee."
+        },
+        {
+          "Content": "Shave chocolate, keeping most of the block and the shaved stuff in the fridge."
+        },
+        {
+          "Content": "Separate eggs into FIVE yolks and FOUR whites."
+        },
+        {
+          "Content": "In mixmaster, cream yolks and sugar, add mascarpone and beat again."
+        },
+        {
+          "Content": "Whisk egg whites then fold into mascarpone mixture."
+        },
+        {
+          "Content": "Add alcohol to coffee and pour a little into a shallow dish to dip biscuits in."
+        },
+        {
+          "Content": "Dip savoiardi into coffee mixture for only a second, wet but not drenched. Arrange in a layer on base of cute glass dish."
+        },
+        {
+          "Content": "Top with a layer of mascarpone. Aim for 3 layers of biscuits and mixture, so use a third."
+        },
+        {
+          "Content": "Top that with a good layer of shaved chocolate."
+        },
+        {
+          "Content": "Repeat until 2 or 3 layers of biscuits, then top with any remaining mascarpone and more chocolate."
+        },
+        {
+          "Content": "Refrigerate for a few hours."
+        }
+      ],
+      "Diary": [],
+      "Timers": [],
+      "Cost": null
+    },
+    {
+      "Name": "Mushroom Risotto",
+      "Slug": "mushroom-risotto",
+      "Type": "Main",
+      "Category": "Rice",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 55.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "Tried to adapt this from my prawn risotto recipe, but then I found out my recipe forgets to add the prawns to the prawn risotto. For the record I used stock powder to make the stock and it was fine.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Mushrooms",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "@6 ish",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Arborio",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "White wine",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "@1 cup chopped",
+          "Group": ""
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to serve",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Warm up the stock."
+        },
+        {
+          "Content": "Dice onion finely, slice garlic thinly, halve and slice mushroom 5mm thick."
+        },
+        {
+          "Content": "In large pot in oil on medium-high, fry onions until softened."
+        },
+        {
+          "Content": "Add garlic, 2 minutes."
+        },
+        {
+          "Content": "Add arborio, fry until it sticks, 2 minutes."
+        },
+        {
+          "Content": "Add white wine and fry until it's gone."
+        },
+        {
+          "Content": "Ladle in stock a bit at a time. Stop before it gets too gluggy."
+        },
+        {
+          "Content": "In oil and butter in pan on high heat, fry mushrooms in @2 batches quickly until a bit golden."
+        },
+        {
+          "Content": "Chop parsley roughly."
+        },
+        {
+          "Content": "Combine all ingredients and add salt and pepper."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-11-29T13:12:21.6519973+11:00",
+          "Content": "Cooked on 2024-11-28, used chicken stock powder. Measured 6 mushrooms at 30g eaach and 2 cups chopped. Kept some mushrooms to the side to garnish with."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Garlic",
+          "Seconds": 120
+        },
+        {
+          "Name": "Arborio",
+          "Seconds": 120
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 1200
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Sausage Rolls",
+      "Slug": "sausage-rolls",
+      "Type": "Main",
+      "Category": "Pastries",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 16.0,
+        "Unit": "pieces",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 90.0,
+        "Extra": ""
+      },
+      "Difficulty": 6,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.taste.com.au/recipes/best-ever-homemade-sausage-rolls/c86a773f-0dfa-49cf-85fb-9e9dfefa059c}{taste.com} but their links always take me to news.com, search taste sausafe rolls. Did not freeze very well.",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "medium",
+          "Group": "filling"
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "@0.25 cup chopped",
+          "Group": "filling"
+        },
+        {
+          "Name": "Beef mince",
+          "NameDetail": "lean",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Sausage mince",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Tomato sauce",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Worcestershire sauce",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to vibe",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to vibe",
+          "UnitDetail": "",
+          "Group": "filling"
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Eggs",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Puff pastry",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "whole",
+          "UnitDetail": "sheets",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 220 degrees conventional."
+        },
+        {
+          "Content": "Finely dice onions, carrot and garlic, chop parsley."
+        },
+        {
+          "Content": "Combine all filling ingredients in a bowl and divide into @8."
+        },
+        {
+          "Content": "Whisk egg and combine with milk in small bowl."
+        },
+        {
+          "Content": "Cut pastry in half, lay filling down the long edge of pastry, brush opposite edge with egg mixture and then roll up. Repeat."
+        },
+        {
+          "Content": "Brush roll with egg mixture, then chop roll across in half."
+        },
+        {
+          "Content": "Place on tray 2 cm apart and bake for 30 minutes until golden."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-12-14T13:36:41.9796713+11:00",
+          "Content": "Made on 2024-11-21 for first time. They came up a not very cute shape, I think I should trim the dry ends of the pastry before baking. I froze some and they baked weird but still tasted fine, next time should half bake I think. Also, the meat shrinks so should have overfilled. Measured the filling at 1354 so 170 grams per roll and then halved again."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Bake",
           "Seconds": 1800
         }
       ],
