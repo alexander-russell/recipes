@@ -85,6 +85,11 @@ h1 {
     background: none;
     font-size: inherit;
     font-weight: bold;
+    color: black;
+}
+
+.search-button:hover {
+    color: darkred;
 }
 
 .search-results-wrapper {
