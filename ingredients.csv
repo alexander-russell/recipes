@@ -501,3 +501,145 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-11-18 00:00:00,Mayonnaise,6.5,405,grams,Woolworths,Cheap brand in plastic jar but still whole egg.
 2024-11-18 00:00:00,Sultanas,7,1,kg,Woolworths,
 2024-11-18 00:00:00,Farfalle pasta,3.2,500,grams,Woolworths,"La Molisana brand, ugly ribbed pattern on one side."
+2024-11-25 00:00:00,Sweet potato,2.49,1,kg,Sakura,
+2024-11-25 00:00:00,Milk,3.98,2,litres,Yonghui,
+2024-11-25 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
+2024-11-25 00:00:00,Capsicum,2.99,1,kg,Freshtown,Red
+2024-11-25 00:00:00,Bananas,3.99,1,kg,7Fresh,
+2024-11-25 00:00:00,Potatoes,5.99,2,kg,7Fresh,
+2024-11-25 00:00:00,Bananas,3.99,1,kg,7Fresh,
+2024-11-25 00:00:00,Mini chicken drumsticks,5.49,1,kg,Hong meat,
+2024-11-25 00:00:00,Mini chicken drumsticks,9,3,kg,Hong meat,
+2024-11-25 00:00:00,Mini chicken drumsticks,8,2,kg,Hong meat,
+2024-11-25 00:00:00,Thickened cream,3.99,300,ml,Superfresh,
+2024-11-25 00:00:00,Savoiardi,6.99,400,grams,Superfresh,48 biscuits
+2024-11-25 00:00:00,Tomato passata,3.29,700,grams,Superfresh,Val verde
+2024-11-25 00:00:00,Garlic,29.99,1,kg,Superfresh,
+2024-11-25 00:00:00,Mushrooms,9.99,1,kg,Superfresh,
+2024-11-25 00:00:00,Parsley,1.29,10,whole,Superfresh,one whole is one sprig
+2024-11-25 00:00:00,Mascarpone,4.8,250,grams,Woolworths,
+2024-11-25 00:00:00,Tomato sauce,1.95,500,ml,Woolworths,Home brand
+2024-11-25 00:00:00,Dark cooking chocolate,5,180,grams,Woolworths,Cadbury 70pct
+2024-11-25 00:00:00,White wraps,2.4,8,whole,Woolworths,Essentials brand
+2024-12-03 00:00:00,Capsicum,2.99,1,kg,Tonyon Warehouse,Red
+2024-12-03 00:00:00,Spring onions,1.39,10,whole,Tonyon Warehouse,
+2024-12-03 00:00:00,Garlic,29.99,1,kg,Superfresh,
+2024-12-03 00:00:00,Lime,15.99,1,kg,Superfresh,
+2024-12-03 00:00:00,Oregano,3.99,25,grams,Superfresh,G-fresh
+2024-12-03 00:00:00,Chicken breast,9.99,1,kg,Hong Meat,
+2024-12-03 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
+2024-12-03 00:00:00,Potatoes,5.99,2,kg,7Fresh,
+2024-12-03 00:00:00,Potatoes,3.99,1,kg,7Fresh,
+2024-12-03 00:00:00,Potatoes,4.99,1,kg,Superfresh,
+2024-12-03 00:00:00,Gai lan,2,8,whole,Sakura,
+2024-12-03 00:00:00,Milk,3.98,2,litres,Yonghui,
+2024-12-03 00:00:00,Brown onions,1.99,1,kg,Yonghui,
+2024-12-03 00:00:00,Cherry tomatoes,4.99,1,kg,Yonghui,
+2024-12-03 00:00:00,Tomato,2.99,1,kg,Yonghui,
+2024-12-03 00:00:00,Fresh coriander,0.99,20,whole,Yonghui,Whole sprigs
+2024-12-03 00:00:00,Eggs,7.99,12,whole,Yonghui,
+2024-12-03 00:00:00,Mayonnaise,6.3,440,grams,Woolworths,S&W brand whole egg
+2024-12-03 00:00:00,Breadcrumbs,3,750,grams,Woolworths,
+2024-12-03 00:00:00,Cheddar,7,250,grams,Woolworths,Mainland brand.
+2024-12-03 00:00:00,Spaghetti,2,500,grams,Woolworths,Zafarelli brand
+2024-12-06 00:00:00,Butter,4,250,grams,Woolworths,
+2024-12-11 00:00:00,Parmesan,6.5,200,grams,Woolies,Cheapest one
+2024-12-11 00:00:00,Bananas,2.49,1,kg,Sakura,
+2024-12-11 00:00:00,Brown onions,2.49,1,kg,Sakura,
+2024-12-11 00:00:00,Potatoes,3.99,1,kg,Sakura,
+2024-12-11 00:00:00,Milk,3.98,2,litres,Yonghui,
+2024-12-11 00:00:00,Cherry tomatoes,3.99,1,kg,Yonghui,
+2024-12-11 00:00:00,Cucumber,2.5,1,kg,Yonghui,
+2024-12-11 00:00:00,Cauliflower,4.99,1,whole,7Fresh,
+2024-12-11 00:00:00,Red onion,5.99,1,kg,7Fresh,
+2024-12-11 00:00:00,Chicken breast,9.99,1,kg,Hong Meat,
+2024-12-11 00:00:00,Parsley,1.29,10,whole,Superfresh,one whole is one sprig
+2024-12-11 00:00:00,Gnocchi,3.2,500,grams,Superfresh,
+2024-12-11 00:00:00,Olive oil,11,1,litre,Woolworths,Worst quality available.
+2024-12-11 00:00:00,Puff pastry,4,8,whole,Woolworths,
+2024-12-11 00:00:00,Mozzarella block,6,500,grams,Woolworths,
+2024-12-11 00:00:00,Pizza cheese,9.5,450,grams,Woolworths,Perfect italiano brand
+2024-12-11 00:00:00,White wraps,2.4,8,whole,Woolworths,Essentials brand
+2024-12-11 00:00:00,Paprika,3.99,90,grams,Superfresh,G-fresh brand
+2024-12-17 00:00:00,Tomato,3.99,1,kg,Happigo,
+2024-12-16 00:00:00,Carrots,2.99,1,kg,Superfresh,
+2024-12-16 00:00:00,Green grapes,2.99,1,kg,Superfresh,Bucket sale
+2024-12-16 00:00:00,Kiwi fruit,14.99,1,kg,Superfresh,
+2024-12-16 00:00:00,Milk,4.19,2,litres,Superfresh,
+2024-12-16 00:00:00,Garlic,19.99,1,kg,7fresh,
+2024-12-16 00:00:00,Ginger,19.99,1,kg,7fresh,
+2024-12-16 00:00:00,Brown onions,2.99,1,kg,7fresh,
+2024-12-16 00:00:00,Potatoes,3.99,1,kg,7fresh,
+2024-12-16 00:00:00,Tomato,4.99,1,kg,7fresh,
+2024-12-27 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
+2024-12-29 00:00:00,Garlic,20.05,1,kg,Kmall09,
+2024-12-29 00:00:00,Carrots,1.48,1,kg,Tonyon Warehouse,
+2024-12-29 00:00:00,Broccoli,2.99,1,kg,Tonyon Warehouse,
+2024-12-29 00:00:00,Capsicum,3.38,1,kg,Tonyon Warehouse,Red
+2024-12-29 00:00:00,Tomato,1.99,1,kg,Tonyon Warehouse,Quite small
+2024-12-30 00:00:00,Potatoes,3.99,1,kg,Sakura,
+2024-12-30 00:00:00,Ginger,19.99,1,kg,Sakura,
+2024-12-30 00:00:00,Fresh coriander,2.49,20,whole,Yonghui,Whole sprigs
+2024-12-30 00:00:00,Bananas,2.39,1,kg,Yonghui,
+2024-12-30 00:00:00,Milk,3.98,2,litres,Yonghui,
+2024-12-30 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
+2024-12-30 00:00:00,Red onion,2.68,1,kg,Tonyon Warehouse,
+2024-12-30 00:00:00,Tomato,1.99,1,kg,Tonyon Warehouse,Quite small
+2024-12-30 00:00:00,Red onion,5.99,1,kg,7fresh,
+2024-12-30 00:00:00,Chicken breast,9.99,1,kg,Hong Meat,
+2024-12-30 00:00:00,Leeks,4.99,2,whole,Superfresh,
+2024-12-30 00:00:00,Garlic,29.99,1,kg,Superfresh,Spanish
+2024-12-30 00:00:00,Eggs,7.99,12,whole,Freshtown,
+2024-12-30 00:00:00,Beef mince,13.99,1,kg,L&W meat,
+2024-12-30 00:00:00,Butter,7,500,grams,Woolworths,
+2024-12-30 00:00:00,Tomato paste,1.4,500,grams,Woolworths,Essentials brand
+2024-12-30 00:00:00,Halloumi,4.8,180,grams,Woolworths,
+2024-12-30 00:00:00,Cream cheese,3.1,250,grams,Woolworths,
+2024-12-30 00:00:00,Thickened cream,4.5,600,ml,Woolworths,
+2025-01-07 00:00:00,Ginger,24.99,1,kg,Sakura,
+2025-01-07 00:00:00,Leeks,2.99,1,whole,Sakura,
+2025-01-07 00:00:00,Cherry tomatoes,5.99,1,kg,Yonghui,
+2025-01-07 00:00:00,Milk,3.98,2,litres,Yonghui,
+2025-01-07 00:00:00,Tomato,3.99,1,kg,Yonghui,Normal quality
+2025-01-07 00:00:00,Peas,8.99,2,kg,Tonyon Warehouse,
+2025-01-07 00:00:00,Sweet potato,1.38,1,kg,Tonyon Warehouse,Very small
+2025-01-07 00:00:00,Eggs,7.99,12,whole,Freshtown,
+2025-01-07 00:00:00,Red onion,5.99,1,kg,7fresh,
+2025-01-07 00:00:00,Potatoes,4.99,1,kg,7fresh,Consistently good quality.
+2025-01-07 00:00:00,Jasmine rice,19.99,5,kg,7Fresh,
+2025-01-07 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
+2025-01-07 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-01-07 00:00:00,Basmati rice,7.5,2,kg,Woolworths,
+2025-01-07 00:00:00,Parmesan,6.5,200,grams,Woolies,Cheapest one
+2025-01-07 00:00:00,Butter,7,500,grams,Woolworths,
+2025-01-07 00:00:00,Sultanas,7,1,kg,Woolworths,
+2025-01-07 00:00:00,Farfalle pasta,4,500,grams,Woolworths,"La Molisana brand, ugly ribbed pattern on one side."
+2025-01-12 00:00:00,Ginger,29.99,1,kg,OK Supermarket,
+2025-01-12 00:00:00,Tomato passata,2.2,680,grams,Woolies,La Gina brand
+2025-01-15 00:00:00,Milk,3.98,2,litres,Yonghui,
+2025-01-15 00:00:00,Iceberg lettuce,2.99,1,whole,Yonghui,
+2025-01-15 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
+2025-01-15 00:00:00,Chinese celery,1.99,1,whole,Happigo,Maybe 10 little stems of celery
+2025-01-15 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
+2025-01-15 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-01-15 00:00:00,Garlic,19.99,1,kg,7Fresh,Spanish
+2025-01-15 00:00:00,Lemon,9.99,1,kg,7Fresh,Individual
+2025-01-15 00:00:00,Potatoes,4.99,1,kg,Superfresh,Consistently good quality.
+2025-01-15 00:00:00,Rigatoni,2.95,500,grams,Woolworths,San Remo brand
+2025-01-15 00:00:00,Brioche buns,6.5,4,whole,Woolworths,
+2025-01-26 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
+2024-01-21 00:00:00,Bean sprouts,1.29,400,grams,Sakura,Belmore brand
+2024-01-21 00:00:00,Cucumber,5.49,1,kg,Sakura,
+2024-01-21 00:00:00,Chow mein noodles,3.39,500,grams,Sakura,
+2024-01-21 00:00:00,Ginger,29.99,1,kg,Sakura,
+2024-01-21 00:00:00,Milk,3.98,2,litres,Yonghui,
+2024-01-21 00:00:00,Fresh coriander,1.8,20,whole,Yonghui,Whole sprigs
+2024-01-21 00:00:00,Red potatoes,2.68,1,kg,Tonyon Warehouse,
+2024-01-21 00:00:00,Brown onions,3.99,2,kg,7fresh,7fresh
+2024-01-21 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2024-01-21 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2024-01-21 00:00:00,Parsley,1.99,10,whole,Superfresh,one whole is one sprig
+2024-01-21 00:00:00,Mayonnaise,8.5,810,grams,Woolworths,Best Foods brand
+2024-01-21 00:00:00,Tomato passata,2.2,680,grams,Woolies,La Gina brand
+2024-01-21 00:00:00,Cherries,7.99,500,grams,Superfresh,Punnet
+2024-01-21 00:00:00,Iceberg lettuce,3.2,1,whole,Woolies,
