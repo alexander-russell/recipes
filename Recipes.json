@@ -17699,6 +17699,214 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Pizza Bianca with Potato",
+      "Slug": "pizza-bianca-with-potato",
+      "Type": "Main",
+      "Category": "Pizzas",
+      "DateCreated": "2024-08-10",
+      "DateRevised": "2025-02-08",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 10.0,
+        "Unit": "light pizzas",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 120.0,
+        "Extra": ""
+      },
+      "Difficulty": 8,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From Ottolenghi's book Simple, pg 151. Made it first years ago when I was just starting to be left home alone and somehow timed it coming out of the oven as Dad got home from a long and really rainy bike ride and maybe I also had the fireplace lit too.",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Bread flour",
+          "NameDetail": "",
+          "Quantity": 600.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Bread flour",
+          "NameDetail": "",
+          "Quantity": 600.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Dry yeast",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "warm",
+          "Quantity": 360.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Mascarpone",
+          "NameDetail": "",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": "",
+          "Quantity": 40.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Rosemary",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to sprinkle",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Lemon",
+          "NameDetail": "zest",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Spring onions",
+          "NameDetail": "",
+          "Quantity": 50.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "topping"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Combine flour, yeast and salt, then add oil and water and stir well."
+        },
+        {
+          "Content": "With oil on bench and hands, knead dough for 5 minutes."
+        },
+        {
+          "Content": "Split dough into 10 pieces, cover with wet tea towel and rise until doubled 60-90 minutes."
+        },
+        {
+          "Content": "Preheat oven to maximum heat whatever it is."
+        },
+        {
+          "Content": "Slice potatoes as thin as humanly possible."
+        },
+        {
+          "Content": "Mix potatoes with salt and oil then bake in a single layer for 7 minutes until browned."
+        },
+        {
+          "Content": "Preheat pizza oven."
+        },
+        {
+          "Content": "Combine mascarpone, grated parmesan, lemon zest and pepper in a medium bowl. Slice spring onions"
+        },
+        {
+          "Content": "Roll out dough , spread mascarpone mix (budget it), then lay down potateos, rosemary, spring onions and drizzle with oil."
+        },
+        {
+          "Content": "Bake in pizza oven until they look yummy and dough holds its shape on palette knife."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2025-02-08T16:04:41.4336779+11:00",
+          "Content": "I always end up with the wrong quantities by a little bit. Too many potatoes and not enough sauce seem like reasonable guesses but it ends up fine anyway. Tricky to spread the mascarpone. Takes like half an hour just to cut the potatoes, maybe I should do them thick and find out."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Knead",
+          "Seconds": 300
+        },
+        {
+          "Name": "Rise",
+          "Seconds": 3600
+        },
+        {
+          "Name": "Potatoes",
+          "Seconds": 420
+        }
+      ],
+      "Cost": null
     }
   ]
 }
