@@ -1483,8 +1483,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.96,
-        "AmountPerUnit": 6.96,
+        "Amount": 9.96,
+        "AmountPerUnit": 9.96,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -1554,10 +1554,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 2.997,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -1632,8 +1632,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6.96 per unit",
-        "ExclusionsString": "Excluding Lemon"
+        "CostString": "9.96 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -10085,8 +10085,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.62,
-        "AmountPerUnit": 7.62,
+        "Amount": 12.11,
+        "AmountPerUnit": 12.11,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -10124,10 +10124,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 4.4955,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Thickened cream",
@@ -10202,8 +10202,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.62 per unit",
-        "ExclusionsString": "Excluding \\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry} and Lemon"
+        "CostString": "12.11 per unit",
+        "ExclusionsString": "Excluding \\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}"
       }
     },
     {
@@ -12579,8 +12579,8 @@
         }
       ],
       "Cost": {
-        "Amount": 3.46,
-        "AmountPerUnit": 1.73,
+        "Amount": 3.84,
+        "AmountPerUnit": 1.92,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -12674,10 +12674,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.374625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Spring onions",
@@ -12752,8 +12752,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.73 per serve",
-        "ExclusionsString": "Excluding Lemon"
+        "CostString": "1.92 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -19427,8 +19427,8 @@
         }
       ],
       "Cost": {
-        "Amount": 21.63,
-        "AmountPerUnit": 5.41,
+        "Amount": 22.38,
+        "AmountPerUnit": 5.6,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -19658,10 +19658,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.74925,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Olive oil",
@@ -19896,8 +19896,8 @@
             "Extra": "Name not found: Flatbread"
           }
         ],
-        "CostString": "5.41 per serve",
-        "ExclusionsString": "Excluding Cardamom, Lemon, Lettuce and Flatbread"
+        "CostString": "5.6 per serve",
+        "ExclusionsString": "Excluding Cardamom, Lettuce and Flatbread"
       }
     },
     {
@@ -21883,8 +21883,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 10.12,
-        "AmountPerUnit": 3.37,
+        "Amount": 13.12,
+        "AmountPerUnit": 4.37,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -22146,14 +22146,14 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 2.997,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "3.37 per serve",
-        "ExclusionsString": "Excluding Lemon"
+        "CostString": "4.37 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -27142,8 +27142,8 @@
         }
       ],
       "Cost": {
-        "Amount": 21.97,
-        "AmountPerUnit": 5.49,
+        "Amount": 22.71,
+        "AmountPerUnit": 5.68,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -27405,10 +27405,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.74925,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Milk",
@@ -27467,8 +27467,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "5.49 per serve",
-        "ExclusionsString": "Excluding Lemon"
+        "CostString": "5.68 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -27701,8 +27701,8 @@
         }
       ],
       "Cost": {
-        "Amount": 19.03,
-        "AmountPerUnit": 3.17,
+        "Amount": 19.78,
+        "AmountPerUnit": 3.3,
         "Unit": "burritos",
         "ItemCosts": [
           {
@@ -28060,10 +28060,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.74925,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "White wraps",
@@ -28130,8 +28130,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.17 per unit",
-        "ExclusionsString": "Excluding Lemon"
+        "CostString": "3.3 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -37245,8 +37245,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 3.62,
-        "AmountPerUnit": 1.81,
+        "Amount": 6.62,
+        "AmountPerUnit": 3.31,
         "Unit": "cups",
         "ItemCosts": [
           {
@@ -37268,10 +37268,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 2.997,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Butter",
@@ -37346,8 +37346,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.81 per unit",
-        "ExclusionsString": "Excluding Lemon"
+        "CostString": "3.31 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -38403,8 +38403,8 @@
         }
       ],
       "Cost": {
-        "Amount": 25.06,
-        "AmountPerUnit": 6.26,
+        "Amount": 25.81,
+        "AmountPerUnit": 6.45,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -38850,14 +38850,14 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.74925,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "6.26 per serve",
-        "ExclusionsString": "Excluding Sriracha, Sriracha and Lemon"
+        "CostString": "6.45 per serve",
+        "ExclusionsString": "Excluding Sriracha and Sriracha"
       }
     },
     {
@@ -39308,8 +39308,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.72,
-        "AmountPerUnit": 2.43,
+        "Amount": 10.47,
+        "AmountPerUnit": 2.62,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -39451,10 +39451,10 @@
               "Source": "7Fresh",
               "Extra": "Individual"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 0.74925,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Nutmeg",
@@ -39481,8 +39481,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.43 per serve",
-        "ExclusionsString": "Excluding Lemon"
+        "CostString": "2.62 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -43914,6 +43914,558 @@
         ],
         "CostString": "0.8 per serve",
         "ExclusionsString": "Excluding Bratwurst sausage, Celery, Green capsicum, Dry kidney beans, Cajun seasoning, Dried thyme, Dried parsley and Long grain rice"
+      }
+    },
+    {
+      "Name": "Pizza Bianca with Potato",
+      "Slug": "pizza-bianca-with-potato",
+      "Type": "Main",
+      "Category": "Pizzas",
+      "DateCreated": "2024-08-10",
+      "DateRevised": "2025-02-08",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 10.0,
+        "Unit": "light pizzas",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 120.0,
+        "Extra": ""
+      },
+      "Difficulty": 8,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From Ottolenghi's book Simple, pg 151. Made it first years ago when I was just starting to be left home alone and somehow timed it coming out of the oven as Dad got home from a long and really rainy bike ride and maybe I also had the fireplace lit too.",
+      "Image": "",
+      "Items": [
+        {
+          "Name": "Bread flour",
+          "NameDetail": "",
+          "Quantity": 600.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Bread flour",
+          "NameDetail": "",
+          "Quantity": 600.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Dry yeast",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "warm",
+          "Quantity": 360.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": "dough"
+        },
+        {
+          "Name": "Potatoes",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Mascarpone",
+          "NameDetail": "",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": "",
+          "Quantity": 40.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Rosemary",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to sprinkle",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Lemon",
+          "NameDetail": "zest",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Spring onions",
+          "NameDetail": "",
+          "Quantity": 50.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "topping"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "topping"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Combine flour, yeast and salt, then add oil and water and stir well."
+        },
+        {
+          "Content": "With oil on bench and hands, knead dough for 5 minutes."
+        },
+        {
+          "Content": "Split dough into 10 pieces, cover with wet tea towel and rise until doubled 60-90 minutes."
+        },
+        {
+          "Content": "Preheat oven to maximum heat whatever it is."
+        },
+        {
+          "Content": "Slice potatoes as thin as humanly possible."
+        },
+        {
+          "Content": "Mix potatoes with salt and oil then bake in a single layer for 7 minutes until browned."
+        },
+        {
+          "Content": "Preheat pizza oven."
+        },
+        {
+          "Content": "Combine mascarpone, grated parmesan, lemon zest and pepper in a medium bowl. Slice spring onions"
+        },
+        {
+          "Content": "Roll out dough , spread mascarpone mix (budget it), then lay down potateos, rosemary, spring onions and drizzle with oil."
+        },
+        {
+          "Content": "Bake in pizza oven until they look yummy and dough holds its shape on palette knife."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2025-02-08T16:04:41.4336779+11:00",
+          "Content": "I always end up with the wrong quantities by a little bit. Too many potatoes and not enough sauce seem like reasonable guesses but it ends up fine anyway. Tricky to spread the mascarpone. Takes like half an hour just to cut the potatoes, maybe I should do them thick and find out."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Knead",
+          "Seconds": 300
+        },
+        {
+          "Name": "Rise",
+          "Seconds": 3600
+        },
+        {
+          "Name": "Potatoes",
+          "Seconds": 420
+        }
+      ],
+      "Cost": {
+        "Amount": 13.0,
+        "AmountPerUnit": 1.3,
+        "Unit": "light pizzas",
+        "ItemCosts": [
+          {
+            "Name": "Bread flour",
+            "Item": {
+              "Name": "Bread flour",
+              "NameDetail": "",
+              "Quantity": 600.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "dough"
+            },
+            "Ingredient": {
+              "Date": "2024-08-30T23:03:49",
+              "Name": "Bread flour",
+              "Price": 21.5,
+              "Quantity": 12.5,
+              "Unit": "kg",
+              "Source": "New Yen Yen",
+              "Extra": "Manilda protein enriched flour in bulk."
+            },
+            "Amount": 1.032,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Bread flour",
+            "Item": {
+              "Name": "Bread flour",
+              "NameDetail": "",
+              "Quantity": 600.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "dough"
+            },
+            "Ingredient": {
+              "Date": "2024-08-30T23:03:49",
+              "Name": "Bread flour",
+              "Price": 21.5,
+              "Quantity": 12.5,
+              "Unit": "kg",
+              "Source": "New Yen Yen",
+              "Extra": "Manilda protein enriched flour in bulk."
+            },
+            "Amount": 1.032,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Dry yeast",
+            "Item": {
+              "Name": "Dry yeast",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "dough"
+            },
+            "Ingredient": {
+              "Date": "2023-12-21T00:00:00",
+              "Name": "Dry yeast",
+              "Price": 4.8,
+              "Quantity": 280.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 0.257142857142857,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.5,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "dough"
+            },
+            "Ingredient": {
+              "Date": "2024-09-09T00:00:00",
+              "Name": "Salt",
+              "Price": 4.5,
+              "Quantity": 750.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Saxa salt for better pouring"
+            },
+            "Amount": 0.015,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Olive oil",
+            "Item": {
+              "Name": "Olive oil",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "dough"
+            },
+            "Ingredient": {
+              "Date": "2024-12-11T00:00:00",
+              "Name": "Olive oil",
+              "Price": 11.0,
+              "Quantity": 1.0,
+              "Unit": "litre",
+              "Source": "Woolworths",
+              "Extra": "Worst quality available."
+            },
+            "Amount": 0.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Item": {
+              "Name": "Water",
+              "NameDetail": "warm",
+              "Quantity": 360.0,
+              "Unit": "ml",
+              "UnitDetail": "",
+              "Group": "dough"
+            },
+            "Ingredient": {
+              "Date": "2023-11-05T00:00:00",
+              "Name": "Water",
+              "Price": 0.0,
+              "Quantity": 1.0,
+              "Unit": "ml",
+              "Source": "Tap",
+              "Extra": "Free item woohoo"
+            },
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Potatoes",
+            "Item": {
+              "Name": "Potatoes",
+              "NameDetail": "",
+              "Quantity": 400.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": {
+              "Date": "2025-01-15T00:00:00",
+              "Name": "Potatoes",
+              "Price": 4.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Superfresh",
+              "Extra": "Consistently good quality."
+            },
+            "Amount": 1.996,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Olive oil",
+            "Item": {
+              "Name": "Olive oil",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": {
+              "Date": "2024-12-11T00:00:00",
+              "Name": "Olive oil",
+              "Price": 11.0,
+              "Quantity": 1.0,
+              "Unit": "litre",
+              "Source": "Woolworths",
+              "Extra": "Worst quality available."
+            },
+            "Amount": 0.495,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Mascarpone",
+            "Item": {
+              "Name": "Mascarpone",
+              "NameDetail": "",
+              "Quantity": 250.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": {
+              "Date": "2024-11-25T00:00:00",
+              "Name": "Mascarpone",
+              "Price": 4.8,
+              "Quantity": 250.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 4.8,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parmesan",
+            "Item": {
+              "Name": "Parmesan",
+              "NameDetail": "",
+              "Quantity": 40.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": {
+              "Date": "2025-01-07T00:00:00",
+              "Name": "Parmesan",
+              "Price": 6.5,
+              "Quantity": 200.0,
+              "Unit": "grams",
+              "Source": "Woolies",
+              "Extra": "Cheapest one"
+            },
+            "Amount": 1.3,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Rosemary",
+            "Item": {
+              "Name": "Rosemary",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to sprinkle",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Rosemary"
+          },
+          {
+            "Name": "Lemon",
+            "Item": {
+              "Name": "Lemon",
+              "NameDetail": "zest",
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": {
+              "Date": "2025-01-15T00:00:00",
+              "Name": "Lemon",
+              "Price": 9.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "7Fresh",
+              "Extra": "Individual"
+            },
+            "Amount": 1.4985,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Spring onions",
+            "Item": {
+              "Name": "Spring onions",
+              "NameDetail": "",
+              "Quantity": 50.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": {
+              "Date": "2024-12-03T00:00:00",
+              "Name": "Spring onions",
+              "Price": 1.39,
+              "Quantity": 10.0,
+              "Unit": "whole",
+              "Source": "Tonyon Warehouse",
+              "Extra": ""
+            },
+            "Amount": 0.0834,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "Pepper",
+            "Item": {
+              "Name": "Pepper",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "",
+              "Group": "topping"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          }
+        ],
+        "CostString": "1.3 per unit",
+        "ExclusionsString": "Excluding Rosemary"
       }
     }
   ]
