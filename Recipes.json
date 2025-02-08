@@ -17742,14 +17742,6 @@
           "Group": "dough"
         },
         {
-          "Name": "Bread flour",
-          "NameDetail": "",
-          "Quantity": 600.0,
-          "Unit": "grams",
-          "UnitDetail": "",
-          "Group": "dough"
-        },
-        {
           "Name": "Dry yeast",
           "NameDetail": "",
           "Quantity": 3.0,
@@ -17904,6 +17896,172 @@
         {
           "Name": "Potatoes",
           "Seconds": 420
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Chicken and Leek Pies",
+      "Slug": "chicken-and-leek-pies",
+      "Type": "Main",
+      "Category": "Pies",
+      "DateCreated": "2024-08-26",
+      "DateRevised": "2025-02-08",
+      "Cuisine": "British",
+      "Key": "",
+      "Yield": {
+        "Quantity": 7.0,
+        "Unit": "pies",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 90.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.bbcgoodfood.com/recipes/roast-chicken-pie}{BBC good food} but with changes because the first time we made it we were also trying to watch a televised game of goalball and were turning the chicken in commercial breaks.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Bacon",
+          "NameDetail": null,
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Chicken thigh",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Leeks",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": null,
+          "Quantity": 45.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": null,
+          "Quantity": 45.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 225.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": null,
+          "Quantity": 200.0,
+          "Unit": "ml",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": null,
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Dijon mustard",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Puff pastry",
+          "NameDetail": null,
+          "Quantity": 4.0,
+          "Unit": "whole",
+          "UnitDetail": "sheets",
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Chop bacon into 5mm by 3cm strips, slice leeks into 4mm discs."
+        },
+        {
+          "Content": "Rub chicken with salt, pepper, oil and bake whole for 30 minutes or so, turn halfway."
+        },
+        {
+          "Content": "Fry bacon on medium-high heat in large pot until browned."
+        },
+        {
+          "Content": "Add leek fry until softened."
+        },
+        {
+          "Content": "Assemble pie cases and keep in fridge."
+        },
+        {
+          "Content": "Mix butter and flour together then add to pan. Add milk gradually."
+        },
+        {
+          "Content": "Add chicken stock and peas, fry another 4 minuets."
+        },
+        {
+          "Content": "Add mustard remove from heat."
+        },
+        {
+          "Content": "Chop chicken into rough 2cm by 1cm chunks and mix in."
+        },
+        {
+          "Content": "Assemble pies and cook in pie maker for 14 minutes."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Chicken",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Peas",
+          "Seconds": 240
+        },
+        {
+          "Name": "Pies",
+          "Seconds": 840
         }
       ],
       "Cost": null

@@ -43958,14 +43958,6 @@
           "Group": "dough"
         },
         {
-          "Name": "Bread flour",
-          "NameDetail": "",
-          "Quantity": 600.0,
-          "Unit": "grams",
-          "UnitDetail": "",
-          "Group": "dough"
-        },
-        {
           "Name": "Dry yeast",
           "NameDetail": "",
           "Quantity": 3.0,
@@ -44123,34 +44115,10 @@
         }
       ],
       "Cost": {
-        "Amount": 13.0,
-        "AmountPerUnit": 1.3,
+        "Amount": 11.97,
+        "AmountPerUnit": 1.2,
         "Unit": "light pizzas",
         "ItemCosts": [
-          {
-            "Name": "Bread flour",
-            "Item": {
-              "Name": "Bread flour",
-              "NameDetail": "",
-              "Quantity": 600.0,
-              "Unit": "grams",
-              "UnitDetail": "",
-              "Group": "dough"
-            },
-            "Ingredient": {
-              "Date": "2024-08-30T23:03:49",
-              "Name": "Bread flour",
-              "Price": 21.5,
-              "Quantity": 12.5,
-              "Unit": "kg",
-              "Source": "New Yen Yen",
-              "Extra": "Manilda protein enriched flour in bulk."
-            },
-            "Amount": 1.032,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
-          },
           {
             "Name": "Bread flour",
             "Item": {
@@ -44464,8 +44432,422 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.3 per unit",
+        "CostString": "1.2 per unit",
         "ExclusionsString": "Excluding Rosemary"
+      }
+    },
+    {
+      "Name": "Chicken and Leek Pies",
+      "Slug": "chicken-and-leek-pies",
+      "Type": "Main",
+      "Category": "Pies",
+      "DateCreated": "2024-08-26",
+      "DateRevised": "2025-02-08",
+      "Cuisine": "British",
+      "Key": "",
+      "Yield": {
+        "Quantity": 7.0,
+        "Unit": "pies",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 90.0,
+        "Extra": ""
+      },
+      "Difficulty": 4,
+      "Bulk": true,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "From \\href{https://www.bbcgoodfood.com/recipes/roast-chicken-pie}{BBC good food} but with changes because the first time we made it we were also trying to watch a televised game of goalball and were turning the chicken in commercial breaks.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Bacon",
+          "NameDetail": "",
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken thigh",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Leeks",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 45.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 45.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 225.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": "",
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dijon mustard",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Puff pastry",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "whole",
+          "UnitDetail": "sheets",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Preheat oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Chop bacon into 5mm by 3cm strips, slice leeks into 4mm discs."
+        },
+        {
+          "Content": "Rub chicken with salt, pepper, oil and bake whole for 30 minutes or so, turn halfway."
+        },
+        {
+          "Content": "Fry bacon on medium-high heat in large pot until browned."
+        },
+        {
+          "Content": "Add leek fry until softened."
+        },
+        {
+          "Content": "Assemble pie cases and keep in fridge."
+        },
+        {
+          "Content": "Mix butter and flour together then add to pan. Add milk gradually."
+        },
+        {
+          "Content": "Add chicken stock and peas, fry another 4 minuets."
+        },
+        {
+          "Content": "Add mustard remove from heat."
+        },
+        {
+          "Content": "Chop chicken into rough 2cm by 1cm chunks and mix in."
+        },
+        {
+          "Content": "Assemble pies and cook in pie maker for 14 minutes."
+        }
+      ],
+      "Diary": [],
+      "Timers": [
+        {
+          "Name": "Chicken",
+          "Seconds": 1800
+        },
+        {
+          "Name": "Peas",
+          "Seconds": 240
+        },
+        {
+          "Name": "Pies",
+          "Seconds": 840
+        }
+      ],
+      "Cost": {
+        "Amount": 16.48,
+        "AmountPerUnit": 2.35,
+        "Unit": "pies",
+        "ItemCosts": [
+          {
+            "Name": "Bacon",
+            "Item": {
+              "Name": "Bacon",
+              "NameDetail": "",
+              "Quantity": 150.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-10-28T00:00:00",
+              "Name": "Bacon",
+              "Price": 13.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Superfresh",
+              "Extra": "Zammit brand."
+            },
+            "Amount": 2.0985,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken thigh",
+            "Item": {
+              "Name": "Chicken thigh",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-01-15T00:00:00",
+              "Name": "Chicken thigh",
+              "Price": 11.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Hong meat",
+              "Extra": ""
+            },
+            "Amount": 3.597,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Leeks",
+            "Item": {
+              "Name": "Leeks",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-01-07T00:00:00",
+              "Name": "Leeks",
+              "Price": 2.99,
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "Source": "Sakura",
+              "Extra": ""
+            },
+            "Amount": 5.98,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Item": {
+              "Name": "Butter",
+              "NameDetail": "",
+              "Quantity": 45.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-01-07T00:00:00",
+              "Name": "Butter",
+              "Price": 7.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 0.63,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Plain flour",
+            "Item": {
+              "Name": "Plain flour",
+              "NameDetail": "",
+              "Quantity": 45.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-10-28T00:00:00",
+              "Name": "Plain flour",
+              "Price": 8.48,
+              "Quantity": 5.0,
+              "Unit": "kg",
+              "Source": "Yonghui",
+              "Extra": ""
+            },
+            "Amount": 0.07632,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Milk",
+            "Item": {
+              "Name": "Milk",
+              "NameDetail": "",
+              "Quantity": 225.0,
+              "Unit": "ml",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-01-15T00:00:00",
+              "Name": "Milk",
+              "Price": 3.98,
+              "Quantity": 2.0,
+              "Unit": "litres",
+              "Source": "Yonghui",
+              "Extra": ""
+            },
+            "Amount": 0.44775,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Chicken stock",
+            "Item": {
+              "Name": "Chicken stock",
+              "NameDetail": "",
+              "Quantity": 200.0,
+              "Unit": "ml",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-09-04T22:41:24",
+              "Name": "Chicken stock",
+              "Price": 4.5,
+              "Quantity": 1.0,
+              "Unit": "litre",
+              "Source": "Coles",
+              "Extra": "Campbells real stock. Reduced salt."
+            },
+            "Amount": 0.9,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Peas",
+            "Item": {
+              "Name": "Peas",
+              "NameDetail": "",
+              "Quantity": 150.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-01-07T00:00:00",
+              "Name": "Peas",
+              "Price": 8.99,
+              "Quantity": 2.0,
+              "Unit": "kg",
+              "Source": "Tonyon Warehouse",
+              "Extra": ""
+            },
+            "Amount": 0.67425,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Dijon mustard",
+            "Item": {
+              "Name": "Dijon mustard",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-09-09T00:00:00",
+              "Name": "Dijon mustard",
+              "Price": 2.9,
+              "Quantity": 200.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Your Condiment Co. brand"
+            },
+            "Amount": 0.0725,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Puff pastry",
+            "Item": {
+              "Name": "Puff pastry",
+              "NameDetail": "",
+              "Quantity": 4.0,
+              "Unit": "whole",
+              "UnitDetail": "sheets",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-12-11T00:00:00",
+              "Name": "Puff pastry",
+              "Price": 4.0,
+              "Quantity": 8.0,
+              "Unit": "whole",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 2.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "2.35 per unit",
+        "ExclusionsString": ""
       }
     }
   ]
