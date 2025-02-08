@@ -17252,6 +17252,223 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Red Beans and Rice",
+      "Slug": "red-beans-and-rice",
+      "Type": "Main",
+      "Category": "Soups",
+      "Cuisine": "Louisiana",
+      "Key": "",
+      "Yield": {
+        "Quantity": 6.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 360.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "Got this from a list on All Recipes because I was craving the idea of sausages and rice and some sauce soaking into the rice and it exists. It exists \\href{https://www.allrecipes.com/recipe/229602/authentic-new-orleans-red-beans-and-rice/}{here}. The frequent stirring makes it creamier. I made it while watching a 3.5 hour livestreamed concert with 2 songs per performer, and between sets I'd stir the pot.",
+      "Image": "Local",
+      "Items": [
+        {
+          "Name": "Bratwurst sausage",
+          "NameDetail": "",
+          "Quantity": 450.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "big",
+          "Group": ""
+        },
+        {
+          "Name": "Celery",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "stalks",
+          "UnitDetail": "same volume as onion",
+          "Group": ""
+        },
+        {
+          "Name": "Green capsicum",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dry kidney beans",
+          "NameDetail": "",
+          "Quantity": 450.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 8.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bacon",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bay leaves",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cajun seasoning",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dried thyme",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Dried parsley",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Onion powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Long grain rice",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Rinse beans in water and drain."
+        },
+        {
+          "Content": "Halve and slice sausage 5mm."
+        },
+        {
+          "Content": "Dice onions 1.5cm, slice celery 5mm, dice capsicum 1.5cm, slice garlic thinly."
+        },
+        {
+          "Content": "Roughly chop bacon."
+        },
+        {
+          "Content": "Bring beans, bacon and water to boil in large pot (could do later to save on washing)."
+        },
+        {
+          "Content": "On medium-high heat in oil in large pot brown the sausage pieces, remove to bowl."
+        },
+        {
+          "Content": "Still on medium-high heat, in more oil, fry onion, celery, capsicum, garlic for 10 minutes."
+        },
+        {
+          "Content": "Once beans boiling and veggies are a bit brown, add veggies to beans and return to boil."
+        },
+        {
+          "Content": "Add spices, reduced to low and simmer covered for 5 hours, stirring every 20 minutes or so."
+        },
+        {
+          "Content": "Cook rice (don't necessarily do it all on the night, make fresh next day)."
+        },
+        {
+          "Content": "As the beans finish up, stir in the sausages and check seasoning."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2025-02-08T13:15:29.5365628+11:00",
+          "Content": "Bought kidney beans which are apparently different from red beans. Didn't soak probably should have for fun but probably not an issue with 5 hours cook time. I used $1/kg bacon instead of a smoked ham hock and bratwurst instead of andouille. Putting the sausage in at the end was suggested in a different recipe I reckon it stops everything being homogenous. Resisted having a heavy hand with the cajun seasoning. Beans got weirdly wrinkled while they sat in water but I think that went away as they hydrated fully and also fell apart."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Veggies",
+          "Seconds": 600
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 18000
+        },
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        }
+      ],
+      "Cost": null
     }
   ]
 }
