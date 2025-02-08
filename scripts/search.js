@@ -21,7 +21,7 @@ function start(recipes) {
 
     // Add form event listener to display quick results on input change
     input.addEventListener("input", () => {
-        // populateResults(input.value, activeRecipes);
+        populateResults(input.value, activeRecipes);
     });
 
     // Add form event listeners to go to full results on return or button press
