@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Alex's Recipes!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/recipes/css/viewer.css">
+    <script src="/recipes/scripts/common.js"></script>
+    <script src="/recipes/scripts/viewer-timers.js"></script>
+    <script src="/recipes/scripts/viewer-main.js"></script>
+</head>
+
+<body>
+    <div class="recipe-wrapper">
+        <section class="recipe">
+            <div class="recipe-header-wrapper">
+                <div class="recipe-glance">
+                    <h2 class="recipe-grouping">
+                        <a href="/recipes/contents">
+                            <span class="grouping-type"></span><span class="grouping-category"></span>
+                        </a>
+                    </h2>
+                    <div class="icons-wrapper">
+                        <ul class="icons-list">
+                        </ul>
+                    </div>
+                </div>
+                <h1 class="recipe-name"></h1>
+            </div>
+            <div class="recipe-content-wrapper">
+                <div class="info-wrapper">
+                    <div class="attributes-wrapper">
+                        <p class="attributes-list">
+                            <span class="time">
+                                <span class="attribute-name">Time</span>
+                                <span class="time-value"></span>
+                            </span>
+                            <span class="yield">
+                                <span class="attribute-name">Yields</span>
+                                <span class="yield-value">
+                                    <input class="yield-quantity" size="1" value="1" autocomplete="off"></input>
+                                    <span> </span>
+                                    <span class="yield-unit"></span>
+                                </span>
+                            </span>
+                            <span class="cost-wrapper">
+                                <span class="attribute-name">Cost</span>
+                                <span class="cost-value"></span>
+                            </span>
+                            <span class="difficulty">
+                                <span class="attribute-name">Difficulty</span>
+                                <span class="difficulty-value"></span>
+                            </span>
+                        </p>
+                        <div class="cost-attribute-extra-wrapper">
+                            <p class="cost-attribute-extra"></p>
+                        </div>
+                    </div>
+                    <div class="notes-wrapper">
+                        <p class="notes">
+                        </p>
+                    </div>
+                    <div class="timers-wrapper">
+                        <div class="timers">
+                        </div>
+                    </div>
+                </div>
+                <div class="items-wrapper">
+                    <h3>Ingredients</h3>
+                    <div class="items-list-wrapper">
+                        <ul class="items-list">
+                        </ul>
+                    </div>
+                    <div class="items-list-float-clear"></div>
+                </div>
+                <div class="steps-wrapper">
+                    <h3>Steps</h3>
+                    <ol class="steps-list">
+                    </ol>
+                </div>
+            </div>
+            <div class="overlay-background recipe-image-background hidden">
+                <div class="recipe-image-wrapper">
+                    <img class="recipe-image" src="" alt="">
+                    <div class="image-close-wrapper">
+                        <button class="image-close">Close</button>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay-background recipe-diary-background hidden">
+                <div class="recipe-diary-wrapper">
+                    <div>
+                        <dl class="recipe-diary">
+                        </dl>
+                        <div class="diary-close-wrapper">
+                            <button class="diary-close">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay-background recipe-cost-background hidden">
+                <div class="recipe-cost-wrapper">
+                    <div>
+                        <table class="recipe-cost">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Quantity</th>
+                                    <th>Price</th>
+                                    <th>Cost</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                            <tfoot>
+                                <tr>
+                                    <td colspan="3">
+                                        Total
+                                    </td>
+                                    <td class="total-cell">$-</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                        <div class="cost-close-wrapper">
+                            <button class="cost-close">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>

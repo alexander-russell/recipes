@@ -380,7 +380,7 @@
         "Vegan": true,
         "GlutenFree": false
       },
-      "Note": "Taken from Uncle Tony. This recipe revolves around the ratio, take the quantities listed here as a ratio and scale it to whatever is convenient. For a list of toppings, go to \\hyperref[cat:Pizzas]{Pizzas}, which will all use this dough recipe.",
+      "Note": "From Uncle Tony. Take the quantities listed here as a ratio and scale it to whatever is convenient.",
       "Image": "",
       "Images": null,
       "Items": [
@@ -2542,7 +2542,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From mum, who got it from a Thai cooking course. This recipe is time consuming and needs specific spring roll wrappers and access to a deep fryer, so is likely inconvenient. It is important not to overcook the rolls to keep them crispy. Works well with \\hyperref[rec:Sweet Dipping Sauce]{Sweet Dipping Sauce}",
+      "Note": "From mum, who got it from a Thai cooking course. This recipe is time consuming and needs specific spring roll wrappers and access to a deep fryer, so is likely inconvenient. It is important not to overcook the rolls to keep them crispy. Works well with the Sweet Dipping Sauce in the sauce section",
       "Image": "",
       "Images": null,
       "Items": [
@@ -5550,7 +5550,7 @@
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": true,
-      "Retired": true,
+      "Retired": false,
       "Tested": true,
       "NeedsRevision": true,
       "Dietary": {
@@ -5559,16 +5559,152 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitue the bechamel entirely for ricotta to save time. Tray should be 20x30cm. One box of lasagne sheets at Aldi has 15 pieces, but have 2 boxes around rather than running out halfway.",
+      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitute the bechamel entirely for ricotta to save time. Tray should be 20x30cm. One box of lasagne sheets at Aldi has 15 pieces, but have 2 boxes around rather than running out halfway. Skip beef and add more carrots and peas and onions and its still tasty.",
       "Image": "Local",
       "Images": [
         "main.avif"
       ],
       "Items": [
         {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 6.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Beef mince",
+          "NameDetail": "4-star",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Red wine",
+          "NameDetail": "",
+          "Quantity": 0.33,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Diced tomatoes",
+          "NameDetail": "",
+          "Quantity": 800.0,
+          "Unit": "grams",
+          "UnitDetail": "@2 cans",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Tomato passata",
+          "NameDetail": "",
+          "Quantity": 700.0,
+          "Unit": "ml",
+          "UnitDetail": "@1 jar",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "lots",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "lots",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 600.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "White pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
           "Name": "Lasagne sheets",
           "NameDetail": "",
-          "Quantity": 16.0,
+          "Quantity": 20.0,
           "Unit": "whole",
           "UnitDetail": "2 boxes or so",
           "Group": ""
@@ -5580,42 +5716,44 @@
           "Unit": "cup",
           "UnitDetail": "",
           "Group": ""
-        },
-        {
-          "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
-        },
-        {
-          "Name": "\\hyperref[rec:Bolognese]{Bolognese sauce}",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
         }
       ],
       "Steps": [
         {
-          "Content": "Make the \\hyperref[rec:Bolognese]{Bolognese sauce} as per the \\hyperref[rec:Bolognese]{linked recipe}, leaving out the pasta"
+          "Content": "Dice onion 1cm, halve and slice carrot 5mm, slice garlic thinly."
         },
         {
-          "Content": "Preheat the oven to 180 degrees"
+          "Content": "In large pot on medium-high in oil, fry onion, then after thats going add carrot, get them a little brown."
         },
         {
-          "Content": "Make the \\hyperref[rec:Bechamel]{Bechamel sauce}"
+          "Content": "Make bechamel sauce (heat milk then butter and flour in saucepan and fry a min or two, add milk bit by bit then cook on low for 10 minutes stirring)"
         },
         {
-          "Content": "Layer the components bolognese then bechamel then sheet and repeat"
+          "Content": "Up the heat to high, then add the beef mince and stir through. Let it sit for a bit."
         },
         {
-          "Content": "Top with grated cheese"
+          "Content": "Add the garlic and tomato paste, let them fry for a minute or two."
         },
         {
-          "Content": "Bake for 45-60 minutes TBC"
+          "Content": "Add red wine and stir until it goes away (or soaks into the beef)"
+        },
+        {
+          "Content": "Add diced tomatoes, sugar, passata and a pile of salt and pepper. Simmer for a while, 20-30 minutes."
+        },
+        {
+          "Content": "Preheat the oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Add the peas a little before the sauce is finished."
+        },
+        {
+          "Content": "Layer the components bolognese then bechamel then sheet and repeat, save a little bolognese for the top or else the top layer won't cook."
+        },
+        {
+          "Content": "Top with bolognese and grated cheese."
+        },
+        {
+          "Content": "Bake for 45 minutes."
         }
       ],
       "Diary": [
@@ -5626,16 +5764,392 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 6.32,
-        "AmountPerUnit": 1.05,
+        "Amount": 21.8,
+        "AmountPerUnit": 3.63,
         "Unit": "serves",
         "ItemCosts": [
+          {
+            "Name": "Brown onions",
+            "Item": {
+              "Name": "Brown onions",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Brown onions",
+              "Price": 3.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "7Fresh",
+              "Extra": ""
+            },
+            "Amount": 0.9975,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Carrots",
+            "Item": {
+              "Name": "Carrots",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2024-12-29T00:00:00",
+              "Name": "Carrots",
+              "Price": 1.48,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Tonyon Warehouse",
+              "Extra": ""
+            },
+            "Amount": 0.148,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Item": {
+              "Name": "Garlic",
+              "NameDetail": "",
+              "Quantity": 6.0,
+              "Unit": "cloves",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2025-01-29T00:00:00",
+              "Name": "Garlic",
+              "Price": 14.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Freshtown",
+              "Extra": "Spanish"
+            },
+            "Amount": 1.12425,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Beef mince",
+            "Item": {
+              "Name": "Beef mince",
+              "NameDetail": "4-star",
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Beef mince",
+              "Price": 9.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Hong Meat",
+              "Extra": ""
+            },
+            "Amount": 4.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Red wine",
+            "Item": {
+              "Name": "Red wine",
+              "NameDetail": "",
+              "Quantity": 0.33,
+              "Unit": "cup",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2025-01-29T00:00:00",
+              "Name": "Red wine",
+              "Price": 9.99,
+              "Quantity": 4.0,
+              "Unit": "litres",
+              "Source": "Mr Liquor",
+              "Extra": "Cask red wine"
+            },
+            "Amount": 0.20604375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tomato paste",
+            "Item": {
+              "Name": "Tomato paste",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2024-12-30T00:00:00",
+              "Name": "Tomato paste",
+              "Price": 1.4,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Essentials brand"
+            },
+            "Amount": 0.084,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Diced tomatoes",
+            "Item": {
+              "Name": "Diced tomatoes",
+              "NameDetail": "",
+              "Quantity": 800.0,
+              "Unit": "grams",
+              "UnitDetail": "@2 cans",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2025-01-29T00:00:00",
+              "Name": "Diced tomatoes",
+              "Price": 1.0,
+              "Quantity": 400.0,
+              "Unit": "grams",
+              "Source": "7Fresh",
+              "Extra": "Divella brand"
+            },
+            "Amount": 2.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "White sugar",
+            "Item": {
+              "Name": "White sugar",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2024-09-27T00:00:00",
+              "Name": "White sugar",
+              "Price": 2.59,
+              "Quantity": 2.0,
+              "Unit": "kg",
+              "Source": "Aldi",
+              "Extra": ""
+            },
+            "Amount": 0.006475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tomato passata",
+            "Item": {
+              "Name": "Tomato passata",
+              "NameDetail": "",
+              "Quantity": 700.0,
+              "Unit": "ml",
+              "UnitDetail": "@1 jar",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2025-01-12T00:00:00",
+              "Name": "Tomato passata",
+              "Price": 2.2,
+              "Quantity": 680.0,
+              "Unit": "grams",
+              "Source": "Woolies",
+              "Extra": "La Gina brand"
+            },
+            "Amount": 2.26470588235294,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "lots",
+              "Group": "bolognese"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "Pepper",
+            "Item": {
+              "Name": "Pepper",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "lots",
+              "Group": "bolognese"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "Peas",
+            "Item": {
+              "Name": "Peas",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "cup",
+              "UnitDetail": "",
+              "Group": "bolognese"
+            },
+            "Ingredient": {
+              "Date": "2025-01-07T00:00:00",
+              "Name": "Peas",
+              "Price": 8.99,
+              "Quantity": 2.0,
+              "Unit": "kg",
+              "Source": "Tonyon Warehouse",
+              "Extra": ""
+            },
+            "Amount": 1.12375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Milk",
+            "Item": {
+              "Name": "Milk",
+              "NameDetail": "",
+              "Quantity": 600.0,
+              "Unit": "ml",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": {
+              "Date": "2025-01-28T00:00:00",
+              "Name": "Milk",
+              "Price": 3.0,
+              "Quantity": 2.0,
+              "Unit": "litres",
+              "Source": "Woolies",
+              "Extra": "Home brand"
+            },
+            "Amount": 0.9,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Item": {
+              "Name": "Butter",
+              "NameDetail": "",
+              "Quantity": 60.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Butter",
+              "Price": 7.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 0.84,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Plain flour",
+            "Item": {
+              "Name": "Plain flour",
+              "NameDetail": "",
+              "Quantity": 60.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": {
+              "Date": "2024-10-28T00:00:00",
+              "Name": "Plain flour",
+              "Price": 8.48,
+              "Quantity": 5.0,
+              "Unit": "kg",
+              "Source": "Yonghui",
+              "Extra": ""
+            },
+            "Amount": 0.10176,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "White pepper",
+            "Item": {
+              "Name": "White pepper",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
           {
             "Name": "Lasagne sheets",
             "Item": {
               "Name": "Lasagne sheets",
               "NameDetail": "",
-              "Quantity": 16.0,
+              "Quantity": 20.0,
               "Unit": "whole",
               "UnitDetail": "2 boxes or so",
               "Group": ""
@@ -5649,7 +6163,7 @@
               "Source": "Superfresh",
               "Extra": "Whole refers to sheets"
             },
-            "Amount": 2.753103448275862,
+            "Amount": 3.4413793103448276,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5677,42 +6191,10 @@
             "Success": true,
             "Reason": "",
             "Extra": ""
-          },
-          {
-            "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
-            "Item": {
-              "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
-              "NameDetail": "",
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "UnitDetail": "batch",
-              "Group": ""
-            },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: \\hyperref[rec:Bechamel]{Bechamel sauce}"
-          },
-          {
-            "Name": "\\hyperref[rec:Bolognese]{Bolognese sauce}",
-            "Item": {
-              "Name": "\\hyperref[rec:Bolognese]{Bolognese sauce}",
-              "NameDetail": "",
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "UnitDetail": "batch",
-              "Group": ""
-            },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: \\hyperref[rec:Bolognese]{Bolognese sauce}"
           }
         ],
-        "CostString": "1.05 per serve",
-        "ExclusionsString": "Excluding \\hyperref[rec:Bechamel]{Bechamel sauce} and \\hyperref[rec:Bolognese]{Bolognese sauce}"
+        "CostString": "3.63 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -16373,12 +16855,44 @@
           "Group": ""
         },
         {
-          "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
+          "Name": "Milk",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
+          "Quantity": 600.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "White pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
         },
         {
           "Name": "Peas",
@@ -16421,7 +16935,7 @@
           "Content": "Chop carrots, mushrooms."
         },
         {
-          "Content": "Make bechamel sauce (heat milk then butter and flour in saucepan, add milk bit by bit)"
+          "Content": "Make bechamel sauce (heat milk then butter and flour in saucepan and fry a min or two, add milk bit by bit then cook on low for 10 minutes stirring)"
         },
         {
           "Content": "Take pastry out of freezer, cover with teatowel."
@@ -16442,8 +16956,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.42,
-        "AmountPerUnit": 1.36,
+        "Amount": 7.26,
+        "AmountPerUnit": 1.82,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -16471,20 +16985,108 @@
             "Extra": ""
           },
           {
-            "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
+            "Name": "Milk",
             "Item": {
-              "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
+              "Name": "Milk",
               "NameDetail": "",
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "UnitDetail": "batch",
-              "Group": ""
+              "Quantity": 600.0,
+              "Unit": "ml",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": {
+              "Date": "2025-01-28T00:00:00",
+              "Name": "Milk",
+              "Price": 3.0,
+              "Quantity": 2.0,
+              "Unit": "litres",
+              "Source": "Woolies",
+              "Extra": "Home brand"
+            },
+            "Amount": 0.9,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Item": {
+              "Name": "Butter",
+              "NameDetail": "",
+              "Quantity": 60.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Butter",
+              "Price": 7.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 0.84,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Plain flour",
+            "Item": {
+              "Name": "Plain flour",
+              "NameDetail": "",
+              "Quantity": 60.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": {
+              "Date": "2024-10-28T00:00:00",
+              "Name": "Plain flour",
+              "Price": 8.48,
+              "Quantity": 5.0,
+              "Unit": "kg",
+              "Source": "Yonghui",
+              "Extra": ""
+            },
+            "Amount": 0.10176,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "",
+              "Group": "bechamel"
             },
             "Ingredient": null,
             "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: \\hyperref[rec:Bechamel]{Bechamel sauce}"
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
+          },
+          {
+            "Name": "White pepper",
+            "Item": {
+              "Name": "White pepper",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "to taste",
+              "UnitDetail": "",
+              "Group": "bechamel"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: to taste"
           },
           {
             "Name": "Peas",
@@ -16583,8 +17185,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.36 per unit",
-        "ExclusionsString": "Excluding \\hyperref[rec:Bechamel]{Bechamel sauce}"
+        "CostString": "1.82 per unit",
+        "ExclusionsString": ""
       }
     },
     {

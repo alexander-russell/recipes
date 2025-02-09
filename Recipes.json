@@ -180,7 +180,7 @@
         "Vegan": true,
         "GlutenFree": false
       },
-      "Note": "Taken from Uncle Tony. This recipe revolves around the ratio, take the quantities listed here as a ratio and scale it to whatever is convenient. For a list of toppings, go to \\hyperref[cat:Pizzas]{Pizzas}, which will all use this dough recipe.",
+      "Note": "From Uncle Tony. Take the quantities listed here as a ratio and scale it to whatever is convenient.",
       "Image": "",
       "Images": [],
       "Items": [
@@ -1092,7 +1092,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From mum, who got it from a Thai cooking course. This recipe is time consuming and needs specific spring roll wrappers and access to a deep fryer, so is likely inconvenient. It is important not to overcook the rolls to keep them crispy. Works well with \\hyperref[rec:Sweet Dipping Sauce]{Sweet Dipping Sauce}",
+      "Note": "From mum, who got it from a Thai cooking course. This recipe is time consuming and needs specific spring roll wrappers and access to a deep fryer, so is likely inconvenient. It is important not to overcook the rolls to keep them crispy. Works well with the Sweet Dipping Sauce in the sauce section",
       "Image": "",
       "Images": [],
       "Items": [
@@ -2276,7 +2276,7 @@
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": true,
-      "Retired": true,
+      "Retired": false,
       "Tested": true,
       "NeedsRevision": true,
       "Dietary": {
@@ -2285,14 +2285,150 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitue the bechamel entirely for ricotta to save time. Tray should be 20x30cm. One box of lasagne sheets at Aldi has 15 pieces, but have 2 boxes around rather than running out halfway.",
+      "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitute the bechamel entirely for ricotta to save time. Tray should be 20x30cm. One box of lasagne sheets at Aldi has 15 pieces, but have 2 boxes around rather than running out halfway. Skip beef and add more carrots and peas and onions and its still tasty.",
       "Image": "Local",
       "Images": [],
       "Items": [
         {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Carrots",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 6.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Beef mince",
+          "NameDetail": "4-star",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Red wine",
+          "NameDetail": null,
+          "Quantity": 0.33,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Diced tomatoes",
+          "NameDetail": null,
+          "Quantity": 800.0,
+          "Unit": "grams",
+          "UnitDetail": "@2 cans",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "White sugar",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Tomato passata",
+          "NameDetail": null,
+          "Quantity": 700.0,
+          "Unit": "ml",
+          "UnitDetail": "@1 jar",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "lots",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "lots",
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Peas",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": "bolognese"
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": "",
+          "Quantity": 600.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "White pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
           "Name": "Lasagne sheets",
           "NameDetail": "",
-          "Quantity": 16.0,
+          "Quantity": 20.0,
           "Unit": "whole",
           "UnitDetail": "2 boxes or so",
           "Group": ""
@@ -2304,42 +2440,44 @@
           "Unit": "cup",
           "UnitDetail": "",
           "Group": ""
-        },
-        {
-          "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
-        },
-        {
-          "Name": "\\hyperref[rec:Bolognese]{Bolognese sauce}",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
         }
       ],
       "Steps": [
         {
-          "Content": "Make the \\hyperref[rec:Bolognese]{Bolognese sauce} as per the \\hyperref[rec:Bolognese]{linked recipe}, leaving out the pasta"
+          "Content": "Dice onion 1cm, halve and slice carrot 5mm, slice garlic thinly."
         },
         {
-          "Content": "Preheat the oven to 180 degrees"
+          "Content": "In large pot on medium-high in oil, fry onion, then after thats going add carrot, get them a little brown."
         },
         {
-          "Content": "Make the \\hyperref[rec:Bechamel]{Bechamel sauce}"
+          "Content": "Make bechamel sauce (heat milk then butter and flour in saucepan and fry a min or two, add milk bit by bit then cook on low for 10 minutes stirring)"
         },
         {
-          "Content": "Layer the components bolognese then bechamel then sheet and repeat"
+          "Content": "Up the heat to high, then add the beef mince and stir through. Let it sit for a bit."
         },
         {
-          "Content": "Top with grated cheese"
+          "Content": "Add the garlic and tomato paste, let them fry for a minute or two."
         },
         {
-          "Content": "Bake for 45-60 minutes TBC"
+          "Content": "Add red wine and stir until it goes away (or soaks into the beef)"
+        },
+        {
+          "Content": "Add diced tomatoes, sugar, passata and a pile of salt and pepper. Simmer for a while, 20-30 minutes."
+        },
+        {
+          "Content": "Preheat the oven to 200 degrees conventional."
+        },
+        {
+          "Content": "Add the peas a little before the sauce is finished."
+        },
+        {
+          "Content": "Layer the components bolognese then bechamel then sheet and repeat, save a little bolognese for the top or else the top layer won't cook."
+        },
+        {
+          "Content": "Top with bolognese and grated cheese."
+        },
+        {
+          "Content": "Bake for 45 minutes."
         }
       ],
       "Diary": [
@@ -6659,12 +6797,44 @@
           "Group": ""
         },
         {
-          "Name": "\\hyperref[rec:Bechamel]{Bechamel sauce}",
+          "Name": "Milk",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
+          "Quantity": 600.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 60.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
+        },
+        {
+          "Name": "White pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "bechamel"
         },
         {
           "Name": "Peas",
@@ -6707,7 +6877,7 @@
           "Content": "Chop carrots, mushrooms."
         },
         {
-          "Content": "Make bechamel sauce (heat milk then butter and flour in saucepan, add milk bit by bit)"
+          "Content": "Make bechamel sauce (heat milk then butter and flour in saucepan and fry a min or two, add milk bit by bit then cook on low for 10 minutes stirring)"
         },
         {
           "Content": "Take pastry out of freezer, cover with teatowel."
@@ -10276,7 +10446,7 @@
         {
           "Name": "Beef ravioli",
           "NameDetail": "",
-          "Quantity": 500,
+          "Quantity": 500.0,
           "Unit": "grams",
           "UnitDetail": "",
           "Group": ""
@@ -10284,7 +10454,7 @@
         {
           "Name": "Fridge ready pasta sauce",
           "NameDetail": "",
-          "Quantity": 450,
+          "Quantity": 450.0,
           "Unit": "grams",
           "UnitDetail": "@1 tub",
           "Group": ""
@@ -12851,7 +13021,7 @@
         {
           "Name": "Lime",
           "NameDetail": "",
-          "Quantity": "1",
+          "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "@3.5 tbsp",
           "Group": "dressing"
