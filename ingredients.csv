@@ -8,7 +8,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2023-11-07 00:00:00,Bok choy,1.79,1,whole,Aldi,pak choy?
 2023-11-07 00:00:00,Brown onions,2.99,1,kg,Aldi,
 2023-11-07 00:00:00,Brown sugar,3.49,1,kg,Aldi,
-2023-11-07 00:00:00,Capsicum,5.99,1,kg,Aldi,
+2023-11-07 00:00:00,Red capsicum,5.99,1,kg,Aldi,
 2023-11-07 00:00:00,Carrots,1.19,500,grams,Aldi,
 2023-11-07 00:00:00,Caster sugar,2.49,1,kg,Aldi,
 2023-11-07 00:00:00,Chicken,3.49,1,kg,Aldi,
@@ -36,7 +36,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2023-11-07 00:00:00,Mozzarella cheese,6.99,500,grams,Aldi,
 2023-11-07 00:00:00,Shredded cheese,6.99,500,grams,Aldi,Assuming tasty cheese is meant
 2023-11-07 00:00:00,Mushrooms,3.49,200,grams,Aldi,
-2023-11-07 00:00:00,Parsley,2.99,10,whole,Aldi,one whole is one sprig
+2023-11-07 00:00:00,Parsley,2.99,10,sprigs,Aldi,one whole is one sprig
 2023-11-07 00:00:00,Pizza cheese,6.99,500,grams,Aldi,
 2023-11-07 00:00:00,Plain flour,1.29,1,kg,Aldi,
 2023-11-07 00:00:00,Potatoes,5.99,2,kg,Aldi,
@@ -60,7 +60,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2023-11-07 00:00:00,White sugar,2.59,2,kg,Aldi,
 2023-11-07 00:00:00,Yoghurt,3.99,1,kg,Aldi,
 2023-11-07 00:00:00,Sprinkles,2.99,250,grams,Aldi,
-2023-11-07 00:00:00,Chickpeas,0.99,420,grams,Aldi,
+2023-11-07 00:00:00,Tinned chickpeas,0.99,420,grams,Aldi,
 2023-11-07 00:00:00,Lentils,0.99,420,grams,Aldi,
 2023-11-07 00:00:00,Coconut cream,0.99,400,ml,Aldi,
 2023-11-07 00:00:00,Pumpkin,2.49,1,kg,Aldi,kent pumpkin
@@ -109,7 +109,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-02-19 00:00:00,Sweet potato,2.59,1,kg,Sakura supermarket,
 2024-02-19 00:00:00,Breadcrumbs,1.69,500,grams,Aldi,
 2024-02-19 00:00:00,Butter,6.39,500,grams,Aldi,
-2024-02-19 00:00:00,Capsicum,6.99,1,kg,Aldi,
+2024-02-19 00:00:00,Red capsicum,6.99,1,kg,Aldi,
 2024-02-19 00:00:00,Broccoli,7.99,1,kg,Aldi,
 2024-02-19 00:00:00,Chicken stock,1.79,1,Litre,Aldi,
 2024-02-19 00:00:00,Brioche buns,3.29,4,whole,Aldi,
@@ -124,7 +124,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-02-19 00:00:00,Rigatoni,1,500,grams,Coles,
 2024-02-19 00:00:00,Oregano,1.8,10,grams,Coles,
 2024-02-19 00:00:00,Paprika,2.4,30,grams,Woolworths,
-2024-02-19 00:00:00,Cloves,4.8,20,grams,Woolworths,
+2024-02-19 00:00:00,Ground cloves,4.8,20,grams,Woolworths,
 2024-02-19 00:00:00,Bay leaves,2,15,grams,Woolworths,
 2024-02-19 00:00:00,Gnocchi,3.29,500,grams,Aldi,
 2024-02-19 00:00:00,Rice paper,3.48,30,whole,Eastwood Mart,I guessed the number
@@ -170,7 +170,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-10 22:40:50,Bananas,3.99,1,kg,Aldi,
 2024-06-10 22:41:41,Cucumber,6.99,1,kg,Aldi,
 2024-06-10 22:41:53,Tomato,8.99,1,kg,Aldi,
-2024-06-10 22:42:13,Capsicum,11.99,1,kg,Aldi,
+2024-06-10 22:42:13,Red capsicum,11.99,1,kg,Aldi,
 2024-06-10 22:42:37,Guanciale,50,1,kg,Skorin Deli,Cheaper at super fresh in Eastwood
 2024-06-10 22:43:28,Ground almond,14.99,1,kg,Skorin Deli,Cheaper at aldi by 1.5 cents per kilo and in better packaging.
 2024-06-10 22:46:19,Coconut,3.6,500,grams,Woolworths,Dessiccated
@@ -185,7 +185,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-10 22:57:46,Sultanas,4.99,1,kg,Aldi,
 2024-06-10 22:58:16,Salmon,16.49,460,grams,Aldi,Packs of salmon cutlets (2).
 2024-06-10 23:00:12,Lemon,0.79,1,whole,Aldi,Fluctuates a lot
-2024-06-10 23:00:42,Capsicum,7.99,1,kg,Aldi,Green capsicum. Red more expensive I think
+2024-06-10 23:00:42,Red capsicum,7.99,1,kg,Aldi,Green capsicum. Red more expensive I think
 2024-06-10 23:01:38,Sirloin steak,19.29,1,kg,L & C Butcher,Probably fluctuates
 2024-06-10 23:02:43,Salsa,1.39,300,grams,Aldi,
 2024-06-10 23:03:09,Prawns,12.99,500,grams,Aldi,Frozen and shelled but with tails
@@ -209,7 +209,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-10 23:22:29,Apple cider vinegar,3.19,500,ml,Aldi,
 2024-06-12 10:54:03,Thyme,1.2,12,grams,Woolworths,thyme leaves
 2024-06-12 10:54:52,Fresh coriander,3.2,20,whole,Woolworths,Whole sprigs
-2024-06-12 10:55:29,Potato chips,3.79,1,whole,Aldi,whole bag
+2024-06-12 10:55:29,Frozen potato chips,3.79,1,whole,Aldi,whole bag
 2024-06-12 10:56:21,Icecream,6.49,2,litres,Aldi,Blue ribbon buttercream
 2024-06-12 10:57:02,Cos lettuce,1.99,2,whole,Aldi,Baby cos
 2024-06-12 10:57:36,Sliced almonds,3.49,140,grams,Aldi,Says 125-180 grams on reciept
@@ -218,7 +218,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-12 10:59:58,Sausages,10.99,18,whole,Aldi,whole sausages
 2024-06-12 11:00:40,Cheddar,4.49,200,grams,Aldi,
 2024-06-12 11:01:06,Pizza base,2.99,2,whole,Aldi,
-2024-06-12 11:01:33,Iceberg lettuce,2.99,1,whole,Aldi,whole head
+2024-06-12 11:01:33,Iceberg lettuce,2.99,1,head,Aldi,whole head
 2024-06-12 11:02:22,Chicken wings,8.99,1,kg,L&C butchery,Middle wing
 2024-06-12 11:04:11,Butternut pumpkin,2.5,1,kg,Aldi,
 2024-06-12 11:05:09,Souvlaki wraps,3.5,5,whole,Woolworths,mission brand
@@ -234,7 +234,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-12 11:12:15,Garam masala,2.6,25,grams,Woolworths,not 5 tsp
 2024-06-12 11:13:21,Semolina flour,4.75,925,grams,Woolworths,
 2024-08-13 20:24:59,Broccoli,5.99,1,kg,Sakura supermarket,One head was 400 grams.
-2024-08-13 20:28:38,Capsicum,4.99,1,kg,Tonyon Warehouse,Red capsicum
+2024-08-13 20:28:38,Red capsicum,4.99,1,kg,Tonyon Warehouse,Red capsicum
 2024-08-30 22:44:52,Beef mince,9.99,1,kg,Hong Meat,
 2024-08-30 22:45:14,Chicken breast,9.99,1,kg,Hong Meat,
 2024-08-30 22:45:51,Chicken thigh,11.99,1,kg,Hong Meat,
@@ -280,7 +280,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-09-02 23:11:38,Brown onions,2.59,1,kg,Sakura,
 2024-09-02 23:12:44,Red onion,4.99,1,kg,Sakura,
 2024-09-02 23:13:09,Broccoli,2.99,1,kg,Yonghui,
-2024-09-02 23:13:35,Iceberg lettuce,1.99,1,whole,Yonghui,
+2024-09-02 23:13:35,Iceberg lettuce,1.99,1,head,Yonghui,
 2024-09-02 23:13:52,Spring onions,2.29,10,whole,Yonghui,
 2024-09-02 23:14:28,Tomato,2.88,1,kg,Tonyon Warehouse,Cheapest I think I've ever seen.
 2024-09-02 23:14:52,Lemon,0.4,1,whole,Tonyon Warehouse,"At 2.88 per kilogram, possibly price error."
@@ -288,7 +288,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-09-02 23:16:28,Rice noodles,3.8,950,grams,New Yen Yen,Price has gone up.
 2024-09-02 23:17:02,Cucumber,8.99,800,grams,Freshtown,
 2024-09-04 22:18:21,Bananas,3.99,1,kg,Tonyon Warehouse,
-2024-09-04 22:19:31,Capsicum,4.99,1,kg,Tonyon Warehouse,Red
+2024-09-04 22:19:31,Red capsicum,4.99,1,kg,Tonyon Warehouse,Red
 2024-09-04 22:19:55,Olive oil,21.6,1,litre,Woolworths,Moro brand spanish olive oil
 2024-09-04 22:20:33,Steamed bao bun,6,8,whole,Woolworths,Folded bao buns to steam and then fill with toppings.
 2024-09-04 22:21:53,Sultanas,5,1,kg,Woolworths,
@@ -312,7 +312,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-09-04 22:42:22,Dumplings,5.5,600,grams,New Yen Yen,One pack of pork and chives dumplings. JM brand.
 2024-09-04 22:43:49,Bean sprouts,1.2,450,grams,New Yen Yen,
 2024-09-04 22:47:32,Butter,6.4,500,grams,Woolworths,Unsalted.
-2024-09-04 22:48:27,Chickpeas,1,420,grams,Woolworths,
+2024-09-04 22:48:27,Tinned chickpeas,1,420,grams,Woolworths,
 2024-09-04 22:52:05,Ikea meatballs,20,1,kg,Ikea,Though their website currently says $16.
 2024-09-04 22:52:43,Ikea cinnamon buns,9,6,whole,Ikea,
 2024-09-04 22:53:48,Ikea gravy,4,1,whole,Ikea,One 28 gram packet of powder.
@@ -336,13 +336,13 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-10-28 00:00:00,Eggs,7.99,12,whole,Yonghui,
 2024-10-28 00:00:00,Gai lan,1.69,8,whole,Yonghui,
 2024-10-28 00:00:00,Brown onions,2.49,1,kg,Sakura,
-2024-10-28 00:00:00,Lettuce,1.99,1,whole,Sakura,
+2024-10-28 00:00:00,Iceberg lettuce,1.99,1,head,Sakura,
 2024-10-24 00:00:00,Salmon,17.5,460,grams,Woolworths,Skin on fillets.
 2024-10-21 00:00:00,Cauliflower,4.99,1,whole,7Fresh,
 2024-10-21 00:00:00,Brown onions,2.49,1,kg,Sakura,
 2024-10-21 00:00:00,Eggs,7.99,12,whole,Freshtown,
 2024-10-21 00:00:00,Milk,4.19,2,litres,Superfresh,
-2024-10-21 00:00:00,Capsicum,6.99,1,kg,Tonyon Warehouse,Red
+2024-10-21 00:00:00,Red capsicum,6.99,1,kg,Tonyon Warehouse,Red
 2024-10-21 00:00:00,Red onion,5.99,1,kg,Yonghui,
 2024-10-21 00:00:00,Avocado,1.99,1,whole,Yonghui,Not as fancy as superfresh
 2024-10-21 00:00:00,Grated cheese,10.5,500,grams,Woolworths,Bega tasty cheese
@@ -367,7 +367,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-10-07 00:00:00,Sweet potato,1.99,1,kg,Sakura,
 2024-10-07 00:00:00,Carrots,1.99,1,kg,Sakura,
 2024-10-07 00:00:00,Coconut milk,1.69,400,ml,Sakura,Valcom brand
-2024-10-07 00:00:00,Capsicum,4.99,1,kg,Tonyon Warehouse,Red
+2024-10-07 00:00:00,Red capsicum,4.99,1,kg,Tonyon Warehouse,Red
 2024-10-07 00:00:00,Basmati rice,4,1,kg,Woolworths,
 2024-10-07 00:00:00,Plain flour,1.4,1,kg,Woolworths,
 2024-10-07 00:00:00,Farfalle pasta,4,500,grams,Woolworths,
@@ -386,7 +386,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-09-30 00:00:00,Potatoes,3.99,1,kg,Sakura,
 2024-09-30 00:00:00,Tomato,3.59,1,kg,Yonghui,
 2024-09-30 00:00:00,Eggs,7.99,12,whole,Freshtown,
-2024-09-30 00:00:00,capsicum,5.99,1,kg,Tonyon Warehouse,Red
+2024-09-30 00:00:00,Red capsicum,5.99,1,kg,Tonyon Warehouse,Red
 2024-09-30 00:00:00,Sweet potato,1.88,1,kg,Tonyon Warehouse,
 2024-09-30 00:00:00,Sunflower oil,7,1,litre,New Yen Yen,
 2024-09-30 00:00:00,Butter,6.4,500,grams,Woolworths,
@@ -415,7 +415,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-09-16 00:00:00,Carrots,2.99,1,kg,Superfresh,
 2024-09-16 00:00:00,Chow mein noodles,2.98,500,grams,Tonyon Supermarket,
 2024-09-16 00:00:00,Lemon,3.28,1,kg,Tonyon Warehouse,One for 0.93
-2024-09-16 00:00:00,Capsicum,6.99,1,kg,Tonyon Warehouse,Red
+2024-09-16 00:00:00,Red capsicum,6.99,1,kg,Tonyon Warehouse,Red
 2024-09-16 00:00:00,Cherry tomatoes,6.99,1,kg,Yonghui,
 2024-09-16 00:00:00,Bananas,3.99,1,kg,Yonghui,
 2024-09-16 00:00:00,Bean sprouts,1.29,400,grams,Sakura,Belmore brand
@@ -458,7 +458,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-11-04 00:00:00,Black beans,1.5,420,grams,Woolworths,Organic
 2024-11-04 00:00:00,Yoghurt,2,170,grams,Woolworths,Tiny pot
 2024-11-04 00:00:00,Grated cheese,9.5,500,grams,Woolworths,Bega tasty cheese - on sale
-2024-11-04 00:00:00,Potato chips,4.3,900,grams,Woolworths,McCain superfries straight cut
+2024-11-04 00:00:00,Frozen potato chips,4.3,900,grams,Woolworths,McCain superfries straight cut
 2024-11-04 00:00:00,White wraps,2.4,8,whole,Woolworths,Essentials brand
 2024-11-04 00:00:00,Sausages,11,26,whole,Woolworths,Very thin sausages
 2024-11-15 00:00:00,Vegetable oil,7.2,2,litres,Woolworths,
@@ -482,9 +482,9 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-11-11 00:00:00,Lime,22.99,1,kg,Superfresh,
 2024-11-11 00:00:00,Garlic,29.99,1,kg,Superfresh,
 2024-11-11 00:00:00,Olive oil,11,1,litre,Woolworths,Worst quality available.
-2024-11-18 00:00:00,Iceberg lettuce,1.99,1,whole,Sakura,
+2024-11-18 00:00:00,Iceberg lettuce,1.99,1,head,Sakura,
 2024-11-18 00:00:00,Carrots,1.99,1,kg,Sakura,
-2024-11-18 00:00:00,Capsicum,3.99,1,kg,Tonyon Warehouse,Red
+2024-11-18 00:00:00,Red capsicum,3.99,1,kg,Tonyon Warehouse,Red
 2024-11-18 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
 2024-11-18 00:00:00,Red onion,5.99,1,kg,7Fresh,
 2024-11-18 00:00:00,Lentils,4.95,1,kg,7Fresh,Red split lentils.
@@ -492,7 +492,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-11-18 00:00:00,Red onion,3.99,1,kg,Freshtown,
 2024-11-18 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
 2024-11-18 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
-2024-11-18 00:00:00,Parsley,1.29,10,whole,Superfresh,one whole is one sprig
+2024-11-18 00:00:00,Parsley,1.29,10,sprigs,Superfresh,one whole is one sprig
 2024-11-18 00:00:00,Lasagne sheets,4.99,29,whole,Superfresh,Whole refers to sheets
 2024-11-18 00:00:00,Halloumi,6.99,225,grams,Superfresh,
 2024-11-18 00:00:00,Butter,7,500,grams,Woolworths,
@@ -504,7 +504,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-11-25 00:00:00,Sweet potato,2.49,1,kg,Sakura,
 2024-11-25 00:00:00,Milk,3.98,2,litres,Yonghui,
 2024-11-25 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
-2024-11-25 00:00:00,Capsicum,2.99,1,kg,Freshtown,Red
+2024-11-25 00:00:00,Red capsicum,2.99,1,kg,Freshtown,Red
 2024-11-25 00:00:00,Bananas,3.99,1,kg,7Fresh,
 2024-11-25 00:00:00,Potatoes,5.99,2,kg,7Fresh,
 2024-11-25 00:00:00,Bananas,3.99,1,kg,7Fresh,
@@ -516,12 +516,12 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-11-25 00:00:00,Tomato passata,3.29,700,grams,Superfresh,Val verde
 2024-11-25 00:00:00,Garlic,29.99,1,kg,Superfresh,
 2024-11-25 00:00:00,Mushrooms,9.99,1,kg,Superfresh,
-2024-11-25 00:00:00,Parsley,1.29,10,whole,Superfresh,one whole is one sprig
+2024-11-25 00:00:00,Parsley,1.29,10,sprigs,Superfresh,one whole is one sprig
 2024-11-25 00:00:00,Mascarpone,4.8,250,grams,Woolworths,
 2024-11-25 00:00:00,Tomato sauce,1.95,500,ml,Woolworths,Home brand
 2024-11-25 00:00:00,Dark cooking chocolate,5,180,grams,Woolworths,Cadbury 70pct
 2024-11-25 00:00:00,White wraps,2.4,8,whole,Woolworths,Essentials brand
-2024-12-03 00:00:00,Capsicum,2.99,1,kg,Tonyon Warehouse,Red
+2024-12-03 00:00:00,Red capsicum,2.99,1,kg,Tonyon Warehouse,Red
 2024-12-03 00:00:00,Spring onions,1.39,10,whole,Tonyon Warehouse,
 2024-12-03 00:00:00,Garlic,29.99,1,kg,Superfresh,
 2024-12-03 00:00:00,Lime,15.99,1,kg,Superfresh,
@@ -553,7 +553,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-12-11 00:00:00,Cauliflower,4.99,1,whole,7Fresh,
 2024-12-11 00:00:00,Red onion,5.99,1,kg,7Fresh,
 2024-12-11 00:00:00,Chicken breast,9.99,1,kg,Hong Meat,
-2024-12-11 00:00:00,Parsley,1.29,10,whole,Superfresh,one whole is one sprig
+2024-12-11 00:00:00,Parsley,1.29,10,sprigs,Superfresh,one whole is one sprig
 2024-12-11 00:00:00,Gnocchi,3.2,500,grams,Superfresh,
 2024-12-11 00:00:00,Olive oil,11,1,litre,Woolworths,Worst quality available.
 2024-12-11 00:00:00,Puff pastry,4,8,whole,Woolworths,
@@ -575,7 +575,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-12-29 00:00:00,Garlic,20.05,1,kg,Kmall09,
 2024-12-29 00:00:00,Carrots,1.48,1,kg,Tonyon Warehouse,
 2024-12-29 00:00:00,Broccoli,2.99,1,kg,Tonyon Warehouse,
-2024-12-29 00:00:00,Capsicum,3.38,1,kg,Tonyon Warehouse,Red
+2024-12-29 00:00:00,Red capsicum,3.38,1,kg,Tonyon Warehouse,Red
 2024-12-29 00:00:00,Tomato,1.99,1,kg,Tonyon Warehouse,Quite small
 2024-12-30 00:00:00,Potatoes,3.99,1,kg,Sakura,
 2024-12-30 00:00:00,Ginger,19.99,1,kg,Sakura,
@@ -617,7 +617,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-01-12 00:00:00,Ginger,29.99,1,kg,OK Supermarket,
 2025-01-12 00:00:00,Tomato passata,2.2,680,grams,Woolies,La Gina brand
 2025-01-15 00:00:00,Milk,3.98,2,litres,Yonghui,
-2025-01-15 00:00:00,Iceberg lettuce,2.99,1,whole,Yonghui,
+2025-01-15 00:00:00,Iceberg lettuce,2.99,1,head,Yonghui,
 2025-01-15 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
 2025-01-15 00:00:00,Chinese celery,1.99,1,whole,Happigo,Maybe 10 little stems of celery
 2025-01-15 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
@@ -638,8 +638,67 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-01-21 00:00:00,Brown onions,3.99,2,kg,7fresh,7fresh
 2024-01-21 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
 2024-01-21 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
-2024-01-21 00:00:00,Parsley,1.99,10,whole,Superfresh,one whole is one sprig
+2024-01-21 00:00:00,Parsley,1.99,10,sprigs,Superfresh,one whole is one sprig
 2024-01-21 00:00:00,Mayonnaise,8.5,810,grams,Woolworths,Best Foods brand
 2024-01-21 00:00:00,Tomato passata,2.2,680,grams,Woolies,La Gina brand
 2024-01-21 00:00:00,Cherries,7.99,500,grams,Superfresh,Punnet
-2024-01-21 00:00:00,Iceberg lettuce,3.2,1,whole,Woolies,
+2024-01-21 00:00:00,Iceberg lettuce,3.2,1,head,Woolies,
+2025-02-01 00:00:00,Cherries,7.99,500,grams,Superfresh,Punnet
+2025-02-03 00:00:00,Green capsicum,2.99,1,kg,Tonyon Warehouse,
+2025-02-03 00:00:00,Gai lan,1.59,8,whole,Yonghui,
+2025-02-03 00:00:00,Cherry tomatoes,3.99,1,kg,7Fresh,
+2025-02-03 00:00:00,Paper towel,950,6,whole,7Fresh,rolls
+2025-02-03 00:00:00,Oak lettuce,1.99,1,head,7Fresh,
+2025-02-03 00:00:00,Brown onions,3.99,1,kg,7Fresh,
+2025-02-03 00:00:00,Red onion,5.99,1,kg,7fresh,
+2025-02-03 00:00:00,Dry kidney beans,6.5,1,kg,7Fresh,
+2025-02-03 00:00:00,Brown lentils,4.95,1,kg,7Fresh,
+2025-02-03 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
+2025-02-03 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2025-02-03 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-02-03 00:00:00,Cajun seasoning,3.99,100,grams,Superfresh,G-fresh
+2025-02-03 00:00:00,Olive oil,14,1,litre,Woolworths,Worst quality available.
+2025-02-03 00:00:00,Butter,7,500,grams,Woolworths,
+2025-02-03 00:00:00,White wraps,2.4,8,whole,Woolworths,Essentials brand
+2025-02-03 00:00:00,Kransky sausage,20,1,kg,Woolies,Double smoked from deli section
+2025-02-03 00:00:00,Thickened cream,2.8,300,ml,Woolworths,
+2025-02-03 00:00:00,Halloumi,4.8,180,grams,Woolworths,
+2025-01-28 00:00:00,Cherries,7.99,500,grams,Superfresh,Punnet
+2025-01-28 00:00:00,Milk,3,2,litres,Woolies,Home brand
+2025-01-28 00:00:00,Yoghurt,4.2,1,kg,Woolworths,Home brand
+2025-01-28 00:00:00,Butter,7,500,grams,Woolworths,
+2025-01-29 00:00:00,Bananas,2.38,1,kg,Tonyon Warehouse,
+2025-01-29 00:00:00,Tomato,3.99,1,kg,Tonyon Warehouse,Truss
+2025-01-29 00:00:00,Broccoli,3.99,1,kg,Tonyon Supermarket,
+2025-01-29 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
+2025-01-29 00:00:00,Red capsicum,4.99,1,kg,Freshtown,Red
+2025-01-29 00:00:00,Eggs,7.99,12,whole,7Fresh,700 grams
+2025-01-29 00:00:00,Cucumber,4.99,1,kg,7Fresh,
+2025-01-29 00:00:00,Diced tomatoes,1,400,grams,7Fresh,Divella brand
+2025-01-29 00:00:00,Iceberg lettuce,2.99,1,head,7Fresh,
+2025-01-29 00:00:00,Red onion,5.99,1,kg,7fresh,
+2025-01-29 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2025-01-29 00:00:00,Feta,6.99,200,grams,Superfresh,Dodoni brand
+2025-01-29 00:00:00,Red wine,9.99,4,litres,Mr Liquor,Cask red wine
+2025-01-29 00:00:00,White wine,9.99,4,litres,Mr Liquor,Cask white wine
+2025-01-29 00:00:00,Shredded cheese,7.1,500,grams,Woolies,Assuming tasty cheese is meant
+2025-01-29 00:00:00,Corn chips,2.35,175,grams,Woolies,one pack
+2025-02-09 00:00:00,Soy sauce,4.3,500,ml,Woolworths online,Lee Kum Kee brand
+2025-02-09 00:00:00,Sumac,2,40,grams,Woolworths online,
+2025-02-09 00:00:00,Sriracha,3.5,455,ml,Woolworths online,Tiao Hu cheapest brand
+2025-02-09 00:00:00,Chilli flakes,2,23,grams,Woolworths online,
+2025-02-09 00:00:00,Whole cloves,2,15,grams,Woolworths online,Hoyts
+2025-02-09 00:00:00,Treacle,6,850,grams,Woolworths online,
+2025-02-09 00:00:00,Tinned cherry tomatoes,1.8,400,grams,Woolworths online,Annalisa brand cheapest
+2025-02-09 00:00:00,Tia maria,47.99,700,ml,Dan murphys online,
+2025-02-09 00:00:00,Sundried tomato oil,0,1,ml,Leftover in the jar,
+2025-02-09 00:00:00,Spaghettoni,2.8,500,grams,Woolworths online,Barilla brand
+2025-02-09 00:00:00,Sausage mince,5.5,500,grams,Woolworths online,Home brand
+2025-02-09 00:00:00,Fresh rosemary,0,1,sprigs,Garden,
+2025-02-09 00:00:00,Beef ravioli,11,625,grams,Woolworths online,A cheaper bulk pack exists but not at my local
+2025-02-09 00:00:00,Pecans,4.3,150,grams,Woolworths online,Home brand
+2025-02-09 00:00:00,Roasted peanuts,2.8,375,grams,Woolworths online,Home brand
+2025-02-09 00:00:00,Fridge ready pasta sauce,6,450,grams,Woolworths online,Leggo brand. Billed as fresh sauce
+2025-02-09 00:00:00,Passionfruit,5.9,6,whole,Woolworths online,In net
+2025-02-09 00:00:00,Marshmallows,5,280,grams,Woolworths online,"Pascal brand and not even the jumbo, worst value for money."
+2025-02-09 00:00:00,Beer,5.99,330,ml,Dan murphys online,Great northern brand as a single.

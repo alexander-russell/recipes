@@ -32,6 +32,7 @@
       },
       "Note": "Taken from \\href{https://www.food.com/recipe/best-banana-bread-2886}{food.com}. Best done with overripe bananas, buy some, overripen them and chuck them into the freezer for later.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Plain flour",
@@ -181,6 +182,7 @@
       },
       "Note": "Taken from Uncle Tony. This recipe revolves around the ratio, take the quantities listed here as a ratio and scale it to whatever is convenient. For a list of toppings, go to \\hyperref[cat:Pizzas]{Pizzas}, which will all use this dough recipe.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Plain flour",
@@ -287,6 +289,7 @@
       },
       "Note": "Taken from Stephanie Alexander. This recipe can be used for sweet and savoury tarts. To best results, keep everything, you, the benchtop, the water etc, cold. It is very important to know the steps in advance because time is important.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Butter",
@@ -377,6 +380,7 @@
       },
       "Note": "Taken from \\href{https://champagneandgumboots.com.au/sweet-and-simple-gluten-free-shortcrust-pastry/}{Champagne and Gumboots}.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "GF plain flour",
@@ -496,6 +500,7 @@
       },
       "Note": "Ingredients are highly flexible, this recipe is a good way to get rid of random veggies in the fridge, e.g. mushrooms, rocket.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Eggs",
@@ -622,6 +627,7 @@
       },
       "Note": "Taken from Ottolenghi's cookbook Simple. Ignore the steps for stuffing and lemon to use as a basic roast chicken recipe or add your own ingredients.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken",
@@ -658,7 +664,7 @@
         {
           "Name": "Thyme",
           "NameDetail": "",
-          "Quantity": 1.0,
+          "Quantity": 0.0,
           "Unit": "a handful",
           "UnitDetail": "",
           "Group": ""
@@ -724,6 +730,7 @@
       },
       "Note": "Taken from Lorenzo and Woolworths. This recipe involves making a sauce and meatballs at the same time, for plain meatballs just don't add pasata. This works well to make a meatball sub or to be added to a pasta.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Beef mince",
@@ -760,9 +767,9 @@
         {
           "Name": "Parsley",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "cup",
-          "UnitDetail": "",
+          "Quantity": 5.0,
+          "Unit": "sprigs",
+          "UnitDetail": "@0.5 cup",
           "Group": ""
         },
         {
@@ -872,6 +879,7 @@
       },
       "Note": "From Mum, one of the first things I remember being able to cook with any confidence. In most of the places I've lived in, part of the preparation for this is taking the battery out of the smoke detector. Cooked for Aunty when we lived in Five Dock. The oil and the burnt bits are part of it. Serve with mash, peas and tomato sauce.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken breast",
@@ -987,10 +995,11 @@
       },
       "Note": "From Peter Van-Niekerk, good with barbeque, very crumbly. Goes well with added herbs or chorizo/bacon. Don't use for sandwiches",
       "Image": "",
+      "Images": [],
       "Items": [
         {
-          "Name": "Lukewarm beer",
-          "NameDetail": "",
+          "Name": "Beer",
+          "NameDetail": "lukewarm",
           "Quantity": 375.0,
           "Unit": "ml",
           "UnitDetail": "1 bottle",
@@ -1085,6 +1094,7 @@
       },
       "Note": "From mum, who got it from a Thai cooking course. This recipe is time consuming and needs specific spring roll wrappers and access to a deep fryer, so is likely inconvenient. It is important not to overcook the rolls to keep them crispy. Works well with \\hyperref[rec:Sweet Dipping Sauce]{Sweet Dipping Sauce}",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Spring roll wrappers",
@@ -1263,6 +1273,7 @@
       },
       "Note": "From woolworths. Can use beef instead for easier cooking. Layering ensures that the chips don't end up bland or dry. Add carrots, peas, etc. Vegetables very easily dissapear into the mix.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Corn chips",
@@ -1275,9 +1286,9 @@
         {
           "Name": "Salsa",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "cup",
-          "UnitDetail": "",
+          "Quantity": 300.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 jar",
           "Group": ""
         },
         {
@@ -1313,7 +1324,7 @@
           "Group": ""
         },
         {
-          "Name": "Capsicum",
+          "Name": "Green capsicum",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -1402,6 +1413,7 @@
       },
       "Note": "From mum, who got it from a Thai cooking course. Formidable ingredients list means I've never cooked this. Before the cornflour is added, the sauce should taste sweet and slightly salty/sour.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Whole white fish",
@@ -1508,7 +1520,7 @@
           "Group": ""
         },
         {
-          "Name": "Capsicum",
+          "Name": "Red capsicum",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
@@ -1602,6 +1614,7 @@
       },
       "Note": "From Dad. Can get rid of chicken, can substitue carrot for sweet potato. Best to use the homemade \\hyperref[rec:Basil Pesto]{Basil Pesto}. If using a jar, tip it in, then half fill with water and shake it to dislodge the rest.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Farfalle pasta",
@@ -1762,6 +1775,7 @@
       },
       "Note": "From family. Add carrots and peas for extra vegetables. Make napolitana by removing mince, make marinara by changing mince for seafood mix.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Spaghettoni",
@@ -1894,6 +1908,7 @@
       },
       "Note": "It bears mentioning that this isn't \\href{https://en.wikipedia.org/wiki/Carbonara}{carbonara}. It is still very yummy.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Fettuccine pasta",
@@ -2072,6 +2087,7 @@
       },
       "Note": "From Stephanie Alexander. Fine to make but just stir it all the time, heating the milk makes it easier to add to the roux.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Milk",
@@ -2167,6 +2183,7 @@
       },
       "Note": "From Dad. Cheap and lasts fairly well. Worth the effort to add in a \\hyperref[rec:Bechamel]{Bechamel Sauce} when mixing everything else in. Peas, carrots etc as well.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Rigatoni pasta",
@@ -2187,9 +2204,9 @@
         {
           "Name": "Parsley",
           "NameDetail": "",
-          "Quantity": 0.75,
-          "Unit": "cups",
-          "UnitDetail": "",
+          "Quantity": 5.0,
+          "Unit": "sprigs",
+          "UnitDetail": "@0.75 cups",
           "Group": ""
         },
         {
@@ -2270,6 +2287,7 @@
       },
       "Note": "From Mum's recipe, with Stephanie Alexander's bechamel. Can substitue the bechamel entirely for ricotta to save time. Tray should be 20x30cm. One box of lasagne sheets at Aldi has 15 pieces, but have 2 boxes around rather than running out halfway.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Lasagne sheets",
@@ -2365,6 +2383,7 @@
       },
       "Note": "From Uncle Tony, simple recipe, tastes great. Very greasy, high temperature may need adjustment.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Pizza base",
@@ -2465,6 +2484,7 @@
       },
       "Note": "From Uncle Tony, a family get together classic. Quantities listed are just placeholders, no accuracy needed. Don't forget salami, and probably remove the mushrooms.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Ham",
@@ -2485,9 +2505,9 @@
         {
           "Name": "Mushrooms",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "cup",
-          "UnitDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 cup or so",
           "Group": ""
         },
         {
@@ -2562,6 +2582,7 @@
       },
       "Note": "This sauce works great fried up with leftover vegetables. Should garnish with basil leaves below the cheese.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown onions",
@@ -2692,6 +2713,7 @@
       },
       "Note": "TBC. Quantities are approximate. The point of this recipe is to use whatver ingredients are in the fridge.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Bacon",
@@ -2808,6 +2830,7 @@
       },
       "Note": "Taken from Taste. Chop the veggies real thinly because they don't spend much time in the pan. Chop the garlic and ginger a little fatter for extra kick. Best to make with rice.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Pork loin",
@@ -2954,6 +2977,7 @@
       },
       "Note": "From Gordon Doyle, during a particularly long train ride. Never cooked, possibly never will",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Potatoes",
@@ -3049,6 +3073,7 @@
       },
       "Note": "From Dad. Cooked with Mum and Lorenzo and then much later cooked at Eastwood apartment. Takes an enormous amount of time for a side. Turn on top element. For next time: consider removing foil at end to brown the top better.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Potatoes",
@@ -3132,18 +3157,10 @@
         },
         {
           "Name": "Vegetable stock",
-          "NameDetail": "",
-          "Quantity": 3.0,
-          "Unit": "whole",
-          "UnitDetail": "cubes",
-          "Group": ""
-        },
-        {
-          "Name": "Water",
           "NameDetail": "hot",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": "",
+          "UnitDetail": "from @3 cubes",
           "Group": ""
         }
       ],
@@ -3203,6 +3220,7 @@
       },
       "Note": "From \\href{https://www.food.com/recipe/jessgarfields-milo-biscuits-123173}{Food.com}, but altered to match Nanna’s classic version. Really easy to make, yields a very crispy biscuit. 2022/09/14 revision: took 15 or 20 minutes, heat on the high side of 160 FF, press flat and score with fork, using 3 cm balls",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Butter",
@@ -3314,6 +3332,7 @@
       },
       "Note": "From Nanna’s old recipes, which used ounce measurements, since converted. Simple and chewy, keeps well. ",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Rolled oats",
@@ -3430,6 +3449,7 @@
       },
       "Note": "This recipe is designed to imitate Subway cookies and is taken from Genius kitchen, who have rebranded themselves as \\href{https://www.food.com/recipe/subway-white-chocolate-macadamia-nut-cookies-389301?mode=US&scaleto=48}{food.com}. Their website allows you to scale this recipe for any number of cookies. The cookies are ridiculously unhealthy, with huge amounts of butter sugar and chocolate, the website actually provides nutritional information. The cookies will continue cooking after being taken out and taste best soft, so take them out when lightly browned.",
       "Image": "https://img.sndimg.com/food/image/upload/c_thumb,q_80,w_562,h_316/v1/img/recipes/38/93/01/picezQLnT.jpg",
+      "Images": [],
       "Items": [
         {
           "Name": "Chopped macadamia",
@@ -3568,6 +3588,7 @@
       },
       "Note": "From \\href{https://www.recipetineats.com/apple-crumble/}{Recipe Tin Eats}. Make sure the oven has a hot top element for browning. Flour to the apples is a neat trick, makes the base all syrupy. Plenty of crumble in this ratio. Don't need to precook the apple. Do need to buy cream/ice-cream. A shallow and large baking dish gives you better mileage for the crumble.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Green apples",
@@ -3743,6 +3764,7 @@
       },
       "Note": "From Mum, original recipe doubled, sugar reduced from 2 to 1.5 cups. Use lots of cinnamon, leave apples unpeeled for texture. The cooking time is very dependent on the tin this is put into. The recipe calls for a flat slice tin but I have always used a deeper dish. It is done when the top is golden brown and a skewer comes out clean.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "SR flour",
@@ -3843,6 +3865,7 @@
       },
       "Note": "From \\href{https://www.stayathomemum.com.au/recipes/no-bake-passionfruit-jelly-cheesecake/}{Stay At Home Mum}. I find this one difficult because I hardly ever cook with gelatine and it’s hard to judge the right amount. Make sure you have the right size tin and make sure it has a removable base, preferably a springform cake tin.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Digestive biscuits",
@@ -3973,6 +3996,7 @@
       },
       "Note": "From scouts. None of these quantities really matter, just pour in what you have. Works well with crushed biscuits, macadamia nuts, coconut, or glace cherries in place of raspberries.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Milk chocolate",
@@ -4049,6 +4073,7 @@
       },
       "Note": "From Stephanie Alexander, also using her \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry} recipe. I add some extra cream, which extends it to 2 tarts. For the shortcrust pastry recipe, see the pastry section. To make the tart look pretty, sprinkle with icing sugar before serving.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "\\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}",
@@ -4150,6 +4175,7 @@
       },
       "Note": "The quantities aren’t at all exact, do pretty much everything to taste. Pine nuts are a pain to find, substitute with cashews. Can add parmesan, but it won't keep as long if you do.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Basil",
@@ -4247,6 +4273,7 @@
       },
       "Note": "From Dad's pavlova plate. Family classic that I am yet to cook myself.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Egg whites",
@@ -4342,6 +4369,7 @@
       },
       "Note": "From Dad, who got it from an old recipe for Twelfth Night Frangipane Cake, which uses this as a filling and involves hiding 2 coins inside the tart. Quite quick to make, works great in croissants or as filling for a tart flan. The ground almonds don't really need to be sifted.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Ground almond",
@@ -4437,6 +4465,7 @@
       },
       "Note": "From Dad, using Stephanie Alexander's \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry}. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Almond frangipane",
@@ -4544,6 +4573,7 @@
       },
       "Note": "Originally tried at Munoushee Concord across from school. Cooked with Kora at college. Can do in oven as well.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Flatbread",
@@ -4625,6 +4655,7 @@
       },
       "Note": "From \\href{https://www.recipetineats.com/wprm_print/26510}{Recipe Tin Eats} but a pretty standard recipe. Cooked a bunch with Mik at college. Extra delish with brioche bread, can even use brioche buns or raisin toast. Top with banana and yoghurt, or berries or syrup or nothing at all.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Bread",
@@ -4733,6 +4764,7 @@
       },
       "Note": "Made back in Westleigh when home alone. Made again in college with Clauds. Easily made, I'm guessing the quantities. Keep a bit spare of each ingredient so you can adjust, and add very slowly, mixing throughly. If you don't roll really thin, the inside will be raw. ",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Yoghurt",
@@ -4809,6 +4841,7 @@
       },
       "Note": "From a Vittles email with subject \"A prodigious attitude to cream\", cites as from Maison Bertaux, according to a recipe by Mark Hix. Recommends serving warm, maybe with salad. Cooked, works good as a lunch. Needs to be faster, make some convenience substitutions, don't bother with fancy cheese.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Puff pastry",
@@ -4827,7 +4860,7 @@
           "Group": ""
         },
         {
-          "Name": "Capsicum",
+          "Name": "Red capsicum",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
@@ -4950,6 +4983,7 @@
       },
       "Note": "From a Vittles article on Substack (subject: Soaking up the juicy morsels of our lives), by Claire-Louise Bennett. Aside from step 1, the procedure is verbatim. Plan is to take this recipe as an approach to risotto, and just rejig all the ingredients (I don't like fennel). Recommends serving with a green salad. Provides some optional extra ingredients: Butter, fennel bulb (but sliced roughly and roasted), walnuts (cool idea) and feta cheese. Mentions making your own stock earlier in the day with carrot, celery, onions, peppercorns, bay leaf, a couple of whole tomatoes, some scrubbed lemon wedges and parsley stems \"and so on\". Throw them in the pot and simmer for a while, then gently reheat in time to cook the rice (don't boil).",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Olive oil",
@@ -5118,6 +5152,7 @@
       },
       "Note": "From a Vittles Cooking From Life article by Molly Pepper Steemson. Listed in her recipes for a low-key passover, as a side to matzo breaded schnitzel. Email subject line \"Schnitzel, Salads \\& Fake Meat\". Eaten for our own low-key passover with tandoori chicken (yoghurt in the marinade) and ribena as a substitute for grape juice, a substitute for wine.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Potatoes",
@@ -5244,6 +5279,7 @@
       },
       "Note": "From Claudia Roden via \\href{https://www.theguardian.com/food/2022/sep/26/claudia-roden-recipe-for-orange-and-almond-cake}{The Guardian}. States unknown origin, lists Andalucia, Portugal, Livorno, Aleppo, Iberia. For tin, recommends a non-stick tin with removable base. Should be a very moist cake, but if still too wet leave in for a little longer.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Orange",
@@ -5380,6 +5416,7 @@
       },
       "Note": "From dad, who got it from Nanna, who got it off of the back of the Nestle choc bits packaging but never told the Hills that. Cooked for our whole apartment building (quadruple batch) as our introduction to the building, left outside their doors and knocked. We recieved several conversations, a box of ferrero rochers and a handdrawn picture of a cookie from the kid downstairs.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Butter",
@@ -5478,6 +5515,7 @@
       },
       "Note": "From \\href{https://myfoodbook.com.au/recipes/show/chicken-and-rice-enchiladas}{myfoodbook}. Cooked with Claudia as the inaugural meal in our new home in Eastwood. Serve with sour cream, chopped avocado and pico de gallo.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown rice",
@@ -5506,25 +5544,25 @@
         {
           "Name": "Taco spice mix",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "30 gram sachet",
+          "Quantity": 30.0,
+          "Unit": "grams",
+          "UnitDetail": "or just gun it",
           "Group": ""
         },
         {
           "Name": "Salsa",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "jar",
-          "UnitDetail": "375 grams",
+          "Quantity": 300.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 jar",
           "Group": ""
         },
         {
           "Name": "Diced tomatoes",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "400 gram can",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 can",
           "Group": ""
         },
         {
@@ -5626,6 +5664,7 @@
       },
       "Note": "From \\href{https://www.connoisseurusveg.com/tomato-risotto/}{Connoisseurus Veg} (awesome logo). Cooked this for our first dinner with guests in Doomben Avenue, for Nat and Amish. They brought cinnamon cake. Try next time with 1 can tinned tomatoes instead, and maybe fry the onion on higher heat at the start to get the temperature up fast. Try doubling the recipe and see what happens. Serve with toasted sourdough, shredded cheese, and chopped basil leaves",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "olive oil",
@@ -5806,6 +5845,7 @@
       },
       "Note": "Another basic take on a quiche, pumpkins go quite nicely. Vaguely adapted from mum's quiche, but not really, hers it nicer and uses shortcrust pastry. Use this recipe when you have leftover roast pumpkin, reheat it in the pan. Can substitute with other vegetable, e.g. sweet potato.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Eggs",
@@ -5951,6 +5991,7 @@
       },
       "Note": "Basic recipe when hungry.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Rice",
@@ -6090,6 +6131,7 @@
       },
       "Note": "The classic Christmas biscuit recipe, an annual tradition between Lorenzo, Dad and I. We make a triple batch, cut into christmas shapes and wrap with cellophane and ribbons to give out. Can use golden syrup instead of treacle.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Butter",
@@ -6164,8 +6206,8 @@
           "Group": ""
         },
         {
-          "Name": "Cloves",
-          "NameDetail": "ground",
+          "Name": "Ground cloves",
+          "NameDetail": "",
           "Quantity": 0.75,
           "Unit": "tsp",
           "UnitDetail": "",
@@ -6253,6 +6295,7 @@
       },
       "Note": "From the Common Sense Cookery Book. I've made the most minor of modifications, mainly just that I do 2 big loaves rather than 3 small. Cooked first time went very well, burnt on base a little, 25 min was good, 30 min too dry. Cooked a second time, loaves did not rise in pans and are much smaller, less cooked. Still burnt on bottom.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Plain flour",
@@ -6368,6 +6411,7 @@
       },
       "Note": "From \\href{https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/}{allrecipes}, cooked for Darcy when he first came around to the apartment. Way too oily, maybe too much cheese. A very simple flavour. Needs veggies, can throw in spinach. Serve with shaved parmesan and maybe a simple salad.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Fettuccine pasta",
@@ -6509,6 +6553,7 @@
       },
       "Note": "A great fallback pie, cooked this instead of spag-bol pies because we forgot to refrigerate the spaghetti overnight. Uses stuff you have lying around, handles random vegetables very well.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Puff pastry",
@@ -6545,9 +6590,9 @@
         {
           "Name": "Mushrooms",
           "NameDetail": "",
-          "Quantity": 5.0,
-          "Unit": "whole",
-          "UnitDetail": "small",
+          "Quantity": 150.0,
+          "Unit": "grams",
+          "UnitDetail": "@5 small",
           "Group": ""
         },
         {
@@ -6621,6 +6666,7 @@
       },
       "Note": "From The Cook's Companion, but I skip a bunch of the ingredients so I don't have to buy extra stuff. Goes alright. Highly recommend serving with plain flatbread, like Aldi paratha. Makes somewhere between 3 and 4 serves.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown onions",
@@ -6848,6 +6894,7 @@
       },
       "Note": "Loosely based on Mum's recipe, aims for a very reduced, clingy sauce. This recipe comes a bit strong, try with passata. Doesn't use too many pots or pans. Can substitute rigatoni for normal penne",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Rigatoni",
@@ -6890,11 +6937,11 @@
           "Group": ""
         },
         {
-          "Name": "Cherry tomatoes",
-          "NameDetail": "tinned",
-          "Quantity": 2.0,
-          "Unit": "whole",
-          "UnitDetail": "tins",
+          "Name": "Tinned cherry tomatoes",
+          "NameDetail": "",
+          "Quantity": 800.0,
+          "Unit": "grams",
+          "UnitDetail": "@2 tins",
           "Group": ""
         },
         {
@@ -7006,6 +7053,7 @@
       },
       "Note": "From \\href{https://www.recipetineats.com/brown-sugar-apple-muffins/}{recipetineats}, promising to make fluffy, longlasting muffins. Needs more cinnamon. Don't bother whisking egg before adding to bowl. Apple should be about 2 cups worth once chopped. Wholemeal flour is maybe more yummy, but can use plain.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Green apples",
@@ -7153,6 +7201,7 @@
       },
       "Note": "A very fresh flavour, minimal prep. Can switch out the halloumi for lamb. Buy the fluffiest pita you can find. Woolworths mission brand souvlaki wraps are good. Needs more grease.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Halloumi",
@@ -7188,9 +7237,9 @@
         },
         {
           "Name": "Tzatziki",
-          "NameDetail": "",
-          "Quantity": 100.0,
-          "Unit": "mls",
+          "NameDetail": "or yoghurt",
+          "Quantity": 0.0,
+          "Unit": "to spread",
           "UnitDetail": "",
           "Group": ""
         },
@@ -7211,7 +7260,7 @@
           "Group": ""
         },
         {
-          "Name": "Rosemary",
+          "Name": "Fresh rosemary",
           "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
@@ -7272,6 +7321,7 @@
       },
       "Note": "Using a recipetineats recipe from the cookbook \\textit{Dinner}, gifted recently by Dad as a christmas present. This was the first recipe I used it for, and the first time I cooked noodles by myself. I went into eastwood and visited 5 different shops to source the ingredients, and was helped by lots of shop attendants trying to figure out what I was on about. Delightful recipe to cook, all goes into pan. I accidentally bought fresh rice noodles instead, worked great.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Rice noodles",
@@ -7522,6 +7572,7 @@
       },
       "Note": "From the recipetineats cookbook \\textit{Dinner}. Their recipe has prawns, pork and anchovies. I took them all out and admittedly the flavour is fairly basic but these noodles are a lot of fun. Buy the fresh noodles (I got them vacuum packed from the fridge at New Yen Yen).",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Hokkien Noodles",
@@ -7682,6 +7733,7 @@
       },
       "Note": "Make sure you get the frypan nice and hot, or the patties will come out gray.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brioche buns",
@@ -7708,19 +7760,19 @@
           "Group": ""
         },
         {
-          "Name": "Lettuce",
+          "Name": "Iceberg lettuce",
           "NameDetail": "",
           "Quantity": 0.25,
-          "Unit": "whole",
+          "Unit": "head",
           "UnitDetail": "",
           "Group": ""
         },
         {
-          "Name": "Potato chips",
-          "NameDetail": "frozen",
-          "Quantity": 0.5,
-          "Unit": "whole",
-          "UnitDetail": "bag",
+          "Name": "Frozen potato chips",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.5 bag",
           "Group": ""
         },
         {
@@ -7837,6 +7889,7 @@
       },
       "Note": "From recipetineats, the cookbook \\textit{Dinner}. I leave out the hot sauce at a few stages. Make sure you leave time to marinate the chicken overnight.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken thigh",
@@ -7975,10 +8028,10 @@
           "Group": "yoghurt sauce"
         },
         {
-          "Name": "Lettuce",
-          "NameDetail": "iceberg",
-          "Quantity": 3.0,
-          "Unit": "cups",
+          "Name": "Iceberg lettuce",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "head",
           "UnitDetail": "",
           "Group": ""
         },
@@ -8084,6 +8137,7 @@
       },
       "Note": "From recipetineats, the cookbook \\textit{Dinner}. Actually pretty quick to cook. Cook a few cups of rice and freeze them, then use them for this. Don't worry about skipping shallots, and can add bacon to this.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Canola oil",
@@ -8254,6 +8308,7 @@
       },
       "Note": "From the Yotam Ottolenghi cookbook \\textit{Simple}. Dad has cooked this a few times. Can skip polenta, can add cinnamon. Works on a barbecue.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Sweet potato",
@@ -8276,14 +8331,6 @@
           "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "cloves",
-          "UnitDetail": "",
-          "Group": ""
-        },
-        {
-          "Name": "Polenta",
-          "NameDetail": "",
-          "Quantity": 30.0,
-          "Unit": "grams",
           "UnitDetail": "",
           "Group": ""
         },
@@ -8332,7 +8379,12 @@
           "Content": "Remove from oven, sprinkle sumac and salt over and serve."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-02-09T23:29:23",
+          "Content": "I just removed the item 30 grams of polenta because the note says I can skip it and I've never bought that before in my life. Maybe one day."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -8368,6 +8420,7 @@
       },
       "Note": "From recipetineats cookbook \\textit{Dinner}. Yields a springy bread with a nice crust, doesn't require any kneading. Should try w/o bread flour.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Bread flour",
@@ -8512,6 +8565,7 @@
       },
       "Note": "From recipetineats cookbook \\textit{Dinner}. Keeping it in a teatowel is a great trick, makes them soft.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Butter",
@@ -8615,6 +8669,7 @@
       },
       "Note": "From recipetineats book \\textit{Dinner}. Buy fridge chow mein noodles, easy to prepare. Still not sure I know what a green onion is.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken thigh",
@@ -8815,6 +8870,7 @@
       },
       "Note": "Synthesised from a few sources. Main recipe from \\href{https://spainonafork.com/authentic-spanish-vegetable-paella-recipe/}{Spain on a Fork}, but supplemented by technique from \\href{https://www.recipetineats.com/spanish-paella/}{Recipe Tin Eats} as well as the chef she mentions, as well as anecdote from paella Mum ate recently and, to confirm use of broccoli \\href{https://www.amandaducks.com/recipes/capsicum-paella}{Amanda Ducks}. Apparently not mixing the paprika quick enough will give a bitter flavour. To grate tomato, cut in half and grate the open side, the skin will fan out and eventually be flat, discard it.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Olive oil",
@@ -8833,8 +8889,8 @@
           "Group": ""
         },
         {
-          "Name": "Capsicum",
-          "NameDetail": "red",
+          "Name": "Red capsicum",
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -9028,6 +9084,7 @@
       },
       "Note": "From a TikTok video I downloaded years ago. Doesn't specify many of the quantities. Makes very little mess. Spinach is here for colour, substitute with green beans etc.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Basmati rice",
@@ -9110,19 +9167,19 @@
           "Group": ""
         },
         {
-          "Name": "Chickpeas",
+          "Name": "Tinned chickpeas",
           "NameDetail": "",
-          "Quantity": 2.0,
-          "Unit": "whole",
-          "UnitDetail": "can",
+          "Quantity": 800.0,
+          "Unit": "grams",
+          "UnitDetail": "@2 cans",
           "Group": ""
         },
         {
           "Name": "Coconut milk",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "can",
+          "Quantity": 400.0,
+          "Unit": "ml",
+          "UnitDetail": "@1 can",
           "Group": ""
         },
         {
@@ -9254,6 +9311,7 @@
       },
       "Note": "From \\href{https://queen.com.au/recipes/perfect-vanilla-butter-cake/}{Queen}, the food dye company, using some of the techniques mentioned in recipetineats' \\textit{Dinner}. Can double and make a layer cake.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Butter",
@@ -9377,6 +9435,7 @@
       },
       "Note": "An important reminder that almost all of the time, I have all the ingredients I need to make a banana split.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Bananas",
@@ -9390,8 +9449,8 @@
           "Name": "Icecream",
           "NameDetail": "",
           "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "scoop",
+          "Unit": "scoop",
+          "UnitDetail": "",
           "Group": ""
         },
         {
@@ -9458,6 +9517,7 @@
       },
       "Note": "From Claudia, who has cooked it twice for dinner in Eastwood at time of writing. Written up in a handy recipe email for me to write down.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Beef rump steak",
@@ -9550,8 +9610,8 @@
         {
           "Name": "Chilli flakes",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "pinch",
+          "Quantity": 0.0,
+          "Unit": "a pinch",
           "UnitDetail": "",
           "Group": "seasoning"
         },
@@ -9685,6 +9745,7 @@
       },
       "Note": "From Claudia. Also cooked as whole chicken breasts sans pasta. Sauce coats the pasta in a really fantastic way.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken breast",
@@ -9729,9 +9790,9 @@
         {
           "Name": "Sundried tomatoes",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "whole",
-          "UnitDetail": "jar",
+          "Quantity": 140.0,
+          "Unit": "grams",
+          "UnitDetail": "",
           "Group": ""
         },
         {
@@ -9904,6 +9965,7 @@
       },
       "Note": "From Claudia. Also cooked as whole chicken breasts sans pasta. Sauce coats the pasta in a really fantastic way.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Butter",
@@ -9932,9 +9994,9 @@
         {
           "Name": "Sundried tomatoes",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "whole",
-          "UnitDetail": "jar",
+          "Quantity": 140.0,
+          "Unit": "grams",
+          "UnitDetail": "",
           "Group": ""
         },
         {
@@ -10114,21 +10176,22 @@
       },
       "Note": "From the fridge aisle at aldi, this incredible recipe was born. This was the maiden voyage of my Essteele stock pot, gifted by Dad for Christmas 2023.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
-          "Name": "Ravioli",
+          "Name": "Beef ravioli",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "box, 500 grams",
+          "Quantity": 500,
+          "Unit": "grams",
+          "UnitDetail": "",
           "Group": ""
         },
         {
-          "Name": "Pasta sauce",
+          "Name": "Fridge ready pasta sauce",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "tub",
+          "Quantity": 450,
+          "Unit": "grams",
+          "UnitDetail": "@1 tub",
           "Group": ""
         }
       ],
@@ -10212,6 +10275,7 @@
       },
       "Note": "Mik, Kora, Claudia and I took a trip to the local park in Eastwood for a BBQ. Make sure you go early to beat the sunset. Snack ideas include mint cremes and clinkers. If you bring 100s and 1000s and extra bread, you can make fairy bread.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Sausages",
@@ -10323,6 +10387,7 @@
       },
       "Note": "Claudia's Dad's lazy meal for fridays after a long work week. Fun to eat.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Sausages",
@@ -10333,11 +10398,11 @@
           "Group": ""
         },
         {
-          "Name": "Potato chips",
+          "Name": "Frozen potato chips",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "whole",
-          "UnitDetail": "bag",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.5 bag",
           "Group": ""
         },
         {
@@ -10415,6 +10480,7 @@
       },
       "Note": "From \\href{https://www.womensweeklyfood.com.au/recipe/baking/potato-onion-and-herb-pie-14900/}{Women's Weekly} mostly. Keeps well, travels well. To assemble, make all the bases first, fold their sides up then place on teatowel in fridge. Cut tops then place bases in pie maker, spoon in filling and cover. Leave them longer than you think.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Potatoes",
@@ -10534,6 +10600,7 @@
       },
       "Note": "Cooked with Claudia in Eastwood, from \\href{https://www.themediterraneandish.com/lebanese-chicken-fatteh-dinner-bowls/}{The Mediterranean Dish}. A bastardisation of the real thing. Pita should definitely be toasted, fatteh means crumbs and related to using days old pita and other leftovers to make this style of meal. The chicken ends up stringy, very delicious next day for lunch, recommend eating in the sunshine (Ironic as this is a popular Ramadan meal).",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken breast",
@@ -10584,8 +10651,8 @@
           "Group": "simmer"
         },
         {
-          "Name": "Cloves",
-          "NameDetail": "whole",
+          "Name": "Whole cloves",
+          "NameDetail": "",
           "Quantity": 6.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -10714,9 +10781,9 @@
         {
           "Name": "Parsley",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "cup",
-          "UnitDetail": "chopped",
+          "Quantity": 5.0,
+          "Unit": "sprigs",
+          "UnitDetail": "@0.5 cup",
           "Group": "salad"
         },
         {
@@ -10839,6 +10906,7 @@
       },
       "Note": "Alledgedly made first by an Italian chef in Mexico. Following the way dad made this at home, but using sauce from \\href{https://www.recipetineats.com/chicken-caesar-salad/}{Recipe Tin Eats} and egg technique from \\href{https://www.australianeggs.org.au/recipes-and-cooking/easy-boiled-eggs}{Australian Eggs}.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken thigh",
@@ -10852,7 +10920,7 @@
           "Name": "Iceberg lettuce",
           "NameDetail": "",
           "Quantity": 0.5,
-          "Unit": "whole",
+          "Unit": "head",
           "UnitDetail": "@8 cups",
           "Group": ""
         },
@@ -11023,6 +11091,7 @@
       },
       "Note": "A common sense recipe, roughly what we did at Dads. Not much else to say.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown rice",
@@ -11124,7 +11193,7 @@
           "Name": "Iceberg lettuce",
           "NameDetail": "",
           "Quantity": 0.25,
-          "Unit": "whole",
+          "Unit": "head",
           "UnitDetail": "",
           "Group": ""
         },
@@ -11254,6 +11323,7 @@
       },
       "Note": "From \\href{https://www.healthylittlefoodies.com/lentil-burgers/#Lentil_Burgers}{Healthy Little Foodies} (some health website) but with more spices, more eggs, more breadcrumbs and less sweet potato.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Carrots",
@@ -11347,8 +11417,8 @@
           "Name": "Iceberg lettuce",
           "NameDetail": "",
           "Quantity": 0.25,
-          "Unit": "whole",
-          "UnitDetail": "4 pieces or so",
+          "Unit": "head",
+          "UnitDetail": "",
           "Group": ""
         },
         {
@@ -11360,11 +11430,11 @@
           "Group": ""
         },
         {
-          "Name": "Potato chips",
+          "Name": "Frozen potato chips",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "whole",
-          "UnitDetail": "bag",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.5 bag",
           "Group": ""
         },
         {
@@ -11492,6 +11562,7 @@
       },
       "Note": "With advice from Lorenzo. Rolling the meatballs in flour stops them breaking apart and makes them crispier.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Beef mince",
@@ -11584,8 +11655,8 @@
         {
           "Name": "Parsley",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "bunch",
+          "Quantity": 4.0,
+          "Unit": "sprigs",
           "UnitDetail": "",
           "Group": "sauce"
         },
@@ -11753,6 +11824,7 @@
       },
       "Note": "Brought together from \\href{https://www.christinascucina.com/kumquat-marmalade-easy-no-pectin-recipe/}{Christina's Cucina}, \\href{https://lemonsandanchovies.com/2019/04/kumquat-marmalade/#}{Lemons & Anchovies}, \\href{https://www.smh.com.au/goodfood/recipes/kumquat-marmalade-20220509-h23n68.html}{The Sydney Morning Herald}, \\href{https://www.allrecipes.com/recipe/247094/chef-johns-kumquat-marmalade/}{'Chef John'}, Stephanie Alexander's The Cooks Companion, my mum, my dad and an old lady at the vinnies I was shopping in with a friend while the fruit macerated. Writing this I haven't tasted the result yet but it smelled lovely on my hands and while boiling, and it looks very firmly set. To test if jam jells: Place a saucer in the freezer and retrieve it when you want to test, place a bit of jam on it, put it back in the freezer for 2 minutes and check whether it has developed a skin. If not, give it another 10 mins and test again.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Cumquats",
@@ -11886,6 +11958,7 @@
       },
       "Note": "From Mum Dad et al, it's pumpkin soup. Serve with lots of bread, butter, sour cream or double cream, parsley or rosemary. Done as the inaugural soup for soup season in Eastwood, with Teddy, Bryson and Gemma over for dinner.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Butternut pumpkin",
@@ -11936,11 +12009,11 @@
           "Group": ""
         },
         {
-          "Name": "Rosemary",
-          "NameDetail": "fresh",
+          "Name": "Fresh rosemary",
+          "NameDetail": "",
           "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "sprig",
+          "Unit": "sprigs",
+          "UnitDetail": "",
           "Group": ""
         }
       ],
@@ -12024,6 +12097,7 @@
       },
       "Note": "From \\href{https://thewoksoflife.com/mongolian-beef-recipe/#recipe}{The Woks of Life}. So delicious but a lot of work to dredge all of the beef and then fry it in batches. If the sauce is still pooling in the final frying, give it a little longer or add more corn flour slurry. Beef may take more than a minute to sear. I spent a little bit of time trying to find a good recipe, and a lot more time finding out about the name and origin. My sources are mostly Wikipedia but apparently Wu Zhaonan moved from China to Taiwan during the Chinese Civil War and opened a barbeque place that he would have called Beijing Barbeque, but instead called Mongolian Barbeque to avoid politics. The idea took off and a bunch of places started doing that style, where the diner selects a bunch of ingredients and then they get cooked on some rotating grill thing. One of the popular combinations was the ingredients for Mongolian Beef, and they eventually became their own dish separate from Mongolian Barbeque. Wu Zhaonan went on to have a successful career as a comedian.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Flank steak",
@@ -12348,6 +12422,7 @@
       },
       "Note": "From \\href{https://www.cookwithmanali.com/samosa-recipe/#wprm-recipe-container-43459}{Cook with Manali}, and I'm suspicious of how similar the Recipe Tin Eats version is to Manali's. Adding water to the filling mixture is an adjustment suggested by Sunil at Sunil's Spice Centre after reading over the recipe. This recipe is so extremely involved and takes so long, and doesn't make a lot. It's a special occasion food, the result is delightful but it takes so much work. The samosas are fried on low heat initially or else the pastry bubbles in a not very cute way. Adjust frying temperature if it isn't working, I should have taken more notes.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Plain flour",
@@ -12644,6 +12719,7 @@
       },
       "Note": "From Recipe Tin Eats via Claudia via her dad. Has a very fresh flavour, lots of citrus.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Garlic",
@@ -12758,8 +12834,8 @@
           "Group": "vegetables"
         },
         {
-          "Name": "Peanuts",
-          "NameDetail": "roasted, unsalted",
+          "Name": "Roasted peanuts",
+          "NameDetail": "unsalted",
           "Quantity": 0.5,
           "Unit": "cup",
           "UnitDetail": "",
@@ -12845,6 +12921,7 @@
       },
       "Note": "From the Fireworks Foods website, under Arroz a la Mexicana in all capital letters. Their website's top banner is a flame gif on loop. I haven't got this recipe quite right yet. It's definitely a side, but I've just been pretending it's a main and eating that, it's yum.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Rice",
@@ -12995,6 +13072,7 @@
       },
       "Note": "From \\href{https://www.amaltesepantry.com/oat-sultana-cookies/}{A Maltese Pastry}, though they attribute it to an instagram story on the Ottolenghi page and specifically credit Verna Lochmuller. This version of the recipe contains mistakes, including forgetting to add half the ingredients it calls for, notably the sultanas are never used in this sultana cookie recipe. I've made some substitutions because they were initially quite crunchy. Less sugar and lower cooking time. The jury is out on how long I should leave them on the tray before transferring to rack, next time.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Wholemeal flour",
@@ -13198,6 +13276,7 @@
       },
       "Note": "None of the timing is specified, and the mix of different stocks is because that's what I had in the fridge. Nonetheless a very easy way to have a risotto.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Prawns",
@@ -13329,6 +13408,7 @@
       },
       "Note": "Recipe from Claudia by email. A lot of time spent rolling them up but it should be noted that it's also a lot of fun to roll them up. Alternative fillings, in theory, are pecans, vanilla, chocolate, almond, caramel, strawberry. I'm told this flavour is the classic though. When making the dough, it's only split into 3 steps because I have a small food processor, it should all be done at once.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Plain flour",
@@ -13491,6 +13571,7 @@
       },
       "Note": "I think this came from Claudia and I wanting to make tomato soup and not finding any good recipes. There was presumably a third of a capsicum sitting in the fridge. This is a very tart tomato soup. Basil quantity is made up, do whatever. Actually the whole recipe is made up, double do whatever.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Tomato",
@@ -13525,7 +13606,7 @@
           "Group": ""
         },
         {
-          "Name": "Capsicum",
+          "Name": "Red capsicum",
           "NameDetail": "",
           "Quantity": 100.0,
           "Unit": "grams",
@@ -13627,6 +13708,7 @@
       },
       "Note": "I lied - there is no oven. Called dad before cooking to ask how to imitate his baked beans, happy with the result. Very tasty over crumbly toast with lots of butter.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown onions",
@@ -13663,9 +13745,9 @@
         {
           "Name": "Cannellini beans",
           "NameDetail": "",
-          "Quantity": 2.0,
-          "Unit": "whole",
-          "UnitDetail": "cans",
+          "Quantity": 800.0,
+          "Unit": "grams",
+          "UnitDetail": "@2 cans",
           "Group": ""
         },
         {
@@ -13757,6 +13839,7 @@
       },
       "Note": "Guanciale is a very fun word to say, and I think it makes the deli think you're clever. Unfortunately I didn't think it tasted that impressive. Warning that this recipe is a work in progress, it came out too salty and a bit too much in a general undefinable way.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Guanciale",
@@ -13945,6 +14028,7 @@
       },
       "Note": "Made this up vaguely in an attempt to recreate a tasty veggie pie I bought at a small food truck at the top of a waterfall somewhere I forget the name of. We bought the pies, went down the steps to the bottom of the waterfall, wandered about then climbed back up the stairs. The baker kept the pies warm in the oven for us the whole time. Substitute thyme for a few sprigs of fresh rosemary, roughly chopped. I've finally cracked using the pie cutter, line up the sheets side to side with a little overlap, cut all the bases you want, edge to edge alternating top/bottom of sheet, then make the tops out of the scraps.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Red potatoes",
@@ -14176,6 +14260,7 @@
       },
       "Note": "Apparently a coffee cake is either a coffee flavoured cake, or a cake of any flavour made to be eaten with coffee. The recipe is from \\href{https://www.allrecipes.com/recipe/246868/pecan-sour-cream-coffee-cake/}{All Recipes}, but I got it from my statistics lecturer who made this and several other cakes for his office to celebrate his birthday. I got lucky and walked past at the right time, and I later emailed to get the recipe. To get the halves even, I measured the batter and topping and did it by weight. The reason for the difficulty rating is that the measurements are super finicky. To get the brown sugar and flour quantities right, use a small spoon and fill up the larger measurement gradually, without packing it in.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Pecans",
@@ -14375,6 +14460,7 @@
       },
       "Note": "After making this thoroughly UK feeling dinner, I sat and ate it infront of an episode of Are You Being Served. I measured the cheese but that's because initially I was putting it into the mash. Could add carrots. Consider putting a tray underneath in the oven to catch any oil.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Sweet potato",
@@ -14585,6 +14671,7 @@
       },
       "Note": "From \\href{https://thewoksoflife.com/cantonese-soy-sauce-pan-fried-noodles}{The Woks Of Life}. I wanted noodles but really crispy and I tried googling it and that's literally a thing which is such great news. For spreading the noodles in the pan, my pan is definitely a lot smaller than their wok, which is why I break up the noodles a little before adding them back to the pan, else it's unmanageable.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Bean sprouts",
@@ -14778,6 +14865,7 @@
       },
       "Note": "Chocolate chicken. In the lead up to cooking this I had to convince several people that this was a real thing. Bought the mole negro from Fireworks Foods in North Rocks. Got the vague recipe plan from the person serving, though there was no pretense of authenticity, she was just scheming to cook the whole thing in one pot. The veggies are an addition because they were in the fridge, but they really do brighten up the meal. Such a fun thing to eat. The steps are probably overkill but it's what I ended up with, I put the chicken in I put the chicken out I put the chicken in and I shake it all about.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Chicken maryland",
@@ -14806,9 +14894,9 @@
         {
           "Name": "Diced tomatoes",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "can",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 can",
           "Group": ""
         },
         {
@@ -14836,8 +14924,8 @@
           "Group": ""
         },
         {
-          "Name": "Capsicum",
-          "NameDetail": "red",
+          "Name": "Red capsicum",
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "whole",
           "UnitDetail": "",
@@ -14945,6 +15033,7 @@
       },
       "Note": "From Stephanie Alexander's The Cook's Companion. I don't have my grandma's recipe but this tastes similar and she would often have a little red lidded jar in the fridge to use on toast. I recently found exactly the same jar at an op-shop in the free pile. On the same trip a day later I found another identical jar, they must be from some product and there are some icons in the lid but nothing I can put together. The steps are simple but measuring out and preparing the ingredients takes time. I also may have been cooking it at too low a temperature out of fear.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Lemon",
@@ -15046,6 +15135,7 @@
       },
       "Note": "From the Commonsense Cookery Book, my copy is the centenary edition, a birthday present years ago from Dad. His note in the front makes deliberate mention of the pandemic to anchor it in time. The cooking time is a lot longer than it should be because my oven is lazy at times. I tried to shape them like hamburger patties but I'll cut them from here on. Serve warm with lemon butter and thickened cream. The book instructs you to tear them open rather than cutting with a knife, thems the rules.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "SR flour",
@@ -15149,6 +15239,7 @@
       },
       "Note": "From \\href{https://nishkitchen.com/lamb-korma/}{Nish Kitchen}, who's delightful slogan is \"A Delicious Adventure!\". I tried to make this after buying some for lunch at Tandoori Connection.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Lamb cubes",
@@ -15356,6 +15447,7 @@
       },
       "Note": "Calling this a roast is a stretch. This recipe is from a TikTok meal prepper via Claudia. In the spirit of meal prepping, this is best enjoyed in a tupperware container as pictured.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Potatoes",
@@ -15377,8 +15469,8 @@
           "Name": "Parsley",
           "NameDetail": "",
           "Quantity": 2.0,
-          "Unit": "whole",
-          "UnitDetail": "sprigs",
+          "Unit": "sprigs",
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
@@ -15628,6 +15720,7 @@
       },
       "Note": "A constant work in progress to make bread that works for sandwiches. Mostly appropriated from The Commonsense Cookery Book. Every time I make it I come up with something I should change for the next time. The 15 minutes of kneading is long enough that I usually take a little break in the middle, but it is usually a really pleasant activity.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Bread flour",
@@ -15773,6 +15866,7 @@
       },
       "Note": "From \\href{https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe}{Cookie and Kate}. The first time I cooked it, I was prepared ahead of time, starting making the accompanying bread in the morning, had it timed out to go into the oven before I started a meeting, and come back out in time for me to make the soup, because Claudia was only home for a 30 minute window after work. Right as my meeting started, we had a full power outage and the bread just had to sit in the oven doing nothing. I still tried to bake it later and the result was delicious and chewy, but only about 4 cm tall. Anyway, I had an unlimited amount of time to prepare everything because I couldn't cook without electricity. Independently of that, the evening's plans got changed around and I then also had an unlimited amount of time to do the cooking part too. A really pleasant meal to take your time with. A note that blending it bit by bit gives it a fantastic texture that I can't get with our cheap immersion blender.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Cauliflower",
@@ -15925,6 +16019,7 @@
       },
       "Note": "From \\href{https://www.thedeliciouscrescent.com/dal-recipe/}{The Delicious Crescent}, but I also asked young Laxsmi from the college kitchen while I was visiting Mik. The original version has options for either a restaurant or home style tadka. Don't discard the oil in the frying pan, my impression is that that is the whole point of tadka, to infuse the flavours into the oil.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown onions",
@@ -16104,6 +16199,7 @@
       },
       "Note": "From \\href{https://www.slowcookerclub.com/slow-cooker-lamb-tagine/}{The Slow Cooker Club}, this was the first thing I used our slow cooker for. I woke up early and prepared everything, and then very excitingly left the house for class and let it cook away with no-one home. It was sufficiently exciting that I announced it to the class when I started the lesson.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Lamb shoulder",
@@ -16172,9 +16268,9 @@
         {
           "Name": "Diced tomatoes",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "can",
+          "Quantity": 400.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 can",
           "Group": ""
         },
         {
@@ -16218,7 +16314,7 @@
           "Group": ""
         },
         {
-          "Name": "Chickpeas",
+          "Name": "Tinned chickpeas",
           "NameDetail": "",
           "Quantity": 400.0,
           "Unit": "grams",
@@ -16311,6 +16407,7 @@
       },
       "Note": "From \\href{recipetineats.com/leek-and-potato-soup/#wprm-recipe-container-23935}{Recipe Tin Eats} who actually credit someone for this recipe and mention using stock instead of water to make it more modern. The original recipe emphasises not over-blending or the potato will make the texture gluey. Besides chopping the leeks, this is a really easy recipe to make.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Leeks",
@@ -16470,6 +16567,7 @@
       },
       "Note": "Another \\href{https://www.recipetineats.com/beef-chow-mein-noodles/}{Recipe Tin Eats} recipe. After cooking this I went to a friends housewarming and spotted yet another Recipe Tin Eats cookbook. This recipe gets to be almost too big for my frying pan. The flavour of beef mince feels out of place but I could definitely get used to it.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Carrots",
@@ -16752,6 +16850,7 @@
       },
       "Note": "From \\href{https://www.maricruzavalos.com/gnocchi-alla-sorrentina/#recipe}{Maricruz Avalos}. I saw this recipe but looked at the other recipes on the site and thought I could find something more authentic. I arrived at an authentic recipe that opened with a rant against less authentic versions of the recipe, which snapped me right out of it. This one is delicious. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. Authentic. I've had enough.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Gnocchi",
@@ -16903,6 +17002,7 @@
       },
       "Note": "From The Cook's Companion. 15 minutes is a really long time.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Plain flour",
@@ -17041,6 +17141,7 @@
       },
       "Note": "Mum's recipe, conveyed with photo of the original newspaper article she snipped it out of. From someone running ec'co. It's meant to be 3 spirits, 30 ml brandy, 30 ml tia maria and 30 ml galliano. The original also does 2 layers not 3. The eggs and shaving the chocolate are a lot of fuss, and the chocolate makes a mess. Fantastic food.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Ground coffee",
@@ -17186,6 +17287,7 @@
       },
       "Note": "Tried to adapt this from my prawn risotto recipe, but then I found out my recipe forgets to add the prawns to the prawn risotto. For the record I used stock powder to make the stock and it was fine.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown onions",
@@ -17230,8 +17332,8 @@
         {
           "Name": "Parsley",
           "NameDetail": "",
-          "Quantity": 3.0,
-          "Unit": "whole",
+          "Quantity": 5.0,
+          "Unit": "sprigs",
           "UnitDetail": "@1 cup chopped",
           "Group": ""
         },
@@ -17330,6 +17432,7 @@
       },
       "Note": "From \\href{https://www.taste.com.au/recipes/best-ever-homemade-sausage-rolls/c86a773f-0dfa-49cf-85fb-9e9dfefa059c}{taste.com} but their links always take me to news.com, search taste sausafe rolls. Did not freeze very well.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Brown onions",
@@ -17367,7 +17470,7 @@
           "Name": "Parsley",
           "NameDetail": "",
           "Quantity": 2.0,
-          "Unit": "whole",
+          "Unit": "sprigs",
           "UnitDetail": "@0.25 cup chopped",
           "Group": "filling"
         },
@@ -17513,9 +17616,10 @@
       },
       "Note": "Got this from a list on All Recipes because I was craving the idea of sausages and rice and some sauce soaking into the rice and it exists. It exists \\href{https://www.allrecipes.com/recipe/229602/authentic-new-orleans-red-beans-and-rice/}{here}. The frequent stirring makes it creamier. I made it while watching a 3.5 hour livestreamed concert with 2 songs per performer, and between sets I'd stir the pot.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
-          "Name": "Bratwurst sausage",
+          "Name": "Kransky sausage",
           "NameDetail": "",
           "Quantity": 450.0,
           "Unit": "grams",
@@ -17732,6 +17836,7 @@
       },
       "Note": "From Ottolenghi's book Simple, pg 151. Made it first years ago when I was just starting to be left home alone and somehow timed it coming out of the oven as Dad got home from a long and really rainy bike ride and maybe I also had the fireplace lit too.",
       "Image": "",
+      "Images": [],
       "Items": [
         {
           "Name": "Bread flour",
@@ -17806,7 +17911,7 @@
           "Group": "topping"
         },
         {
-          "Name": "Rosemary",
+          "Name": "Fresh rosemary",
           "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to sprinkle",
@@ -17932,46 +18037,47 @@
       },
       "Note": "From \\href{https://www.bbcgoodfood.com/recipes/roast-chicken-pie}{BBC good food} but with changes because the first time we made it we were also trying to watch a televised game of goalball and were turning the chicken in commercial breaks.",
       "Image": "Local",
+      "Images": [],
       "Items": [
         {
           "Name": "Bacon",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 150.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Chicken thigh",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Leeks",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Butter",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 45.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Plain flour",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 45.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Milk",
@@ -17983,35 +18089,35 @@
         },
         {
           "Name": "Chicken stock",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 200.0,
           "Unit": "ml",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Peas",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 150.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Dijon mustard",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Puff pastry",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 4.0,
           "Unit": "whole",
           "UnitDetail": "sheets",
-          "Group": null
+          "Group": ""
         }
       ],
       "Steps": [
@@ -18049,7 +18155,16 @@
           "Content": "Assemble pies and cook in pie maker for 14 minutes."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2025-02-08T22:34:50.5578035+11:00",
+          "Content": "Using chicken thigh instead of a whole chicken, making little pies not one big one and using frozen puff pastry. Took a while."
+        },
+        {
+          "Date": "2025-02-08T22:35:29.2167322+11:00",
+          "Content": "Made again on first january 2025, used 2 leeks no carrot and chicken stock from powder. Chicken ahd lots of clear juice run out of it which I tipped off but it still didn't end up very crispy on that side."
+        }
+      ],
       "Timers": [
         {
           "Name": "Chicken",
