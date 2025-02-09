@@ -1612,7 +1612,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Dad. Can get rid of chicken, can substitue carrot for sweet potato. Best to use the homemade \\hyperref[rec:Basil Pesto]{Basil Pesto}. If using a jar, tip it in, then half fill with water and shake it to dislodge the rest.",
+      "Note": "From Dad. Can get rid of chicken, can substitue carrot for sweet potato. Sometimes I make the pesto from scratch but its more expensive. If using a jar, tip it in, then half fill with water and shake it to dislodge the rest.",
       "Image": "Local",
       "Images": [],
       "Items": [
@@ -2181,7 +2181,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Dad. Cheap and lasts fairly well. Worth the effort to add in a \\hyperref[rec:Bechamel]{Bechamel Sauce} when mixing everything else in. Peas, carrots etc as well.",
+      "Note": "From Dad. More often than not I add a bechamel sauce when mixing everything else in. Peas, carrots etc as well.",
       "Image": "Local",
       "Images": [],
       "Items": [
@@ -2276,7 +2276,7 @@
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": true,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
       "NeedsRevision": true,
       "Dietary": {
@@ -4071,17 +4071,41 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From Stephanie Alexander, also using her \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry} recipe. I add some extra cream, which extends it to 2 tarts. For the shortcrust pastry recipe, see the pastry section. To make the tart look pretty, sprinkle with icing sugar before serving.",
+      "Note": "From Stephanie Alexander, also using her Shortcrust Pastry recipe. I add some extra cream, which extends it to 2 tarts. For the shortcrust pastry recipe, see the pastry section. To make the tart look pretty, sprinkle with icing sugar before serving.",
       "Image": "Local",
       "Images": [],
       "Items": [
         {
-          "Name": "\\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}",
+          "Name": "Butter",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
+          "Quantity": 135.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "a pinch",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "pastry"
         },
         {
           "Name": "Lemon",
@@ -4444,8 +4468,8 @@
       "Key": "Strawberry",
       "Yield": {
         "Quantity": 1.0,
-        "Unit": "large tart",
-        "Extra": "and @1 medium tart"
+        "Unit": "medium tart",
+        "Extra": "20cm"
       },
       "Time": {
         "Minutes": 0.0,
@@ -4463,25 +4487,81 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Dad, using Stephanie Alexander's \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry}. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great.",
+      "Note": "From Dad, using Stephanie Alexander's Shortcrust Pastry. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great.",
       "Image": "Local",
       "Images": [],
       "Items": [
         {
-          "Name": "Almond frangipane",
+          "Name": "Butter",
           "NameDetail": "",
-          "Quantity": 2.5,
-          "Unit": "whole",
-          "UnitDetail": "batches",
-          "Group": ""
+          "Quantity": 135.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
         },
         {
-          "Name": "Shortcrust pastry",
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "a pinch",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Ground almond",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Icing sugar",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": "batches",
-          "Group": ""
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Cointreau",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "frangipane"
         },
         {
           "Name": "Strawberries",
@@ -4494,10 +4574,25 @@
       ],
       "Steps": [
         {
-          "Content": "Make the \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry} and cool in fridge"
+          "Content": "Start on the pastry. Sieve flour and salt onto the workbench and throw in chopped butter"
         },
         {
-          "Content": "Make the \\hyperref[rec:Almond frangipane]{almond frangipane}"
+          "Content": "Push flour into butter with fingertips"
+        },
+        {
+          "Content": "Roll into a heap with a well in the centre and add water"
+        },
+        {
+          "Content": "Continue mixing with fingertips, then gather into a head and push it away from you"
+        },
+        {
+          "Content": "Mix until all unmixed chunks of butter are gone, as they will leave pastry holes"
+        },
+        {
+          "Content": "Wrap in clingwrap and chill in fridge."
+        },
+        {
+          "Content": "To make frangipane, chop/soften butter, sift icing sugar into mixmaster bowl, add ground almond, whisked egg, cointreau and butter then mix well (or check Almond Frangipane recipe for fussier steps)."
         },
         {
           "Content": "Preheat oven to 180 degrees"
@@ -4515,7 +4610,7 @@
           "Content": "Chop the strawberries into quarters"
         },
         {
-          "Content": "Pour the frangipane into the tart dish and spread evenly, lay strawberries across the top"
+          "Content": "Pour the frangipane into the tart dish and spread evenly, lay strawberries cutely across the top"
         },
         {
           "Content": "Bake at 200 degrees for 20 minutes"
@@ -4576,7 +4671,7 @@
       "Images": [],
       "Items": [
         {
-          "Name": "Flatbread",
+          "Name": "Lebanese bread",
           "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
@@ -8052,8 +8147,8 @@
           "Group": ""
         },
         {
-          "Name": "Flatbread",
-          "NameDetail": "",
+          "Name": "Lebanese bread",
+          "NameDetail": "or homemade flatbread",
           "Quantity": 4.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -9648,11 +9743,11 @@
           "Group": "sauce"
         },
         {
-          "Name": "Lime juice",
+          "Name": "Lime",
           "NameDetail": "",
-          "Quantity": 3.0,
-          "Unit": "tbsp",
-          "UnitDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "@3 tbsp juice",
           "Group": "sauce"
         },
         {
@@ -12754,11 +12849,11 @@
           "Group": "dressing"
         },
         {
-          "Name": "Lime juice",
+          "Name": "Lime",
           "NameDetail": "",
-          "Quantity": 3.5,
-          "Unit": "tbsp",
-          "UnitDetail": "",
+          "Quantity": "1",
+          "Unit": "whole",
+          "UnitDetail": "@3.5 tbsp",
           "Group": "dressing"
         },
         {

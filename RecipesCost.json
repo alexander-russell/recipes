@@ -3968,7 +3968,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Dad. Can get rid of chicken, can substitue carrot for sweet potato. Best to use the homemade \\hyperref[rec:Basil Pesto]{Basil Pesto}. If using a jar, tip it in, then half fill with water and shake it to dislodge the rest.",
+      "Note": "From Dad. Can get rid of chicken, can substitue carrot for sweet potato. Sometimes I make the pesto from scratch but its more expensive. If using a jar, tip it in, then half fill with water and shake it to dislodge the rest.",
       "Image": "Local",
       "Images": [
         "main.avif"
@@ -5325,7 +5325,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Dad. Cheap and lasts fairly well. Worth the effort to add in a \\hyperref[rec:Bechamel]{Bechamel Sauce} when mixing everything else in. Peas, carrots etc as well.",
+      "Note": "From Dad. More often than not I add a bechamel sauce when mixing everything else in. Peas, carrots etc as well.",
       "Image": "Local",
       "Images": [
         "main.avif"
@@ -5550,7 +5550,7 @@
       "Difficulty": 5,
       "Bulk": true,
       "Favourite": true,
-      "Retired": false,
+      "Retired": true,
       "Tested": true,
       "NeedsRevision": true,
       "Dietary": {
@@ -6049,8 +6049,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.1,
-        "AmountPerUnit": 8.1,
+        "Amount": 11.22,
+        "AmountPerUnit": 11.22,
         "Unit": "Pizza",
         "ItemCosts": [
           {
@@ -6063,11 +6063,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Ham"
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Ham",
+              "Price": 5.0,
+              "Quantity": 200.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Don brand"
+            },
+            "Amount": 3.125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cabanossi",
@@ -6190,8 +6198,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.1 per unit",
-        "ExclusionsString": "Excluding Ham"
+        "CostString": "11.22 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -9962,7 +9970,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.32,
+        "Amount": 12.32,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -10000,11 +10008,19 @@
               "UnitDetail": "1 pack",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Lolly raspberries"
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Lolly raspberries",
+              "Price": 5.0,
+              "Quantity": 190.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Allens brand"
+            },
+            "Amount": 5.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Marshmallows",
@@ -10031,8 +10047,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.32 total",
-        "ExclusionsString": "Excluding Lolly raspberries"
+        "CostString": "12.32 total",
+        "ExclusionsString": ""
       }
     },
     {
@@ -10065,19 +10081,43 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From Stephanie Alexander, also using her \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry} recipe. I add some extra cream, which extends it to 2 tarts. For the shortcrust pastry recipe, see the pastry section. To make the tart look pretty, sprinkle with icing sugar before serving.",
+      "Note": "From Stephanie Alexander, also using her Shortcrust Pastry recipe. I add some extra cream, which extends it to 2 tarts. For the shortcrust pastry recipe, see the pastry section. To make the tart look pretty, sprinkle with icing sugar before serving.",
       "Image": "Local",
       "Images": [
         "main.avif"
       ],
       "Items": [
         {
-          "Name": "\\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}",
+          "Name": "Butter",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "batch",
-          "Group": ""
+          "Quantity": 135.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "a pinch",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "pastry"
         },
         {
           "Name": "Lemon",
@@ -10138,25 +10178,97 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 12.85,
-        "AmountPerUnit": 12.85,
+        "Amount": 15.04,
+        "AmountPerUnit": 15.04,
         "Unit": "whole",
         "ItemCosts": [
           {
-            "Name": "\\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}",
+            "Name": "Butter",
             "Item": {
-              "Name": "\\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}",
+              "Name": "Butter",
               "NameDetail": "",
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "UnitDetail": "batch",
-              "Group": ""
+              "Quantity": 135.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "pastry"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Butter",
+              "Price": 7.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 1.8900000000000001,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Plain flour",
+            "Item": {
+              "Name": "Plain flour",
+              "NameDetail": "",
+              "Quantity": 180.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "pastry"
+            },
+            "Ingredient": {
+              "Date": "2024-10-28T00:00:00",
+              "Name": "Plain flour",
+              "Price": 8.48,
+              "Quantity": 5.0,
+              "Unit": "kg",
+              "Source": "Yonghui",
+              "Extra": ""
+            },
+            "Amount": 0.30528,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "a pinch",
+              "UnitDetail": "",
+              "Group": "pastry"
             },
             "Ingredient": null,
             "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: \\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}"
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: a pinch"
+          },
+          {
+            "Name": "Water",
+            "Item": {
+              "Name": "Water",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "pastry"
+            },
+            "Ingredient": {
+              "Date": "2023-11-05T00:00:00",
+              "Name": "Water",
+              "Price": 0.0,
+              "Quantity": 1.0,
+              "Unit": "ml",
+              "Source": "Tap",
+              "Extra": "Free item woohoo"
+            },
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Lemon",
@@ -10255,8 +10367,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "12.85 per unit",
-        "ExclusionsString": "Excluding \\hyperref[rec:Shortcrust Pastry]{Shortcrust pastry}"
+        "CostString": "15.04 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -10954,8 +11066,8 @@
       "Key": "Strawberry",
       "Yield": {
         "Quantity": 1.0,
-        "Unit": "large tart",
-        "Extra": "and @1 medium tart"
+        "Unit": "medium tart",
+        "Extra": "20cm"
       },
       "Time": {
         "Minutes": 0.0,
@@ -10973,27 +11085,83 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From Dad, using Stephanie Alexander's \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry}. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great.",
+      "Note": "From Dad, using Stephanie Alexander's Shortcrust Pastry. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great.",
       "Image": "Local",
       "Images": [
         "main.avif"
       ],
       "Items": [
         {
-          "Name": "Almond frangipane",
+          "Name": "Butter",
           "NameDetail": "",
-          "Quantity": 2.5,
-          "Unit": "whole",
-          "UnitDetail": "batches",
-          "Group": ""
+          "Quantity": 135.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
         },
         {
-          "Name": "Shortcrust pastry",
+          "Name": "Plain flour",
+          "NameDetail": "",
+          "Quantity": 180.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "a pinch",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "pastry"
+        },
+        {
+          "Name": "Ground almond",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Icing sugar",
+          "NameDetail": "",
+          "Quantity": 200.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Eggs",
           "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "whole",
-          "UnitDetail": "batches",
-          "Group": ""
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "frangipane"
+        },
+        {
+          "Name": "Cointreau",
+          "NameDetail": "",
+          "Quantity": 4.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "frangipane"
         },
         {
           "Name": "Strawberries",
@@ -11006,10 +11174,25 @@
       ],
       "Steps": [
         {
-          "Content": "Make the \\hyperref[rec:Shortcrust Pastry]{shortcrust pastry} and cool in fridge"
+          "Content": "Start on the pastry. Sieve flour and salt onto the workbench and throw in chopped butter"
         },
         {
-          "Content": "Make the \\hyperref[rec:Almond frangipane]{almond frangipane}"
+          "Content": "Push flour into butter with fingertips"
+        },
+        {
+          "Content": "Roll into a heap with a well in the centre and add water"
+        },
+        {
+          "Content": "Continue mixing with fingertips, then gather into a head and push it away from you"
+        },
+        {
+          "Content": "Mix until all unmixed chunks of butter are gone, as they will leave pastry holes"
+        },
+        {
+          "Content": "Wrap in clingwrap and chill in fridge."
+        },
+        {
+          "Content": "To make frangipane, chop/soften butter, sift icing sugar into mixmaster bowl, add ground almond, whisked egg, cointreau and butter then mix well (or check Almond Frangipane recipe for fussier steps)."
         },
         {
           "Content": "Preheat oven to 180 degrees"
@@ -11027,7 +11210,7 @@
           "Content": "Chop the strawberries into quarters"
         },
         {
-          "Content": "Pour the frangipane into the tart dish and spread evenly, lay strawberries across the top"
+          "Content": "Pour the frangipane into the tart dish and spread evenly, lay strawberries cutely across the top"
         },
         {
           "Content": "Bake at 200 degrees for 20 minutes"
@@ -11052,41 +11235,217 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 3.92,
-        "AmountPerUnit": 3.92,
-        "Unit": "large tart",
+        "Amount": 16.8,
+        "AmountPerUnit": 16.8,
+        "Unit": "medium tart",
         "ItemCosts": [
           {
-            "Name": "Almond frangipane",
+            "Name": "Butter",
             "Item": {
-              "Name": "Almond frangipane",
+              "Name": "Butter",
               "NameDetail": "",
-              "Quantity": 2.5,
-              "Unit": "whole",
-              "UnitDetail": "batches",
-              "Group": ""
+              "Quantity": 135.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "pastry"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Butter",
+              "Price": 7.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 1.8900000000000001,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Plain flour",
+            "Item": {
+              "Name": "Plain flour",
+              "NameDetail": "",
+              "Quantity": 180.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "pastry"
+            },
+            "Ingredient": {
+              "Date": "2024-10-28T00:00:00",
+              "Name": "Plain flour",
+              "Price": 8.48,
+              "Quantity": 5.0,
+              "Unit": "kg",
+              "Source": "Yonghui",
+              "Extra": ""
+            },
+            "Amount": 0.30528,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.0,
+              "Unit": "a pinch",
+              "UnitDetail": "",
+              "Group": "pastry"
             },
             "Ingredient": null,
             "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Almond frangipane"
+            "Success": true,
+            "Reason": "Skipped",
+            "Extra": "In ignored units: a pinch"
           },
           {
-            "Name": "Shortcrust pastry",
+            "Name": "Water",
             "Item": {
-              "Name": "Shortcrust pastry",
+              "Name": "Water",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "pastry"
+            },
+            "Ingredient": {
+              "Date": "2023-11-05T00:00:00",
+              "Name": "Water",
+              "Price": 0.0,
+              "Quantity": 1.0,
+              "Unit": "ml",
+              "Source": "Tap",
+              "Extra": "Free item woohoo"
+            },
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Ground almond",
+            "Item": {
+              "Name": "Ground almond",
+              "NameDetail": "",
+              "Quantity": 200.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "frangipane"
+            },
+            "Ingredient": {
+              "Date": "2024-06-10T22:43:28",
+              "Name": "Ground almond",
+              "Price": 14.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Skorin Deli",
+              "Extra": "Cheaper at aldi by 1.5 cents per kilo and in better packaging."
+            },
+            "Amount": 2.998,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Icing sugar",
+            "Item": {
+              "Name": "Icing sugar",
+              "NameDetail": "",
+              "Quantity": 200.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "frangipane"
+            },
+            "Ingredient": {
+              "Date": "2024-06-10T23:05:31",
+              "Name": "Icing sugar",
+              "Price": 3.79,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Aldi",
+              "Extra": ""
+            },
+            "Amount": 0.758,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Eggs",
+            "Item": {
+              "Name": "Eggs",
               "NameDetail": "",
               "Quantity": 2.0,
               "Unit": "whole",
-              "UnitDetail": "batches",
-              "Group": ""
+              "UnitDetail": "",
+              "Group": "frangipane"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Shortcrust pastry"
+            "Ingredient": {
+              "Date": "2025-01-29T00:00:00",
+              "Name": "Eggs",
+              "Price": 7.99,
+              "Quantity": 12.0,
+              "Unit": "whole",
+              "Source": "7Fresh",
+              "Extra": "700 grams"
+            },
+            "Amount": 1.3316666666666668,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Butter",
+            "Item": {
+              "Name": "Butter",
+              "NameDetail": "",
+              "Quantity": 100.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "frangipane"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Butter",
+              "Price": 7.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 1.4000000000000001,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cointreau",
+            "Item": {
+              "Name": "Cointreau",
+              "NameDetail": "",
+              "Quantity": 4.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "frangipane"
+            },
+            "Ingredient": {
+              "Date": "2023-12-22T00:00:00",
+              "Name": "Cointreau",
+              "Price": 70.0,
+              "Quantity": 1.0,
+              "Unit": "litre",
+              "Source": "Dan Murphy",
+              "Extra": "Actually it was duty free but close enough."
+            },
+            "Amount": 4.2,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Strawberries",
@@ -11113,8 +11472,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.92 per unit",
-        "ExclusionsString": "Excluding Almond frangipane and Shortcrust pastry"
+        "CostString": "16.8 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -11154,7 +11513,7 @@
       ],
       "Items": [
         {
-          "Name": "Flatbread",
+          "Name": "Lebanese bread",
           "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "whole",
@@ -11200,25 +11559,33 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 1.35,
-        "AmountPerUnit": 0.45,
+        "Amount": 2.25,
+        "AmountPerUnit": 0.75,
         "Unit": "wraps",
         "ItemCosts": [
           {
-            "Name": "Flatbread",
+            "Name": "Lebanese bread",
             "Item": {
-              "Name": "Flatbread",
+              "Name": "Lebanese bread",
               "NameDetail": "",
               "Quantity": 3.0,
               "Unit": "whole",
               "UnitDetail": "wraps",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Flatbread"
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Lebanese bread",
+              "Price": 1.8,
+              "Quantity": 6.0,
+              "Unit": "whole",
+              "Source": "Woolworths online",
+              "Extra": "Pieces"
+            },
+            "Amount": 0.8999999999999999,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Za'atar",
@@ -11285,8 +11652,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.45 per unit",
-        "ExclusionsString": "Excluding Flatbread"
+        "CostString": "0.75 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -19534,8 +19901,8 @@
           "Group": ""
         },
         {
-          "Name": "Flatbread",
-          "NameDetail": "",
+          "Name": "Lebanese bread",
+          "NameDetail": "or homemade flatbread",
           "Quantity": 4.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -19586,8 +19953,8 @@
         }
       ],
       "Cost": {
-        "Amount": 22.08,
-        "AmountPerUnit": 5.52,
+        "Amount": 23.28,
+        "AmountPerUnit": 5.82,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -20039,24 +20406,32 @@
             "Extra": ""
           },
           {
-            "Name": "Flatbread",
+            "Name": "Lebanese bread",
             "Item": {
-              "Name": "Flatbread",
-              "NameDetail": "",
+              "Name": "Lebanese bread",
+              "NameDetail": "or homemade flatbread",
               "Quantity": 4.0,
               "Unit": "whole",
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Flatbread"
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Lebanese bread",
+              "Price": 1.8,
+              "Quantity": 6.0,
+              "Unit": "whole",
+              "Source": "Woolworths online",
+              "Extra": "Pieces"
+            },
+            "Amount": 1.2,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "5.52 per serve",
-        "ExclusionsString": "Excluding Cardamom and Flatbread"
+        "CostString": "5.82 per serve",
+        "ExclusionsString": "Excluding Cardamom"
       }
     },
     {
@@ -23524,11 +23899,11 @@
           "Group": "sauce"
         },
         {
-          "Name": "Lime juice",
+          "Name": "Lime",
           "NameDetail": "",
-          "Quantity": 3.0,
-          "Unit": "tbsp",
-          "UnitDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "@3 tbsp juice",
           "Group": "sauce"
         },
         {
@@ -23937,20 +24312,28 @@
             "Extra": "Name not found: Aioli"
           },
           {
-            "Name": "Lime juice",
+            "Name": "Lime",
             "Item": {
-              "Name": "Lime juice",
+              "Name": "Lime",
               "NameDetail": "",
-              "Quantity": 3.0,
-              "Unit": "tbsp",
-              "UnitDetail": "",
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "UnitDetail": "@3 tbsp juice",
               "Group": "sauce"
             },
-            "Ingredient": null,
+            "Ingredient": {
+              "Date": "2024-12-03T00:00:00",
+              "Name": "Lime",
+              "Price": 15.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Superfresh",
+              "Extra": ""
+            },
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Lime juice"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:kg"
           },
           {
             "Name": "Cumin",
@@ -24026,7 +24409,7 @@
           }
         ],
         "CostString": "1.39 per unit",
-        "ExclusionsString": "Excluding Beef rump steak, Aioli and Lime juice"
+        "ExclusionsString": "Excluding Beef rump steak, Aioli and Lime"
       }
     },
     {
@@ -30074,8 +30457,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.48,
-        "AmountPerUnit": 1.7,
+        "Amount": 8.58,
+        "AmountPerUnit": 1.72,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -30208,11 +30591,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Ground ginger"
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Ground ginger",
+              "Price": 2.0,
+              "Quantity": 25.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Home brand"
+            },
+            "Amount": 0.1,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Fresh rosemary",
@@ -30239,8 +30630,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.7 per serve",
-        "ExclusionsString": "Excluding Ground ginger"
+        "CostString": "1.72 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -31874,11 +32265,11 @@
           "Group": "dressing"
         },
         {
-          "Name": "Lime juice",
+          "Name": "Lime",
           "NameDetail": "",
-          "Quantity": 3.5,
-          "Unit": "tbsp",
-          "UnitDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "@3.5 tbsp",
           "Group": "dressing"
         },
         {
@@ -32109,20 +32500,28 @@
             "Extra": ""
           },
           {
-            "Name": "Lime juice",
+            "Name": "Lime",
             "Item": {
-              "Name": "Lime juice",
+              "Name": "Lime",
               "NameDetail": "",
-              "Quantity": 3.5,
-              "Unit": "tbsp",
-              "UnitDetail": "",
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "UnitDetail": "@3.5 tbsp",
               "Group": "dressing"
             },
-            "Ingredient": null,
+            "Ingredient": {
+              "Date": "2024-12-03T00:00:00",
+              "Name": "Lime",
+              "Price": 15.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Superfresh",
+              "Extra": ""
+            },
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Lime juice"
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:kg"
           },
           {
             "Name": "Porterhouse steak",
@@ -32358,7 +32757,7 @@
           }
         ],
         "CostString": "3.14 per serve",
-        "ExclusionsString": "Excluding Lime juice and Butter leaf lettuce"
+        "ExclusionsString": "Excluding Lime and Butter leaf lettuce"
       }
     },
     {
@@ -37320,8 +37719,8 @@
         }
       ],
       "Cost": {
-        "Amount": 4.95,
-        "AmountPerUnit": 1.65,
+        "Amount": 9.36,
+        "AmountPerUnit": 3.12,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -37446,11 +37845,19 @@
               "UnitDetail": "@0.25 of a jar",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Mole negro"
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Mole negro",
+              "Price": 17.25,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Fireworks foods",
+              "Extra": "El sabor de Oaxaca brand. May no longer be stocked."
+            },
+            "Amount": 4.416,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Red onion",
@@ -37517,8 +37924,8 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "1.65 per serve",
-        "ExclusionsString": "Excluding Chicken maryland and Mole negro"
+        "CostString": "3.12 per serve",
+        "ExclusionsString": "Excluding Chicken maryland"
       }
     },
     {
@@ -44071,8 +44478,8 @@
         }
       ],
       "Cost": {
-        "Amount": 17.99,
-        "AmountPerUnit": 3.0,
+        "Amount": 19.34,
+        "AmountPerUnit": 3.22,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -44397,15 +44804,23 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Long grain rice"
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Long grain rice",
+              "Price": 1.8,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 1.35,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "3 per serve",
-        "ExclusionsString": "Excluding Celery, Dried thyme, Dried parsley and Long grain rice"
+        "CostString": "3.22 per serve",
+        "ExclusionsString": "Excluding Celery, Dried thyme and Dried parsley"
       }
     },
     {
