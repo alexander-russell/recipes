@@ -8714,8 +8714,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.18,
-        "AmountPerUnit": 0.32,
+        "Amount": 5.32,
+        "AmountPerUnit": 0.33,
         "Unit": "Biscuits",
         "ItemCosts": [
           {
@@ -8872,11 +8872,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Golden syrup"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Golden syrup",
+              "Price": 4.5,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "CSR brand"
+            },
+            "Amount": 0.135,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Water",
@@ -8903,8 +8911,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.32 per unit",
-        "ExclusionsString": "Excluding Golden syrup"
+        "CostString": "0.33 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -9363,11 +9371,11 @@
           "Group": "base"
         },
         {
-          "Name": "Lemon juice",
+          "Name": "Lemon",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "tbsp",
-          "UnitDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "@1 tbsp juice",
           "Group": "base"
         },
         {
@@ -9471,8 +9479,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 10.27,
-        "AmountPerUnit": 1.71,
+        "Amount": 11.02,
+        "AmountPerUnit": 1.84,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -9572,20 +9580,28 @@
             "Extra": ""
           },
           {
-            "Name": "Lemon juice",
+            "Name": "Lemon",
             "Item": {
-              "Name": "Lemon juice",
+              "Name": "Lemon",
               "NameDetail": "",
-              "Quantity": 1.0,
-              "Unit": "tbsp",
-              "UnitDetail": "",
+              "Quantity": 0.5,
+              "Unit": "whole",
+              "UnitDetail": "@1 tbsp juice",
               "Group": "base"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Lemon juice"
+            "Ingredient": {
+              "Date": "2025-01-15T00:00:00",
+              "Name": "Lemon",
+              "Price": 9.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "7Fresh",
+              "Extra": "Individual"
+            },
+            "Amount": 0.74925,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Water",
@@ -9780,8 +9796,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.71 per serve",
-        "ExclusionsString": "Excluding Lemon juice"
+        "CostString": "1.84 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -10112,7 +10128,7 @@
           "Group": ""
         },
         {
-          "Name": "Gelatine sheets",
+          "Name": "Gelatine leaves",
           "NameDetail": "",
           "Quantity": 4.0,
           "Unit": "whole",
@@ -10144,7 +10160,7 @@
           "Content": "Blend cheese, 3/4 cup sugar and vanilla together, whip cream and add to cheese mixture, blend again"
         },
         {
-          "Content": "Soften 1 gelatine sheet in a glass of water for 2-5 minutes, then melt in a saucepan and pour into cheese mixture and blend again"
+          "Content": "Soften 1 gelatine leaf in a glass of water for 2-5 minutes, then melt in a saucepan and pour into cheese mixture and blend again"
         },
         {
           "Content": "Pour the cream cheese over the base and refrigerate"
@@ -10156,11 +10172,16 @@
           "Content": "Pour onto cream cheese filling and refrigerate for 1-2 hours"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-02-11T18:14:42",
+          "Content": "Consider gelatine powder instead, five times cheaper."
+        }
+      ],
       "Timers": [],
       "Cost": {
-        "Amount": 23.07,
-        "AmountPerUnit": 23.07,
+        "Amount": 24.95,
+        "AmountPerUnit": 24.95,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -10308,20 +10329,28 @@
             "Extra": ""
           },
           {
-            "Name": "Gelatine sheets",
+            "Name": "Gelatine leaves",
             "Item": {
-              "Name": "Gelatine sheets",
+              "Name": "Gelatine leaves",
               "NameDetail": "",
               "Quantity": 4.0,
               "Unit": "whole",
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Gelatine sheets"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Gelatine leaves",
+              "Price": 5.65,
+              "Quantity": 12.0,
+              "Unit": "whole",
+              "Source": "Woolworths online",
+              "Extra": "20 grams, McKenzies brand"
+            },
+            "Amount": 1.8833333333333335,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Passionfruit",
@@ -10372,8 +10401,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "23.07 per unit",
-        "ExclusionsString": "Excluding Gelatine sheets"
+        "CostString": "24.95 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -12982,7 +13011,7 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From a Vittles article on Substack (subject: Soaking up the juicy morsels of our lives), by Claire-Louise Bennett. Aside from step 1, the procedure is verbatim. Plan is to take this recipe as an approach to risotto, and just rejig all the ingredients (I don't like fennel). Recommends serving with a green salad. Provides some optional extra ingredients: Butter, fennel bulb (but sliced roughly and roasted), walnuts (cool idea) and feta cheese. Mentions making your own stock earlier in the day with carrot, celery, onions, peppercorns, bay leaf, a couple of whole tomatoes, some scrubbed lemon wedges and parsley stems \"and so on\". Throw them in the pot and simmer for a while, then gently reheat in time to cook the rice (don't boil).",
+      "Note": "From a Vittles article on Substack (subject: Soaking up the juicy morsels of our lives), by Claire-Louise Bennett. Aside from step 1, the procedure is verbatim. Provides some optional extra ingredients: Butter, fennel bulb (but sliced roughly and roasted), walnuts (cool idea) and feta cheese. Mentions making your own stock earlier in the day with carrot, celery, onions, peppercorns, bay leaf, a couple of whole tomatoes, some scrubbed lemon wedges and parsley stems \"and so on\". Throw them in the pot and simmer for a while, then gently reheat in time to cook the rice (don't boil).",
       "Image": "",
       "Images": null,
       "Items": [
@@ -13051,8 +13080,8 @@
           "Group": ""
         },
         {
-          "Name": "Lemon zest",
-          "NameDetail": "",
+          "Name": "Lemon",
+          "NameDetail": "zest of",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -13120,8 +13149,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 5.59,
-        "AmountPerUnit": 1.4,
+        "Amount": 17.59,
+        "AmountPerUnit": 4.4,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -13182,11 +13211,19 @@
               "UnitDetail": "bulbs?",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Fennel"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Fennel",
+              "Price": 3.5,
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 10.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Garlic",
@@ -13301,20 +13338,28 @@
             "Extra": ""
           },
           {
-            "Name": "Lemon zest",
+            "Name": "Lemon",
             "Item": {
-              "Name": "Lemon zest",
-              "NameDetail": "",
+              "Name": "Lemon",
+              "NameDetail": "zest of",
               "Quantity": 1.0,
               "Unit": "whole",
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Lemon zest"
+            "Ingredient": {
+              "Date": "2025-01-15T00:00:00",
+              "Name": "Lemon",
+              "Price": 9.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "7Fresh",
+              "Extra": "Individual"
+            },
+            "Amount": 1.4985,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Parsley",
@@ -13381,8 +13426,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.4 per serve",
-        "ExclusionsString": "Excluding Fennel and Lemon zest"
+        "CostString": "4.4 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -20375,8 +20420,8 @@
           "Group": "marinade"
         },
         {
-          "Name": "Cardamom",
-          "NameDetail": "ground",
+          "Name": "Ground cardamom",
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
           "UnitDetail": "",
@@ -20555,8 +20600,8 @@
         }
       ],
       "Cost": {
-        "Amount": 23.28,
-        "AmountPerUnit": 5.82,
+        "Amount": 23.53,
+        "AmountPerUnit": 5.88,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -20656,20 +20701,28 @@
             "Extra": ""
           },
           {
-            "Name": "Cardamom",
+            "Name": "Ground cardamom",
             "Item": {
-              "Name": "Cardamom",
-              "NameDetail": "ground",
+              "Name": "Ground cardamom",
+              "NameDetail": "",
               "Quantity": 1.0,
               "Unit": "tbsp",
               "UnitDetail": "",
               "Group": "marinade"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Cardamom"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Ground cardamom",
+              "Price": 2.0,
+              "Quantity": 24.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Home brand"
+            },
+            "Amount": 0.2499999999999999,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Paprika",
@@ -21032,8 +21085,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.82 per serve",
-        "ExclusionsString": "Excluding Cardamom"
+        "CostString": "5.88 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -23912,7 +23965,7 @@
           "Quantity": 220.0,
           "Unit": "grams",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Caster sugar",
@@ -23920,7 +23973,7 @@
           "Quantity": 1.0,
           "Unit": "cup",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Eggs",
@@ -23928,7 +23981,7 @@
           "Quantity": 3.0,
           "Unit": "whole",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Vanilla",
@@ -23936,7 +23989,7 @@
           "Quantity": 2.0,
           "Unit": "tsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "SR flour",
@@ -23944,7 +23997,7 @@
           "Quantity": 1.5,
           "Unit": "cups",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Milk",
@@ -23952,15 +24005,55 @@
           "Quantity": 0.75,
           "Unit": "cup",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
-          "Name": "Buttercream frosting",
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Icing sugar",
+          "NameDetail": "",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "@4 cups",
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Vanilla",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.125,
+          "Unit": "tsp",
+          "UnitDetail": "error: above",
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Milk",
           "NameDetail": "",
           "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "quantity",
-          "Group": ""
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "buttercream"
         }
       ],
       "Steps": [
@@ -23990,13 +24083,28 @@
         },
         {
           "Content": "Cool for 10 minutes in tin, then cool completely on wire rack. Refrigerate before frosting."
+        },
+        {
+          "Content": "To make frosting, let butter come to room temperature then beat in blender for 3 minutes on high until it changes colour to almost white and is smooth and creamy."
+        },
+        {
+          "Content": "Add icing sugar gradually (3 lots), starting slow and increasing gradually each time and adding once the previous is mostly incorporated."
+        },
+        {
+          "Content": "Beat another 3 minutes on high until fluffy."
+        },
+        {
+          "Content": "Add vanilla and salt. Beat for 30 seconds. Add milk if too thick (but you want it fairly thick)."
+        },
+        {
+          "Content": "Pipe the frosting in a tight spiral across the cake (frost it upside down) then smooth out."
         }
       ],
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 6.96,
-        "AmountPerUnit": 6.96,
+        "Amount": 13.15,
+        "AmountPerUnit": 13.15,
         "Unit": "Cake",
         "ItemCosts": [
           {
@@ -24007,7 +24115,7 @@
               "Quantity": 220.0,
               "Unit": "grams",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "cake"
             },
             "Ingredient": {
               "Date": "2025-02-03T00:00:00",
@@ -24031,7 +24139,7 @@
               "Quantity": 1.0,
               "Unit": "cup",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "cake"
             },
             "Ingredient": {
               "Date": "2023-11-07T00:00:00",
@@ -24055,7 +24163,7 @@
               "Quantity": 3.0,
               "Unit": "whole",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "cake"
             },
             "Ingredient": {
               "Date": "2025-01-29T00:00:00",
@@ -24079,7 +24187,7 @@
               "Quantity": 2.0,
               "Unit": "tsp",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "cake"
             },
             "Ingredient": {
               "Date": "2023-11-07T00:00:00",
@@ -24103,7 +24211,7 @@
               "Quantity": 1.5,
               "Unit": "cups",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "cake"
             },
             "Ingredient": {
               "Date": "2023-11-07T00:00:00",
@@ -24127,7 +24235,7 @@
               "Quantity": 0.75,
               "Unit": "cup",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "cake"
             },
             "Ingredient": {
               "Date": "2025-01-28T00:00:00",
@@ -24144,24 +24252,152 @@
             "Extra": ""
           },
           {
-            "Name": "Buttercream frosting",
+            "Name": "Butter",
             "Item": {
-              "Name": "Buttercream frosting",
+              "Name": "Butter",
+              "NameDetail": "unsalted",
+              "Quantity": 250.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "buttercream"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Butter",
+              "Price": 7.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 3.5,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Icing sugar",
+            "Item": {
+              "Name": "Icing sugar",
+              "NameDetail": "",
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "UnitDetail": "@4 cups",
+              "Group": "buttercream"
+            },
+            "Ingredient": {
+              "Date": "2024-06-10T23:05:31",
+              "Name": "Icing sugar",
+              "Price": 3.79,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Aldi",
+              "Extra": ""
+            },
+            "Amount": 1.895,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Vanilla",
+            "Item": {
+              "Name": "Vanilla",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "buttercream"
+            },
+            "Ingredient": {
+              "Date": "2023-11-07T00:00:00",
+              "Name": "Vanilla",
+              "Price": 4.99,
+              "Quantity": 100.0,
+              "Unit": "ml",
+              "Source": "Aldi",
+              "Extra": ""
+            },
+            "Amount": 0.7485,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.5,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "buttercream"
+            },
+            "Ingredient": {
+              "Date": "2024-09-09T00:00:00",
+              "Name": "Salt",
+              "Price": 4.5,
+              "Quantity": 750.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Saxa salt for better pouring"
+            },
+            "Amount": 0.015,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 0.125,
+              "Unit": "tsp",
+              "UnitDetail": "error: above",
+              "Group": "buttercream"
+            },
+            "Ingredient": {
+              "Date": "2024-09-09T00:00:00",
+              "Name": "Salt",
+              "Price": 4.5,
+              "Quantity": 750.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Saxa salt for better pouring"
+            },
+            "Amount": 0.00375,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Milk",
+            "Item": {
+              "Name": "Milk",
               "NameDetail": "",
               "Quantity": 1.0,
-              "Unit": "whole",
-              "UnitDetail": "quantity",
-              "Group": ""
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "buttercream"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Buttercream frosting"
+            "Ingredient": {
+              "Date": "2025-01-28T00:00:00",
+              "Name": "Milk",
+              "Price": 3.0,
+              "Quantity": 2.0,
+              "Unit": "litres",
+              "Source": "Woolies",
+              "Extra": "Home brand"
+            },
+            "Amount": 0.0225,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           }
         ],
-        "CostString": "6.96 per unit",
-        "ExclusionsString": "Excluding Buttercream frosting"
+        "CostString": "13.15 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -24493,14 +24729,6 @@
           "Group": "sauce"
         },
         {
-          "Name": "Aioli",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": "sauce"
-        },
-        {
           "Name": "Lime",
           "NameDetail": "",
           "Quantity": 1.0,
@@ -24562,11 +24790,16 @@
           "Content": "Serve all ingredients separately at table, as well as shredded cheese."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-02-11T18:40:18",
+          "Content": "Just removed aioli from ingredients, maybe add garlic?"
+        }
+      ],
       "Timers": [],
       "Cost": {
-        "Amount": 8.32,
-        "AmountPerUnit": 1.39,
+        "Amount": 29.66,
+        "AmountPerUnit": 4.94,
         "Unit": "Tacos",
         "ItemCosts": [
           {
@@ -24579,11 +24812,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Beef rump steak"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Beef rump steak",
+              "Price": 29.0,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 20.3,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Olive oil",
@@ -24898,22 +25139,6 @@
             "Extra": ""
           },
           {
-            "Name": "Aioli",
-            "Item": {
-              "Name": "Aioli",
-              "NameDetail": "",
-              "Quantity": 1.0,
-              "Unit": "tsp",
-              "UnitDetail": "",
-              "Group": "sauce"
-            },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Aioli"
-          },
-          {
             "Name": "Lime",
             "Item": {
               "Name": "Lime",
@@ -24932,10 +25157,10 @@
               "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 1.03935,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cumin",
@@ -25010,8 +25235,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.39 per unit",
-        "ExclusionsString": "Excluding Beef rump steak, Aioli and Lime"
+        "CostString": "4.94 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -27490,8 +27715,8 @@
           "Group": "salad"
         },
         {
-          "Name": "Lemon juice",
-          "NameDetail": "fresh",
+          "Name": "Lemon",
+          "NameDetail": "juiced",
           "Quantity": 0.0,
           "Unit": "to taste",
           "UnitDetail": "",
@@ -28141,10 +28366,10 @@
             "Extra": ""
           },
           {
-            "Name": "Lemon juice",
+            "Name": "Lemon",
             "Item": {
-              "Name": "Lemon juice",
-              "NameDetail": "fresh",
+              "Name": "Lemon",
+              "NameDetail": "juiced",
               "Quantity": 0.0,
               "Unit": "to taste",
               "UnitDetail": "",
@@ -32349,8 +32574,8 @@
         }
       ],
       "Cost": {
-        "Amount": 4.9,
-        "AmountPerUnit": 0.35,
+        "Amount": 5.02,
+        "AmountPerUnit": 0.36,
         "Unit": "samosas",
         "ItemCosts": [
           {
@@ -32411,11 +32636,19 @@
               "UnitDetail": "",
               "Group": "dough"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Caraway seeds"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Caraway seeds",
+              "Price": 1.8,
+              "Quantity": 15.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Hoyts brand"
+            },
+            "Amount": 0.12,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Vegetable oil",
@@ -32794,8 +33027,8 @@
             "Extra": "Couldn't convert unit. From:to fill saucepan; To:litres"
           }
         ],
-        "CostString": "0.35 per unit",
-        "ExclusionsString": "Excluding Caraway seeds, Hing and Vegetable oil"
+        "CostString": "0.36 per unit",
+        "ExclusionsString": "Excluding Hing and Vegetable oil"
       }
     },
     {
@@ -32907,11 +33140,11 @@
           "Group": "steak"
         },
         {
-          "Name": "Butter leaf lettuce",
+          "Name": "Oak lettuce",
           "NameDetail": "",
-          "Quantity": 4.0,
-          "Unit": "cups",
-          "UnitDetail": "@1 pack",
+          "Quantity": 1.0,
+          "Unit": "head",
+          "UnitDetail": "@4 cups",
           "Group": "vegetables"
         },
         {
@@ -33001,8 +33234,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.55,
-        "AmountPerUnit": 3.14,
+        "Amount": 16.79,
+        "AmountPerUnit": 4.2,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -33120,10 +33353,10 @@
               "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:whole; To:kg"
+            "Amount": 1.03935,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Porterhouse steak",
@@ -33222,20 +33455,28 @@
             "Extra": ""
           },
           {
-            "Name": "Butter leaf lettuce",
+            "Name": "Oak lettuce",
             "Item": {
-              "Name": "Butter leaf lettuce",
+              "Name": "Oak lettuce",
               "NameDetail": "",
-              "Quantity": 4.0,
-              "Unit": "cups",
-              "UnitDetail": "@1 pack",
+              "Quantity": 1.0,
+              "Unit": "head",
+              "UnitDetail": "@4 cups",
               "Group": "vegetables"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Butter leaf lettuce"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Oak lettuce",
+              "Price": 3.2,
+              "Quantity": 1.0,
+              "Unit": "head",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 3.2,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Cherry tomatoes",
@@ -33358,8 +33599,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.14 per serve",
-        "ExclusionsString": "Excluding Lime and Butter leaf lettuce"
+        "CostString": "4.2 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -34700,8 +34941,8 @@
           "Group": "dough"
         },
         {
-          "Name": "Egg yolk",
-          "NameDetail": "",
+          "Name": "Eggs",
+          "NameDetail": "yolk of",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -34742,7 +34983,7 @@
       ],
       "Steps": [
         {
-          "Content": "Roughly dice both butter and cream cheese (1.5cm)."
+          "Content": "Roughly dice both butter and cream cheese (1.5cm). Separate egg yolk."
         },
         {
           "Content": "A third of each at a time, pulse the flour and salt, then incorporate the butter and cream cheese. On the final thirds, add the egg yolk with the butter and cream cheese."
@@ -34795,8 +35036,8 @@
         }
       ],
       "Cost": {
-        "Amount": 13.8,
-        "AmountPerUnit": 0.22,
+        "Amount": 14.47,
+        "AmountPerUnit": 0.23,
         "Unit": "rugelach",
         "ItemCosts": [
           {
@@ -34896,20 +35137,28 @@
             "Extra": ""
           },
           {
-            "Name": "Egg yolk",
+            "Name": "Eggs",
             "Item": {
-              "Name": "Egg yolk",
-              "NameDetail": "",
+              "Name": "Eggs",
+              "NameDetail": "yolk of",
               "Quantity": 1.0,
               "Unit": "whole",
               "UnitDetail": "",
               "Group": "dough"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Egg yolk"
+            "Ingredient": {
+              "Date": "2025-01-29T00:00:00",
+              "Name": "Eggs",
+              "Price": 7.99,
+              "Quantity": 12.0,
+              "Unit": "whole",
+              "Source": "7Fresh",
+              "Extra": "700 grams"
+            },
+            "Amount": 0.6658333333333334,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Brown sugar",
@@ -35008,8 +35257,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.22 per unit",
-        "ExclusionsString": "Excluding Egg yolk"
+        "CostString": "0.23 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -35705,8 +35954,8 @@
           "Group": ""
         },
         {
-          "Name": "Lemon juice",
-          "NameDetail": "",
+          "Name": "Lemon",
+          "NameDetail": "juiced",
           "Quantity": 0.0,
           "Unit": "to garnish",
           "UnitDetail": "",
@@ -35983,10 +36232,10 @@
             "Extra": "In ignored units: to garnish"
           },
           {
-            "Name": "Lemon juice",
+            "Name": "Lemon",
             "Item": {
-              "Name": "Lemon juice",
-              "NameDetail": "",
+              "Name": "Lemon",
+              "NameDetail": "juiced",
               "Quantity": 0.0,
               "Unit": "to garnish",
               "UnitDetail": "",
@@ -38321,8 +38570,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.36,
-        "AmountPerUnit": 3.12,
+        "Amount": 18.36,
+        "AmountPerUnit": 6.12,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -38335,11 +38584,19 @@
               "UnitDetail": "3 pieces",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Chicken maryland"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Chicken maryland",
+              "Price": 9.0,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 9.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Rice",
@@ -38526,8 +38783,8 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "3.12 per serve",
-        "ExclusionsString": "Excluding Chicken maryland"
+        "CostString": "6.12 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -41567,8 +41824,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 11.16,
-        "AmountPerUnit": 2.79,
+        "Amount": 14.93,
+        "AmountPerUnit": 3.73,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -41821,11 +42078,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dried apricots"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Dried apricots",
+              "Price": 8.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Home brand"
+            },
+            "Amount": 3.2,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Dried cranberries",
@@ -41837,11 +42102,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dried cranberries"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Dried cranberries",
+              "Price": 2.75,
+              "Quantity": 150.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Home brand"
+            },
+            "Amount": 0.5729166666666675,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Ginger",
@@ -41988,8 +42261,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.79 per serve",
-        "ExclusionsString": "Excluding Dried apricots and Dried cranberries"
+        "CostString": "3.73 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -43815,8 +44088,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 29.22,
-        "AmountPerUnit": 2.92,
+        "Amount": 35.28,
+        "AmountPerUnit": 3.53,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -43829,11 +44102,19 @@
               "UnitDetail": "to make @400 ml",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Ground coffee"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Ground coffee",
+              "Price": 22.0,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Vittoria Espresso brand."
+            },
+            "Amount": 3.3,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Dark cooking chocolate",
@@ -43941,11 +44222,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Brandy"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Brandy",
+              "Price": 42.99,
+              "Quantity": 700.0,
+              "Unit": "ml",
+              "Source": "Dan murphys online",
+              "Extra": "Napolean 1875 VSOP, cheapest on website."
+            },
+            "Amount": 2.7636428571428575,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Tia maria",
@@ -44012,8 +44301,8 @@
             "Extra": "In ignored units: to serve"
           }
         ],
-        "CostString": "2.92 per serve",
-        "ExclusionsString": "Excluding Ground coffee and Brandy"
+        "CostString": "3.53 per serve",
+        "ExclusionsString": ""
       }
     },
     {
@@ -45080,8 +45369,8 @@
         }
       ],
       "Cost": {
-        "Amount": 19.34,
-        "AmountPerUnit": 3.22,
+        "Amount": 21.15,
+        "AmountPerUnit": 3.52,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -45142,11 +45431,19 @@
               "UnitDetail": "same volume as onion",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Celery"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Celery",
+              "Price": 4.0,
+              "Quantity": 10.0,
+              "Unit": "stalks",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 0.8,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Green capsicum",
@@ -45326,11 +45623,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dried thyme"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Dried thyme",
+              "Price": 2.0,
+              "Quantity": 12.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 0.01666666666666666,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Dried parsley",
@@ -45342,11 +45647,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Dried parsley"
+            "Ingredient": {
+              "Date": "2025-02-11T00:00:00",
+              "Name": "Dried parsley",
+              "Price": 2.0,
+              "Quantity": 5.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": ""
+            },
+            "Amount": 1.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Onion powder",
@@ -45421,8 +45734,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.22 per serve",
-        "ExclusionsString": "Excluding Celery, Dried thyme and Dried parsley"
+        "CostString": "3.52 per serve",
+        "ExclusionsString": ""
       }
     },
     {

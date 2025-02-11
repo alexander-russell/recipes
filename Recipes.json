@@ -2291,26 +2291,26 @@
       "Items": [
         {
           "Name": "Brown onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
           "Name": "Carrots",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 6.0,
           "Unit": "cloves",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
@@ -2318,28 +2318,28 @@
           "NameDetail": "4-star",
           "Quantity": 500.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
           "Name": "Red wine",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.33,
           "Unit": "cup",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
           "Name": "Tomato paste",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
           "Name": "Diced tomatoes",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 800.0,
           "Unit": "grams",
           "UnitDetail": "@2 cans",
@@ -2347,15 +2347,15 @@
         },
         {
           "Name": "White sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
           "Name": "Tomato passata",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 700.0,
           "Unit": "ml",
           "UnitDetail": "@1 jar",
@@ -2363,7 +2363,7 @@
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
           "UnitDetail": "lots",
@@ -2371,7 +2371,7 @@
         },
         {
           "Name": "Pepper",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "to taste",
           "UnitDetail": "lots",
@@ -2379,10 +2379,10 @@
         },
         {
           "Name": "Peas",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "cup",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "bolognese"
         },
         {
@@ -3761,11 +3761,11 @@
           "Group": "base"
         },
         {
-          "Name": "Lemon juice",
+          "Name": "Lemon",
           "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "tbsp",
-          "UnitDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "@1 tbsp juice",
           "Group": "base"
         },
         {
@@ -4054,7 +4054,7 @@
           "Group": ""
         },
         {
-          "Name": "Gelatine sheets",
+          "Name": "Gelatine leaves",
           "NameDetail": "",
           "Quantity": 4.0,
           "Unit": "whole",
@@ -4086,7 +4086,7 @@
           "Content": "Blend cheese, 3/4 cup sugar and vanilla together, whip cream and add to cheese mixture, blend again"
         },
         {
-          "Content": "Soften 1 gelatine sheet in a glass of water for 2-5 minutes, then melt in a saucepan and pour into cheese mixture and blend again"
+          "Content": "Soften 1 gelatine leaf in a glass of water for 2-5 minutes, then melt in a saucepan and pour into cheese mixture and blend again"
         },
         {
           "Content": "Pour the cream cheese over the base and refrigerate"
@@ -4098,7 +4098,12 @@
           "Content": "Pour onto cream cheese filling and refrigerate for 1-2 hours"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-02-11T18:14:42",
+          "Content": "Consider gelatine powder instead, five times cheaper."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -5214,7 +5219,7 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From a Vittles article on Substack (subject: Soaking up the juicy morsels of our lives), by Claire-Louise Bennett. Aside from step 1, the procedure is verbatim. Plan is to take this recipe as an approach to risotto, and just rejig all the ingredients (I don't like fennel). Recommends serving with a green salad. Provides some optional extra ingredients: Butter, fennel bulb (but sliced roughly and roasted), walnuts (cool idea) and feta cheese. Mentions making your own stock earlier in the day with carrot, celery, onions, peppercorns, bay leaf, a couple of whole tomatoes, some scrubbed lemon wedges and parsley stems \"and so on\". Throw them in the pot and simmer for a while, then gently reheat in time to cook the rice (don't boil).",
+      "Note": "From a Vittles article on Substack (subject: Soaking up the juicy morsels of our lives), by Claire-Louise Bennett. Aside from step 1, the procedure is verbatim. Provides some optional extra ingredients: Butter, fennel bulb (but sliced roughly and roasted), walnuts (cool idea) and feta cheese. Mentions making your own stock earlier in the day with carrot, celery, onions, peppercorns, bay leaf, a couple of whole tomatoes, some scrubbed lemon wedges and parsley stems \"and so on\". Throw them in the pot and simmer for a while, then gently reheat in time to cook the rice (don't boil).",
       "Image": "",
       "Images": [],
       "Items": [
@@ -5283,8 +5288,8 @@
           "Group": ""
         },
         {
-          "Name": "Lemon zest",
-          "NameDetail": "",
+          "Name": "Lemon",
+          "NameDetail": "zest of",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -8189,8 +8194,8 @@
           "Group": "marinade"
         },
         {
-          "Name": "Cardamom",
-          "NameDetail": "ground",
+          "Name": "Ground cardamom",
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
           "UnitDetail": "",
@@ -9584,7 +9589,7 @@
           "Quantity": 220.0,
           "Unit": "grams",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Caster sugar",
@@ -9592,7 +9597,7 @@
           "Quantity": 1.0,
           "Unit": "cup",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Eggs",
@@ -9600,7 +9605,7 @@
           "Quantity": 3.0,
           "Unit": "whole",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Vanilla",
@@ -9608,7 +9613,7 @@
           "Quantity": 2.0,
           "Unit": "tsp",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "SR flour",
@@ -9616,7 +9621,7 @@
           "Quantity": 1.5,
           "Unit": "cups",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
           "Name": "Milk",
@@ -9624,15 +9629,55 @@
           "Quantity": 0.75,
           "Unit": "cup",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "cake"
         },
         {
-          "Name": "Buttercream frosting",
-          "NameDetail": "",
+          "Name": "Butter",
+          "NameDetail": "unsalted",
+          "Quantity": 250.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Icing sugar",
+          "NameDetail": null,
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "@4 cups",
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Vanilla",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 0.125,
+          "Unit": "tsp",
+          "UnitDetail": "error: above",
+          "Group": "buttercream"
+        },
+        {
+          "Name": "Milk",
+          "NameDetail": null,
           "Quantity": 1.0,
-          "Unit": "whole",
-          "UnitDetail": "quantity",
-          "Group": ""
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "buttercream"
         }
       ],
       "Steps": [
@@ -9662,6 +9707,21 @@
         },
         {
           "Content": "Cool for 10 minutes in tin, then cool completely on wire rack. Refrigerate before frosting."
+        },
+        {
+          "Content": "To make frosting, let butter come to room temperature then beat in blender for 3 minutes on high until it changes colour to almost white and is smooth and creamy."
+        },
+        {
+          "Content": "Add icing sugar gradually (3 lots), starting slow and increasing gradually each time and adding once the previous is mostly incorporated."
+        },
+        {
+          "Content": "Beat another 3 minutes on high until fluffy."
+        },
+        {
+          "Content": "Add vanilla and salt. Beat for 30 seconds. Add milk if too thick (but you want it fairly thick)."
+        },
+        {
+          "Content": "Pipe the frosting in a tight spiral across the cake (frost it upside down) then smooth out."
         }
       ],
       "Diary": null,
@@ -9905,14 +9965,6 @@
           "Group": "sauce"
         },
         {
-          "Name": "Aioli",
-          "NameDetail": "",
-          "Quantity": 1.0,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": "sauce"
-        },
-        {
           "Name": "Lime",
           "NameDetail": "",
           "Quantity": 1.0,
@@ -9974,7 +10026,12 @@
           "Content": "Serve all ingredients separately at table, as well as shredded cheese."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-02-11T18:40:18",
+          "Content": "Just removed aioli from ingredients, maybe add garlic?"
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -11076,8 +11133,8 @@
           "Group": "salad"
         },
         {
-          "Name": "Lemon juice",
-          "NameDetail": "fresh",
+          "Name": "Lemon",
+          "NameDetail": "juiced",
           "Quantity": 0.0,
           "Unit": "to taste",
           "UnitDetail": "",
@@ -13059,11 +13116,11 @@
           "Group": "steak"
         },
         {
-          "Name": "Butter leaf lettuce",
+          "Name": "Oak lettuce",
           "NameDetail": "",
-          "Quantity": 4.0,
-          "Unit": "cups",
-          "UnitDetail": "@1 pack",
+          "Quantity": 1.0,
+          "Unit": "head",
+          "UnitDetail": "@4 cups",
           "Group": "vegetables"
         },
         {
@@ -13708,8 +13765,8 @@
           "Group": "dough"
         },
         {
-          "Name": "Egg yolk",
-          "NameDetail": "",
+          "Name": "Eggs",
+          "NameDetail": "yolk of",
           "Quantity": 1.0,
           "Unit": "whole",
           "UnitDetail": "",
@@ -13750,7 +13807,7 @@
       ],
       "Steps": [
         {
-          "Content": "Roughly dice both butter and cream cheese (1.5cm)."
+          "Content": "Roughly dice both butter and cream cheese (1.5cm). Separate egg yolk."
         },
         {
           "Content": "A third of each at a time, pulse the flour and salt, then incorporate the butter and cream cheese. On the final thirds, add the egg yolk with the butter and cream cheese."
@@ -14171,8 +14228,8 @@
           "Group": ""
         },
         {
-          "Name": "Lemon juice",
-          "NameDetail": "",
+          "Name": "Lemon",
+          "NameDetail": "juiced",
           "Quantity": 0.0,
           "Unit": "to garnish",
           "UnitDetail": "",

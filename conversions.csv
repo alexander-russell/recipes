@@ -44,3 +44,10 @@ whole,grams,200,Orange
 scoop,ml,100,Icecream
 grams,whole,3,Whole cloves
 tsp,grams,1,Whole cloves
+cup,grams,100,Ground coffee
+tsp,grams,1,Dried thyme
+tsp,grams,0.2,Dried thyme
+tsp,grams,1,Ground cardamom
+tsp,grams,1,Caraway seeds
+
+whole,grams,65,Lime
