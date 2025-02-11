@@ -36,6 +36,7 @@ function displayType(type, recipes, contentsElement, urlParams) {
     // Display sub-categories
     const allCategories = recipes.map((recipe) => recipe.Category)
     const categories = [...new Set(allCategories)]
+    console.log(categories.sort())
     for (const category of categories.sort()) {
         // Filter relevant recipes and use them
         const subRecipes = recipes.filter((recipe) => recipe.Category == category)
@@ -68,7 +69,8 @@ function displayCategory(category, recipes, contentsElement, urlParams) {
 function populateCategoryDropdown(recipes, details) {
     const list = document.createElement("ul");
     details.appendChild(list);
-    for (recipe of recipes) {
+    console.log(recipes)
+    for (const recipe of recipes.sort((recipe1,recipe2) => recipe1.Name > recipe2.Name)) {
         const item = document.createElement("li");
         list.appendChild(item);
         const link = document.createElement("a");
