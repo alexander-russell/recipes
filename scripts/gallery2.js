@@ -48,7 +48,7 @@ function loadGallery(recipes) {
     // Load, or queue the load of, each gallery item
     for (let i = 0; i < recipes.length; i++) {
         // Make the structure for the image
-        const imageElement = createGalleryItem(recipes[i].Name);
+        const imageElement = createGalleryItem(recipes[i].Slug);
 
         // Load the first minImageCount right away, queue the rest
         if (i < minImageCount) {
@@ -59,14 +59,14 @@ function loadGallery(recipes) {
     }
 }
 
-function createGalleryItem(recipeName) {
+function createGalleryItem(recipeSlug) {
     // Create image wrapper
     const imageWrapper = document.createElement("div");
     galleryElement.appendChild(imageWrapper);
 
     // Create link wrapper
     const imageLinkElement = document.createElement("a");
-    imageLinkElement.href = `/recipes/display?recipe=${recipeName}`;
+    imageLinkElement.href = `/recipes/display/${recipeSlug}`;
     imageWrapper.appendChild(imageLinkElement);
 
     // Create actual image
@@ -99,7 +99,7 @@ function loadGalleryImage(imageElement, recipe) {
     }
 
     // Load image source
-    imageElement.setAttribute("src", imageAddress);
+    imageElement.setAttribute("src", `/recipes/images/${recipe.Slug}/main.avif`);
 
     // Configure a few different actions when the image loads
     imageElement.addEventListener("load", () => {

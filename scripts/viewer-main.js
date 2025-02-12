@@ -77,7 +77,7 @@ function displayRecipe(recipe, originalRecipe) {
     displayRecipeNote(recipe.Note);
     displayRecipeItems(recipe.Items);
     displayRecipeSteps(recipe.Steps);
-    configureRecipeImage(recipe.Image, recipe.Name);
+    configureRecipeImage(recipe.Slug, recipe.Images);
     configureRecipeDiary(recipe.Diary);
     configureRecipeCostBreakdown(recipe.Cost);
     displayTimers(recipe.Timers);
@@ -435,18 +435,16 @@ function openRecipeOverlayDisplay(name) {
     });
 }
 
-function configureRecipeImage(path, name) {
+function configureRecipeImage(slug, images) {
     // Get image element
     const image = document.querySelector(".recipe-image");
 
     // Determine image address
-    if (path == "Local") {
-        path = `/recipes/Gallery/${name}.avif`
-    }
-
+    
     // If address found, use that image
-    if (path != null) {
-        image.setAttribute("src", path);
+    if (images.indexOf("main.avif") != -1) {
+        // path = 
+        image.setAttribute("src", `/recipes/images/${slug}/main.avif`);
     }
 
     // On click of close button, hide image and show content

@@ -69,7 +69,7 @@ function createSearchResultElement(recipe) {
     const url = `display/${recipe.Slug}`;
 
     // Determine image link
-    const imgUrl = recipe.Image == "" ? "/recipes/Gallery/blank.avif" : (recipe.Image == "Local" ? `Gallery/${recipe.Name}.avif` : recipe.Image)
+    const imgUrl = recipe.Images.indexOf("main.avif") == -1 ? "/recipes/images/blank.avif" : `/recipes/images/${recipe.Slug}/main.avif`
 
     // Create list item
     const item = document.createElement("li");

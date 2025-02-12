@@ -89,17 +89,8 @@ function loadGalleryImage(imageElement, recipe) {
     // Increment load counter
     galleryItemLoadCount++;
 
-    // Determine image address (where Local means look in gallery folder by recipe name, and any other value is a web link)
-    let imageAddress = null;
-    if (recipe.Image == "Local") {
-        imageAddress = `Gallery/${recipe.Name}.avif`;
-    }
-    else if (recipe.Image != "") {
-        imageAddress = recipe.Image;
-    }
-
     // Load image source
-    imageElement.setAttribute("src", imageAddress);
+    imageElement.setAttribute("src", `/recipes/images/${recipe.Slug}/main.avif`);
 
     // Configure a few different actions when the image loads
     imageElement.addEventListener("load", () => {
