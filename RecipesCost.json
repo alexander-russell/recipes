@@ -2284,7 +2284,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": false,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -2806,7 +2806,7 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From woolworths. Can use beef instead for easier cooking. Layer so there's sauce on all the chips.",
+      "Note": "From woolworths. Can use beef instead for easier cooking. Layer so there's sauce on all the chips. Skip chicken up the beans for vego nachos.",
       "Image": "Local",
       "Images": [
         "main.avif"

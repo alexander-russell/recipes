@@ -112,7 +112,7 @@ function displayRecipeHeaderIcons(recipe) {
     // Create new icons
     icons = [
         createRecipeHeaderIconHome(),
-        createRecipeHeaderIconImage(recipe.Image),
+        createRecipeHeaderIconImage(recipe.Images),
         createRecipeHeaderIconDiary(recipe.Diary),
         createRecipeHeaderIconCost(recipe.Cost),
         createRecipeHeaderIconConditional(recipe.Favourite, createIconHeart),
@@ -145,8 +145,8 @@ function createRecipeHeaderIconHome() {
     return homeIcon
 }
 
-function createRecipeHeaderIconImage(image) {
-    if (image == "") {
+function createRecipeHeaderIconImage(images) {
+    if (images.count == 0) {
         return null;
     }
 
