@@ -125,7 +125,7 @@ function loadGalleryImage(imageElement, recipe) {
         galleryItemLoadCount--;
 
         // Delete this <img> 
-        imageElement.remove()
+        imageElement.parentNode.parentNode.remove()
 
         // Service load queue
         serviceLoadQueue()
