@@ -32,7 +32,9 @@
       },
       "Note": "Taken from \\href{https://www.food.com/recipe/best-banana-bread-2886}{food.com}. Best done with overripe bananas, buy some, overripen them and chuck them into the freezer for later.",
       "Image": "",
-      "Images": null,
+      "Images": [
+        "main.avif"
+      ],
       "Items": [
         {
           "Name": "Plain flour",
@@ -1124,7 +1126,9 @@
       },
       "Note": "Ingredients are highly flexible, this recipe is a good way to get rid of random veggies in the fridge, e.g. mushrooms, rocket.",
       "Image": "",
-      "Images": null,
+      "Images": [
+        "main.avif"
+      ],
       "Items": [
         {
           "Name": "Eggs",
@@ -1410,7 +1414,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -2053,7 +2057,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -2787,7 +2791,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 80.0,
         "Extra": ""
       },
       "Difficulty": 2,
@@ -2802,7 +2806,7 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From woolworths. Can use beef instead for easier cooking. Layering ensures that the chips don't end up bland or dry. Add carrots, peas, etc. Vegetables very easily dissapear into the mix.",
+      "Note": "From woolworths. Can use beef instead for easier cooking. Layer so there's sauce on all the chips.",
       "Image": "Local",
       "Images": [
         "main.avif"
@@ -2875,6 +2879,9 @@
       ],
       "Steps": [
         {
+          "Content": "Preheat oven to 200 conventional"
+        },
+        {
           "Content": "Cut vegetables and chicken into mid-sized pieces"
         },
         {
@@ -2902,7 +2909,7 @@
           "Content": "Continue layering down these three ingredients until the tray is full"
         },
         {
-          "Content": "Bake in the oven for 15-20 minutes until cheese is browned"
+          "Content": "Bake in the oven for 20-30 minutes until cheese is browned"
         }
       ],
       "Diary": [
@@ -3698,7 +3705,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 40.0,
         "Extra": ""
       },
       "Difficulty": 3,
@@ -4847,7 +4854,7 @@
         "Extra": "enough for @500 grams pasta"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 20.0,
         "Extra": ""
       },
       "Difficulty": 5,
@@ -5974,7 +5981,9 @@
       },
       "Note": "From Uncle Tony, simple recipe, tastes great. Very greasy, high temperature may need adjustment.",
       "Image": "",
-      "Images": null,
+      "Images": [
+        "main.avif"
+      ],
       "Items": [
         {
           "Name": "Pizza base",
@@ -6211,7 +6220,9 @@
       },
       "Note": "From Uncle Tony, a family get together classic. Quantities listed are just placeholders, no accuracy needed. Don't forget salami, and probably remove the mushrooms.",
       "Image": "",
-      "Images": null,
+      "Images": [
+        "main.avif"
+      ],
       "Items": [
         {
           "Name": "Ham",
@@ -11100,7 +11111,7 @@
         "Extra": "or @6 croissants"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 10.0,
         "Extra": ""
       },
       "Difficulty": 2,
@@ -11326,7 +11337,7 @@
         "Extra": "20cm"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 90.0,
         "Extra": ""
       },
       "Difficulty": 5,
@@ -11344,7 +11355,8 @@
       "Note": "From Dad, using Stephanie Alexander's Shortcrust Pastry. Works well with a bunch of fruits. Pear and apple can be thinly sliced and layered over each other, cherries work halved, many options. When serving, sift some icing sugar over the top. Instead of pie weights, roasted rice or chickpeas both work great.",
       "Image": "Local",
       "Images": [
-        "main.avif"
+        "main.avif",
+        "peach.avif"
       ],
       "Items": [
         {
@@ -13495,7 +13507,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 180.0,
         "Extra": ""
       },
       "Difficulty": 5,
@@ -13512,7 +13524,9 @@
       },
       "Note": "From Claudia Roden via \\href{https://www.theguardian.com/food/2022/sep/26/claudia-roden-recipe-for-orange-and-almond-cake}{The Guardian}. States unknown origin, lists Andalucia, Portugal, Livorno, Aleppo, Iberia. For tin, recommends a non-stick tin with removable base. Should be a very moist cake, but if still too wet leave in for a little longer.",
       "Image": "",
-      "Images": null,
+      "Images": [
+        "main.avif"
+      ],
       "Items": [
         {
           "Name": "Orange",
@@ -13579,7 +13593,7 @@
           "Content": "Boil oranges in a little water for 1.5-2 hours until very soft. Let cool."
         },
         {
-          "Content": "Preheat oven to 170 degrees"
+          "Content": "Preheat oven to 170 degrees conventional"
         },
         {
           "Content": "Cut open oranges, remove pips, then puree with food processor"
@@ -13594,7 +13608,7 @@
           "Content": "Butter and flour a cake tin"
         },
         {
-          "Content": "Pour mixture into tin and bake for 1 hour"
+          "Content": "Pour mixture into tin and bake for 45 mins to 1 hour"
         },
         {
           "Content": "Cool in tin before turning out"
@@ -13810,7 +13824,8 @@
       "Note": "From dad, who got it from Nanna, who got it off of the back of the Nestle choc bits packaging but never told the Hills that. Cooked for our whole apartment building (quadruple batch) as our introduction to the building, left outside their doors and knocked. We recieved several conversations, a box of ferrero rochers and a handdrawn picture of a cookie from the kid downstairs.",
       "Image": "Local",
       "Images": [
-        "main.avif"
+        "main.avif",
+        "recipe.avif"
       ],
       "Items": [
         {
@@ -18416,7 +18431,9 @@
       },
       "Note": "A very fresh flavour, minimal prep. Can switch out the halloumi for lamb. Buy the fluffiest pita you can find. Woolworths mission brand souvlaki wraps are good. Needs more grease.",
       "Image": "Local",
-      "Images": null,
+      "Images": [
+        "main.avif"
+      ],
       "Items": [
         {
           "Name": "Halloumi",
@@ -25006,7 +25023,9 @@
       },
       "Note": "From Claudia. Also cooked as whole chicken breasts sans pasta. Sauce coats the pasta in a really fantastic way.",
       "Image": "",
-      "Images": null,
+      "Images": [
+        "main.avif"
+      ],
       "Items": [
         {
           "Name": "Chicken breast",
@@ -29993,19 +30012,19 @@
         "Minutes": 70.0,
         "Extra": ""
       },
-      "Difficulty": 7,
+      "Difficulty": 5,
       "Bulk": true,
       "Favourite": false,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "With advice from Lorenzo. Rolling the meatballs in flour stops them breaking apart and makes them crispier.",
+      "Note": "With over-the-phone advice from Lorenzo. Rolling the meatballs in flour stops them breaking apart and makes them crispier. 100% beef is fine. Veal mince is a great texture. I've tried adding milk-soaked bread pieces but I don't get it and they're always too big anyway.",
       "Image": "Local",
       "Images": [
         "main.avif"
@@ -30049,6 +30068,14 @@
           "Quantity": 3.0,
           "Unit": "cloves",
           "UnitDetail": "",
+          "Group": "meatballs"
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "sprigs",
+          "UnitDetail": "@0.5 cup",
           "Group": "meatballs"
         },
         {
@@ -30100,12 +30127,12 @@
           "Group": "sauce"
         },
         {
-          "Name": "Parsley",
+          "Name": "Tomato paste",
           "NameDetail": "",
-          "Quantity": 4.0,
-          "Unit": "sprigs",
+          "Quantity": 8.0,
+          "Unit": "tbsp",
           "UnitDetail": "",
-          "Group": "sauce"
+          "Group": ""
         },
         {
           "Name": "Tomato passata",
@@ -30178,31 +30205,34 @@
           "Content": "Mix meatball ingredients in a bowl."
         },
         {
-          "Content": "Shape mix in to 2cm balls and roll lightly in flour."
+          "Content": "Shape mix into 2cm balls and roll lightly in flour."
         },
         {
-          "Content": "Put garlic bread in for 20 min (?)."
+          "Content": "Put garlic bread in oven as packet says."
         },
         {
           "Content": "Finely chop remaining onions and garlic."
         },
         {
-          "Content": "Heat oil in a medium saucepan on medium-high heat. Add onions and garlic, saute for 3 minutes."
+          "Content": "Heat oil in a medium saucepan on medium-high heat. Add onion fry for 5 minutes."
         },
         {
-          "Content": "Add passata to pot, bring to simmer."
+          "Content": "Add garlic and tomato paste, fry for 2 minutes."
         },
         {
-          "Content": "Add oregano, red wine, salt and sugar. Simmer for 20 min (?)."
+          "Content": "Add red wine to cook it off."
         },
         {
-          "Content": "Add spaghetti to pot, cook for 10 min."
+          "Content": "Add passata, sugar, salt, pepper to pot, bring to simmer and cook for 20 minutes."
         },
         {
-          "Content": "Fry meatballs in batches on high heat in oil, 8 or so at a time."
+          "Content": "Fry meatballs in batches on high heat in oil, 8 or so at a time, until they brown, remove to bowl."
         },
         {
-          "Content": "Add meatballs to sauce and cook for 5 minutes to soak the flavour in."
+          "Content": "Add spaghetti to boiling water, cook for 10 min."
+        },
+        {
+          "Content": "Add meatballs to sauce and cook for 5 minutes to absorb flavour."
         },
         {
           "Content": "Drain spaghetti."
@@ -30222,7 +30252,7 @@
         },
         {
           "Name": "Saute",
-          "Seconds": 180
+          "Seconds": 300
         },
         {
           "Name": "Simmer",
@@ -30233,13 +30263,13 @@
           "Seconds": 600
         },
         {
-          "Name": "Soak",
+          "Name": "Absorb",
           "Seconds": 300
         }
       ],
       "Cost": {
-        "Amount": 15.44,
-        "AmountPerUnit": 3.09,
+        "Amount": 15.91,
+        "AmountPerUnit": 3.18,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -30358,6 +30388,30 @@
               "Extra": "Spanish"
             },
             "Amount": 0.562125,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parsley",
+            "Item": {
+              "Name": "Parsley",
+              "NameDetail": "",
+              "Quantity": 5.0,
+              "Unit": "sprigs",
+              "UnitDetail": "@0.5 cup",
+              "Group": "meatballs"
+            },
+            "Ingredient": {
+              "Date": "2024-12-11T00:00:00",
+              "Name": "Parsley",
+              "Price": 1.29,
+              "Quantity": 10.0,
+              "Unit": "sprigs",
+              "Source": "Superfresh",
+              "Extra": "one whole is one sprig"
+            },
+            "Amount": 0.645,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -30499,25 +30553,25 @@
             "Extra": ""
           },
           {
-            "Name": "Parsley",
+            "Name": "Tomato paste",
             "Item": {
-              "Name": "Parsley",
+              "Name": "Tomato paste",
               "NameDetail": "",
-              "Quantity": 4.0,
-              "Unit": "sprigs",
+              "Quantity": 8.0,
+              "Unit": "tbsp",
               "UnitDetail": "",
-              "Group": "sauce"
+              "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-12-11T00:00:00",
-              "Name": "Parsley",
-              "Price": 1.29,
-              "Quantity": 10.0,
-              "Unit": "sprigs",
-              "Source": "Superfresh",
-              "Extra": "one whole is one sprig"
+              "Date": "2024-12-30T00:00:00",
+              "Name": "Tomato paste",
+              "Price": 1.4,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Essentials brand"
             },
-            "Amount": 0.516,
+            "Amount": 0.336,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -30675,7 +30729,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.09 per serve",
+        "CostString": "3.18 per serve",
         "ExclusionsString": ""
       }
     },
@@ -42015,7 +42069,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 70.0,
         "Extra": ""
       },
       "Difficulty": 4,

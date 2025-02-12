@@ -123,6 +123,13 @@ body {
     margin: 0;
 }
 
+.untested {
+    display: block;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
 .attribute-name {
     font-weight: bold;
 }

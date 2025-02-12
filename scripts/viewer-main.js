@@ -58,7 +58,7 @@ function scaleRecipe(recipe, yield) {
         step.Content = scaleRecipeString(step.Content, factor);
     }
 
-    console.log(recipe.Cost);   
+    console.log(recipe.Cost);
     // Scale item costs
     recipe.Cost.Amount = (recipe.Cost.Amount * factor)
     for (const itemCost of recipe.Cost.ItemCosts) {
@@ -201,6 +201,11 @@ function createRecipeHeaderIconConditional(test, iconFunction) {
 }
 
 function displayRecipeAttributes(recipe, recipeOriginal) {
+    // Handle untested
+    if (!recipe.Tested) {
+        const attributeUntested = document.querySelector(`.untested`);
+        attributeUntested.classList.remove("hidden")
+    }
     // Handle difficulty (simple object)
     if (recipe.Difficulty != 0) {
         const attributeDifficultyElement = document.querySelector(`.difficulty-value`);
@@ -422,12 +427,12 @@ function openRecipeOverlayDisplay(name) {
     overlayBackground.classList.remove("hidden");
     document.querySelector(".recipe-content-wrapper").classList.add("hidden");
 
-        // On Escape keypress, close the overlay
-        document.body.addEventListener('keydown', (event) => {
-            if (event.key === 'Escape') {
-                closeRecipeOverlayDisplay(name);
-            }
-        });
+    // On Escape keypress, close the overlay
+    document.body.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape') {
+            closeRecipeOverlayDisplay(name);
+        }
+    });
 }
 
 function configureRecipeImage(path, name) {

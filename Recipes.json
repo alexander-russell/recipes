@@ -618,7 +618,7 @@
       "Favourite": false,
       "Retired": true,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
@@ -883,7 +883,7 @@
       "Favourite": false,
       "Retired": false,
       "Tested": false,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": true,
         "OptionallyVegetarian": false,
@@ -1153,7 +1153,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 80.0,
         "Extra": ""
       },
       "Difficulty": 2,
@@ -1168,7 +1168,7 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From woolworths. Can use beef instead for easier cooking. Layering ensures that the chips don't end up bland or dry. Add carrots, peas, etc. Vegetables very easily dissapear into the mix.",
+      "Note": "From woolworths. Can use beef instead for easier cooking. Layer so there's sauce on all the chips.",
       "Image": "Local",
       "Images": [],
       "Items": [
@@ -1239,6 +1239,9 @@
       ],
       "Steps": [
         {
+          "Content": "Preheat oven to 200 conventional"
+        },
+        {
           "Content": "Cut vegetables and chicken into mid-sized pieces"
         },
         {
@@ -1266,7 +1269,7 @@
           "Content": "Continue layering down these three ingredients until the tray is full"
         },
         {
-          "Content": "Bake in the oven for 15-20 minutes until cheese is browned"
+          "Content": "Bake in the oven for 20-30 minutes until cheese is browned"
         }
       ],
       "Diary": [
@@ -1494,7 +1497,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 40.0,
         "Extra": ""
       },
       "Difficulty": 3,
@@ -1967,7 +1970,7 @@
         "Extra": "enough for @500 grams pasta"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 20.0,
         "Extra": ""
       },
       "Difficulty": 5,
@@ -4416,7 +4419,7 @@
         "Extra": "or @6 croissants"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 10.0,
         "Extra": ""
       },
       "Difficulty": 2,
@@ -4512,7 +4515,7 @@
         "Extra": "20cm"
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 90.0,
         "Extra": ""
       },
       "Difficulty": 5,
@@ -5397,7 +5400,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 180.0,
         "Extra": ""
       },
       "Difficulty": 5,
@@ -5481,7 +5484,7 @@
           "Content": "Boil oranges in a little water for 1.5-2 hours until very soft. Let cool."
         },
         {
-          "Content": "Preheat oven to 170 degrees"
+          "Content": "Preheat oven to 170 degrees conventional"
         },
         {
           "Content": "Cut open oranges, remove pips, then puree with food processor"
@@ -5496,7 +5499,7 @@
           "Content": "Butter and flour a cake tin"
         },
         {
-          "Content": "Pour mixture into tin and bake for 1 hour"
+          "Content": "Pour mixture into tin and bake for 45 mins to 1 hour"
         },
         {
           "Content": "Cool in tin before turning out"
@@ -9533,12 +9536,12 @@
           "NameDetail": "unsalted",
           "Quantity": 250.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "buttercream"
         },
         {
           "Name": "Icing sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 500.0,
           "Unit": "grams",
           "UnitDetail": "@4 cups",
@@ -9546,23 +9549,23 @@
         },
         {
           "Name": "Vanilla",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "buttercream"
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "buttercream"
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.125,
           "Unit": "tsp",
           "UnitDetail": "error: above",
@@ -9570,10 +9573,10 @@
         },
         {
           "Name": "Milk",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "buttercream"
         }
       ],
@@ -11767,19 +11770,19 @@
         "Minutes": 70.0,
         "Extra": ""
       },
-      "Difficulty": 7,
+      "Difficulty": 5,
       "Bulk": true,
       "Favourite": false,
       "Retired": false,
       "Tested": true,
-      "NeedsRevision": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "With advice from Lorenzo. Rolling the meatballs in flour stops them breaking apart and makes them crispier.",
+      "Note": "With over-the-phone advice from Lorenzo. Rolling the meatballs in flour stops them breaking apart and makes them crispier. 100% beef is fine. Veal mince is a great texture. I've tried adding milk-soaked bread pieces but I don't get it and they're always too big anyway.",
       "Image": "Local",
       "Images": [],
       "Items": [
@@ -11821,6 +11824,14 @@
           "Quantity": 3.0,
           "Unit": "cloves",
           "UnitDetail": "",
+          "Group": "meatballs"
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 5.0,
+          "Unit": "sprigs",
+          "UnitDetail": "@0.5 cup",
           "Group": "meatballs"
         },
         {
@@ -11872,12 +11883,12 @@
           "Group": "sauce"
         },
         {
-          "Name": "Parsley",
+          "Name": "Tomato paste",
           "NameDetail": "",
-          "Quantity": 4.0,
-          "Unit": "sprigs",
+          "Quantity": 8.0,
+          "Unit": "tbsp",
           "UnitDetail": "",
-          "Group": "sauce"
+          "Group": ""
         },
         {
           "Name": "Tomato passata",
@@ -11950,31 +11961,34 @@
           "Content": "Mix meatball ingredients in a bowl."
         },
         {
-          "Content": "Shape mix in to 2cm balls and roll lightly in flour."
+          "Content": "Shape mix into 2cm balls and roll lightly in flour."
         },
         {
-          "Content": "Put garlic bread in for 20 min (?)."
+          "Content": "Put garlic bread in oven as packet says."
         },
         {
           "Content": "Finely chop remaining onions and garlic."
         },
         {
-          "Content": "Heat oil in a medium saucepan on medium-high heat. Add onions and garlic, saute for 3 minutes."
+          "Content": "Heat oil in a medium saucepan on medium-high heat. Add onion fry for 5 minutes."
         },
         {
-          "Content": "Add passata to pot, bring to simmer."
+          "Content": "Add garlic and tomato paste, fry for 2 minutes."
         },
         {
-          "Content": "Add oregano, red wine, salt and sugar. Simmer for 20 min (?)."
+          "Content": "Add red wine to cook it off."
         },
         {
-          "Content": "Add spaghetti to pot, cook for 10 min."
+          "Content": "Add passata, sugar, salt, pepper to pot, bring to simmer and cook for 20 minutes."
         },
         {
-          "Content": "Fry meatballs in batches on high heat in oil, 8 or so at a time."
+          "Content": "Fry meatballs in batches on high heat in oil, 8 or so at a time, until they brown, remove to bowl."
         },
         {
-          "Content": "Add meatballs to sauce and cook for 5 minutes to soak the flavour in."
+          "Content": "Add spaghetti to boiling water, cook for 10 min."
+        },
+        {
+          "Content": "Add meatballs to sauce and cook for 5 minutes to absorb flavour."
         },
         {
           "Content": "Drain spaghetti."
@@ -11994,7 +12008,7 @@
         },
         {
           "Name": "Saute",
-          "Seconds": 180
+          "Seconds": 300
         },
         {
           "Name": "Simmer",
@@ -12005,7 +12019,7 @@
           "Seconds": 600
         },
         {
-          "Name": "Soak",
+          "Name": "Absorb",
           "Seconds": 300
         }
       ],
@@ -16609,7 +16623,7 @@
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 70.0,
         "Extra": ""
       },
       "Difficulty": 4,

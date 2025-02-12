@@ -70,7 +70,7 @@ function populateCategoryDropdown(recipes, details) {
     const list = document.createElement("ul");
     details.appendChild(list);
     console.log(recipes)
-    for (const recipe of recipes.sort((recipe1,recipe2) => recipe1.Name > recipe2.Name)) {
+    for (const recipe of recipes.sort((recipe1, recipe2) => recipe1.Name > recipe2.Name)) {
         const item = document.createElement("li");
         list.appendChild(item);
         const link = document.createElement("a");
