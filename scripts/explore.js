@@ -19,10 +19,17 @@ function start(recipes) {
         // input.value = urlQuery;
     }
 
-    // Add form event listener to display quick results on input change
-    input.addEventListener("input", () => {
-        populateResults(input.value, activeRecipes);
+    // Prevent form redirecting on submit
+    document.querySelector("form.search").addEventListener("submit", (event) => {
+        event.preventDefault()
+        invokeSearch(input.value, activeRecipes);
     });
+
+    // Add form event listener to display quick results on input change
+    // input.addEventListener("input", () => {
+    //     // populateResults(input.value, activeRecipes);
+    // });
+
 
     // Add form event listeners to go to full results on return or button press
     // input.addEventListener("keydown", (event) => {
@@ -37,6 +44,15 @@ function start(recipes) {
 
     // DEBUG autoload search result for "ban" so i can write the search design faster
     // populateResults("ban", activeRecipes);
+}
+
+function invokeSearch(query, recipes) {
+    pushSearchToUrl(query);
+    populateResults(query, recipes);
+}
+
+function pushSearchToUrl(query) {
+    history.pushState({}, "", window.location.href.split('?')[0] + `?query=${query}`);
 }
 
 function populateResults(query, recipes) {
@@ -65,6 +81,7 @@ function populateResults(query, recipes) {
 }
 
 function createSearchResultElement(recipe) {
+    console.log(recipe)
     // Define recipe link
     const url = `display/${recipe.Slug}`;
 
@@ -93,7 +110,7 @@ function createSearchResultElement(recipe) {
 
     // Add error image
     img.addEventListener("error", () => {
-        img.src = "/recipes/Gallery/blank.avif";
+        img.src = "/recipes/images/blank.avif";
     })
 
     // Create body
