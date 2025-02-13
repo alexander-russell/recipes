@@ -12,15 +12,17 @@ function start(recipes) {
         populateQuickResults(input.value, activeRecipes);
     });
 
-    // Add form event listeners to go to full results on return or button press
+    // Add form event listeners to focus first result on return or button click
     input.addEventListener("keydown", (event) => {
         if (event.key === "Enter") {
-            invokeSearch(input.value);
+            event.preventDefault();
+            document.querySelector(".search-results a").focus()
         }
     });
     const button = document.querySelector(".search-button");
-    button.addEventListener("click", () => {
-        invokeSearch(input.value);
+    button.addEventListener("click", (event) => {
+        event.preventDefault();
+        document.querySelector(".search-results a").focus()
     });
 }
 
