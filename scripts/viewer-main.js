@@ -20,6 +20,9 @@ function start(recipes) {
     // Configure webpage name
     const siteHeading = document.querySelector("head>title");
     siteHeading.textContent = `${recipe.Name} | Alex's Recipes`;
+
+    // DEBUG open overlay by default
+    openRecipeOverlayDisplay("images")
 }
 
 function configureRecipe(recipe, yield) {
@@ -78,6 +81,7 @@ function displayRecipe(recipe, originalRecipe) {
     displayRecipeItems(recipe.Items);
     displayRecipeSteps(recipe.Steps);
     configureRecipeImage(recipe.Slug, recipe.Images);
+    configureRecipeImages(recipe.Slug, recipe.Images);
     configureRecipeDiary(recipe.Diary);
     configureRecipeCostBreakdown(recipe.Cost);
     displayTimers(recipe.Timers);
@@ -113,6 +117,7 @@ function displayRecipeHeaderIcons(recipe) {
     icons = [
         createRecipeHeaderIconHome(),
         createRecipeHeaderIconImage(recipe.Images),
+        createRecipeHeaderIconImages(recipe.Images),
         createRecipeHeaderIconDiary(recipe.Diary),
         createRecipeHeaderIconCost(recipe.Cost),
         createRecipeHeaderIconConditional(recipe.Favourite, createIconHeart),
@@ -157,6 +162,24 @@ function createRecipeHeaderIconImage(images) {
     cameraIcon.classList.add("clickable");
     cameraIcon.addEventListener("click", () => {
         openRecipeOverlayDisplay("image");
+    });
+
+    return cameraIcon;
+}
+
+function createRecipeHeaderIconImages(images) {
+    if (images.count == 0) {
+        return null;
+    }
+
+    // Add element
+    const cameraIcon = createIconCamera();
+
+    // Configure click event for camera icon, display image on click
+    cameraIcon.classList.add("clickable");
+    cameraIcon.style.setProperty("fill", "red")
+    cameraIcon.addEventListener("click", () => {
+        openRecipeOverlayDisplay("images");
     });
 
     return cameraIcon;
@@ -449,6 +472,43 @@ function configureRecipeImage(slug, images) {
 
     // On click of close button, hide image and show content
     configureOverlayBehaviour("image");
+}
+
+function configureRecipeImages(slug, images) {
+    const imageGallery = document.querySelector(".recipe-images");
+    console.log(images)
+    // If no images, no point configuring
+    if (images.count == 0) {
+        return
+    }
+
+    // Configure selected image (start with main.avif, 
+    // if that doesn't exist (it technically doesn't need to, load the first one in the list))
+    const selectedImage = document.querySelector(".recipe-images-selected")
+    if (images.indexOf("main.avif") != -1) {
+        selectedImage.src = `/recipes/images/${slug}/main.avif`
+    } else {
+        selectedImage.src = `/recipes/images/${slug}/${images[0]}`
+    }
+
+    // Configure image bar if multiple images
+    if (images.length > 1) {
+        const imageOptions = document.querySelector(".recipe-images-options")
+        for (const image of images) {
+            // Create list item
+            const item = document.createElement("li")
+            imageOptions.appendChild(item)
+
+            // Create image element
+            const imageElement = document.createElement("img")
+            imageElement.src = `/recipes/images/${slug}/${image}`;
+            item.appendChild(imageElement)
+        }
+    }
+
+    
+    // On click of close button, hide image and show content
+    configureOverlayBehaviour("images");
 }
 
 function configureRecipeDiary(diary) {

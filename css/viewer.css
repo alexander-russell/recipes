@@ -377,6 +377,7 @@ body {
 /* Stuff for image and diary */
 
 .recipe-image-background,
+.recipe-images-background,
 .recipe-diary-background,
 .recipe-cost-background {
     display: flex;
@@ -392,6 +393,7 @@ body {
 }
 
 .recipe-image-wrapper,
+.recipe-images-wrapper,
 .recipe-diary-wrapper,
 .recipe-cost-wrapper {
     padding: 10px;
@@ -400,6 +402,7 @@ body {
 }
 
 .recipe-image,
+.recipe-images,
 .recipe-diary,
 .recipe-cost {
     display: block;
@@ -408,12 +411,96 @@ body {
     border: 1px solid black;
 }
 
+
+.image-close-wrapper,
+.images-close-wrapper,
+.diary-close-wrapper,
+.cost-close-wrapper {
+    position: absolute;
+    right: 15px;
+}
+
+.image-close,
+.images-close,
+.diary-close,
+.cost-close {
+    border: none;
+    background: none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.image-close:hover,
+.images-close:hover,
+.diary-close:hover,
+.cost-close:hover {
+    color: darkred;
+}
+
+.recipe-images-wrapper>div {
+    border: 1px solid pink;
+    max-height: 100%;
+    /* max-width: 100%; */
+}
+
+.recipe-images * {
+    box-sizing: border-box;
+}
+
+.recipe-images {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+}
+
+.recipe-images-selected-wrapper,
+.recipe-images-options-wrapper {
+    display: flex;
+}
+
+.recipe-images-selected-wrapper {
+    flex: 3;
+    border: 1px solid red;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.recipe-images-selected {
+    display: flex;
+    margin: 0;
+    border: 1px solid purple;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.recipe-images-options-wrapper {
+    flex: 1;
+}
+
+.recipe-images-options {
+    margin: 0;
+    border: 1px solid green;
+}
+
+.recipe-images-options>li {
+    display: flex;
+}
+
 .recipe-diary {
     margin: 0;
     overflow: scroll;
     overscroll-behavior: contain;
     border: none;
     border-bottom: 1px solid black;
+}
+
+.recipe-diary>dt {
+    font-weight: bold;
+}
+
+.recipe-diary:empty::after {
+    content: "(none)";
 }
 
 .recipe-cost {
@@ -460,36 +547,6 @@ body {
 .recipe-cost td:empty::after {
     content: "–";
     /* background-color: red; */
-}
-
-.image-close-wrapper,
-.diary-close-wrapper,
-.cost-close-wrapper {
-    position: absolute;
-    right: 15px;
-}
-
-.image-close,
-.diary-close,
-.cost-close {
-    border: none;
-    background: none;
-    font-size: 1.2em;
-    font-weight: bold;
-}
-
-.image-close:hover,
-.diary-close:hover,
-.cost-close:hover {
-    color: darkred;
-}
-
-.recipe-diary>dt {
-    font-weight: bold;
-}
-
-.recipe-diary:empty::after {
-    content: "(none)";
 }
 
 /* end Stuff for image and diary */
