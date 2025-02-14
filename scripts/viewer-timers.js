@@ -145,6 +145,13 @@ function manageClock() {
 
 function displayTimers(timerDetails) {
     list = document.querySelector(".timers");
+
+    // Clear timers
+    while (list.hasChildNodes()) {
+        list.childNodes[0].remove()
+    }
+
+    // Add either timers or a clock
     if (timerDetails.length > 0) {
         // Populate timer list
         for (const timerDetail of timerDetails) {
