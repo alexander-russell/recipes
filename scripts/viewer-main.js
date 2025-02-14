@@ -440,7 +440,7 @@ function configureRecipeImage(slug, images) {
     const image = document.querySelector(".recipe-image");
 
     // Determine image address
-    
+
     // If address found, use that image
     if (images.indexOf("main.avif") != -1) {
         // path = 
@@ -461,17 +461,39 @@ function configureRecipeDiary(diary) {
             list.childNodes[0].remove();
         }
 
+        // Get unique days
+        const days = diary
+            .map(entry => entry.Date.substr(0, 10))
+            .filter((value, index, array) => array.indexOf(value) === index)
+
         // Add entries
-        for (const entry of diary) {
+        for (const day of days) {
             // Make date tag
             const date = document.createElement("dt");
-            date.textContent = entry.Date.substring(0, 10);
+            date.textContent = day;
             list.appendChild(date);
 
-            // Make content description
-            const content = document.createElement("dd");
-            content.textContent = entry.Content;
-            list.appendChild(content);
+            // Add each day
+            entries = diary.filter(entry => entry.Date.startsWith(day));
+            const dd = document.createElement("dd");
+            list.appendChild(dd);
+            for (const entry of entries) {
+                // Add time
+                const strong = document.createElement("strong");
+                strong.textContent = ` ${entry.Date.substr(11,5)} `;
+                dd.appendChild(strong);
+                // Make content description
+                const span = document.createElement("span");
+                span.textContent = entry.Content;
+                dd.appendChild(span);
+
+            }
+            if (entries.count == 1) {
+
+            } else {
+
+            }
+
         }
 
         // Set up click to close
