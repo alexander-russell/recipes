@@ -5805,7 +5805,7 @@
       "Images": [],
       "Items": [
         {
-          "Name": "olive oil",
+          "Name": "Olive oil",
           "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
@@ -5813,7 +5813,7 @@
           "Group": ""
         },
         {
-          "Name": "brown onions",
+          "Name": "Brown onions",
           "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "kg",
