@@ -23796,17 +23796,9 @@
         {
           "Name": "Salt",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": "buttercream"
-        },
-        {
-          "Name": "Salt",
-          "NameDetail": "",
           "Quantity": 0.125,
           "Unit": "tsp",
-          "UnitDetail": "error: above",
+          "UnitDetail": "",
           "Group": "buttercream"
         },
         {
@@ -23865,8 +23857,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 13.52,
-        "AmountPerUnit": 13.52,
+        "Amount": 13.5,
+        "AmountPerUnit": 13.5,
         "Unit": "Cake",
         "ItemCosts": [
           {
@@ -24090,33 +24082,9 @@
             "Item": {
               "Name": "Salt",
               "NameDetail": "",
-              "Quantity": 0.5,
-              "Unit": "tsp",
-              "UnitDetail": "",
-              "Group": "buttercream"
-            },
-            "Ingredient": {
-              "Date": "2024-09-09T00:00:00",
-              "Name": "Salt",
-              "Price": 4.5,
-              "Quantity": 750.0,
-              "Unit": "grams",
-              "Source": "Woolworths",
-              "Extra": "Saxa salt for better pouring"
-            },
-            "Amount": 0.015,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
-          },
-          {
-            "Name": "Salt",
-            "Item": {
-              "Name": "Salt",
-              "NameDetail": "",
               "Quantity": 0.125,
               "Unit": "tsp",
-              "UnitDetail": "error: above",
+              "UnitDetail": "",
               "Group": "buttercream"
             },
             "Ingredient": {
@@ -24158,7 +24126,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "13.52 per unit",
+        "CostString": "13.5 per unit",
         "ExclusionsString": ""
       }
     },
@@ -46666,7 +46634,7 @@
           "Quantity": 2.0,
           "Unit": "cups",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "rice"
         },
         {
           "Name": "Water",
@@ -46674,13 +46642,10 @@
           "Quantity": 3.0,
           "Unit": "cups",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "rice"
         }
       ],
       "Steps": [
-        {
-          "Content": "error: group rice ingredients."
-        },
         {
           "Content": "Dice marinade garlic (@3 cloves), chop rosemary."
         },
@@ -47038,7 +47003,7 @@
               "Quantity": 2.0,
               "Unit": "cups",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "rice"
             },
             "Ingredient": {
               "Date": "2025-02-10T00:00:00",
@@ -47062,7 +47027,7 @@
               "Quantity": 3.0,
               "Unit": "cups",
               "UnitDetail": "",
-              "Group": ""
+              "Group": "rice"
             },
             "Ingredient": {
               "Date": "2023-11-05T00:00:00",

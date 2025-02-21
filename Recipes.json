@@ -9562,17 +9562,9 @@
         {
           "Name": "Salt",
           "NameDetail": "",
-          "Quantity": 0.5,
-          "Unit": "tsp",
-          "UnitDetail": "",
-          "Group": "buttercream"
-        },
-        {
-          "Name": "Salt",
-          "NameDetail": "",
           "Quantity": 0.125,
           "Unit": "tsp",
-          "UnitDetail": "error: above",
+          "UnitDetail": "",
           "Group": "buttercream"
         },
         {
@@ -18588,7 +18580,7 @@
           "Quantity": 2.0,
           "Unit": "cups",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "rice"
         },
         {
           "Name": "Water",
@@ -18596,13 +18588,10 @@
           "Quantity": 3.0,
           "Unit": "cups",
           "UnitDetail": "",
-          "Group": ""
+          "Group": "rice"
         }
       ],
       "Steps": [
-        {
-          "Content": "error: group rice ingredients."
-        },
         {
           "Content": "Dice marinade garlic (@3 cloves), chop rosemary."
         },
