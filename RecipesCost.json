@@ -24213,8 +24213,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 0.64,
-        "AmountPerUnit": 0.64,
+        "Amount": 0.86,
+        "AmountPerUnit": 0.86,
         "Unit": "split",
         "ItemCosts": [
           {
@@ -24260,10 +24260,10 @@
               "Source": "Woolies",
               "Extra": "Peters original brand but on sale"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:scoop; To:litres"
+            "Amount": 0.2175,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Chocolate sauce",
@@ -24298,8 +24298,8 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0.64 per unit*",
-        "ExclusionsString": "Excluding Ice cream"
+        "CostString": "0.86 per unit",
+        "ExclusionsString": ""
       }
     },
     {
@@ -27538,8 +27538,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 23.86,
-        "AmountPerUnit": 5.96,
+        "Amount": 23.94,
+        "AmountPerUnit": 5.98,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -27625,7 +27625,7 @@
               "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.00533333333333334,
+            "Amount": 0.08888888888888892,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28183,7 +28183,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "5.96 per serve",
+        "CostString": "5.98 per serve",
         "ExclusionsString": ""
       }
     },
@@ -35852,8 +35852,8 @@
         }
       ],
       "Cost": {
-        "Amount": 27.36,
-        "AmountPerUnit": 6.84,
+        "Amount": 27.4,
+        "AmountPerUnit": 6.85,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -36019,7 +36019,7 @@
               "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.00266666666666666,
+            "Amount": 0.044444444444444293,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -36057,7 +36057,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "6.84 per serve",
+        "CostString": "6.85 per serve",
         "ExclusionsString": ""
       }
     },
@@ -39223,8 +39223,8 @@
         }
       ],
       "Cost": {
-        "Amount": 11.83,
-        "AmountPerUnit": 3.94,
+        "Amount": 11.91,
+        "AmountPerUnit": 3.97,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -39390,7 +39390,7 @@
               "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.00533333333333334,
+            "Amount": 0.08888888888888892,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -39588,7 +39588,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.94 per serve",
+        "CostString": "3.97 per serve",
         "ExclusionsString": ""
       }
     },
@@ -45178,8 +45178,8 @@
         }
       ],
       "Cost": {
-        "Amount": 20.65,
-        "AmountPerUnit": 3.44,
+        "Amount": 20.74,
+        "AmountPerUnit": 3.46,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -45393,7 +45393,7 @@
               "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.00533333333333334,
+            "Amount": 0.08888888888888892,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -45543,7 +45543,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.44 per serve",
+        "CostString": "3.46 per serve",
         "ExclusionsString": ""
       }
     },
@@ -46727,8 +46727,8 @@
         }
       ],
       "Cost": {
-        "Amount": 18.61,
-        "AmountPerUnit": 4.65,
+        "Amount": 18.65,
+        "AmountPerUnit": 4.66,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -46966,7 +46966,7 @@
               "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.00266666666666666,
+            "Amount": 0.044444444444444293,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -47044,7 +47044,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.65 per serve",
+        "CostString": "4.66 per serve",
         "ExclusionsString": ""
       }
     }
