@@ -18459,6 +18459,231 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Basque Lamb Stew",
+      "Slug": "basque-lamb-stew",
+      "Type": "Main",
+      "Category": "Stews",
+      "DateCreated": "2024-09-04",
+      "DateRevised": "2025-02-21",
+      "Cuisine": "Basque",
+      "Key": "Lamb shoulder",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 310.0,
+        "Extra": "mostly hands-off"
+      },
+      "Difficulty": 3,
+      "Bulk": false,
+      "Favourite": true,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{https://www.simplyrecipes.com/recipes/basque_lamb_stew/}{Simply Recipes}, after making this I expressed concern that I would never find out if there was a better lamb stew because I'll follow this recipe every time I make lamb stew for the rest of my life. I was laughed at for this, rightly so. Anyway, it smells fantastic.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Fresh rosemary",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "sprig",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Lamb shoulder",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "kg",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "White wine",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Tomato",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Red wine",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bay leaves",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Chicken stock",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Long grain rice",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "error: group rice ingredients."
+        },
+        {
+          "Content": "Dice marinade garlic (@3 cloves), chop rosemary."
+        },
+        {
+          "Content": "Trim fat and cut lamb into 2x1 inch chunks."
+        },
+        {
+          "Content": "In a large bowl combine marinade ingredients, mix, cover with clingwrap and sit in fridge for 2 hours."
+        },
+        {
+          "Content": "Heat oil on medium-high in a large pot."
+        },
+        {
+          "Content": "Drain meat, discard marinade. Pat dry with paper towel."
+        },
+        {
+          "Content": "In batches brown all sides of the meat, turning every 3 minutes or so once browned. Add salt as you go."
+        },
+        {
+          "Content": "Dice brown onion 1 cm, remaining @3 cloves of garlic thinly, dice tomatoes 1 cm.e"
+        },
+        {
+          "Content": "Remove meat to bowl, leave burner on."
+        },
+        {
+          "Content": "Add onion, stir until softened, 4 minutes."
+        },
+        {
+          "Content": "Add garlic, 1 minute."
+        },
+        {
+          "Content": "Add red wine, lamb, tomatoes, paprika and bay leaf. Simmer for 15 minutes uncovered."
+        },
+        {
+          "Content": "Add stock, bring to simmer, reduce to low, cover, simmer until lamb is tender, 2 hours."
+        },
+        {
+          "Content": "Half an hour before time is up, make rice."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-09-04T18:20:00",
+          "Content": "Started marinating in the morning before I left for class, left it for 8 hours. The initial prep took 20 minutes. Then 50 minutes of work to get to the long simmer part. Browning the meat was tricky because there was so much lamb, I think I ended up using 2 pots and maybe turning the heat up more. Originally I was turning every 5 minutes, but I think second batch it dropped to 3. Second batch took 6 min total."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Turn",
+          "Seconds": 180
+        },
+        {
+          "Name": "Onion",
+          "Seconds": 240
+        },
+        {
+          "Name": "Garlic",
+          "Seconds": 60
+        },
+        {
+          "Name": "Red wine",
+          "Seconds": 900
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 7200
+        },
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        }
+      ],
+      "Cost": null
     }
   ]
 }

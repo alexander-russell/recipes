@@ -2,6 +2,7 @@ From,To,Factor,Item
 gram,grams,1,
 cup,cups,1,
 clove,cloves,1,
+sprig,sprigs,1,
 litre,litres,1,
 tsp,grams,5,
 tbsp,tsp,3,
