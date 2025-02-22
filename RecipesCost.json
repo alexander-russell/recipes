@@ -3313,8 +3313,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 4.14,
-        "AmountPerUnit": 4.14,
+        "Amount": 3.54,
+        "AmountPerUnit": 3.54,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -3676,18 +3676,18 @@
               "Name": "Fresh coriander",
               "Price": 1.5,
               "Quantity": 15.0,
-              "Unit": "whole",
+              "Unit": "sprigs",
               "Source": "Freshtown",
               "Extra": "Whole sprigs"
             },
-            "Amount": 0.6000000000000001,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NoConversion",
+            "Extra": "Couldn't convert unit. From:whole; To:sprigs"
           }
         ],
-        "CostString": "4.14 per unit*",
-        "ExclusionsString": "Excluding Whole white fish, Ginger root, Tamarind juice, White pepper and Wood fungus"
+        "CostString": "3.54 per unit*",
+        "ExclusionsString": "Excluding Whole white fish, Ginger root, Tamarind juice, White pepper, Wood fungus and Fresh coriander"
       }
     },
     {
@@ -47807,8 +47807,8 @@
         }
       ],
       "Cost": {
-        "Amount": 15.03,
-        "AmountPerUnit": 7.52,
+        "Amount": 15.23,
+        "AmountPerUnit": 7.62,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -48266,14 +48266,14 @@
               "Name": "Fresh coriander",
               "Price": 1.5,
               "Quantity": 15.0,
-              "Unit": "whole",
+              "Unit": "sprigs",
               "Source": "Freshtown",
               "Extra": "Whole sprigs"
             },
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:sprigs; To:whole"
+            "Amount": 0.2,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Basmati rice",
@@ -48324,8 +48324,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.52 per serve*",
-        "ExclusionsString": "Excluding Red chilli powder, Red chilli powder, Fenugreek leaves and Fresh coriander"
+        "CostString": "7.62 per serve*",
+        "ExclusionsString": "Excluding Red chilli powder, Red chilli powder and Fenugreek leaves"
       }
     }
   ]
