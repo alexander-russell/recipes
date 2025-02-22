@@ -47219,8 +47219,8 @@
         }
       ],
       "Cost": {
-        "Amount": 4.28,
-        "AmountPerUnit": 1.43,
+        "Amount": 7.11,
+        "AmountPerUnit": 2.37,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -47233,11 +47233,19 @@
               "UnitDetail": "1 can",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Four bean mix"
+            "Ingredient": {
+              "Date": "2025-02-22T00:00:00",
+              "Name": "Four bean mix",
+              "Price": 1.1,
+              "Quantity": 420.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Home brand."
+            },
+            "Amount": 1.1,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Tinned chickpeas",
@@ -47273,11 +47281,19 @@
               "UnitDetail": "1 can",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Tinned red kidney beans"
+            "Ingredient": {
+              "Date": "2025-02-22T00:00:00",
+              "Name": "Tinned red kidney beans",
+              "Price": 1.1,
+              "Quantity": 420.0,
+              "Unit": "grams",
+              "Source": "Woolworths online",
+              "Extra": "Home brand."
+            },
+            "Amount": 1.1,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Brown onions",
@@ -47385,11 +47401,19 @@
               "UnitDetail": "",
               "Group": "dressing"
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Red wine vinegar"
+            "Ingredient": {
+              "Date": "2025-02-22T00:00:00",
+              "Name": "Red wine vinegar",
+              "Price": 5.0,
+              "Quantity": 500.0,
+              "Unit": "ml",
+              "Source": "Woolworths online",
+              "Extra": "Moro brand"
+            },
+            "Amount": 0.625,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Olive oil",
@@ -47488,8 +47512,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.43 per serve*",
-        "ExclusionsString": "Excluding Four bean mix, Tinned red kidney beans and Red wine vinegar"
+        "CostString": "2.37 per serve",
+        "ExclusionsString": ""
       }
     }
   ]
