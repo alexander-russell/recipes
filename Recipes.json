@@ -18673,6 +18673,176 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Bean salad",
+      "Slug": "bean-salad",
+      "Type": "Main",
+      "Category": "Salads",
+      "DateCreated": "2024-09-14",
+      "DateRevised": "2025-02-22",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 90.0,
+        "Extra": "half hour of work"
+      },
+      "Difficulty": 2,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "From what Mum makes but I think she might add tuna. Memory refreeshed with \\href{https://www.inspiredtaste.net/46546/easy-bean-salad}{Inspired Taste}. Probably a warm weather food and I'm maybe pushing it to call it a main but I'll eat it by itself.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Four bean mix",
+          "NameDetail": "",
+          "Quantity": 420.0,
+          "Unit": "grams",
+          "UnitDetail": "1 can",
+          "Group": ""
+        },
+        {
+          "Name": "Tinned chickpeas",
+          "NameDetail": "",
+          "Quantity": 420.0,
+          "Unit": "grams",
+          "UnitDetail": "1 can",
+          "Group": ""
+        },
+        {
+          "Name": "Tinned red kidney beans",
+          "NameDetail": "",
+          "Quantity": 420.0,
+          "Unit": "grams",
+          "UnitDetail": "1 can",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cucumber",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "sprigs",
+          "UnitDetail": "or whatever",
+          "Group": ""
+        },
+        {
+          "Name": "Oregano",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Red wine vinegar",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Dijon mustard",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Dice onion 8 mm, place in medium bowl and cover with water for 5 minutes, then drain well."
+        },
+        {
+          "Content": "Quarter cucumber lengthways and chop into 1cm pieces."
+        },
+        {
+          "Content": "Pour all the beans into a colander and rinse under water."
+        },
+        {
+          "Content": "Combine dressing ingredients. Adjust with honey if too extreme."
+        },
+        {
+          "Content": "Add all the other ingredients to the bowl, toss, clingwrap and chill in fridge for 1 hour, then ready."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-09-14T19:40:00",
+          "Content": "Started at 19:15, done making at 19:40 and I'm moving slowly tonight. Makes a surprising amount of washing up. 3 or 4 serves. Used capers but I wouldn't next time. Forgot oregano and parsley but will next time. Strong enough to hurt my mouth."
+        },
+        {
+          "Date": "2025-01-27T20:00:00",
+          "Content": "Used half a red onion instead of a brown onion and did 2 cucumbers instead of 1, no honey, no capers. Again took 30 mins of prep. Ate the next day with rotisserie chicken in sandwiches."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Onions",
+          "Seconds": 300
+        },
+        {
+          "Name": "Chill",
+          "Seconds": 3600
+        }
+      ],
+      "Cost": null
     }
   ]
 }

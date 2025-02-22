@@ -7579,13 +7579,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 6.2375,
             "Success": true,
@@ -7824,13 +7824,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 4.99,
             "Success": true,
@@ -13334,13 +13334,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 2.495,
             "Success": true,
@@ -17312,13 +17312,13 @@
               "Group": "Second lot of veggies"
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 2.495,
             "Success": true,
@@ -27016,13 +27016,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 4.491,
             "Success": true,
@@ -31132,13 +31132,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 1.996,
             "Success": true,
@@ -32542,13 +32542,13 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 1.87125,
             "Success": true,
@@ -37412,13 +37412,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 4.99,
             "Success": true,
@@ -39881,13 +39881,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 4.99,
             "Success": true,
@@ -42322,13 +42322,13 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 4.99,
             "Success": true,
@@ -45884,13 +45884,13 @@
               "Group": "topping"
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-02-22T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Consistent"
+              "Source": "7Fresh",
+              "Extra": "A little soft"
             },
             "Amount": 1.996,
             "Success": true,
@@ -47046,6 +47046,450 @@
         ],
         "CostString": "4.66 per serve",
         "ExclusionsString": ""
+      }
+    },
+    {
+      "Name": "Bean salad",
+      "Slug": "bean-salad",
+      "Type": "Main",
+      "Category": "Salads",
+      "DateCreated": "2024-09-14",
+      "DateRevised": "2025-02-22",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 3.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 90.0,
+        "Extra": "half hour of work"
+      },
+      "Difficulty": 2,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": true,
+        "GlutenFree": true
+      },
+      "Note": "From what Mum makes but I think she might add tuna. Memory refreeshed with \\href{https://www.inspiredtaste.net/46546/easy-bean-salad}{Inspired Taste}. Probably a warm weather food and I'm maybe pushing it to call it a main but I'll eat it by itself.",
+      "Image": "",
+      "Images": [
+        "main.avif"
+      ],
+      "Items": [
+        {
+          "Name": "Four bean mix",
+          "NameDetail": "",
+          "Quantity": 420.0,
+          "Unit": "grams",
+          "UnitDetail": "1 can",
+          "Group": ""
+        },
+        {
+          "Name": "Tinned chickpeas",
+          "NameDetail": "",
+          "Quantity": 420.0,
+          "Unit": "grams",
+          "UnitDetail": "1 can",
+          "Group": ""
+        },
+        {
+          "Name": "Tinned red kidney beans",
+          "NameDetail": "",
+          "Quantity": 420.0,
+          "Unit": "grams",
+          "UnitDetail": "1 can",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cucumber",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "sprigs",
+          "UnitDetail": "or whatever",
+          "Group": ""
+        },
+        {
+          "Name": "Oregano",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Red wine vinegar",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Dijon mustard",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "dressing"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Dice onion 8 mm, place in medium bowl and cover with water for 5 minutes, then drain well."
+        },
+        {
+          "Content": "Quarter cucumber lengthways and chop into 1cm pieces."
+        },
+        {
+          "Content": "Pour all the beans into a colander and rinse under water."
+        },
+        {
+          "Content": "Combine dressing ingredients. Adjust with honey if too extreme."
+        },
+        {
+          "Content": "Add all the other ingredients to the bowl, toss, clingwrap and chill in fridge for 1 hour, then ready."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-09-14T19:40:00",
+          "Content": "Started at 19:15, done making at 19:40 and I'm moving slowly tonight. Makes a surprising amount of washing up. 3 or 4 serves. Used capers but I wouldn't next time. Forgot oregano and parsley but will next time. Strong enough to hurt my mouth."
+        },
+        {
+          "Date": "2025-01-27T20:00:00",
+          "Content": "Used half a red onion instead of a brown onion and did 2 cucumbers instead of 1, no honey, no capers. Again took 30 mins of prep. Ate the next day with rotisserie chicken in sandwiches."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Onions",
+          "Seconds": 300
+        },
+        {
+          "Name": "Chill",
+          "Seconds": 3600
+        }
+      ],
+      "Cost": {
+        "Amount": 4.28,
+        "AmountPerUnit": 1.43,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Four bean mix",
+            "Item": {
+              "Name": "Four bean mix",
+              "NameDetail": "",
+              "Quantity": 420.0,
+              "Unit": "grams",
+              "UnitDetail": "1 can",
+              "Group": ""
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Four bean mix"
+          },
+          {
+            "Name": "Tinned chickpeas",
+            "Item": {
+              "Name": "Tinned chickpeas",
+              "NameDetail": "",
+              "Quantity": 420.0,
+              "Unit": "grams",
+              "UnitDetail": "1 can",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-09-04T22:48:27",
+              "Name": "Tinned chickpeas",
+              "Price": 1.0,
+              "Quantity": 420.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 1.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Tinned red kidney beans",
+            "Item": {
+              "Name": "Tinned red kidney beans",
+              "NameDetail": "",
+              "Quantity": 420.0,
+              "Unit": "grams",
+              "UnitDetail": "1 can",
+              "Group": ""
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Tinned red kidney beans"
+          },
+          {
+            "Name": "Brown onions",
+            "Item": {
+              "Name": "Brown onions",
+              "NameDetail": "",
+              "Quantity": 0.5,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-02-19T00:00:00",
+              "Name": "Brown onions",
+              "Price": 1.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Tonyon warehouse",
+              "Extra": ""
+            },
+            "Amount": 0.24875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cucumber",
+            "Item": {
+              "Name": "Cucumber",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Cucumber",
+              "Price": 2.88,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Tonyon Warehouse",
+              "Extra": ""
+            },
+            "Amount": 0.8228571428571437,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Parsley",
+            "Item": {
+              "Name": "Parsley",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "sprigs",
+              "UnitDetail": "or whatever",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-12-11T00:00:00",
+              "Name": "Parsley",
+              "Price": 1.29,
+              "Quantity": 10.0,
+              "Unit": "sprigs",
+              "Source": "Superfresh",
+              "Extra": "one whole is one sprig"
+            },
+            "Amount": 0.387,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Oregano",
+            "Item": {
+              "Name": "Oregano",
+              "NameDetail": "",
+              "Quantity": 0.5,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-12-03T00:00:00",
+              "Name": "Oregano",
+              "Price": 3.99,
+              "Quantity": 25.0,
+              "Unit": "grams",
+              "Source": "Superfresh",
+              "Extra": "G-fresh"
+            },
+            "Amount": 0.399,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Red wine vinegar",
+            "Item": {
+              "Name": "Red wine vinegar",
+              "NameDetail": "",
+              "Quantity": 0.25,
+              "Unit": "cup",
+              "UnitDetail": "",
+              "Group": "dressing"
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Red wine vinegar"
+          },
+          {
+            "Name": "Olive oil",
+            "Item": {
+              "Name": "Olive oil",
+              "NameDetail": "",
+              "Quantity": 0.25,
+              "Unit": "cup",
+              "UnitDetail": "",
+              "Group": "dressing"
+            },
+            "Ingredient": {
+              "Date": "2025-02-03T00:00:00",
+              "Name": "Olive oil",
+              "Price": 14.0,
+              "Quantity": 1.0,
+              "Unit": "litre",
+              "Source": "Woolworths",
+              "Extra": "Worst quality available."
+            },
+            "Amount": 0.875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Dijon mustard",
+            "Item": {
+              "Name": "Dijon mustard",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "dressing"
+            },
+            "Ingredient": {
+              "Date": "2024-09-09T00:00:00",
+              "Name": "Dijon mustard",
+              "Price": 2.9,
+              "Quantity": 200.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Your Condiment Co. brand"
+            },
+            "Amount": 0.0725,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Salt",
+            "Item": {
+              "Name": "Salt",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "dressing"
+            },
+            "Ingredient": {
+              "Date": "2024-09-09T00:00:00",
+              "Name": "Salt",
+              "Price": 4.5,
+              "Quantity": 750.0,
+              "Unit": "grams",
+              "Source": "Woolworths",
+              "Extra": "Saxa salt for better pouring"
+            },
+            "Amount": 0.03,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Pepper",
+            "Item": {
+              "Name": "Pepper",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "dressing"
+            },
+            "Ingredient": {
+              "Date": "2023-12-21T00:00:00",
+              "Name": "Pepper",
+              "Price": 8.5,
+              "Quantity": 95.0,
+              "Unit": "grams",
+              "Source": "Coles",
+              "Extra": ""
+            },
+            "Amount": 0.4473684210526315,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "1.43 per serve*",
+        "ExclusionsString": "Excluding Four bean mix, Tinned red kidney beans and Red wine vinegar"
       }
     }
   ]
