@@ -18843,6 +18843,297 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Prawn masala",
+      "Slug": "prawn-masala",
+      "Type": "Main",
+      "Category": "Curries",
+      "DateCreated": "2024-11-16",
+      "DateRevised": "2025-02-22",
+      "Cuisine": "Indian",
+      "Key": "Prawns",
+      "Yield": {
+        "Quantity": 2.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 7,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{https://nishkitchen.com/prawn-masala-video/}{Nish Kitchen}. Love Nish Kitchen. Maybe a couple of ingredients were missing from their list.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Prawns",
+          "NameDetail": "",
+          "Quantity": 350.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "prawns"
+        },
+        {
+          "Name": "Turmeric",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "prawns"
+        },
+        {
+          "Name": "Red chilli powder",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "prawns"
+        },
+        {
+          "Name": "Lemon",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "prawns"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "prawns"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "prawns"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Cinnamon sticks",
+          "NameDetail": "",
+          "Quantity": 0.25,
+          "Unit": "whole",
+          "UnitDetail": "@1 inch",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Cumin seeds",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Red onion",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Tomato",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cm",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Turmeric",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Coriander",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Red chilli powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "spice paste"
+        },
+        {
+          "Name": "Olive oil",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "curry"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "curry"
+        },
+        {
+          "Name": "Garam masala",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "curry"
+        },
+        {
+          "Name": "Fenugreek leaves",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "curry"
+        },
+        {
+          "Name": "Fresh coriander",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "sprigs",
+          "UnitDetail": "",
+          "Group": "curry"
+        },
+        {
+          "Name": "Basmati rice",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "rice"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Make rice in medium pot (bring to simmer then cover, 13 minutes, then remove from heat 10 more minutes, then uncover, fluff, 2 minutes to steam dry)."
+        },
+        {
+          "Content": "Toss prawns in turmeric, red chilli powder, salt, pepper and juiced lemon. Marinate in frdige for 15 minutes."
+        },
+        {
+          "Content": "Slice onion, roughly chop tomato, roughly dice ginger and garlic."
+        },
+        {
+          "Content": "In large pot in oil on medium-high, fry cinnamon stick, cumin seeds for 1 minute."
+        },
+        {
+          "Content": "Add onion, tomato, garlic, ginger, fry until browned, 6 minutes."
+        },
+        {
+          "Content": "Add remaining spice paste ingredients (turmeric, coriander powder, red chilli powder), fry until fragrant, 1 minute."
+        },
+        {
+          "Content": "Remove to cool, then puree. Add water if needed."
+        },
+        {
+          "Content": "On medium-high heat in same pot, add spice paste and fry until warm and fragrant, 2 minutes."
+        },
+        {
+          "Content": "Add prawns and water, cover and cook 15 minutes, then finish by stirring in garam masala, fenugreek and coriander."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-11-16T20:00:00",
+          "Content": "Followed mostly to plan. Used frozen prawns and only 350 grams not 700. Steps call my green chillis but weren't in ingredients so I don't have. Used a brown onion by accident, no complaints. Took about an hour. Should have started on the prawns first then did the spice stuff. Delicious but too spicy, next time halve the red chilli powder. Serves 2, should scale up. Didn't use all the coriander asked for. Skipped fenugreek (don't own that). Confused about adding garam masala so late."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        },
+        {
+          "Name": "Marinate",
+          "Seconds": 900
+        },
+        {
+          "Name": "Cinnamon",
+          "Seconds": 60
+        },
+        {
+          "Name": "Onion",
+          "Seconds": 360
+        },
+        {
+          "Name": "Spice paste",
+          "Seconds": 120
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 900
+        }
+
+      ],
+      "Cost": null
     }
   ]
 }

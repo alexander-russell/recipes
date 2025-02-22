@@ -208,7 +208,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-10 23:22:14,White vinegar,1.59,2,litres,Aldi,
 2024-06-10 23:22:29,Apple cider vinegar,3.19,500,ml,Aldi,
 2024-06-12 10:54:03,Thyme,1.2,12,grams,Woolworths,thyme leaves
-2024-06-12 10:54:52,Fresh coriander,3.2,20,whole,Woolworths,Whole sprigs
+2024-06-12 10:54:52,Fresh coriander,3.2,20,sprigs,Woolworths,Whole sprigs
 2024-06-12 10:55:29,Frozen potato chips,3.79,1,whole,Aldi,whole bag
 2024-06-12 10:56:21,Icecream,6.49,2,litres,Aldi,Blue ribbon buttercream
 2024-06-12 10:57:02,Cos lettuce,1.99,2,whole,Aldi,Baby cos
@@ -470,7 +470,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-11-11 00:00:00,Lemon,1.99,3,whole,Sakura,Sold by the bag
 2024-11-11 00:00:00,Broccoli,4.99,1,kg,Sakura,
 2024-11-11 00:00:00,Brown onions,1.99,1,kg,Yonghui,
-2024-11-11 00:00:00,Fresh coriander,0.99,20,whole,Yonghui,Whole sprigs
+2024-11-11 00:00:00,Fresh coriander,0.99,20,sprigs,Yonghui,Whole sprigs
 2024-11-11 00:00:00,Tomato,3.49,1,kg,Yonghui,
 2024-11-11 00:00:00,Spinach,1.59,120,grams,Yonghui,Quantity is super approximate but a big bunch
 2024-11-11 00:00:00,Eggs,7.99,12,whole,Yonghui,
@@ -536,7 +536,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-12-03 00:00:00,Brown onions,1.99,1,kg,Yonghui,
 2024-12-03 00:00:00,Cherry tomatoes,4.99,1,kg,Yonghui,
 2024-12-03 00:00:00,Tomato,2.99,1,kg,Yonghui,
-2024-12-03 00:00:00,Fresh coriander,0.99,20,whole,Yonghui,Whole sprigs
+2024-12-03 00:00:00,Fresh coriander,0.99,20,sprigs,Yonghui,Whole sprigs
 2024-12-03 00:00:00,Eggs,7.99,12,whole,Yonghui,
 2024-12-03 00:00:00,Mayonnaise,6.3,440,grams,Woolworths,S&W brand whole egg
 2024-12-03 00:00:00,Breadcrumbs,3,750,grams,Woolworths,
@@ -579,7 +579,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-12-29 00:00:00,Tomato,1.99,1,kg,Tonyon Warehouse,Quite small
 2024-12-30 00:00:00,Potatoes,3.99,1,kg,Sakura,
 2024-12-30 00:00:00,Ginger,19.99,1,kg,Sakura,
-2024-12-30 00:00:00,Fresh coriander,2.49,20,whole,Yonghui,Whole sprigs
+2024-12-30 00:00:00,Fresh coriander,2.49,20,sprigs,Yonghui,Whole sprigs
 2024-12-30 00:00:00,Bananas,2.39,1,kg,Yonghui,
 2024-12-30 00:00:00,Milk,3.98,2,litres,Yonghui,
 2024-12-30 00:00:00,Brown onions,1.88,1,kg,Tonyon Warehouse,
@@ -633,7 +633,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-01-21 00:00:00,Chow mein noodles,3.39,500,grams,Sakura,
 2024-01-21 00:00:00,Ginger,29.99,1,kg,Sakura,
 2024-01-21 00:00:00,Milk,3.98,2,litres,Yonghui,
-2024-01-21 00:00:00,Fresh coriander,1.8,20,whole,Yonghui,Whole sprigs
+2024-01-21 00:00:00,Fresh coriander,1.8,20,sprigs,Yonghui,Whole sprigs
 2024-01-21 00:00:00,Red potatoes,2.68,1,kg,Tonyon Warehouse,
 2024-01-21 00:00:00,Brown onions,3.99,2,kg,7fresh,7fresh
 2024-01-21 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
@@ -732,7 +732,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-02-10 00:00:00,Carrots,1.99,1,kg,Yonghui,
 2025-02-10 00:00:00,Cinnamon sticks,1.98,10,whole,Yonghui,Guestimate. 50 grams
 2025-02-10 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
-2025-02-10 00:00:00,Fresh coriander,1.5,15,whole,Freshtown,Whole sprigs
+2025-02-10 00:00:00,Fresh coriander,1.5,15,sprigs,Freshtown,Whole sprigs
 2025-02-10 00:00:00,Diced tomatoes,1,400,grams,7Fresh,Divella brand
 2025-02-10 00:00:00,Tomato passata,2.99,680,grams,7Fresh,Divella brand
 2025-02-10 00:00:00,Oak lettuce,2.5,1,head,7Fresh,
