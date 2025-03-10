@@ -769,3 +769,104 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-02-22 00:00:00,Four bean mix,1.1,420,grams,Woolworths online,Home brand.
 2025-02-22 00:00:00,Tinned red kidney beans,1.1,420,grams,Woolworths online,Home brand.
 2025-02-22 00:00:00,Red wine vinegar,5,500,ml,Woolworths online,Moro brand
+2025-02-25 00:00:00,Spinach,2.29,120,grams,Yonghui,Quantity is super approximate but a big bunch
+2025-02-25 00:00:00,Garlic,19.99,1,kg,7Fresh,Spanish
+2025-02-25 00:00:00,Brown onions,3.99,1,kg,7Fresh,
+2025-02-25 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2025-02-25 00:00:00,Cucumber,2.88,1,kg,Tonyon Warehouse,
+2025-02-25 00:00:00,Lemon,3.99,1,kg,Tonyon Warehouse,Individual
+2025-02-25 00:00:00,Brown onions,1.99,1,kg,Tonyon Warehouse,
+2025-02-25 00:00:00,Red onion,3.88,1,kg,Tonyon Warehouse,
+2025-02-25 00:00:00,Spring onions,1.28,10,whole,Tonyon Warehouse,
+2025-02-25 00:00:00,Leeks,2.99,1,whole,Tonyon warehouse,
+2025-02-25 00:00:00,Nori,3.95,10,whole,Tonyon supermarket,Whole sheets
+2025-02-25 00:00:00,Pickled ginger,2.35,180,grams,Tonyon supermarket,For sushi
+2025-02-25 00:00:00,Milk,3.98,2,litres,Yonghui,Dairy farmers brand
+2025-02-25 00:00:00,Tomato,4.99,1,kg,Yonghui,Generic
+2025-02-25 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
+2025-02-25 00:00:00,Stelline pasta,2.99,500,grams,7Fresh,Divella brand
+2025-02-25 00:00:00,Potatoes,4.99,1,kg,7Fresh,Normal
+2025-02-25 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
+2025-02-25 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2025-02-25 00:00:00,Eggs,6.75,12,whole,7Fresh,Cage eggs and 600g
+2025-02-25 00:00:00,Cos lettuce,3.99,2,whole,Superfresh,Baby cos
+2025-02-25 00:00:00,Parsley,1.5,10,sprigs,Superfresh,one whole is one sprig
+2025-02-25 00:00:00,Tomato sauce,2.1,500,ml,Woolworths,Home brand
+2025-02-25 00:00:00,Olive oil,14,1,litre,Woolworths,Worst quality available.
+2025-02-25 00:00:00,Tomato paste,1.4,500,grams,Woolworths,Essentials brand
+2025-02-25 00:00:00,Tuna,1.1,95,grams,Woolies,
+2025-02-25 00:00:00,Sushi rice,5.5,1,kg,Woolworths,Pandaroo brand
+2025-02-25 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
+2025-02-17 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2025-02-17 00:00:00,Beef mince,9.99,1,kg,Hong Meat,
+2025-02-17 00:00:00,Cucumber,2.5,1,kg,7Fresh,
+2025-02-17 00:00:00,Tomato,4.99,1,kg,7Fresh,Generic
+2025-02-17 00:00:00,Milk,4.19,2,litres,Superfresh,Dairy farmers brand
+2025-02-17 00:00:00,Tomato,5.99,1,kg,Superfresh,Roma
+2025-02-17 00:00:00,Iceberg lettuce,2.99,1,head,Superfresh,
+2025-02-17 00:00:00,Red onion,7.99,1,kg,Superfresh,
+2025-02-17 00:00:00,Mint,1.5,1,cup,Super Fresh,Probably a cup idk just sold in a bunch
+2025-02-17 00:00:00,Fresh coriander,1.99,15,sprigs,Superfresh,Whole sprigs
+2025-02-17 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
+2025-02-17 00:00:00,Lebanese bread,1.8,6,whole,Woolies,Pieces
+2025-03-04 00:00:00,Milk,2.99,2,litres,Aldi,Homebrand
+2025-03-04 00:00:00,Puff pastry,3.79,6,whole,Aldi,
+2025-03-04 00:00:00,Beef mince,11.98,1,kg,Aldi,3 star in 500 gram pack
+2025-03-04 00:00:00,Feta,3.19,200,grams,Aldi,Homebrand
+2025-03-04 00:00:00,Parmesan,5.99,200,grams,Aldi,Rectangle quality
+2025-03-04 00:00:00,Porterhouse steak,7.49,200,grams,Aldi,
+2025-03-04 00:00:00,Frozen potato chips,3.79,1000,grams,Aldi,Homebrand straight cut
+2025-03-04 00:00:00,Honey,3.99,375,ml,Aldi,
+2025-03-04 00:00:00,Kalamata olives,2.99,350,grams,Aldi,Kalamata
+2025-03-04 00:00:00,Salt,2.99,750,grams,Aldi,Homebrand
+2025-03-04 00:00:00,Canola oil,6.69,2,litres,Aldi,
+2025-03-04 00:00:00,Sundried tomatoes,2.59,280,grams,Aldi,
+2025-03-04 00:00:00,Basil pesto,1.69,190,grams,Aldi,
+2025-03-04 00:00:00,Chicken stock powder,2.99,168,grams,Aldi,
+2025-03-04 00:00:00,Brown onions,2.29,1,kg,Aldi,Net bag
+2025-03-04 00:00:00,Red potatoes,3.99,1,kg,Aldi,
+2025-03-04 00:00:00,Sweet potato,2.99,1,kg,Aldi,Normal
+2025-03-04 00:00:00,Lemon,1.49,1,whole,Aldi,Individual
+2025-03-04 00:00:00,Tomato,5.99,1,kg,Aldi,Generic
+2025-03-04 00:00:00,Bread,2.39,20,whole,Aldi,Whole refers to slices; 20 is a guess
+2025-03-04 00:00:00,Bean sprouts,1.5,450,grams,Miracle supermarkets,Belmore brand
+2025-03-04 00:00:00,Chow mein noodles,3.95,500,grams,Miracle supermarkets,
+2025-03-04 00:00:00,Dark soy sauce,3.29,500,ml,Miracle supermarkets,Hiday brand
+2025-03-04 00:00:00,Silken tofu,2.1,250,grams,Miracle supermarkets,Evergreen brand
+2025-03-10 00:00:00,Red capsicum,3.38,1,kg,Tonyon warehouse,Red
+2025-03-10 00:00:00,Brown onions,1.99,1,kg,Tonyon warehouse,Individual
+2025-03-10 00:00:00,Ginger,19.8,1,kg,Tonyon warehouse,
+2025-03-10 00:00:00,Cucumber,2.38,1,kg,Tonyon Warehouse,
+2025-03-10 00:00:00,Green capsicum,2.99,1,kg,Tonyon Warehouse,
+2025-03-10 00:00:00,Fresh coriander,1.48,15,sprigs,Tonyon warehouse,Whole sprigs
+2025-03-10 00:00:00,Carrots,1.48,1,kg,Tonyon warehouse,
+2025-03-10 00:00:00,Eggs,5.48,12,whole,7Fresh,Cage eggs and 600g
+2025-03-10 00:00:00,Spinach,2.5,120,grams,7Fresh,Quantity is super approximate but a big bunch
+2025-03-10 00:00:00,Avocado,3,1,whole,7Fresh,Shepard
+2025-03-10 00:00:00,Diced tomatoes,1,400,grams,7Fresh,Divella brand
+2025-03-10 00:00:00,Beef mince,9.99,1,kg,Hong meat,Standard
+2025-03-10 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-03-10 00:00:00,Cos lettuce,3.99,1,whole,Superfresh,Enormous
+2025-03-10 00:00:00,Sour cream,3.99,250,grams,Superfresh,
+2025-03-10 00:00:00,Thickened cream,3.99,300,ml,Superfresh,
+2025-03-10 00:00:00,Milk,4.19,2,litres,Superfresh,Dairy farmers
+2025-03-10 00:00:00,Mustard seeds,4.49,135,grams,Superfresh,G-fresh brand
+2025-03-10 00:00:00,Capers,4.5,200,grams,Superfresh,Sacla brand
+2025-03-10 00:00:00,Fennel,3,1,whole,Superfresh,
+2025-03-10 00:00:00,Fennel,5,2,whole,Superfresh,Buy two deal
+2025-03-10 00:00:00,Parsley,1.5,10,sprigs,Superfresh,one whole is one sprig
+2025-03-10 00:00:00,Tomato,9.99,1,kg,Yonghui,Generic
+2025-03-10 00:00:00,Tomato,9.99,1,kg,7Fresh,Generic
+2025-03-10 00:00:00,Tomato,7.99,1,kg,Superfresh,Generic
+2025-03-10 00:00:00,Iceberg lettuce,3.99,1,head,Yonghui,
+2025-03-10 00:00:00,Iceberg lettuce,4.99,1,head,7Fresh,
+2025-03-10 00:00:00,Iceberg lettuce,4.5,1,head,Superfresh,
+2025-03-10 00:00:00,Paneer,8,200,grams,Woolies,Lemnos brand
+2025-03-10 00:00:00,Pizza cheese,10,700,grams,Woolworths,White label brand
+2025-03-10 00:00:00,Brown rice,2.49,1,kg,Woolworths,
+2025-03-10 00:00:00,Dry yeast,4.8,280,grams,Woolworths,
+2025-03-10 00:00:00,Butter,7,500,grams,Woolworths,
+2025-03-10 00:00:00,Corn chips,2.3,175,grams,Woolies,one pack
+2025-03-10 00:00:00,Salmon,17.5,460,grams,Woolworths,Skin on fillets.
+2025-03-10 00:00:00,Brioche buns,3.3,4,whole,Woolworths,
+2025-03-10 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
