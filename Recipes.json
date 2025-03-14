@@ -19460,7 +19460,7 @@
         {
           "Name": "Sesame seeds",
           "NameDetail": "",
-          "Quantity": 0,
+          "Quantity": 0.0,
           "Unit": "to taste",
           "UnitDetail": "",
           "Group": "garnish"
@@ -19496,6 +19496,18 @@
         {
           "Date": "2024-10-24T17:52:31",
           "Content": "Cooked and eaten in an hour. Barely 4 serves. Garlic in the rice turned green. Very delicious fun flavours."
+        },
+        {
+          "Date": "2025-03-14T18:54:15",
+          "Content": "Started about 10 min ago with boiling a kettle then to put then rice in."
+        },
+        {
+          "Date": "2025-03-14T19:35:15",
+          "Content": "Done"
+        },
+        {
+          "Date": "2025-03-14T20:37:47",
+          "Content": "Tried to do it skin on but couldn't even cut through. Then I made a mess of skinning them, next time consider skin off. I remember it being easy first time though. I reckon I used too much oil when frying and could have done bigger pieces of salmon on high heat for soft inside. Too much sriracha in the sauce."
         }
       ],
       "Timers": [
