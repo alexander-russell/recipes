@@ -5258,7 +5258,44 @@
           "Content": "Let it cool down a bit before serving with a green salad.  "
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-03-13T18:47:21",
+          "Content": "Making for first time. Using 2 fennel, not sure how you slice one yet. Using vegetable stock powder."
+        },
+        {
+          "Date": "2025-03-13T18:49:23",
+          "Content": "Likely that I skip chilli flakes."
+        },
+        {
+          "Date": "2025-03-13T19:08:03",
+          "Content": "Googled it and cut the stalks off, halves it top to bottom, cut the core out of the bottom in a wedge shape, then sliced like an onion. Not sure what is meant by tough outer skin."
+        },
+        {
+          "Date": "2025-03-13T19:11:22",
+          "Content": "Onion and fennel for 10 min?"
+        },
+        {
+          "Date": "2025-03-13T19:17:52",
+          "Content": "I don't know in what world the fennel would be slightly softened while the onion is somehow golden, and I don't see garlic burning on medium heat in a pot full of onion."
+        },
+        {
+          "Date": "2025-03-13T19:20:28",
+          "Content": "I'm now using medium-high heat instead."
+        },
+        {
+          "Date": "2025-03-13T19:24:02",
+          "Content": "Minced the garlic in the press and added, then measured the rice and added that, giving it 3 min. 300 g is quite a lot of arborio."
+        },
+        {
+          "Date": "2025-03-13T20:18:00",
+          "Content": "Done"
+        },
+        {
+          "Date": "2025-03-13T20:55:55",
+          "Content": "Tasty but parsley overpowers the whole fennel thing and I reckon I could add more lemon. Pretty plain altogether. Maybe fennel seeds? Added some extra water, 1 ladle full."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -19238,6 +19275,233 @@
         {
           "Name": "Simmer",
           "Seconds": 900
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Salmon Bowl",
+      "Slug": "salmon-bowl",
+      "Type": "Main",
+      "Category": "Salads",
+      "DateCreated": "2024-10-24",
+      "DateRevised": "2025-03-14",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": "only just"
+      },
+      "Time": {
+        "Minutes": 60.0,
+        "Extra": ""
+      },
+      "Difficulty": 3,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From an Instagram reel Claudia found somewhere. For whatever reason the garlic in the rice turns green.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Brown rice",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salmon",
+          "NameDetail": "",
+          "Quantity": 460.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "salmon"
+        },
+        {
+          "Name": "Oregano",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "salmon"
+        },
+        {
+          "Name": "Paprika",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "salmon"
+        },
+        {
+          "Name": "Onion powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "salmon"
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "salmon"
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "salmon"
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "salmon"
+        },
+        {
+          "Name": "Mayonnaise",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Sriracha",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Soy sauce",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Sesame oil",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "sauce"
+        },
+        {
+          "Name": "Avocado",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Cucumber",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": "rice flavouring"
+        },
+        {
+          "Name": "Soy sauce",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "rice flavouring"
+        },
+        {
+          "Name": "Fresh coriander",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "sprigs",
+          "UnitDetail": "@0.5 cup",
+          "Group": "garnish"
+        },
+        {
+          "Name": "Spring onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": "garnish"
+        },
+        {
+          "Name": "Sesame seeds",
+          "NameDetail": "",
+          "Quantity": 0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": "garnish"
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Bring a pot of water to a boil and add rice. Boil for 30 minutes."
+        },
+        {
+          "Content": "Slice avocado (halve and slice 4mm), spring onions (1cm), cucumbers (4mm rounds), coriander (moderately), mince garlic."
+        },
+        {
+          "Content": "Remove skin from salmon and dice into 1.5 cm ish bite sized pieces."
+        },
+        {
+          "Content": "Combine spices and toss through salmon."
+        },
+        {
+          "Content": "Combine sauce ingredients in a small bowl."
+        },
+        {
+          "Content": "On medium-high heat in oil, fry the salmon in batches. Add a little splash of soy sauce & sesame oil when nearly cooked."
+        },
+        {
+          "Content": "Drain rice well, return to pot on turned off burner, stir through minced garlic, soy sauce, salt and pepper."
+        },
+        {
+          "Content": "Plate cutely."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2024-10-24T17:52:31",
+          "Content": "Cooked and eaten in an hour. Barely 4 serves. Garlic in the rice turned green. Very delicious fun flavours."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rice",
+          "Seconds": 1800
         }
       ],
       "Cost": null
