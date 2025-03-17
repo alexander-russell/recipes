@@ -1276,6 +1276,34 @@
         {
           "Date": "2024-07-07T23:40:58.1647422+10:00",
           "Content": "Did a vego version tonight. Diced an onion and most of a capsicum, fried in a large pot. Preheated oven to 200. Added tiny can of corn, a can each of red and black beans as well as taco spice mix and salt & pepper. Fried for a little bit then added a jar of aldi mild salsa and simmered a little longer. Layered in blue enamelled tray sauce chips cheese sauce cheese chips cheese sauce cheese chips etc. Baked for 25 min until brown. Ate with incorrect gauc (with cucumber) and fresh lime to squeeze. Used corn chips from Fireworks Foods."
+        },
+        {
+          "Date": "2025-03-15T16:47:59",
+          "Content": "Cooking tonight."
+        },
+        {
+          "Date": "2025-03-15T16:48:05",
+          "Content": "As a vego meal no chicken."
+        },
+        {
+          "Date": "2025-03-15T16:55:09",
+          "Content": "Also I'm doing some tinned corn, I have a 420 g can I'll probably use half or a bit more."
+        },
+        {
+          "Date": "2025-03-15T17:12:01",
+          "Content": "Put the whole can in. Switched from frypan to pot halfway, left some in both, using max heat because I had a very large onion and a small one. Gonna try mix them all in the pot, maybe including chips and cheese too."
+        },
+        {
+          "Date": "2025-03-15T17:13:46",
+          "Content": "Adding some taco spice mix too."
+        },
+        {
+          "Date": "2025-03-15T17:13:58",
+          "Content": "And baking at 220 conv. "
+        },
+        {
+          "Date": "2025-03-15T17:46:42",
+          "Content": "Done, only took 25 min in oven."
         }
       ],
       "Timers": [],
@@ -19514,6 +19542,208 @@
         {
           "Name": "Rice",
           "Seconds": 1800
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Chicken Gnocchi Soup",
+      "Slug": "chicken-gnocchi-soup",
+      "Type": "Main",
+      "Category": "Soups",
+      "DateCreated": "2025-03-17",
+      "DateRevised": "2025-03-17",
+      "Cuisine": "Italian",
+      "Key": "",
+      "Yield": {
+        "Quantity": 0.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 0.0,
+        "Extra": null
+      },
+      "Difficulty": 6,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": false,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From cucumber salad man on youtube, via Claudia. Says gluten free because we did it gf/df first time, just sub the cream, butter and gnocchi.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Chicken breast",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": "@2 whole",
+          "Group": null
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Garlic powder",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Chilli flakes",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Oregano",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Basil",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "a handful",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Shallots",
+          "NameDetail": null,
+          "Quantity": 4.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 10.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Tomato paste",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Sundried tomatoes",
+          "NameDetail": null,
+          "Quantity": 0.5,
+          "Unit": "cup",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Thickened cream",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Parmesan",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "grated",
+          "Group": null
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Gnocchi",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "kg",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Spinach",
+          "NameDetail": null,
+          "Quantity": 0.0,
+          "Unit": "a handful",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Butterfly chicken breasts and coat with spices. Dice shallots?, slice garlic."
+        },
+        {
+          "Content": "In pot on medium high heat in oil, sear the chicken in batches, ensure cooked through."
+        },
+        {
+          "Content": "Roughly shred chicken."
+        },
+        {
+          "Content": "Add more oil, then garlic and shallots, cook down for a few minutes."
+        },
+        {
+          "Content": "Add tomato paste, sun dried tomatoes, fry a few minutes, breaking up the sun dried tomatoes."
+        },
+        {
+          "Content": "Add 12 cups chicken stock (error: whoops, not in ingredients, and probably use less). Bring to simmer, simmer 15 minutes."
+        },
+        {
+          "Content": "Stir through cream, then simmer for 20 minutes."
+        },
+        {
+          "Content": "Add salt, butter, chicken, gnocchi and a handful of spinach."
+        }
+      ],
+      "Diary": null,
+      "Timers": [
+        {
+          "Name": "Stock",
+          "Seconds": 900
+        },
+        {
+          "Name": "Cream",
+          "Seconds": 1200
         }
       ],
       "Cost": null
