@@ -12736,6 +12736,42 @@
         {
           "Date": "2024-10-02T18:29:15.3012839+10:00",
           "Content": "Tasted good, not as mind blowing as I remembered. Yields like 3 hungry serves."
+        },
+        {
+          "Date": "2025-03-19T19:55:03",
+          "Content": "Trying out the alternative recipe in first diary entry. Using only half the amount of meat because originally I was doing a small batch. "
+        },
+        {
+          "Date": "2025-03-19T20:05:53",
+          "Content": "Using a whole egg."
+        },
+        {
+          "Date": "2025-03-19T20:28:38",
+          "Content": "Also I added the egg to the meat first by accident then had to combine the rest and add that in. Didn't add soy sauce because steps don't mention it, but pretty sure it should have been. Sauce as directed. Ginger sliced into thin sticks."
+        },
+        {
+          "Date": "2025-03-19T20:30:46",
+          "Content": "Used 2 spring onions, 5cm and julienned."
+        },
+        {
+          "Date": "2025-03-19T20:35:32",
+          "Content": "Frying in very fresh non-stick pan so using much less oil I think. Took meat out of fridge for last 10 mins."
+        },
+        {
+          "Date": "2025-03-19T20:39:18",
+          "Content": "Not frying as hard as I do the other one even though the goal is the same. Gonna go hot but not smoking, and probably do it all at once rather than batched."
+        },
+        {
+          "Date": "2025-03-19T20:48:39",
+          "Content": "Did like 2 min per side for the beef."
+        },
+        {
+          "Date": "2025-03-19T20:59:44",
+          "Content": "Done and plated. 3.5 serves is my guess."
+        },
+        {
+          "Date": "2025-03-19T21:40:17",
+          "Content": "Very tasty, very sweet with a very sticky sauce. I did a bad job cutting up the steak and ended up with fairly rounded looking strips rather than thin slices."
         }
       ],
       "Timers": [
@@ -19562,7 +19598,7 @@
       },
       "Time": {
         "Minutes": 0.0,
-        "Extra": null
+        "Extra": ""
       },
       "Difficulty": 6,
       "Bulk": false,
@@ -19582,131 +19618,131 @@
       "Items": [
         {
           "Name": "Chicken breast",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "kg",
           "UnitDetail": "@2 whole",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Salt",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Pepper",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Garlic powder",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Chilli flakes",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Oregano",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Basil",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "a handful",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Shallots",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 4.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 10.0,
           "Unit": "cloves",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Tomato paste",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Sundried tomatoes",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.5,
           "Unit": "cup",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Thickened cream",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "cups",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Parmesan",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "cup",
           "UnitDetail": "grated",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Butter",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Gnocchi",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "kg",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Spinach",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 0.0,
           "Unit": "a handful",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -19735,7 +19771,12 @@
           "Content": "Add salt, butter, chicken, gnocchi and a handful of spinach."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-03-17T17:52:49",
+          "Content": "Started like 20 min ago. Cut onions into strips lengthways, thinly."
+        }
+      ],
       "Timers": [
         {
           "Name": "Stock",
