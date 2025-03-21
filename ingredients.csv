@@ -105,7 +105,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-02-19 00:00:00,Worcestershire Sauce,1.99,250,ml,Aldi,
 2024-02-19 00:00:00,Lemon,1.99,1,whole,Freshtown,Generally bigger lemons than aldi
 2024-02-19 00:00:00,Gai lan,1.5,8,whole,New Yen Yen,
-2024-02-19 00:00:00,Shallots,1.1,1,whole,New yen yen; Evergreen fresh world,One bunch is so enormous.
+2024-02-19 00:00:00,Spring onions,1.1,1,whole,New yen yen; Evergreen fresh world,One bunch is so enormous.
 2024-02-19 00:00:00,Sweet potato,2.59,1,kg,Sakura supermarket,
 2024-02-19 00:00:00,Breadcrumbs,1.69,500,grams,Aldi,
 2024-02-19 00:00:00,Butter,6.39,500,grams,Aldi,
@@ -180,7 +180,7 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2024-06-10 22:53:28,Jasmine rice,4.8,1,kg,New Yen Yen,Rose brand from Thailand
 2024-06-10 22:55:34,Diced tomatoes,0.95,1,whole,Aldi,One 400 gram can
 2024-06-10 22:55:55,Kalamata olives,2.69,350,grams,Aldi,Kalamata
-2024-06-10 22:56:37,Passata,1.99,700,ml,Aldi,
+2024-06-10 22:56:37,Tomato passata,1.99,700,ml,Aldi,
 2024-06-10 22:57:12,Halloumi,4.99,225,grams,Aldi,
 2024-06-10 22:57:46,Sultanas,4.99,1,kg,Aldi,
 2024-06-10 22:58:16,Salmon,16.49,460,grams,Aldi,Packs of salmon cutlets (2).
@@ -870,3 +870,29 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-03-10 00:00:00,Salmon,17.5,460,grams,Woolworths,Skin on fillets.
 2025-03-10 00:00:00,Brioche buns,3.3,4,whole,Woolworths,
 2025-03-10 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
+2025-03-16 00:00:00,Bacon,4.4,0.2,kg,Woolies,Shortcut
+2025-03-16 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
+2025-03-17 00:00:00,Eschallots,8.99,1,kg,Tonyon Groceries Warehouse,
+2025-03-17 00:00:00,Ginger,25.8,1,kg,Tonyon warehouse,
+2025-03-17 00:00:00,Red onion,3.88,1,kg,Tonyon Warehouse,
+2025-03-17 00:00:00,Milk,3.98,2,litres,Yonghui,Dairy farmers
+2025-03-17 00:00:00,Tomato,3.99,1,kg,Yonghui,Generic
+2025-03-17 00:00:00,Beefsteak Tomatoes,8.99,1,kg,Yonghui,
+2025-03-17 00:00:00,Light soy sauce,2.58,500,ml,Yonghui,Haday brand
+2025-03-17 00:00:00,Avocado,3,1,whole,7Fresh,Shepard
+2025-03-17 00:00:00,Diced tomatoes,1,400,grams,7Fresh,Divella brand
+2025-03-17 00:00:00,Tomato passata,2.99,680,grams,7Fresh,Divella brand
+2025-03-21 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2025-03-21 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-03-21 00:00:00,Beef mince,9.99,1,kg,Hong meat,Standard
+2025-03-21 00:00:00,Sirloin steak,17.99,1,kg,Hong meat,One was 420g
+2025-03-17 00:00:00,Pistachios,19.99,1,kg,Superfresh,"Fresh, shell and pod on."
+2025-03-17 00:00:00,Basil pesto,4.99,190,grams,SUperfresh,Sacla brand
+2025-03-17 00:00:00,Thickened cream,3.99,300,ml,Superfresh,
+2025-03-17 00:00:00,Jalapeno,30,1,kg,Woolies,One was 22g
+2025-03-17 00:00:00,Pizza cheese,9.9,700,grams,Woolworths,White label brand
+2025-03-17 00:00:00,Parmesan,6.9,200,grams,Woolies,Rectangle quality
+2025-03-17 00:00:00,White wraps,4.4,8,whole,Woolworths,Mission brand large
+2025-03-17 00:00:00,Tinned corn,1.2,420,grams,Woolies,
+2025-03-17 00:00:00,Tinned red kidney beans,0.99,420,grams,Woolworths online,Home brand.
+2025-03-17 00:00:00,Mayonnaise,8.5,810,grams,Woolworths,Best Food mayonnaise
