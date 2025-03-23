@@ -22,19 +22,8 @@ function displayIndex(recipes, indexElement, urlParams) {
 
     // Add index entries
     addIndexItemsRecipes(recipes);
-
-    // Create test nested index (pretty cool)
-    // l = document.createElement("li");
-    // l.textContent = "Alphabet"
-    // u = document.createElement("ol");
-    // l.appendChild(u);
-    // l1 = document.createElement("li");
-    // l1.textContent = "hey1";
-    // u.appendChild(l1)
-    // l2 = document.createElement("li");
-    // l2.textContent = "hey2";
-    // u.appendChild(l2)
-    // addIndexItem(l, "A", "Alphabet");
+    addIndexItemsVegetarian(recipes);
+    addIndexItemsCuisine(recipes);
 }
 
 function createSkeletonIndex(indexElement) {
@@ -61,7 +50,7 @@ function addIndexItemsRecipes(recipes) {
     for (let recipe of recipes) {
         if (recipe.Name.charAt(0) === "A" || true) {
             const item = document.createElement("li");
-            addIndexItem(item, recipe.Name.charAt(0), recipe.Name);
+            addIndexItem(item, recipe.Name);
             const link = document.createElement("a");
             link.textContent = recipe.Name;
             link.href = `/recipes/display/${recipe.Slug}`;
@@ -70,10 +59,60 @@ function addIndexItemsRecipes(recipes) {
     }
 }
 
-function addIndexItem(item, letter, name) {
+function addIndexItemsVegetarian(recipes) {
+    // Filter recipes to veg ones
+    const recipesVeg = recipes
+        .filter(recipe => recipe.Dietary.Vegetarian)
+        .sort((a, b) => a.Name < b.Name)
+
+    // Create nested index for these recipes
+    addNestedIndexItem("Vegetarian", recipesVeg);
+}
+
+function addIndexItemsCuisine(recipes) {
+    const cuisines = recipes
+        .map(recipe => recipe.Cuisine)
+        .filter(value => value != "")
+        .filter((value, index, array) => array.indexOf(value) === index);
+
+    for (const cuisine of cuisines) {
+        addNestedIndexItem(cuisine, recipes.filter(recipe => recipe.Cuisine == cuisine));
+    }
+}
+
+function addNestedIndexItem(name, recipes) {
+    // Create details element to store collapsible list of vegetarian meals
+    const details = document.createElement("details");
+    addIndexItem(details, name);
+
+    // Create summary for details element
+    const summary = document.createElement("summary");
+    details.appendChild(summary);
+
+    // Add title to summary, with count
+    const heading = document.createElement("span");
+    heading.classList.add("name");
+    heading.textContent = name;
+    summary.appendChild(heading);
+    const count = document.createElement("span");
+    count.classList.add("count");
+    count.textContent = recipes.length;
+    summary.appendChild(count);
+
+    // Populate list
+    const list = document.createElement("ol")
+    details.appendChild(list);
+    for (const recipe of recipes) {
+        item = document.createElement("li");
+        item.textContent = recipe.Name;
+        list.appendChild(item);
+    }
+}
+
+function addIndexItem(item, name) {
     // Find chapter to insert into
-    const chapter = document.querySelector(`#${letter}>ol`);
-    
+    const chapter = document.querySelector(`#${name.charAt(0)}>ol`);
+
     // Go thorugh child nodes, insert this before the first node that is alphabetically greater than this
     let done = false;
     let child = chapter.firstChild

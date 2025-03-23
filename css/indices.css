@@ -4,4 +4,9 @@
 
 ol {
     margin: 0px;
+    padding: 0px;
+}
+
+details {
+    /* padding-left: 0px; */
 }

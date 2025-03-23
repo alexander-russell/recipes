@@ -64,12 +64,13 @@ h2 {
 }
 
 details,
-.index ol {
+.index li {
     padding-left: 0.8rem;
     marker: none;
 }
 
-details.focus {
+details.focus,
+.index details[open] {
     /* background: #f4f4f4; */
     border-left: 2px solid black;
     outline: black;
