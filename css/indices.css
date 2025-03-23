@@ -1,0 +1,7 @@
+.chapter:has(ol:empty) {
+    display: none;
+}
+
+ol {
+    margin: 0px;
+}
