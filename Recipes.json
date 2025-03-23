@@ -867,7 +867,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Beer",
       "Yield": {
         "Quantity": 0.0,
@@ -2782,7 +2782,7 @@
       "Category": "Stir Fries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Bacon",
       "Yield": {
         "Quantity": 3.0,
@@ -3046,7 +3046,7 @@
       "Category": "Vegetables",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Potatoes",
       "Yield": {
         "Quantity": 10.0,
@@ -3837,7 +3837,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 0.0,
@@ -3938,7 +3938,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Passionfruit",
       "Yield": {
         "Quantity": 1.0,
@@ -4074,7 +4074,7 @@
       "Category": "Slices",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Chocolate",
       "Yield": {
         "Quantity": 0.0,
@@ -4151,7 +4151,7 @@
       "Category": "Tarts",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Lemon",
       "Yield": {
         "Quantity": 1.0,
@@ -4567,7 +4567,7 @@
       "Category": "Tarts",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Strawberry",
       "Yield": {
         "Quantity": 1.0,
@@ -4937,7 +4937,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 10.0,
@@ -5634,7 +5634,7 @@
       "Category": "Biscuits",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Chocolate",
       "Yield": {
         "Quantity": 24.0,
@@ -6209,7 +6209,7 @@
       "Category": "Rice",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Eggs",
       "Yield": {
         "Quantity": 2.0,
@@ -6349,7 +6349,7 @@
       "Category": "Biscuits",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 36.0,
@@ -6771,7 +6771,7 @@
       "Category": "Pies",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 4.0,
@@ -7303,7 +7303,7 @@
       "Category": "Muffins",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 12.0,
@@ -7983,7 +7983,7 @@
       "Category": "Burgers",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Beef",
       "Yield": {
         "Quantity": 6.0,
@@ -8670,7 +8670,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 1.0,
@@ -8831,7 +8831,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 6.0,
@@ -9350,7 +9350,7 @@
       "Category": "Curries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Coconut milk",
       "Yield": {
         "Quantity": 3.0,
@@ -9577,7 +9577,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 1.0,
@@ -9748,7 +9748,7 @@
       "Category": "Ice Cream Toppings",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "cuisine": "",
       "Key": "Banana",
       "Yield": {
         "Quantity": 1.0,
@@ -11245,7 +11245,7 @@
       "Category": "Salads",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "Mexican",
+      "Cuisine": "",
       "Key": "",
       "Yield": {
         "Quantity": 4.0,

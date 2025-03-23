@@ -1222,8 +1222,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.71,
-        "AmountPerUnit": 9.71,
+        "Amount": 11.31,
+        "AmountPerUnit": 11.31,
         "Unit": "quiche",
         "ItemCosts": [
           {
@@ -1261,15 +1261,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-10-28T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bacon",
-              "Price": 13.99,
-              "Quantity": 1.0,
+              "Price": 4.4,
+              "Quantity": 0.2,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Zammit brand."
+              "Source": "Woolies",
+              "Extra": "Shortcut"
             },
-            "Amount": 2.798,
+            "Amount": 4.4,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1387,7 +1387,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "9.71 per unit",
+        "CostString": "11.31 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1539,8 +1539,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 18.17,
-        "AmountPerUnit": 3.03,
+        "Amount": 18.72,
+        "AmountPerUnit": 3.12,
         "Unit": "meatballs",
         "ItemCosts": [
           {
@@ -1554,7 +1554,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -1626,15 +1626,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 3.74375,
+            "Amount": 4.3125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1770,7 +1770,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato passata",
               "Price": 2.99,
               "Quantity": 680.0,
@@ -1794,21 +1794,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.261875,
+            "Amount": 0.24875,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "3.03 per unit",
+        "CostString": "3.12 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1944,7 +1944,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken breast",
               "Price": 8.49,
               "Quantity": 1.0,
@@ -2041,7 +2041,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Beer",
       "Yield": {
         "Quantity": 0.0,
@@ -2132,7 +2132,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 15.36,
+        "Amount": 15.29,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -2195,15 +2195,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Pizza cheese",
-              "Price": 10.0,
+              "Price": 9.9,
               "Quantity": 700.0,
               "Unit": "grams",
               "Source": "Woolworths",
               "Extra": "White label brand"
             },
-            "Amount": 7.14285714285715,
+            "Amount": 7.071428571428576,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2257,7 +2257,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "15.36 total",
+        "CostString": "15.29 total",
         "ExclusionsString": ""
       }
     },
@@ -2757,19 +2757,11 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": {
-              "Date": "2024-02-19T00:00:00",
-              "Name": "Shallots",
-              "Price": 1.1,
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "Source": "New yen yen; Evergreen fresh world",
-              "Extra": "One bunch is so enormous."
-            },
+            "Ingredient": null,
             "Amount": 0.0,
             "Success": false,
-            "Reason": "NoConversion",
-            "Extra": "Couldn't convert unit. From:tbsp; To:whole"
+            "Reason": "NotFound",
+            "Extra": "Name not found: Shallots"
           }
         ],
         "CostString": "0.15 per unit*",
@@ -3035,7 +3027,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -3880,8 +3872,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 18.89,
-        "AmountPerUnit": 4.72,
+        "Amount": 22.19,
+        "AmountPerUnit": 5.55,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -3919,7 +3911,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken breast",
               "Price": 8.49,
               "Quantity": 1.0,
@@ -4039,15 +4031,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Basil pesto",
-              "Price": 1.69,
+              "Price": 4.99,
               "Quantity": 190.0,
               "Unit": "grams",
-              "Source": "Aldi",
-              "Extra": ""
+              "Source": "SUperfresh",
+              "Extra": "Sacla brand"
             },
-            "Amount": 1.69,
+            "Amount": 4.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4069,7 +4061,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.72 per serve",
+        "CostString": "5.55 per serve",
         "ExclusionsString": ""
       }
     },
@@ -4292,7 +4284,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato passata",
               "Price": 2.99,
               "Quantity": 680.0,
@@ -4420,7 +4412,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -4618,8 +4610,8 @@
         }
       ],
       "Cost": {
-        "Amount": 13.2,
-        "AmountPerUnit": 3.3,
+        "Amount": 15.2,
+        "AmountPerUnit": 3.8,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -4705,15 +4697,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-10-28T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bacon",
-              "Price": 13.99,
-              "Quantity": 1.0,
+              "Price": 4.4,
+              "Quantity": 0.2,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Zammit brand."
+              "Source": "Woolies",
+              "Extra": "Shortcut"
             },
-            "Amount": 3.4975,
+            "Amount": 5.5,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -4777,7 +4769,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Thickened cream",
               "Price": 3.99,
               "Quantity": 300.0,
@@ -4863,7 +4855,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.3 per serve",
+        "CostString": "3.8 per serve",
         "ExclusionsString": ""
       }
     },
@@ -4962,8 +4954,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.19,
-        "AmountPerUnit": 0.88,
+        "Amount": 2.13,
+        "AmountPerUnit": 0.85,
         "Unit": "cups",
         "ItemCosts": [
           {
@@ -4977,15 +4969,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 1.257,
+            "Amount": 1.194,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5071,7 +5063,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "0.88 per unit",
+        "CostString": "0.85 per unit",
         "ExclusionsString": ""
       }
     },
@@ -5540,12 +5532,40 @@
         {
           "Date": "2024-06-05T22:45:14.1826083+10:00",
           "Content": "Cooked for 4, leftovers for maybe 2. Used tall blue enamelled pan, did lots of layers, used about 20 sheets. For the sauces: Chopped 1 onion, 5 big cloves garlic and 1 carrot. Then rode my bike to aldi for milk. Then got big pot hot, onion in, then carrot, then 500g 4star beef mince, then garlic, then 1/3 cup red wine. Didn't deglaze so much as soak into the beef I think. Then about 2 tbsp tomato paste. Fried for a bit then 2 cans diced tomato and a spoonful of sugar. Then added a whole jar of passata and a pile of salt and pepper and simmered a while. Added maybe a cup of peas at the very end. The bechamel I did in the usual way, flour and butter simultaneously, then add milk (but I made a vague attempt to heat the milk), stirred lots using a pan tool not a whisk. Layered into pan with bolognese first, then sheet, bechamel repeat, finished with red sauce and pizza cheese and baked for maybe 45 min. Served with salad and garlic bread + red wine."
+        },
+        {
+          "Date": "2025-03-21T17:28:42",
+          "Content": "Starting now. Plan is stick with recipe, though I may get the red sauce simmering before starting the bechamel? Not sure."
+        },
+        {
+          "Date": "2025-03-21T18:13:48",
+          "Content": "Used 0.5 cup wine, went heavy on the tomato paste. Didn't warm milk for bechamel and regretted it. Oven is at 220 conventional instead, maybe I can cut it down to 30 mins?"
+        },
+        {
+          "Date": "2025-03-21T18:17:41",
+          "Content": "Sauce is simmering covered for the first bit, will see what I think, because it doesn't need to reduce heaps and it has plenty of time."
+        },
+        {
+          "Date": "2025-03-21T18:36:43",
+          "Content": "Actually no regrets on the bechamel, worked out fine but looked lumpy in the middle there. Simmering bolognese uncovered for last 10 minutes."
+        },
+        {
+          "Date": "2025-03-21T19:02:27",
+          "Content": "Leftover bechamel, should have used more in the lower layers. Did 4 layers of pasta, 3.5 sheets per. Added some interstitial cheese."
+        },
+        {
+          "Date": "2025-03-21T19:03:06",
+          "Content": "Forgot the peas, I am inconsolable."
+        },
+        {
+          "Date": "2025-03-21T19:29:17",
+          "Content": "Done a couple minutes ago, busy lighting candles etc."
         }
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 22.46,
-        "AmountPerUnit": 3.74,
+        "Amount": 22.4,
+        "AmountPerUnit": 3.73,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -5631,7 +5651,7 @@
               "Group": "bolognese"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -5703,7 +5723,7 @@
               "Group": "bolognese"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Diced tomatoes",
               "Price": 1.0,
               "Quantity": 400.0,
@@ -5751,7 +5771,7 @@
               "Group": "bolognese"
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato passata",
               "Price": 2.99,
               "Quantity": 680.0,
@@ -5831,15 +5851,15 @@
               "Group": "bechamel"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 1.257,
+            "Amount": 1.194,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -5973,7 +5993,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.74 per serve",
+        "CostString": "3.73 per serve",
         "ExclusionsString": ""
       }
     },
@@ -6816,7 +6836,7 @@
       "Category": "Stir Fries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Bacon",
       "Yield": {
         "Quantity": 3.0,
@@ -6925,8 +6945,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.12,
-        "AmountPerUnit": 2.71,
+        "Amount": 9.72,
+        "AmountPerUnit": 3.24,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -6940,15 +6960,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-10-28T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bacon",
-              "Price": 13.99,
-              "Quantity": 1.0,
+              "Price": 4.4,
+              "Quantity": 0.2,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Zammit brand."
+              "Source": "Woolies",
+              "Extra": "Shortcut"
             },
-            "Amount": 2.798,
+            "Amount": 4.4,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7106,7 +7126,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.71 per serve",
+        "CostString": "3.24 per serve",
         "ExclusionsString": ""
       }
     },
@@ -7256,7 +7276,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 4.06,
+        "Amount": 4.16,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -7351,15 +7371,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.3168,
+            "Amount": 0.4128,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -7375,7 +7395,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -7493,7 +7513,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.06 total*",
+        "CostString": "4.16 total*",
         "ExclusionsString": "Excluding Pork loin, Chinese five spice, Capsicum and Pak choy"
       }
     },
@@ -7504,7 +7524,7 @@
       "Category": "Vegetables",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Potatoes",
       "Yield": {
         "Quantity": 10.0,
@@ -7837,8 +7857,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 10.36,
-        "AmountPerUnit": 10.36,
+        "Amount": 10.3,
+        "AmountPerUnit": 10.3,
         "Unit": "20x30x3cm oven tray",
         "ItemCosts": [
           {
@@ -7948,15 +7968,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 1.257,
+            "Amount": 1.194,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -8090,7 +8110,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "10.36 per unit",
+        "CostString": "10.3 per unit",
         "ExclusionsString": ""
       }
     },
@@ -9595,7 +9615,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 0.0,
@@ -9840,7 +9860,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Passionfruit",
       "Yield": {
         "Quantity": 1.0,
@@ -10055,7 +10075,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Thickened cream",
               "Price": 3.99,
               "Quantity": 300.0,
@@ -10200,7 +10220,7 @@
       "Category": "Slices",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Chocolate",
       "Yield": {
         "Quantity": 0.0,
@@ -10357,7 +10377,7 @@
       "Category": "Tarts",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Lemon",
       "Yield": {
         "Quantity": 1.0,
@@ -10604,7 +10624,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Thickened cream",
               "Price": 3.99,
               "Quantity": 300.0,
@@ -11361,7 +11381,7 @@
       "Category": "Tarts",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Strawberry",
       "Yield": {
         "Quantity": 1.0,
@@ -12066,7 +12086,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.94,
+        "Amount": 3.92,
         "AmountPerUnit": 0.98,
         "Unit": "slices",
         "ItemCosts": [
@@ -12081,7 +12101,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bread",
               "Price": 2.5,
               "Quantity": 20.0,
@@ -12129,15 +12149,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.261875,
+            "Amount": 0.24875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12242,7 +12262,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 10.0,
@@ -13384,8 +13404,8 @@
         }
       ],
       "Cost": {
-        "Amount": 3.83,
-        "AmountPerUnit": 1.92,
+        "Amount": 3.65,
+        "AmountPerUnit": 1.82,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -13423,15 +13443,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2024-12-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Mayonnaise",
-              "Price": 6.3,
-              "Quantity": 440.0,
+              "Price": 8.5,
+              "Quantity": 810.0,
               "Unit": "grams",
               "Source": "Woolworths",
-              "Extra": "S&W brand whole egg"
+              "Extra": "Best Food mayonnaise"
             },
-            "Amount": 0.6443181818181825,
+            "Amount": 0.4722222222222225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13557,7 +13577,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.92 per serve",
+        "CostString": "1.82 per serve",
         "ExclusionsString": ""
       }
     },
@@ -13875,7 +13895,7 @@
       "Category": "Biscuits",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Chocolate",
       "Yield": {
         "Quantity": 24.0,
@@ -14248,8 +14268,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 24.72,
-        "AmountPerUnit": 4.12,
+        "Amount": 27.22,
+        "AmountPerUnit": 4.54,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14311,7 +14331,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -14383,7 +14403,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Diced tomatoes",
               "Price": 1.0,
               "Quantity": 400.0,
@@ -14431,15 +14451,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "White wraps",
-              "Price": 2.4,
+              "Price": 4.4,
               "Quantity": 8.0,
               "Unit": "whole",
               "Source": "Woolworths",
-              "Extra": "Essentials brand"
+              "Extra": "Mission brand large"
             },
-            "Amount": 3.0,
+            "Amount": 5.5,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14469,7 +14489,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.12 per serve",
+        "CostString": "4.54 per serve",
         "ExclusionsString": ""
       }
     },
@@ -14655,8 +14675,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 29.31,
-        "AmountPerUnit": 7.33,
+        "Amount": 25.31,
+        "AmountPerUnit": 6.33,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14742,15 +14762,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 7.99,
+            "Amount": 3.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14956,7 +14976,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "7.33 per serve",
+        "CostString": "6.33 per serve",
         "ExclusionsString": ""
       }
     },
@@ -15105,8 +15125,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.24,
-        "AmountPerUnit": 2.75,
+        "Amount": 8.22,
+        "AmountPerUnit": 2.74,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15144,15 +15164,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.261875,
+            "Amount": 0.24875,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15310,7 +15330,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.75 per serve",
+        "CostString": "2.74 per serve",
         "ExclusionsString": ""
       }
     },
@@ -15321,7 +15341,7 @@
       "Category": "Rice",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Eggs",
       "Yield": {
         "Quantity": 2.0,
@@ -15455,8 +15475,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 3.34,
-        "AmountPerUnit": 1.67,
+        "Amount": 3.44,
+        "AmountPerUnit": 1.72,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15590,15 +15610,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.3168,
+            "Amount": 0.4128,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15636,7 +15656,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.67 per serve",
+        "CostString": "1.72 per serve",
         "ExclusionsString": ""
       }
     },
@@ -15647,7 +15667,7 @@
       "Category": "Biscuits",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 36.0,
@@ -15805,7 +15825,7 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 6.48,
+        "Amount": 6.57,
         "AmountPerUnit": 0.18,
         "Unit": "biscuits",
         "ItemCosts": [
@@ -15988,15 +16008,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.297,
+            "Amount": 0.387,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16465,8 +16485,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 20.27,
-        "AmountPerUnit": 5.07,
+        "Amount": 21.41,
+        "AmountPerUnit": 5.35,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -16600,15 +16620,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 7.4875,
+            "Amount": 8.625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16686,7 +16706,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "5.07 per serve",
+        "CostString": "5.35 per serve",
         "ExclusionsString": ""
       }
     },
@@ -16697,7 +16717,7 @@
       "Category": "Pies",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 4.0,
@@ -16836,8 +16856,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.5,
-        "AmountPerUnit": 1.88,
+        "Amount": 7.44,
+        "AmountPerUnit": 1.86,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -16875,15 +16895,15 @@
               "Group": "bechamel"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 1.257,
+            "Amount": 1.194,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17065,7 +17085,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.88 per unit",
+        "CostString": "1.86 per unit",
         "ExclusionsString": ""
       }
     },
@@ -17298,8 +17318,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.18,
-        "AmountPerUnit": 3.39,
+        "Amount": 10.22,
+        "AmountPerUnit": 3.41,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -17337,15 +17357,15 @@
               "Group": "First lot of veggies"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.1584,
+            "Amount": 0.2064,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -17663,7 +17683,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.39 per serve",
+        "CostString": "3.41 per serve",
         "ExclusionsString": ""
       }
     },
@@ -18091,7 +18111,7 @@
       "Category": "Muffins",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 12.0,
@@ -18233,7 +18253,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.19,
+        "Amount": 7.17,
         "AmountPerUnit": 0.6,
         "Unit": "muffins",
         "ItemCosts": [
@@ -18320,15 +18340,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.345675,
+            "Amount": 0.32835,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -18595,8 +18615,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 19.62,
-        "AmountPerUnit": 4.9,
+        "Amount": 16.42,
+        "AmountPerUnit": 4.11,
         "Unit": "wraps",
         "ItemCosts": [
           {
@@ -18634,15 +18654,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 6.392,
+            "Amount": 3.192,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -18682,7 +18702,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -18768,7 +18788,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.9 per unit*",
+        "CostString": "4.11 per unit*",
         "ExclusionsString": "Excluding Tzatziki"
       }
     },
@@ -19024,8 +19044,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.6,
-        "AmountPerUnit": 4.3,
+        "Amount": 8.56,
+        "AmountPerUnit": 4.28,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -19063,7 +19083,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -19183,15 +19203,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2024-09-16T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Light soy sauce",
-              "Price": 3.79,
+              "Price": 2.58,
               "Quantity": 500.0,
               "Unit": "ml",
-              "Source": "Sakura",
-              "Extra": ""
+              "Source": "Yonghui",
+              "Extra": "Haday brand"
             },
-            "Amount": 0.1137,
+            "Amount": 0.0774,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -19293,7 +19313,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.3 per serve",
+        "CostString": "4.28 per serve",
         "ExclusionsString": ""
       }
     },
@@ -19763,7 +19783,7 @@
       "Category": "Burgers",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Beef",
       "Yield": {
         "Quantity": 6.0,
@@ -19913,8 +19933,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 22.27,
-        "AmountPerUnit": 3.71,
+        "Amount": 20.67,
+        "AmountPerUnit": 3.44,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -19976,15 +19996,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 3.196,
+            "Amount": 1.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20072,7 +20092,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -20182,7 +20202,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.71 per unit",
+        "CostString": "3.44 per unit",
         "ExclusionsString": ""
       }
     },
@@ -20435,8 +20455,8 @@
         }
       ],
       "Cost": {
-        "Amount": 25.33,
-        "AmountPerUnit": 6.33,
+        "Amount": 23.73,
+        "AmountPerUnit": 5.93,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -20450,7 +20470,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -20858,15 +20878,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 3.196,
+            "Amount": 1.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20882,7 +20902,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -20920,7 +20940,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "6.33 per serve",
+        "CostString": "5.93 per serve",
         "ExclusionsString": ""
       }
     },
@@ -21096,8 +21116,8 @@
         }
       ],
       "Cost": {
-        "Amount": 5.96,
-        "AmountPerUnit": 2.98,
+        "Amount": 4.82,
+        "AmountPerUnit": 2.41,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -21254,19 +21274,11 @@
               "UnitDetail": "sprig",
               "Group": ""
             },
-            "Ingredient": {
-              "Date": "2024-02-19T00:00:00",
-              "Name": "Shallots",
-              "Price": 1.1,
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "Source": "New yen yen; Evergreen fresh world",
-              "Extra": "One bunch is so enormous."
-            },
-            "Amount": 1.1,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Shallots"
           },
           {
             "Name": "Chinese cooking wine",
@@ -21303,15 +21315,15 @@
               "Group": "seasoning"
             },
             "Ingredient": {
-              "Date": "2024-09-16T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Light soy sauce",
-              "Price": 3.79,
+              "Price": 2.58,
               "Quantity": 500.0,
               "Unit": "ml",
-              "Source": "Sakura",
-              "Extra": ""
+              "Source": "Yonghui",
+              "Extra": "Haday brand"
             },
-            "Amount": 0.1137,
+            "Amount": 0.0774,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21365,8 +21377,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.98 per serve",
-        "ExclusionsString": ""
+        "CostString": "2.41 per serve*",
+        "ExclusionsString": "Excluding Shallots"
       }
     },
     {
@@ -21632,7 +21644,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 1.0,
@@ -21923,7 +21935,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 6.0,
@@ -22021,8 +22033,8 @@
         }
       ],
       "Cost": {
-        "Amount": 1.9,
-        "AmountPerUnit": 0.32,
+        "Amount": 1.88,
+        "AmountPerUnit": 0.31,
         "Unit": "loaves",
         "ItemCosts": [
           {
@@ -22060,15 +22072,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.3928125,
+            "Amount": 0.373125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22122,7 +22134,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.32 per unit",
+        "CostString": "0.31 per unit",
         "ExclusionsString": ""
       }
     },
@@ -22328,8 +22340,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 12.11,
-        "AmountPerUnit": 4.84,
+        "Amount": 8.75,
+        "AmountPerUnit": 3.5,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -22343,7 +22355,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -22463,15 +22475,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2024-09-16T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Light soy sauce",
-              "Price": 3.79,
+              "Price": 2.58,
               "Quantity": 500.0,
               "Unit": "ml",
-              "Source": "Sakura",
-              "Extra": ""
+              "Source": "Yonghui",
+              "Extra": "Haday brand"
             },
-            "Amount": 0.17055,
+            "Amount": 0.1161,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22598,19 +22610,11 @@
               "UnitDetail": "stems",
               "Group": ""
             },
-            "Ingredient": {
-              "Date": "2024-02-19T00:00:00",
-              "Name": "Shallots",
-              "Price": 1.1,
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "Source": "New yen yen; Evergreen fresh world",
-              "Extra": "One bunch is so enormous."
-            },
-            "Amount": 3.3000000000000003,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Shallots"
           },
           {
             "Name": "Garlic",
@@ -22709,8 +22713,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.84 per serve",
-        "ExclusionsString": ""
+        "CostString": "3.5 per serve*",
+        "ExclusionsString": "Excluding Shallots"
       }
     },
     {
@@ -22928,8 +22932,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 14.02,
-        "AmountPerUnit": 4.67,
+        "Amount": 12.42,
+        "AmountPerUnit": 4.14,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -23087,15 +23091,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 3.196,
+            "Amount": 1.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23197,7 +23201,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.67 per serve",
+        "CostString": "4.14 per serve",
         "ExclusionsString": ""
       }
     },
@@ -23208,7 +23212,7 @@
       "Category": "Curries",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Coconut milk",
       "Yield": {
         "Quantity": 3.0,
@@ -23429,8 +23433,8 @@
         }
       ],
       "Cost": {
-        "Amount": 7.7,
-        "AmountPerUnit": 2.57,
+        "Amount": 7.79,
+        "AmountPerUnit": 2.6,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -23516,15 +23520,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.3168,
+            "Amount": 0.4128,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23770,7 +23774,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.57 per serve",
+        "CostString": "2.6 per serve",
         "ExclusionsString": ""
       }
     },
@@ -23781,7 +23785,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 1.0,
@@ -23946,8 +23950,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 12.63,
-        "AmountPerUnit": 12.63,
+        "Amount": 12.6,
+        "AmountPerUnit": 12.6,
         "Unit": "Cake",
         "ItemCosts": [
           {
@@ -24081,15 +24085,15 @@
               "Group": "cake"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.3928125,
+            "Amount": 0.373125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -24201,21 +24205,21 @@
               "Group": "buttercream"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.031425,
+            "Amount": 0.02985,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "12.63 per unit",
+        "CostString": "12.6 per unit",
         "ExclusionsString": ""
       }
     },
@@ -24226,7 +24230,7 @@
       "Category": "Ice Cream Toppings",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "World",
+      "Cuisine": "",
       "Key": "Banana",
       "Yield": {
         "Quantity": 1.0,
@@ -24617,8 +24621,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 29.67,
-        "AmountPerUnit": 4.94,
+        "Amount": 30.93,
+        "AmountPerUnit": 5.16,
         "Unit": "Tacos",
         "ItemCosts": [
           {
@@ -24672,7 +24676,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -24696,7 +24700,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Avocado",
               "Price": 3.0,
               "Quantity": 1.0,
@@ -24736,15 +24740,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "White wraps",
-              "Price": 2.4,
+              "Price": 4.4,
               "Quantity": 8.0,
               "Unit": "whole",
               "Source": "Woolworths",
-              "Extra": "Essentials brand"
+              "Extra": "Mission brand large"
             },
-            "Amount": 1.7999999999999998,
+            "Amount": 3.3000000000000003,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -24944,15 +24948,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2024-12-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Mayonnaise",
-              "Price": 6.3,
-              "Quantity": 440.0,
+              "Price": 8.5,
+              "Quantity": 810.0,
               "Unit": "grams",
               "Source": "Woolworths",
-              "Extra": "S&W brand whole egg"
+              "Extra": "Best Food mayonnaise"
             },
-            "Amount": 0.8948863636363625,
+            "Amount": 0.655864197530865,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -25054,7 +25058,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.94 per unit",
+        "CostString": "5.16 per unit",
         "ExclusionsString": ""
       }
     },
@@ -25279,8 +25283,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 23.03,
-        "AmountPerUnit": 5.76,
+        "Amount": 23.6,
+        "AmountPerUnit": 5.9,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -25294,7 +25298,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken breast",
               "Price": 8.49,
               "Quantity": 1.0,
@@ -25510,15 +25514,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 3.74375,
+            "Amount": 4.3125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -25740,7 +25744,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.76 per serve",
+        "CostString": "5.9 per serve",
         "ExclusionsString": ""
       }
     },
@@ -25954,8 +25958,8 @@
         }
       ],
       "Cost": {
-        "Amount": 17.84,
-        "AmountPerUnit": 4.46,
+        "Amount": 18.41,
+        "AmountPerUnit": 4.6,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -26105,15 +26109,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 3.74375,
+            "Amount": 4.3125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -26335,7 +26339,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.46 per serve",
+        "CostString": "4.6 per serve",
         "ExclusionsString": ""
       }
     },
@@ -26672,7 +26676,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bread",
               "Price": 2.5,
               "Quantity": 20.0,
@@ -26856,8 +26860,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 5.85,
-        "AmountPerUnit": 2.92,
+        "Amount": 7.35,
+        "AmountPerUnit": 3.68,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -26919,15 +26923,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "White wraps",
-              "Price": 2.4,
+              "Price": 4.4,
               "Quantity": 8.0,
               "Unit": "whole",
               "Source": "Woolworths",
-              "Extra": "Essentials brand"
+              "Extra": "Mission brand large"
             },
-            "Amount": 1.7999999999999998,
+            "Amount": 3.3000000000000003,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -26965,7 +26969,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.92 per serve",
+        "CostString": "3.68 per serve",
         "ExclusionsString": ""
       }
     },
@@ -27627,8 +27631,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 28.51,
-        "AmountPerUnit": 7.13,
+        "Amount": 23.71,
+        "AmountPerUnit": 5.93,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -27642,7 +27646,7 @@
               "Group": "simmer"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken breast",
               "Price": 8.49,
               "Quantity": 1.0,
@@ -28066,15 +28070,15 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 9.588,
+            "Amount": 4.788,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28114,7 +28118,7 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -28272,7 +28276,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "7.13 per serve",
+        "CostString": "5.93 per serve",
         "ExclusionsString": ""
       }
     },
@@ -28283,7 +28287,7 @@
       "Category": "Salads",
       "DateCreated": "",
       "DateRevised": "",
-      "Cuisine": "Mexican",
+      "Cuisine": "",
       "Key": "",
       "Yield": {
         "Quantity": 4.0,
@@ -28462,8 +28466,8 @@
         }
       ],
       "Cost": {
-        "Amount": 25.45,
-        "AmountPerUnit": 6.36,
+        "Amount": 21.75,
+        "AmountPerUnit": 5.44,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -28477,7 +28481,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -28525,15 +28529,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 6.392,
+            "Amount": 3.192,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28573,7 +28577,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bread",
               "Price": 2.5,
               "Quantity": 20.0,
@@ -28597,15 +28601,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-12-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Mayonnaise",
-              "Price": 6.3,
-              "Quantity": 440.0,
+              "Price": 8.5,
+              "Quantity": 810.0,
               "Unit": "grams",
               "Source": "Woolworths",
-              "Extra": "S&W brand whole egg"
+              "Extra": "Best Food mayonnaise"
             },
-            "Amount": 3.57954545454545,
+            "Amount": 2.62345679012345,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28669,15 +28673,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 2.995,
+            "Amount": 3.45,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28741,15 +28745,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.094275,
+            "Amount": 0.08955,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28787,7 +28791,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6.36 per serve",
+        "CostString": "5.44 per serve",
         "ExclusionsString": ""
       }
     },
@@ -29037,8 +29041,8 @@
         }
       ],
       "Cost": {
-        "Amount": 21.09,
-        "AmountPerUnit": 3.52,
+        "Amount": 21.79,
+        "AmountPerUnit": 3.63,
         "Unit": "burritos",
         "ItemCosts": [
           {
@@ -29124,7 +29128,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -29292,15 +29296,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 1.598,
+            "Amount": 0.798,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -29316,7 +29320,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -29364,7 +29368,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Avocado",
               "Price": 3.0,
               "Quantity": 1.0,
@@ -29412,15 +29416,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "White wraps",
-              "Price": 2.4,
+              "Price": 4.4,
               "Quantity": 8.0,
               "Unit": "whole",
               "Source": "Woolworths",
-              "Extra": "Essentials brand"
+              "Extra": "Mission brand large"
             },
-            "Amount": 1.7999999999999998,
+            "Amount": 3.3000000000000003,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -29466,7 +29470,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.52 per unit",
+        "CostString": "3.63 per unit",
         "ExclusionsString": ""
       }
     },
@@ -29710,8 +29714,8 @@
         }
       ],
       "Cost": {
-        "Amount": 20.76,
-        "AmountPerUnit": 3.46,
+        "Amount": 19.16,
+        "AmountPerUnit": 3.19,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -30013,15 +30017,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 3.196,
+            "Amount": 1.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -30099,7 +30103,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.46 per unit",
+        "CostString": "3.19 per unit",
         "ExclusionsString": ""
       }
     },
@@ -30392,7 +30396,7 @@
               "Group": "meatballs"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -30696,7 +30700,7 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato passata",
               "Price": 2.99,
               "Quantity": 680.0,
@@ -31672,6 +31676,42 @@
         {
           "Date": "2024-10-02T18:29:15.3012839+10:00",
           "Content": "Tasted good, not as mind blowing as I remembered. Yields like 3 hungry serves."
+        },
+        {
+          "Date": "2025-03-19T19:55:03",
+          "Content": "Trying out the alternative recipe in first diary entry. Using only half the amount of meat because originally I was doing a small batch. "
+        },
+        {
+          "Date": "2025-03-19T20:05:53",
+          "Content": "Using a whole egg."
+        },
+        {
+          "Date": "2025-03-19T20:28:38",
+          "Content": "Also I added the egg to the meat first by accident then had to combine the rest and add that in. Didn't add soy sauce because steps don't mention it, but pretty sure it should have been. Sauce as directed. Ginger sliced into thin sticks."
+        },
+        {
+          "Date": "2025-03-19T20:30:46",
+          "Content": "Used 2 spring onions, 5cm and julienned."
+        },
+        {
+          "Date": "2025-03-19T20:35:32",
+          "Content": "Frying in very fresh non-stick pan so using much less oil I think. Took meat out of fridge for last 10 mins."
+        },
+        {
+          "Date": "2025-03-19T20:39:18",
+          "Content": "Not frying as hard as I do the other one even though the goal is the same. Gonna go hot but not smoking, and probably do it all at once rather than batched."
+        },
+        {
+          "Date": "2025-03-19T20:48:39",
+          "Content": "Did like 2 min per side for the beef."
+        },
+        {
+          "Date": "2025-03-19T20:59:44",
+          "Content": "Done and plated. 3.5 serves is my guess."
+        },
+        {
+          "Date": "2025-03-19T21:40:17",
+          "Content": "Very tasty, very sweet with a very sticky sauce. I did a bad job cutting up the steak and ended up with fairly rounded looking strips rather than thin slices."
         }
       ],
       "Timers": [
@@ -31709,8 +31749,8 @@
         }
       ],
       "Cost": {
-        "Amount": 18.64,
-        "AmountPerUnit": 4.66,
+        "Amount": 18.69,
+        "AmountPerUnit": 4.67,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -32012,15 +32052,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.1584,
+            "Amount": 0.2064,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -32194,7 +32234,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.66 per serve",
+        "CostString": "4.67 per serve",
         "ExclusionsString": ""
       }
     },
@@ -32496,7 +32536,7 @@
         }
       ],
       "Cost": {
-        "Amount": 4.88,
+        "Amount": 4.92,
         "AmountPerUnit": 0.35,
         "Unit": "samosas",
         "ItemCosts": [
@@ -32679,15 +32719,15 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.1584,
+            "Amount": 0.2064,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -33435,7 +33475,7 @@
               "Group": "vegetables"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -33677,8 +33717,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.56,
-        "AmountPerUnit": 2.39,
+        "Amount": 7.96,
+        "AmountPerUnit": 1.99,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -33740,15 +33780,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 3.196,
+            "Amount": 1.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -33890,7 +33930,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.39 per serve",
+        "CostString": "1.99 per serve",
         "ExclusionsString": ""
       }
     },
@@ -35321,8 +35361,8 @@
         }
       ],
       "Cost": {
-        "Amount": 14.8,
-        "AmountPerUnit": 3.7,
+        "Amount": 8.8,
+        "AmountPerUnit": 2.2,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -35336,15 +35376,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 11.985,
+            "Amount": 5.985,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -35486,7 +35526,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.7 per serve",
+        "CostString": "2.2 per serve",
         "ExclusionsString": ""
       }
     },
@@ -35622,8 +35662,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.12,
-        "AmountPerUnit": 2.71,
+        "Amount": 9.32,
+        "AmountPerUnit": 3.11,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -35661,15 +35701,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-10-28T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bacon",
-              "Price": 13.99,
-              "Quantity": 1.0,
+              "Price": 4.4,
+              "Quantity": 0.2,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Zammit brand."
+              "Source": "Woolies",
+              "Extra": "Shortcut"
             },
-            "Amount": 2.0985,
+            "Amount": 3.3,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -35771,7 +35811,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.71 per serve",
+        "CostString": "3.11 per serve",
         "ExclusionsString": ""
       }
     },
@@ -37486,8 +37526,8 @@
         }
       ],
       "Cost": {
-        "Amount": 23.04,
-        "AmountPerUnit": 4.61,
+        "Amount": 23.12,
+        "AmountPerUnit": 4.62,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -37597,7 +37637,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -37813,15 +37853,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 0.599,
+            "Amount": 0.6900000000000001,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -37837,21 +37877,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.2095,
+            "Amount": 0.199,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "4.61 per serve",
+        "CostString": "4.62 per serve",
         "ExclusionsString": ""
       }
     },
@@ -38579,7 +38619,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Diced tomatoes",
               "Price": 1.0,
               "Quantity": 400.0,
@@ -38651,7 +38691,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -39022,7 +39062,7 @@
         }
       ],
       "Cost": {
-        "Amount": 2.01,
+        "Amount": 1.99,
         "AmountPerUnit": 0.25,
         "Unit": "scones",
         "ItemCosts": [
@@ -39109,15 +39149,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.52375,
+            "Amount": 0.4975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -39336,8 +39376,8 @@
         }
       ],
       "Cost": {
-        "Amount": 11.83,
-        "AmountPerUnit": 3.94,
+        "Amount": 11.88,
+        "AmountPerUnit": 3.96,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -39471,15 +39511,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.1584,
+            "Amount": 0.2064,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -39701,7 +39741,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.94 per serve",
+        "CostString": "3.96 per serve",
         "ExclusionsString": ""
       }
     },
@@ -39979,8 +40019,8 @@
         }
       ],
       "Cost": {
-        "Amount": 27.04,
-        "AmountPerUnit": 6.76,
+        "Amount": 23.61,
+        "AmountPerUnit": 5.9,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -40018,7 +40058,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken breast",
               "Price": 8.49,
               "Quantity": 1.0,
@@ -40234,15 +40274,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2024-12-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Mayonnaise",
-              "Price": 6.3,
-              "Quantity": 440.0,
+              "Price": 8.5,
+              "Quantity": 810.0,
               "Unit": "grams",
               "Source": "Woolworths",
-              "Extra": "S&W brand whole egg"
+              "Extra": "Best Food mayonnaise"
             },
-            "Amount": 0.8590909090909091,
+            "Amount": 0.6296296296296297,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -40258,15 +40298,15 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 6.392,
+            "Amount": 3.192,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -40282,7 +40322,7 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -40448,7 +40488,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "6.76 per serve",
+        "CostString": "5.9 per serve",
         "ExclusionsString": ""
       }
     },
@@ -40945,7 +40985,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -41268,8 +41308,8 @@
         }
       ],
       "Cost": {
-        "Amount": 6.08,
-        "AmountPerUnit": 3.04,
+        "Amount": 5.28,
+        "AmountPerUnit": 2.64,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -41331,15 +41371,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 1.598,
+            "Amount": 0.798,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -41537,7 +41577,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.04 per serve",
+        "CostString": "2.64 per serve",
         "ExclusionsString": ""
       }
     },
@@ -41750,8 +41790,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 14.35,
-        "AmountPerUnit": 3.59,
+        "Amount": 14.4,
+        "AmountPerUnit": 3.6,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -41957,7 +41997,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Diced tomatoes",
               "Price": 1.0,
               "Quantity": 400.0,
@@ -42053,15 +42093,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.1584,
+            "Amount": 0.2064,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -42187,7 +42227,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.59 per serve",
+        "CostString": "3.6 per serve",
         "ExclusionsString": ""
       }
     },
@@ -42511,7 +42551,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Thickened cream",
               "Price": 3.99,
               "Quantity": 300.0,
@@ -42881,8 +42921,8 @@
         }
       ],
       "Cost": {
-        "Amount": 7.31,
-        "AmountPerUnit": 3.66,
+        "Amount": 7.24,
+        "AmountPerUnit": 3.62,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -43112,15 +43152,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2024-09-16T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Light soy sauce",
-              "Price": 3.79,
+              "Price": 2.58,
               "Quantity": 500.0,
               "Unit": "ml",
-              "Source": "Sakura",
-              "Extra": ""
+              "Source": "Yonghui",
+              "Extra": "Haday brand"
             },
-            "Amount": 0.2274,
+            "Amount": 0.1548,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -43248,7 +43288,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -43286,7 +43326,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.66 per serve",
+        "CostString": "3.62 per serve",
         "ExclusionsString": ""
       }
     },
@@ -43506,7 +43546,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato passata",
               "Price": 2.99,
               "Quantity": 680.0,
@@ -44824,7 +44864,7 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -44920,7 +44960,7 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Beef mince",
               "Price": 9.99,
               "Quantity": 1.0,
@@ -45064,15 +45104,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.031425,
+            "Amount": 0.02985,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -45351,8 +45391,8 @@
         }
       ],
       "Cost": {
-        "Amount": 20.74,
-        "AmountPerUnit": 3.46,
+        "Amount": 22.34,
+        "AmountPerUnit": 3.72,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -45534,15 +45574,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-10-28T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bacon",
-              "Price": 13.99,
-              "Quantity": 1.0,
+              "Price": 4.4,
+              "Quantity": 0.2,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Zammit brand."
+              "Source": "Woolies",
+              "Extra": "Shortcut"
             },
-            "Amount": 2.798,
+            "Amount": 4.4,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -45716,7 +45756,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.46 per serve",
+        "CostString": "3.72 per serve",
         "ExclusionsString": ""
       }
     },
@@ -45922,8 +45962,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.12,
-        "AmountPerUnit": 1.21,
+        "Amount": 12.3,
+        "AmountPerUnit": 1.23,
         "Unit": "light pizzas",
         "ItemCosts": [
           {
@@ -46129,15 +46169,15 @@
               "Group": "topping"
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 1.198,
+            "Amount": 1.3800000000000001,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -46247,7 +46287,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.21 per unit*",
+        "CostString": "1.23 per unit*",
         "ExclusionsString": "Excluding Fresh rosemary"
       }
     },
@@ -46428,8 +46468,8 @@
         }
       ],
       "Cost": {
-        "Amount": 17.02,
-        "AmountPerUnit": 2.43,
+        "Amount": 18.2,
+        "AmountPerUnit": 2.6,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -46443,15 +46483,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-10-28T00:00:00",
+              "Date": "2025-03-16T00:00:00",
               "Name": "Bacon",
-              "Price": 13.99,
-              "Quantity": 1.0,
+              "Price": 4.4,
+              "Quantity": 0.2,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Zammit brand."
+              "Source": "Woolies",
+              "Extra": "Shortcut"
             },
-            "Amount": 2.0985,
+            "Amount": 3.3,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -46467,7 +46507,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -46563,15 +46603,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Milk",
-              "Price": 4.19,
+              "Price": 3.98,
               "Quantity": 2.0,
               "Unit": "litres",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Dairy farmers"
             },
-            "Amount": 0.471375,
+            "Amount": 0.44775,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -46673,7 +46713,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.43 per unit",
+        "CostString": "2.6 per unit",
         "ExclusionsString": ""
       }
     },
@@ -46900,8 +46940,8 @@
         }
       ],
       "Cost": {
-        "Amount": 20.25,
-        "AmountPerUnit": 5.06,
+        "Amount": 18.65,
+        "AmountPerUnit": 4.66,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -47059,15 +47099,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 3.196,
+            "Amount": 1.596,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -47217,7 +47257,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.06 per serve",
+        "CostString": "4.66 per serve",
         "ExclusionsString": ""
       }
     },
@@ -47379,6 +47419,22 @@
         {
           "Date": "2025-01-27T20:00:00",
           "Content": "Used half a red onion instead of a brown onion and did 2 cucumbers instead of 1, no honey, no capers. Again took 30 mins of prep. Ate the next day with rotisserie chicken in sandwiches."
+        },
+        {
+          "Date": "2025-03-22T17:49:37",
+          "Content": "Making tonight, super smartly making it well before I feel hungry so its ready when I want it."
+        },
+        {
+          "Date": "2025-03-22T17:53:16",
+          "Content": "Can of butter beans instead of 4 bean mix."
+        },
+        {
+          "Date": "2025-03-22T18:08:11",
+          "Content": "Fridged."
+        },
+        {
+          "Date": "2025-03-22T18:20:13",
+          "Content": "Forgot oregano. One time I should try w/o rinsing the beans."
         }
       ],
       "Timers": [
@@ -47392,8 +47448,8 @@
         }
       ],
       "Cost": {
-        "Amount": 7.02,
-        "AmountPerUnit": 2.34,
+        "Amount": 6.91,
+        "AmountPerUnit": 2.3,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -47455,15 +47511,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-22T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tinned red kidney beans",
-              "Price": 1.1,
+              "Price": 0.99,
               "Quantity": 420.0,
               "Unit": "grams",
               "Source": "Woolworths online",
               "Extra": "Home brand."
             },
-            "Amount": 1.1,
+            "Amount": 0.99,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -47685,7 +47741,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.34 per serve",
+        "CostString": "2.3 per serve",
         "ExclusionsString": ""
       }
     },
@@ -47980,8 +48036,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.1,
-        "AmountPerUnit": 8.05,
+        "Amount": 15.39,
+        "AmountPerUnit": 7.7,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -48187,7 +48243,7 @@
               "Group": "spice paste"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -48211,15 +48267,15 @@
               "Group": "spice paste"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Tomato",
-              "Price": 7.99,
+              "Price": 3.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
+              "Source": "Yonghui",
               "Extra": "Generic"
             },
-            "Amount": 1.598,
+            "Amount": 0.798,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -48235,15 +48291,15 @@
               "Group": "spice paste"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Ginger",
-              "Price": 19.8,
+              "Price": 25.8,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": ""
             },
-            "Amount": 0.3168,
+            "Amount": 0.4128,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -48497,7 +48553,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "8.05 per serve*",
+        "CostString": "7.7 per serve*",
         "ExclusionsString": "Excluding Red chilli powder, Red chilli powder and Fenugreek leaves"
       }
     },
@@ -48741,8 +48797,8 @@
         }
       ],
       "Cost": {
-        "Amount": 25.84,
-        "AmountPerUnit": 6.46,
+        "Amount": 25.66,
+        "AmountPerUnit": 6.42,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -48932,15 +48988,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2024-12-03T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Mayonnaise",
-              "Price": 6.3,
-              "Quantity": 440.0,
+              "Price": 8.5,
+              "Quantity": 810.0,
               "Unit": "grams",
               "Source": "Woolworths",
-              "Extra": "S&W brand whole egg"
+              "Extra": "Best Food mayonnaise"
             },
-            "Amount": 0.6443181818181825,
+            "Amount": 0.4722222222222225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -49028,7 +49084,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Avocado",
               "Price": 3.0,
               "Quantity": 1.0,
@@ -49178,7 +49234,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6.46 per serve",
+        "CostString": "6.42 per serve",
         "ExclusionsString": ""
       }
     },
@@ -49371,7 +49427,12 @@
           "Content": "Add salt, butter, chicken, gnocchi and a handful of spinach."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-03-17T17:52:49",
+          "Content": "Started like 20 min ago. Cut onions into strips lengthways, thinly."
+        }
+      ],
       "Timers": [
         {
           "Name": "Stock",
@@ -49383,7 +49444,7 @@
         }
       ],
       "Cost": {
-        "Amount": 40.21,
+        "Amount": 36.95,
         "AmountPerUnit": 0.0,
         "Unit": "serves",
         "ItemCosts": [
@@ -49398,7 +49459,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-21T00:00:00",
               "Name": "Chicken breast",
               "Price": 8.49,
               "Quantity": 1.0,
@@ -49557,19 +49618,11 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": {
-              "Date": "2024-02-19T00:00:00",
-              "Name": "Shallots",
-              "Price": 1.1,
-              "Quantity": 1.0,
-              "Unit": "whole",
-              "Source": "New yen yen; Evergreen fresh world",
-              "Extra": "One bunch is so enormous."
-            },
-            "Amount": 4.4,
-            "Success": true,
-            "Reason": "",
-            "Extra": ""
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Shallots"
           },
           {
             "Name": "Garlic",
@@ -49654,7 +49707,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Thickened cream",
               "Price": 3.99,
               "Quantity": 300.0,
@@ -49678,15 +49731,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-17T00:00:00",
               "Name": "Parmesan",
-              "Price": 5.99,
+              "Price": 6.9,
               "Quantity": 200.0,
               "Unit": "grams",
-              "Source": "Aldi",
+              "Source": "Woolies",
               "Extra": "Rectangle quality"
             },
-            "Amount": 7.4875,
+            "Amount": 8.625,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -49756,8 +49809,8 @@
             "Extra": "In ignored units: a handful"
           }
         ],
-        "CostString": "0 per serve",
-        "ExclusionsString": ""
+        "CostString": "0 per serve*",
+        "ExclusionsString": "Excluding Shallots"
       }
     }
   ]
