@@ -19,7 +19,7 @@ function start(recipes) {
             document.querySelector(".search-results a").focus()
         }
     });
-    const button = document.querySelector(".search-button");
+    const button = document.querySelector("button.search");
     button.addEventListener("click", (event) => {
         event.preventDefault();
         document.querySelector(".search-results a").focus()

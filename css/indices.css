@@ -7,6 +7,6 @@ ol {
     padding: 0px;
 }
 
-details {
-    /* padding-left: 0px; */
+.index details[open] {
+    border-left: 2px solid black;
 }

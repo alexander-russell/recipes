@@ -103,9 +103,12 @@ function addNestedIndexItem(name, recipes) {
     const list = document.createElement("ol")
     details.appendChild(list);
     for (const recipe of recipes) {
-        item = document.createElement("li");
-        item.textContent = recipe.Name;
+        const item = document.createElement("li");
         list.appendChild(item);
+        const link = document.createElement("a");
+        link.textContent = recipe.Name;
+        link.href = `/recipes/display/${recipe.Slug}`;
+        item.appendChild(link);
     }
 }
 

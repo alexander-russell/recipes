@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="css/forms.css">
     <link rel="stylesheet" href="css/index.css">
     <script src="scripts/common.js" defer></script>
     <script src="scripts/index.js" defer></script>
@@ -11,63 +13,59 @@
 </head>
 
 <body>
-    <div class="page">
-        <header class="title-wrapper">
-            <h1 class="title">Recipes</h1>
-        </header>
-        <nav>
-            <ul class="nav-list">
-                <li>
-                    <a href="contents">
-                        <button>
-                            Contents
-                        </button>
-                    </a>
-                </li>
-                <li>
-                    <a href="explore">
-                        <button>
-                            Explore
-                        </button>
-                    </a>
-                </li>
-                <li>
-                    <a href="gallery">
-                        <button>
-                            Gallery
-                        </button>
-                    </a>
-                </li>
-                <li>
-                    <a href="indices">
-                        <button>
-                            Index
-                        </button>
-                    </a>
-                </li>
-            </ul>
-        </nav>
-        <section class="welcome">
-            Welcome to my recipe site. I use it to remember what I'm doing when I cook. Find a recipe with the search
-            box below, or using the table of contents, gallery or indices.
-        </section>
-        <section class="search">
-            <h2>Search</h2>
-            <div class="form recipe-searchbox">
-                <div class="form-row basic-search">
-                    <label for="name">Name:</label>
-                    <input type="search" name="name" id="name" value="" />
-                </div>
-                <button class="search-button">
-                    Search
-                </button>
+    <header>
+        <h1>Recipes</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="contents">
+                    <button>
+                        Contents
+                    </button>
+                </a>
+            </li>
+            <li>
+                <a href="explore">
+                    <button>
+                        Explore
+                    </button>
+                </a>
+            </li>
+            <li>
+                <a href="gallery">
+                    <button>
+                        Gallery
+                    </button>
+                </a>
+            </li>
+            <li>
+                <a href="indices">
+                    <button>
+                        Index
+                    </button>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <section class="welcome">
+        Welcome to my recipe site. I use it to remember what I'm doing when I cook, but I think the code is cool too.
+        Find a recipe with the search box below, or using the table of contents, gallery or indices.
+    </section>
+    <section class="search">
+        <h2>Search</h2>
+        <div class="form recipe-searchbox">
+            <div class="form-row basic-search">
+                <label for="name">Name:</label>
+                <input type="search" name="name" id="name" value="" />
             </div>
-            <div class="search-results-wrapper">
-                <ul class="search-results">
-                </ul>
-            </div>
-        </section>
-    </div>
+            <button class="search">
+                Search
+            </button>
+        </div>
+        <ul class="search-results">
+        </ul>
+    </section>
 </body>
 
 </html>

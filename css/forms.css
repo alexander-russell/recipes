@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.form-row>input {
+    background: none;
+    border: none;
+    font-size: inherit;
+    border-bottom: 2px solid black;
+    border-radius: 0px;
+}
+
+.form-row>input:focus {
+    outline: none;
+    color: darkred;
+    border-bottom-color: darkred;
+}
+
+.form button.search {
+    border: none;
+    border-radius: 0;
+    background: none;
+    font-size: inherit;
+    font-weight: bold;
+}
