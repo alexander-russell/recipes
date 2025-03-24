@@ -896,3 +896,32 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-03-17 00:00:00,Tinned corn,1.2,420,grams,Woolies,
 2025-03-17 00:00:00,Tinned red kidney beans,0.99,420,grams,Woolworths online,Home brand.
 2025-03-17 00:00:00,Mayonnaise,8.5,810,grams,Woolworths,Best Food mayonnaise
+2025-03-24 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
+2025-03-24 00:00:00,Fresh coriander,1.48,15,sprigs,Tonyon warehouse,Whole sprigs
+2025-03-24 00:00:00,Brown onions,1.99,1,kg,Tonyon warehouse,Individual
+2025-03-24 00:00:00,Red onion,3.88,1,kg,Tonyon Warehouse,
+2025-03-24 00:00:00,Leeks,2.99,1,whole,Tonyon warehouse,
+2025-03-24 00:00:00,Red capsicum,2.99,1,kg,Tonyon warehouse,Red
+2025-03-24 00:00:00,Kent pumpkin,0.99,1,kg,Tonyon supermarket,
+2025-03-24 00:00:00,Lime,5.68,1,kg,Tonyon supermarket,A little underripe
+2025-03-24 00:00:00,Chinese five spice,1.95,100,grams,Tonyon supermarket,
+2025-03-24 00:00:00,Eggs,5.48,12,whole,Tonyon supermarket,Cage eggs and 600g
+2025-03-24 00:00:00,Milk,3.98,2,litres,Yonghui,Dairy farmers
+2025-03-24 00:00:00,Cucumber,1.99,1,kg,Yonghui,
+2025-03-24 00:00:00,Sweet potato,2.49,1,kg,Freshtown,Normal
+2025-03-24 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
+2025-03-24 00:00:00,Spinach,2.5,120,grams,7Fresh,Quantity is super approximate but a big bunch
+2025-03-24 00:00:00,Avocado,3,1,whole,7Fresh,Shepard
+2025-03-24 00:00:00,Potatoes,4.99,1,kg,7Fresh,Normal
+2025-03-24 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-03-24 00:00:00,Diced beef,14.99,1,kg,Hong meat,
+2025-03-24 00:00:00,Cannellini beans,1.5,400,grams,Superfresh,Val verde brand
+2025-03-24 00:00:00,Cannellini beans,3,1200,grams,Superfresh,Val verde brand
+2025-03-24 00:00:00,Cherry tomatoes,11.99,1,kg,Superfresh,
+2025-03-24 00:00:00,Arborio,6.99,1,kg,Superfresh,
+2025-03-24 00:00:00,Red cabbage,7,1,whole,Superfresh,
+2025-03-24 00:00:00,Gnocchi,3.2,500,grams,Superfresh,
+2025-03-24 00:00:00,Puff pastry,4,6,whole,Woolworths,
+2025-03-24 00:00:00,Parmesan,6.9,200,grams,Woolies,Rectangle quality
+2025-03-24 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
+2025-03-24 00:00:00,Olive oil,13,0.375,litre,Woolworths,Decent quality

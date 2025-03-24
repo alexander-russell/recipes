@@ -190,12 +190,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.9133333333333334,
@@ -458,8 +458,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.35,
-        "AmountPerUnit": 0.39,
+        "Amount": 2.45,
+        "AmountPerUnit": 0.41,
         "Unit": "bases",
         "ItemCosts": [
           {
@@ -545,15 +545,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.07,
+            "Amount": 0.1733333333333335,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -607,7 +607,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "0.39 per unit",
+        "CostString": "0.41 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1028,12 +1028,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -1222,8 +1222,8 @@
         }
       ],
       "Cost": {
-        "Amount": 11.31,
-        "AmountPerUnit": 11.31,
+        "Amount": 11.35,
+        "AmountPerUnit": 11.35,
         "Unit": "quiche",
         "ItemCosts": [
           {
@@ -1237,12 +1237,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 2.2833333333333337,
@@ -1285,7 +1285,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -1309,15 +1309,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.6316666666666667,
+            "Amount": 0.6666666666666666,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1387,7 +1387,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "11.31 per unit",
+        "CostString": "11.35 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1539,8 +1539,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 18.72,
-        "AmountPerUnit": 3.12,
+        "Amount": 20.79,
+        "AmountPerUnit": 3.46,
         "Unit": "meatballs",
         "ItemCosts": [
           {
@@ -1602,12 +1602,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -1626,7 +1626,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -1674,7 +1674,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -1746,15 +1746,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 1.4,
+            "Amount": 3.46666666666667,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -1794,7 +1794,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -1808,7 +1808,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.12 per unit",
+        "CostString": "3.46 per unit",
         "ExclusionsString": ""
       }
     },
@@ -1929,8 +1929,8 @@
         }
       ],
       "Cost": {
-        "Amount": 27.41,
-        "AmountPerUnit": 4.57,
+        "Amount": 37.74,
+        "AmountPerUnit": 6.29,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -1968,12 +1968,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.8266666666666669,
@@ -2016,21 +2016,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 7.0,
+            "Amount": 17.333333333333325,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "4.57 per serve",
+        "CostString": "6.29 per serve",
         "ExclusionsString": ""
       }
     },
@@ -2219,7 +2219,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -2439,8 +2439,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.0,
-        "AmountPerUnit": 0.15,
+        "Amount": 3.93,
+        "AmountPerUnit": 0.2,
         "Unit": "rolls",
         "ItemCosts": [
           {
@@ -2574,7 +2574,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -2598,7 +2598,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -2638,15 +2638,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.63,
+            "Amount": 1.56,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -2764,7 +2764,7 @@
             "Extra": "Name not found: Shallots"
           }
         ],
-        "CostString": "0.15 per unit*",
+        "CostString": "0.2 per unit*",
         "ExclusionsString": "Excluding Spring roll wrappers, Lean pork, Peeled prawns, Coriander roots and Shallots"
       }
     },
@@ -3003,7 +3003,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -3027,7 +3027,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-21T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -3333,8 +3333,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 3.5,
-        "AmountPerUnit": 3.5,
+        "Amount": 3.49,
+        "AmountPerUnit": 3.49,
         "Unit": "whole",
         "ItemCosts": [
           {
@@ -3388,7 +3388,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -3628,15 +3628,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red capsicum",
-              "Price": 3.38,
+              "Price": 2.99,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": "Red"
             },
-            "Amount": 0.0507,
+            "Amount": 0.04485,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -3652,7 +3652,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -3692,7 +3692,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Fresh coriander",
               "Price": 1.48,
               "Quantity": 15.0,
@@ -3706,7 +3706,7 @@
             "Extra": "Couldn't convert unit. From:whole; To:sprigs"
           }
         ],
-        "CostString": "3.5 per unit*",
+        "CostString": "3.49 per unit*",
         "ExclusionsString": "Excluding Whole white fish, Ginger root, Tamarind juice, White pepper, Wood fungus and Fresh coriander"
       }
     },
@@ -3872,8 +3872,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 22.19,
-        "AmountPerUnit": 5.55,
+        "Amount": 21.69,
+        "AmountPerUnit": 5.42,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -3935,15 +3935,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Sweet potato",
-              "Price": 2.99,
+              "Price": 2.49,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Freshtown",
               "Extra": "Normal"
             },
-            "Amount": 2.99,
+            "Amount": 2.49,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -3959,7 +3959,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -4061,7 +4061,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "5.55 per serve",
+        "CostString": "5.42 per serve",
         "ExclusionsString": ""
       }
     },
@@ -4236,7 +4236,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -4260,7 +4260,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -4649,7 +4649,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -4745,7 +4745,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -4969,7 +4969,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -5579,7 +5579,7 @@
               "Group": "bolognese"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -5627,7 +5627,7 @@
               "Group": "bolognese"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -5851,7 +5851,7 @@
               "Group": "bechamel"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -6138,7 +6138,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -6635,7 +6635,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -7056,7 +7056,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -7080,7 +7080,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -7276,7 +7276,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 4.16,
+        "Amount": 4.2,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -7354,11 +7354,19 @@
               "UnitDetail": "",
               "Group": ""
             },
-            "Ingredient": null,
-            "Amount": 0.0,
-            "Success": false,
-            "Reason": "NotFound",
-            "Extra": "Name not found: Chinese five spice"
+            "Ingredient": {
+              "Date": "2025-03-24T00:00:00",
+              "Name": "Chinese five spice",
+              "Price": 1.95,
+              "Quantity": 100.0,
+              "Unit": "grams",
+              "Source": "Tonyon supermarket",
+              "Extra": ""
+            },
+            "Amount": 0.04875,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
           },
           {
             "Name": "Ginger",
@@ -7395,7 +7403,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -7419,7 +7427,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -7513,8 +7521,8 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.16 total*",
-        "ExclusionsString": "Excluding Pork loin, Chinese five spice, Capsicum and Pak choy"
+        "CostString": "4.2 total*",
+        "ExclusionsString": "Excluding Pork loin, Capsicum and Pak choy"
       }
     },
     {
@@ -7627,7 +7635,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -7872,7 +7880,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -7896,7 +7904,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -7968,7 +7976,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -8336,12 +8344,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -8992,12 +9000,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.37,
@@ -9819,12 +9827,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.9133333333333334,
@@ -10672,12 +10680,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 2.74,
@@ -10787,7 +10795,7 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 12.7,
+        "Amount": 13.32,
         "AmountPerUnit": 0.04,
         "Unit": "ml",
         "ItemCosts": [
@@ -10850,15 +10858,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.42,
+            "Amount": 1.0399999999999996,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -10874,7 +10882,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -11308,12 +11316,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -11706,12 +11714,12 @@
               "Group": "frangipane"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.9133333333333334,
@@ -11879,8 +11887,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 2.25,
-        "AmountPerUnit": 0.75,
+        "Amount": 3.18,
+        "AmountPerUnit": 1.06,
         "Unit": "wraps",
         "ItemCosts": [
           {
@@ -11958,21 +11966,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.63,
+            "Amount": 1.56,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "0.75 per unit",
+        "CostString": "1.06 per unit",
         "ExclusionsString": ""
       }
     },
@@ -12101,7 +12109,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-16T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Bread",
               "Price": 2.5,
               "Quantity": 20.0,
@@ -12125,12 +12133,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.9133333333333334,
@@ -12149,7 +12157,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -12557,8 +12565,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.21,
-        "AmountPerUnit": 8.21,
+        "Amount": 8.79,
+        "AmountPerUnit": 8.79,
         "Unit": "tart",
         "ItemCosts": [
           {
@@ -12572,15 +12580,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.6316666666666667,
+            "Amount": 0.6666666666666666,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12596,7 +12604,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -12620,15 +12628,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red capsicum",
-              "Price": 3.38,
+              "Price": 2.99,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": "Red"
             },
-            "Amount": 0.676,
+            "Amount": 0.598,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12644,15 +12652,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.42,
+            "Amount": 1.0399999999999996,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -12692,12 +12700,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.9133333333333334,
@@ -12786,7 +12794,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "8.21 per unit",
+        "CostString": "8.79 per unit",
         "ExclusionsString": ""
       }
     },
@@ -12995,8 +13003,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 14.08,
-        "AmountPerUnit": 3.52,
+        "Amount": 15.6,
+        "AmountPerUnit": 3.9,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -13010,15 +13018,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.42,
+            "Amount": 1.0399999999999996,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13034,7 +13042,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -13082,7 +13090,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -13106,15 +13114,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2023-11-07T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Arborio",
-              "Price": 3.99,
+              "Price": 6.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 1.197,
+            "Amount": 2.097,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -13272,7 +13280,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "3.52 per serve",
+        "CostString": "3.9 per serve",
         "ExclusionsString": ""
       }
     },
@@ -13419,7 +13427,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -13766,12 +13774,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 2.74,
@@ -14052,12 +14060,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -14307,7 +14315,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -14331,7 +14339,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-21T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -14675,8 +14683,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 25.31,
-        "AmountPerUnit": 6.33,
+        "Amount": 36.87,
+        "AmountPerUnit": 9.22,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -14690,15 +14698,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.21,
+            "Amount": 0.5200000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14714,7 +14722,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -14786,7 +14794,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -14882,15 +14890,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2023-11-07T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Arborio",
-              "Price": 3.99,
+              "Price": 6.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 14.9625,
+            "Amount": 26.2125,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -14976,7 +14984,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6.33 per serve",
+        "CostString": "9.22 per serve",
         "ExclusionsString": ""
       }
     },
@@ -15125,8 +15133,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 8.22,
-        "AmountPerUnit": 2.74,
+        "Amount": 8.28,
+        "AmountPerUnit": 2.76,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -15140,12 +15148,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 2.2833333333333337,
@@ -15164,7 +15172,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -15212,15 +15220,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 0.9475,
+            "Amount": 1.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -15260,7 +15268,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -15330,7 +15338,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.74 per serve",
+        "CostString": "2.76 per serve",
         "ExclusionsString": ""
       }
     },
@@ -15514,7 +15522,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -15586,12 +15594,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.37,
@@ -15960,12 +15968,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -16524,7 +16532,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -16620,7 +16628,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -16856,8 +16864,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 7.44,
-        "AmountPerUnit": 1.86,
+        "Amount": 7.55,
+        "AmountPerUnit": 1.89,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -16871,15 +16879,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 1.895,
+            "Amount": 2.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -16895,7 +16903,7 @@
               "Group": "bechamel"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -17023,7 +17031,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -17085,7 +17093,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "1.86 per unit",
+        "CostString": "1.89 per unit",
         "ExclusionsString": ""
       }
     },
@@ -17333,7 +17341,7 @@
               "Group": "First lot of veggies"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -17381,7 +17389,7 @@
               "Group": "First lot of veggies"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -17405,7 +17413,7 @@
               "Group": "Second lot of veggies"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -17886,7 +17894,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -17934,7 +17942,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -18340,7 +18348,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -18364,12 +18372,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -18615,8 +18623,8 @@
       "Diary": null,
       "Timers": [],
       "Cost": {
-        "Amount": 16.42,
-        "AmountPerUnit": 4.11,
+        "Amount": 16.36,
+        "AmountPerUnit": 4.09,
         "Unit": "wraps",
         "ItemCosts": [
           {
@@ -18678,15 +18686,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cucumber",
-              "Price": 2.38,
+              "Price": 1.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Tonyon Warehouse",
+              "Source": "Yonghui",
               "Extra": ""
             },
-            "Amount": 0.3400000000000003,
+            "Amount": 0.2842857142857146,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -18702,7 +18710,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -18788,7 +18796,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "4.11 per unit*",
+        "CostString": "4.09 per unit*",
         "ExclusionsString": "Excluding Tzatziki"
       }
     },
@@ -19083,7 +19091,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-21T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -19131,12 +19139,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.37,
@@ -19155,7 +19163,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -19518,7 +19526,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -19590,7 +19598,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -20068,7 +20076,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -20140,12 +20148,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -20455,8 +20463,8 @@
         }
       ],
       "Cost": {
-        "Amount": 23.73,
-        "AmountPerUnit": 5.93,
+        "Amount": 25.28,
+        "AmountPerUnit": 6.32,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -20470,7 +20478,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-21T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -20494,15 +20502,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.42,
+            "Amount": 1.0399999999999996,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20662,7 +20670,7 @@
               "Group": "marinade"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -20710,15 +20718,15 @@
               "Group": "marinade"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.63,
+            "Amount": 1.56,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -20758,7 +20766,7 @@
               "Group": "yoghurt sauce"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -20902,7 +20910,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -20940,7 +20948,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.93 per serve",
+        "CostString": "6.32 per serve",
         "ExclusionsString": ""
       }
     },
@@ -21155,7 +21163,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -21179,7 +21187,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -21251,12 +21259,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.37,
@@ -21492,7 +21500,7 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 7.86,
+        "Amount": 9.18,
         "AmountPerUnit": 0.0,
         "Unit": "",
         "ItemCosts": [
@@ -21507,15 +21515,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Sweet potato",
-              "Price": 2.99,
+              "Price": 2.49,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Freshtown",
               "Extra": "Normal"
             },
-            "Amount": 4.485,
+            "Amount": 3.735,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21555,7 +21563,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -21579,15 +21587,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 1.4,
+            "Amount": 3.46666666666667,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -21633,7 +21641,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "7.86 total",
+        "CostString": "9.18 total",
         "ExclusionsString": ""
       }
     },
@@ -22072,7 +22080,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -22355,7 +22363,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-21T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -22627,7 +22635,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -22932,8 +22940,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 12.42,
-        "AmountPerUnit": 4.14,
+        "Amount": 14.33,
+        "AmountPerUnit": 4.78,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -22947,15 +22955,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.84,
+            "Amount": 2.08,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -22995,15 +23003,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red capsicum",
-              "Price": 3.38,
+              "Price": 2.99,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": "Red"
             },
-            "Amount": 0.676,
+            "Amount": 0.598,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23043,7 +23051,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -23067,7 +23075,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -23139,15 +23147,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2023-11-07T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Arborio",
-              "Price": 3.99,
+              "Price": 6.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 0.9975,
+            "Amount": 1.7475,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -23201,7 +23209,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.14 per serve",
+        "CostString": "4.78 per serve",
         "ExclusionsString": ""
       }
     },
@@ -23496,7 +23504,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -23544,7 +23552,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -23736,7 +23744,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Spinach",
               "Price": 2.5,
               "Quantity": 120.0,
@@ -24013,12 +24021,12 @@
               "Group": "cake"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.37,
@@ -24085,7 +24093,7 @@
               "Group": "cake"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -24205,7 +24213,7 @@
               "Group": "buttercream"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -24621,8 +24629,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 30.93,
-        "AmountPerUnit": 5.16,
+        "Amount": 30.72,
+        "AmountPerUnit": 5.12,
         "Unit": "Tacos",
         "ItemCosts": [
           {
@@ -24676,7 +24684,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -24700,7 +24708,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Avocado",
               "Price": 3.0,
               "Quantity": 1.0,
@@ -24972,15 +24980,15 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Lime",
-              "Price": 8.99,
+              "Price": 5.68,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Great size too"
+              "Source": "Tonyon supermarket",
+              "Extra": "A little underripe"
             },
-            "Amount": 0.58435,
+            "Amount": 0.3692,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -25058,7 +25066,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.16 per unit",
+        "CostString": "5.12 per unit",
         "ExclusionsString": ""
       }
     },
@@ -25370,7 +25378,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -25442,7 +25450,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Spinach",
               "Price": 2.5,
               "Quantity": 120.0,
@@ -25466,7 +25474,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Spinach",
               "Price": 2.5,
               "Quantity": 120.0,
@@ -25514,7 +25522,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -25989,7 +25997,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -26061,7 +26069,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Spinach",
               "Price": 2.5,
               "Quantity": 120.0,
@@ -26109,7 +26117,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -26613,8 +26621,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 9.41,
-        "AmountPerUnit": 0.78,
+        "Amount": 10.65,
+        "AmountPerUnit": 0.89,
         "Unit": "sausage sandwiches",
         "ItemCosts": [
           {
@@ -26652,7 +26660,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -26676,7 +26684,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-16T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Bread",
               "Price": 2.5,
               "Quantity": 20.0,
@@ -26748,21 +26756,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.84,
+            "Amount": 2.080000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "0.78 per unit",
+        "CostString": "0.89 per unit",
         "ExclusionsString": ""
       }
     },
@@ -27094,8 +27102,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 17.33,
-        "AmountPerUnit": 2.17,
+        "Amount": 17.54,
+        "AmountPerUnit": 2.19,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -27109,7 +27117,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -27157,7 +27165,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -27277,21 +27285,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 3.79,
+            "Amount": 4.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "2.17 per unit",
+        "CostString": "2.19 per unit",
         "ExclusionsString": ""
       }
     },
@@ -27631,8 +27639,8 @@
       ],
       "Timers": [],
       "Cost": {
-        "Amount": 23.71,
-        "AmountPerUnit": 5.93,
+        "Amount": 24.27,
+        "AmountPerUnit": 6.07,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -27886,7 +27894,7 @@
               "Group": "fry"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -27910,7 +27918,7 @@
               "Group": "fry"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -28006,7 +28014,7 @@
               "Group": "yoghurt sauce"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -28094,15 +28102,15 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cucumber",
-              "Price": 2.38,
+              "Price": 1.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Tonyon Warehouse",
+              "Source": "Yonghui",
               "Extra": ""
             },
-            "Amount": 0.3400000000000003,
+            "Amount": 0.2842857142857146,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28118,7 +28126,7 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -28206,15 +28214,15 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.42,
+            "Amount": 1.0399999999999996,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -28276,7 +28284,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "5.93 per serve",
+        "CostString": "6.07 per serve",
         "ExclusionsString": ""
       }
     },
@@ -28481,7 +28489,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-21T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -28553,12 +28561,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.8266666666666669,
@@ -28577,7 +28585,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-16T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Bread",
               "Price": 2.5,
               "Quantity": 20.0,
@@ -28673,7 +28681,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -28697,7 +28705,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -28745,7 +28753,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -29104,7 +29112,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -29320,7 +29328,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -29368,7 +29376,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Avocado",
               "Price": 3.0,
               "Quantity": 1.0,
@@ -29714,8 +29722,8 @@
         }
       ],
       "Cost": {
-        "Amount": 19.16,
-        "AmountPerUnit": 3.19,
+        "Amount": 19.35,
+        "AmountPerUnit": 3.22,
         "Unit": "burgers",
         "ItemCosts": [
           {
@@ -29753,7 +29761,7 @@
               "Group": "patty"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -29777,7 +29785,7 @@
               "Group": "patty"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -29801,15 +29809,15 @@
               "Group": "patty"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.21,
+            "Amount": 0.5200000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -29825,15 +29833,15 @@
               "Group": "patty"
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Sweet potato",
-              "Price": 2.99,
+              "Price": 2.49,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Freshtown",
               "Extra": "Normal"
             },
-            "Amount": 0.7475,
+            "Amount": 0.6225,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -29945,12 +29953,12 @@
               "Group": "patty"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.9133333333333334,
@@ -30103,7 +30111,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.19 per unit",
+        "CostString": "3.22 per unit",
         "ExclusionsString": ""
       }
     },
@@ -30444,12 +30452,12 @@
               "Group": "meatballs"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -30468,7 +30476,7 @@
               "Group": "meatballs"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -30492,7 +30500,7 @@
               "Group": "meatballs"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -30628,7 +30636,7 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -30652,7 +30660,7 @@
               "Group": "sauce"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -31249,7 +31257,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -31273,7 +31281,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -31297,7 +31305,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -32100,7 +32108,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -32695,7 +32703,7 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -33196,8 +33204,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.59,
-        "AmountPerUnit": 4.15,
+        "Amount": 17.82,
+        "AmountPerUnit": 4.46,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -33211,7 +33219,7 @@
               "Group": "dressing"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -33307,15 +33315,15 @@
               "Group": "dressing"
             },
             "Ingredient": {
-              "Date": "2025-02-19T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Lime",
-              "Price": 8.99,
+              "Price": 5.68,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Superfresh",
-              "Extra": "Great size too"
+              "Source": "Tonyon supermarket",
+              "Extra": "A little underripe"
             },
-            "Amount": 0.58435,
+            "Amount": 0.3692,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -33451,15 +33459,15 @@
               "Group": "vegetables"
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cherry tomatoes",
-              "Price": 5.99,
+              "Price": 11.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "7Fresh",
+              "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 1.4975,
+            "Amount": 2.9975,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -33475,7 +33483,7 @@
               "Group": "vegetables"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -33523,15 +33531,15 @@
               "Group": "vegetables"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cucumber",
-              "Price": 2.38,
+              "Price": 1.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Tonyon Warehouse",
+              "Source": "Yonghui",
               "Extra": ""
             },
-            "Amount": 0.3400000000000003,
+            "Amount": 0.2842857142857146,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -33561,7 +33569,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.15 per serve",
+        "CostString": "4.46 per serve",
         "ExclusionsString": ""
       }
     },
@@ -33804,7 +33812,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -33828,7 +33836,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -34346,12 +34354,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -34641,8 +34649,8 @@
       "Diary": [],
       "Timers": [],
       "Cost": {
-        "Amount": 17.02,
-        "AmountPerUnit": 5.67,
+        "Amount": 18.52,
+        "AmountPerUnit": 6.17,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -34680,7 +34688,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -34704,7 +34712,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -34728,15 +34736,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2023-11-07T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Arborio",
-              "Price": 3.99,
+              "Price": 6.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 1.995,
+            "Amount": 3.495,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -34830,7 +34838,7 @@
             "Extra": "In ignored units: a handful"
           }
         ],
-        "CostString": "5.67 per serve",
+        "CostString": "6.17 per serve",
         "ExclusionsString": ""
       }
     },
@@ -35109,12 +35117,12 @@
               "Group": "dough"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -35361,8 +35369,8 @@
         }
       ],
       "Cost": {
-        "Amount": 8.8,
-        "AmountPerUnit": 2.2,
+        "Amount": 8.76,
+        "AmountPerUnit": 2.19,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -35400,7 +35408,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -35424,7 +35432,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -35472,15 +35480,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red capsicum",
-              "Price": 3.38,
+              "Price": 2.99,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": "Red"
             },
-            "Amount": 0.338,
+            "Amount": 0.299,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -35526,7 +35534,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "2.2 per serve",
+        "CostString": "2.19 per serve",
         "ExclusionsString": ""
       }
     },
@@ -35662,8 +35670,8 @@
         }
       ],
       "Cost": {
-        "Amount": 9.32,
-        "AmountPerUnit": 3.11,
+        "Amount": 7.52,
+        "AmountPerUnit": 2.51,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -35677,7 +35685,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -35725,7 +35733,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -35773,15 +35781,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2024-09-04T22:38:23",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cannellini beans",
-              "Price": 1.9,
-              "Quantity": 400.0,
+              "Price": 3.0,
+              "Quantity": 1200.0,
               "Unit": "grams",
-              "Source": "Woolworths",
-              "Extra": "Annalisa brand"
+              "Source": "Superfresh",
+              "Extra": "Val verde brand"
             },
-            "Amount": 3.8,
+            "Amount": 2.0,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -35811,7 +35819,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "3.11 per serve",
+        "CostString": "2.51 per serve",
         "ExclusionsString": ""
       }
     },
@@ -36068,7 +36076,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -36116,7 +36124,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -36447,8 +36455,8 @@
         }
       ],
       "Cost": {
-        "Amount": 10.35,
-        "AmountPerUnit": 1.48,
+        "Amount": 10.49,
+        "AmountPerUnit": 1.5,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -36534,7 +36542,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -36558,7 +36566,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -36750,21 +36758,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 2.526666666666667,
+            "Amount": 2.6666666666666665,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "1.48 per unit",
+        "CostString": "1.5 per unit",
         "ExclusionsString": ""
       }
     },
@@ -37248,12 +37256,12 @@
               "Group": "cake"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.9133333333333334,
@@ -37526,8 +37534,8 @@
         }
       ],
       "Cost": {
-        "Amount": 23.12,
-        "AmountPerUnit": 4.62,
+        "Amount": 22.62,
+        "AmountPerUnit": 4.52,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -37541,15 +37549,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Sweet potato",
-              "Price": 2.99,
+              "Price": 2.49,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Freshtown",
               "Extra": "Normal"
             },
-            "Amount": 2.99,
+            "Amount": 2.49,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -37565,7 +37573,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -37589,7 +37597,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -37613,7 +37621,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -37853,7 +37861,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -37877,7 +37885,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -37891,7 +37899,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "4.62 per serve",
+        "CostString": "4.52 per serve",
         "ExclusionsString": ""
       }
     },
@@ -38532,8 +38540,8 @@
         }
       ],
       "Cost": {
-        "Amount": 17.94,
-        "AmountPerUnit": 5.98,
+        "Amount": 17.9,
+        "AmountPerUnit": 5.97,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -38691,7 +38699,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -38715,15 +38723,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red capsicum",
-              "Price": 3.38,
+              "Price": 2.99,
               "Quantity": 1.0,
               "Unit": "kg",
               "Source": "Tonyon warehouse",
               "Extra": "Red"
             },
-            "Amount": 0.338,
+            "Amount": 0.299,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -38745,7 +38753,7 @@
             "Extra": "In ignored units: to garnish"
           }
         ],
-        "CostString": "5.98 per serve",
+        "CostString": "5.97 per serve",
         "ExclusionsString": ""
       }
     },
@@ -38939,12 +38947,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 1.37,
@@ -39149,7 +39157,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -39463,7 +39471,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -39487,7 +39495,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -40019,8 +40027,8 @@
         }
       ],
       "Cost": {
-        "Amount": 23.61,
-        "AmountPerUnit": 5.9,
+        "Amount": 23.44,
+        "AmountPerUnit": 5.86,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -40034,7 +40042,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -40322,7 +40330,7 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -40346,15 +40354,15 @@
               "Group": "salad"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cucumber",
-              "Price": 2.38,
+              "Price": 1.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Tonyon Warehouse",
+              "Source": "Yonghui",
               "Extra": ""
             },
-            "Amount": 1.020000000000001,
+            "Amount": 0.8528571428571436,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -40488,7 +40496,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "5.9 per serve",
+        "CostString": "5.86 per serve",
         "ExclusionsString": ""
       }
     },
@@ -40985,7 +40993,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -41009,7 +41017,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -41323,7 +41331,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -41347,7 +41355,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -41467,7 +41475,7 @@
               "Group": "tadka"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -41829,7 +41837,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -42117,7 +42125,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -42407,7 +42415,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Leeks",
               "Price": 2.99,
               "Quantity": 1.0,
@@ -42431,7 +42439,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -42479,7 +42487,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -43008,7 +43016,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -43312,12 +43320,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -43483,8 +43491,8 @@
         }
       ],
       "Cost": {
-        "Amount": 16.33,
-        "AmountPerUnit": 4.08,
+        "Amount": 20.26,
+        "AmountPerUnit": 5.07,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -43498,7 +43506,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Gnocchi",
               "Price": 3.2,
               "Quantity": 500.0,
@@ -43522,15 +43530,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cherry tomatoes",
-              "Price": 5.99,
+              "Price": 11.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "7Fresh",
+              "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 2.995,
+            "Amount": 5.995,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -43594,7 +43602,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -43634,21 +43642,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.63,
+            "Amount": 1.56,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "4.08 per serve",
+        "CostString": "5.07 per serve",
         "ExclusionsString": ""
       }
     },
@@ -43810,8 +43818,8 @@
         }
       ],
       "Cost": {
-        "Amount": 1.34,
-        "AmountPerUnit": 0.34,
+        "Amount": 1.96,
+        "AmountPerUnit": 0.49,
         "Unit": "bases",
         "ItemCosts": [
           {
@@ -43921,15 +43929,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.21,
+            "Amount": 0.5200000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -43945,21 +43953,21 @@
               "Group": "to grease bowl"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.21,
+            "Amount": 0.5200000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "0.34 per unit",
+        "CostString": "0.49 per unit",
         "ExclusionsString": ""
       }
     },
@@ -44173,12 +44181,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 2.2833333333333337,
@@ -44473,8 +44481,8 @@
         }
       ],
       "Cost": {
-        "Amount": 6.13,
-        "AmountPerUnit": 1.53,
+        "Amount": 7.63,
+        "AmountPerUnit": 1.91,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -44488,7 +44496,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -44536,7 +44544,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -44560,15 +44568,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2023-11-07T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Arborio",
-              "Price": 3.99,
+              "Price": 6.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Aldi",
+              "Source": "Superfresh",
               "Extra": ""
             },
-            "Amount": 1.995,
+            "Amount": 3.495,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -44638,7 +44646,7 @@
             "Extra": "In ignored units: to serve"
           }
         ],
-        "CostString": "1.53 per serve",
+        "CostString": "1.91 per serve",
         "ExclusionsString": ""
       }
     },
@@ -44825,8 +44833,8 @@
         }
       ],
       "Cost": {
-        "Amount": 15.59,
-        "AmountPerUnit": 0.97,
+        "Amount": 15.73,
+        "AmountPerUnit": 0.98,
         "Unit": "pieces",
         "ItemCosts": [
           {
@@ -44840,7 +44848,7 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -44864,7 +44872,7 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -44912,7 +44920,7 @@
               "Group": "filling"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -45104,7 +45112,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -45128,12 +45136,12 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Eggs",
               "Price": 5.48,
               "Quantity": 12.0,
               "Unit": "whole",
-              "Source": "7Fresh",
+              "Source": "Tonyon supermarket",
               "Extra": "Cage eggs and 600g"
             },
             "Amount": 0.4566666666666667,
@@ -45152,21 +45160,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 2.526666666666667,
+            "Amount": 2.6666666666666665,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "0.97 per unit*",
+        "CostString": "0.98 per unit*",
         "ExclusionsString": "Excluding Salt and Pepper"
       }
     },
@@ -45430,7 +45438,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -45502,7 +45510,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -45962,8 +45970,8 @@
         }
       ],
       "Cost": {
-        "Amount": 12.3,
-        "AmountPerUnit": 1.23,
+        "Amount": 14.16,
+        "AmountPerUnit": 1.42,
         "Unit": "light pizzas",
         "ItemCosts": [
           {
@@ -46049,15 +46057,15 @@
               "Group": "dough"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.63,
+            "Amount": 1.56,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -46097,7 +46105,7 @@
               "Group": "topping"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Potatoes",
               "Price": 4.99,
               "Quantity": 1.0,
@@ -46121,15 +46129,15 @@
               "Group": "topping"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.63,
+            "Amount": 1.56,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -46169,7 +46177,7 @@
               "Group": "topping"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -46287,7 +46295,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "1.23 per unit*",
+        "CostString": "1.42 per unit*",
         "ExclusionsString": "Excluding Fresh rosemary"
       }
     },
@@ -46468,8 +46476,8 @@
         }
       ],
       "Cost": {
-        "Amount": 18.2,
-        "AmountPerUnit": 2.6,
+        "Amount": 18.34,
+        "AmountPerUnit": 2.62,
         "Unit": "pies",
         "ItemCosts": [
           {
@@ -46507,7 +46515,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-21T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Chicken thigh",
               "Price": 11.99,
               "Quantity": 1.0,
@@ -46531,7 +46539,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Leeks",
               "Price": 2.99,
               "Quantity": 1.0,
@@ -46603,7 +46611,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Milk",
               "Price": 3.98,
               "Quantity": 2.0,
@@ -46699,21 +46707,21 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-04T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Puff pastry",
-              "Price": 3.79,
+              "Price": 4.0,
               "Quantity": 6.0,
               "Unit": "whole",
-              "Source": "Aldi",
+              "Source": "Woolworths",
               "Extra": ""
             },
-            "Amount": 2.526666666666667,
+            "Amount": 2.6666666666666665,
             "Success": true,
             "Reason": "",
             "Extra": ""
           }
         ],
-        "CostString": "2.6 per unit",
+        "CostString": "2.62 per unit",
         "ExclusionsString": ""
       }
     },
@@ -46955,7 +46963,7 @@
               "Group": "marinade"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -47051,7 +47059,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -47075,7 +47083,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -47448,8 +47456,8 @@
         }
       ],
       "Cost": {
-        "Amount": 6.91,
-        "AmountPerUnit": 2.3,
+        "Amount": 8.09,
+        "AmountPerUnit": 2.7,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -47535,7 +47543,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Brown onions",
               "Price": 1.99,
               "Quantity": 1.0,
@@ -47559,15 +47567,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cucumber",
-              "Price": 2.38,
+              "Price": 1.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Tonyon Warehouse",
+              "Source": "Yonghui",
               "Extra": ""
             },
-            "Amount": 0.6800000000000006,
+            "Amount": 0.5685714285714292,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -47655,15 +47663,15 @@
               "Group": "dressing"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.875,
+            "Amount": 2.1666666666666647,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -47741,7 +47749,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "2.3 per serve",
+        "CostString": "2.7 per serve",
         "ExclusionsString": ""
       }
     },
@@ -48036,8 +48044,8 @@
         }
       ],
       "Cost": {
-        "Amount": 15.39,
-        "AmountPerUnit": 7.7,
+        "Amount": 16.32,
+        "AmountPerUnit": 8.16,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -48171,15 +48179,15 @@
               "Group": "spice paste"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.21,
+            "Amount": 0.5200000000000005,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -48243,7 +48251,7 @@
               "Group": "spice paste"
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Red onion",
               "Price": 3.88,
               "Quantity": 1.0,
@@ -48315,7 +48323,7 @@
               "Group": "spice paste"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -48403,15 +48411,15 @@
               "Group": "curry"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Olive oil",
-              "Price": 14.0,
-              "Quantity": 1.0,
+              "Price": 13.0,
+              "Quantity": 0.375,
               "Unit": "litre",
               "Source": "Woolworths",
-              "Extra": "Worst quality available."
+              "Extra": "Decent quality"
             },
-            "Amount": 0.42,
+            "Amount": 1.0399999999999996,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -48491,7 +48499,7 @@
               "Group": "curry"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Fresh coriander",
               "Price": 1.48,
               "Quantity": 15.0,
@@ -48553,7 +48561,7 @@
             "Extra": ""
           }
         ],
-        "CostString": "7.7 per serve*",
+        "CostString": "8.16 per serve*",
         "ExclusionsString": "Excluding Red chilli powder, Red chilli powder and Fenugreek leaves"
       }
     },
@@ -48797,8 +48805,8 @@
         }
       ],
       "Cost": {
-        "Amount": 25.66,
-        "AmountPerUnit": 6.42,
+        "Amount": 25.55,
+        "AmountPerUnit": 6.39,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -49084,7 +49092,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Avocado",
               "Price": 3.0,
               "Quantity": 1.0,
@@ -49108,15 +49116,15 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Cucumber",
-              "Price": 2.38,
+              "Price": 1.99,
               "Quantity": 1.0,
               "Unit": "kg",
-              "Source": "Tonyon Warehouse",
+              "Source": "Yonghui",
               "Extra": ""
             },
-            "Amount": 0.6800000000000006,
+            "Amount": 0.5685714285714292,
             "Success": true,
             "Reason": "",
             "Extra": ""
@@ -49132,7 +49140,7 @@
               "Group": "rice flavouring"
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -49180,7 +49188,7 @@
               "Group": "garnish"
             },
             "Ingredient": {
-              "Date": "2025-03-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Fresh coriander",
               "Price": 1.48,
               "Quantity": 15.0,
@@ -49234,7 +49242,7 @@
             "Extra": "In ignored units: to taste"
           }
         ],
-        "CostString": "6.42 per serve",
+        "CostString": "6.39 per serve",
         "ExclusionsString": ""
       }
     },
@@ -49635,7 +49643,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-25T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Garlic",
               "Price": 14.99,
               "Quantity": 1.0,
@@ -49731,7 +49739,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-03-17T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Parmesan",
               "Price": 6.9,
               "Quantity": 200.0,
@@ -49779,7 +49787,7 @@
               "Group": ""
             },
             "Ingredient": {
-              "Date": "2025-02-10T00:00:00",
+              "Date": "2025-03-24T00:00:00",
               "Name": "Gnocchi",
               "Price": 3.2,
               "Quantity": 500.0,
