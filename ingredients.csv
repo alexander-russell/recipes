@@ -925,3 +925,34 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-03-24 00:00:00,Parmesan,6.9,200,grams,Woolies,Rectangle quality
 2025-03-24 00:00:00,Bread,2.5,20,whole,Woolworths,Whole refers to slices; 20 is a guess
 2025-03-24 00:00:00,Olive oil,13,0.375,litre,Woolworths,Decent quality
+2025-04-01 00:00:00,Red onion,3.88,1,kg,Tonyon Warehouse,
+2025-04-01 00:00:00,Brown onions,1.99,1,kg,Tonyon warehouse,Individual
+2025-04-01 00:00:00,Spinach,2.3,120,grams,Tonyon Warehouse,Quantity is super approximate but a big bunch
+2025-04-01 00:00:00,Fresh coriander,1.69,15,sprigs,Tonyon warehouse,Whole sprigs
+2025-04-01 00:00:00,Eschallots,8.99,1,kg,Tonyon Groceries Warehouse,
+2025-04-01 00:00:00,Red capsicum,3.99,1,kg,Tonyon warehouse,Red
+2025-04-01 00:00:00,Lime,5.68,1,kg,Tonyon supermarket,A little underripe
+2025-04-01 00:00:00,Lemon,3.38,1,kg,Tonyon Warehouse,Individual
+2025-04-01 00:00:00,Cucumber,5.99,1,kg,Tonyon Warehouse,
+2025-04-01 00:00:00,Milk,3.98,2,litres,Yonghui,Dairy farmers
+2025-04-01 00:00:00,Eggs,7.99,12,whole,Yonghui,Cage eggs and 700g
+2025-04-01 00:00:00,Pear,3.99,1,kg,Yonghui,
+2025-04-01 00:00:00,Carrots,2,1,kg,7Fresh,
+2025-04-01 00:00:00,Chicken breast,8.49,1,kg,Hong Meat,
+2025-04-01 00:00:00,Round steak,14.99,1,kg,Hong Meat,
+2025-04-01 00:00:00,Garlic,29.99,1,kg,Superfresh,Spanish
+2025-04-01 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
+2025-04-01 00:00:00,Cherry tomatoes,3.5,0.25,kg,Superfresh,Punnet
+2025-04-01 00:00:00,Oak lettuce,2.5,1,head,Superfresh,
+2025-04-01 00:00:00,Weet-bix,6,1.2,kg,Woolies,
+2025-04-01 00:00:00,Ice cream,6.5,2,litres,Woolies,Blue ribbon
+2025-04-01 00:00:00,Yoghurt,4.2,1,kg,Woolworths,Home brand
+2025-04-01 00:00:00,Thickened cream,4.5,600,ml,Woolies,
+2025-04-01 00:00:00,Mixed vegetables,3.6,0.5,kg,Woolies,
+2025-04-01 00:00:00,Vanilla beans,7,1,whole,Woolies,
+2025-04-01 00:00:00,Butter,7,500,grams,Woolworths,
+2025-04-01 00:00:00,Baking paper,3,15,metres,Woolies,Armada brand
+2025-04-01 00:00:00,Toothpaste,3.45,180,grams,Woolies,Colgate brand
+2025-04-01 00:00:00,Halloumi,4.8,180,grams,Woolworths,
+2025-04-01 00:00:00,White wraps,2.4,8,whole,Woolworths,Home brand medium
+2025-04-01 00:00:00,Souvlaki wraps,4.5,5,whole,Woolworths,

@@ -867,7 +867,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Beer",
       "Yield": {
         "Quantity": 0.0,
@@ -1666,6 +1666,18 @@
         {
           "Date": "2025-01-07T20:00:15.8735399+11:00",
           "Content": "Did maybe 600 grams of chicken and 1.5 jars of pesto, including one $5 and half a $2 jar. Delish."
+        },
+        {
+          "Date": "2025-03-31T18:01:09",
+          "Content": "Plan is to bake ingredients instead."
+        },
+        {
+          "Date": "2025-03-31T18:28:31",
+          "Content": "So 2 sweet potatoes and 2 brown onions peeled and chopped on board in oil, salt, pepper. Added maybe 300g cherry tomatoes to one of the trays then put in oven at 200 conventional, planning on an hour or so. Going to add maybe 4-6 cl garlic after 30 min. Water is boiling already will add pasta when veggies nearly there. Then veggies and pesto into pot while still hot stir in, then pasta, then done."
+        },
+        {
+          "Date": "2025-03-31T20:03:17",
+          "Content": "Way way way less effort than frying, was hardly in the kitchen. Ended up slicing the garlic and putting on the tray for last 10 min."
         }
       ],
       "Timers": [],
@@ -2782,7 +2794,7 @@
       "Category": "Stir Fries",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Bacon",
       "Yield": {
         "Quantity": 3.0,
@@ -3046,7 +3058,7 @@
       "Category": "Vegetables",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Potatoes",
       "Yield": {
         "Quantity": 10.0,
@@ -3837,7 +3849,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 0.0,
@@ -3938,7 +3950,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Passionfruit",
       "Yield": {
         "Quantity": 1.0,
@@ -4074,7 +4086,7 @@
       "Category": "Slices",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Chocolate",
       "Yield": {
         "Quantity": 0.0,
@@ -4151,7 +4163,7 @@
       "Category": "Tarts",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Lemon",
       "Yield": {
         "Quantity": 1.0,
@@ -4567,7 +4579,7 @@
       "Category": "Tarts",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Strawberry",
       "Yield": {
         "Quantity": 1.0,
@@ -4937,7 +4949,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 10.0,
@@ -5634,7 +5646,7 @@
       "Category": "Biscuits",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Chocolate",
       "Yield": {
         "Quantity": 24.0,
@@ -5674,7 +5686,7 @@
           "NameDetail": "",
           "Quantity": 165.0,
           "Unit": "grams",
-          "UnitDetail": "0.75 cup",
+          "UnitDetail": "@0.75 cup",
           "Group": ""
         },
         {
@@ -5690,7 +5702,7 @@
           "NameDetail": "",
           "Quantity": 255.0,
           "Unit": "grams",
-          "UnitDetail": "1.75 cup",
+          "UnitDetail": "@1.75 cup",
           "Group": ""
         },
         {
@@ -6209,7 +6221,7 @@
       "Category": "Rice",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Eggs",
       "Yield": {
         "Quantity": 2.0,
@@ -6349,7 +6361,7 @@
       "Category": "Biscuits",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 36.0,
@@ -6771,7 +6783,7 @@
       "Category": "Pies",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 4.0,
@@ -7303,7 +7315,7 @@
       "Category": "Muffins",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Apple",
       "Yield": {
         "Quantity": 12.0,
@@ -7983,7 +7995,7 @@
       "Category": "Burgers",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Beef",
       "Yield": {
         "Quantity": 6.0,
@@ -8670,7 +8682,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 1.0,
@@ -8831,7 +8843,7 @@
       "Category": "Breads and Pastries",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 6.0,
@@ -9350,7 +9362,7 @@
       "Category": "Curries",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Coconut milk",
       "Yield": {
         "Quantity": 3.0,
@@ -9577,7 +9589,7 @@
       "Category": "Cakes",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "n/a",
       "Yield": {
         "Quantity": 1.0,
@@ -9748,7 +9760,7 @@
       "Category": "Ice Cream Toppings",
       "DateCreated": "",
       "DateRevised": "",
-      "cuisine": "",
+      "Cuisine": "",
       "Key": "Banana",
       "Yield": {
         "Quantity": 1.0,
@@ -13518,7 +13530,7 @@
         "Vegan": false,
         "GlutenFree": false
       },
-      "Note": "From \\href{https://www.amaltesepantry.com/oat-sultana-cookies/}{A Maltese Pastry}, though they attribute it to an instagram story on the Ottolenghi page and specifically credit Verna Lochmuller. This version of the recipe contains mistakes, including forgetting to add half the ingredients it calls for, notably the sultanas are never used in this sultana cookie recipe. I've made some substitutions because they were initially quite crunchy. Less sugar and lower cooking time. The jury is out on how long I should leave them on the tray before transferring to rack, next time.",
+      "Note": "From \\href{https://www.amaltesepantry.com/oat-sultana-cookies/}{A Maltese Pantry}, though they attribute it to an instagram story on the Ottolenghi page and specifically credit Verna Lochmuller. This version of the recipe contains mistakes, including forgetting to add half the ingredients it calls for, notably the sultanas are never used in this sultana cookie recipe. I've made some substitutions because they were initially quite crunchy. Less sugar and lower cooking time. The jury is out on how long I should leave them on the tray before transferring to rack, next time.",
       "Image": "Local",
       "Images": [],
       "Items": [
@@ -13670,6 +13682,10 @@
         {
           "Date": "2024-06-25T17:07:59.9298195+10:00",
           "Content": "Did several batches as though running a science experiment. Arrived at 170 degrees being best, but didn't actually write much down about the results, just the conditions. First tray 180 degrees, 10 min, 3 min on tray then to rack (still crunchy). Second tray 170 degrees, 10 min, but placed on upper rack of oven, 3 min on tray (\"delicious\", still crunchy). Third tray 170 degrees, 10 min, upper rack, 10 min on tray, rolled edge inward (no notes). Fourth tray 170 degrees, 10 min, upper rack, moved to cooling rack right away, no rolled edge (no notes). Fifth tray 170 degrees, 10 min, upper rack, 3 min on tray, strongly rolled edge (no notes). Assuming 3 min on tray is good, and rolled edge is maybe good. Also messed up browning the butter."
+        },
+        {
+          "Date": "2025-04-04T20:31:04",
+          "Content": "Doing tonight to eat tomorrow. Started a bit late may rush the fridge bit. Waited for butter to melt then did 7 min from there. Went light on the 1 tsp salt."
         }
       ],
       "Timers": [
@@ -14237,6 +14253,22 @@
         {
           "Date": "2024-10-26T19:43:20.2783298+11:00",
           "Content": "Did it without bacon again, used 1 very  large onion and 4 large cloves of garlic. Red kidney beans instead. And for tomato paste I had double concentrate from a tube. I burnt it by while doing dishes and it ended up tasty. The texturee of the red kidney beans isn't as satisfying in this."
+        },
+        {
+          "Date": "2025-03-26T19:34:05",
+          "Content": "Cooking tonight, vego as is often the case."
+        },
+        {
+          "Date": "2025-03-26T19:34:19",
+          "Content": "Using tinned butter beans."
+        },
+        {
+          "Date": "2025-03-26T19:49:00",
+          "Content": "Gonna add a splash of white wine before the stock for funsies."
+        },
+        {
+          "Date": "2025-03-26T19:59:20",
+          "Content": "Done."
         }
       ],
       "Timers": [
