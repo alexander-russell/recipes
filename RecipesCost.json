@@ -13415,6 +13415,10 @@
         {
           "Date": "2024-11-30T20:07:36.5923163+11:00",
           "Content": "Did a double batch today. 20min too long for the boiling, recipe should say keep an eye on them."
+        },
+        {
+          "Date": "2025-04-05T11:22:54",
+          "Content": "Doing a triple batch for bbq. Heaps of salt in the water. Cut potatoes into 4 pieces or 6 for the big ones, and deliberately bought small ones. Will do a little less than 20 mins. No chives."
         }
       ],
       "Timers": [
@@ -14006,7 +14010,28 @@
           "Content": "Bake for 15 minutes or until golden, set aside on tray for 5 minutes, cool on rack."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-04-04T20:48:07",
+          "Content": "Doing a double batch for bbq. Just gonna double the quantities and do it at once."
+        },
+        {
+          "Date": "2025-04-04T20:58:39",
+          "Content": "Beating the sugar and butter together pretty hard."
+        },
+        {
+          "Date": "2025-04-04T21:11:49",
+          "Content": "Gonna do them rolling tray. So first one goes in top rack, then 7.5 min later shift it to bottom rack put next ones in. Doing 175 to compensate and may give an extra min idk."
+        },
+        {
+          "Date": "2025-04-04T21:40:55",
+          "Content": "Never mind now I'm putting them on bottom rack first. I really thought the first lot were raw but they taste fine and are just a little soft. I think they'll be right for tomorrow."
+        },
+        {
+          "Date": "2025-04-04T22:05:47",
+          "Content": "They're all done, got atleast 48."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 5.52,
@@ -26532,7 +26557,7 @@
       "Yield": {
         "Quantity": 12.0,
         "Unit": "sausage sandwiches",
-        "Extra": "Makes plenty for 4 people"
+        "Extra": "Makes plenty for @4 people"
       },
       "Time": {
         "Minutes": 120.0,
@@ -26630,7 +26655,12 @@
           "Content": "Serve on park bench."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2025-04-06T08:54:45",
+          "Content": "Birthday sausage sizzle. Had maybe 15-20 people. Did 32 beef, 8 pork, 6 vego sausages. 5 onions, triple batch of potato salad and 2 loaves bread. It all went so could do more."
+        }
+      ],
       "Timers": [],
       "Cost": {
         "Amount": 10.65,
@@ -34142,6 +34172,14 @@
         {
           "Date": "2025-04-04T20:31:04",
           "Content": "Doing tonight to eat tomorrow. Started a bit late may rush the fridge bit. Waited for butter to melt then did 7 min from there. Went light on the 1 tsp salt."
+        },
+        {
+          "Date": "2025-04-04T22:25:01",
+          "Content": "Doing two trays at a time but haven't increased the time or anything, may do so. First tray out looks pretty raw."
+        },
+        {
+          "Date": "2025-04-04T23:02:43",
+          "Content": "Done them all."
         }
       ],
       "Timers": [
@@ -49288,12 +49326,12 @@
       "Cuisine": "Italian",
       "Key": "",
       "Yield": {
-        "Quantity": 0.0,
+        "Quantity": 8.0,
         "Unit": "serves",
         "Extra": ""
       },
       "Time": {
-        "Minutes": 0.0,
+        "Minutes": 120.0,
         "Extra": ""
       },
       "Difficulty": 6,
@@ -49308,7 +49346,7 @@
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From cucumber salad man on youtube, via Claudia. Says gluten free because we did it gf/df first time, just sub the cream, butter and gnocchi.",
+      "Note": "From man on youtube (not cucumber salad guy though), via Claudia. Says gluten free because we did it gf/df first time, just sub the cream, butter and gnocchi.",
       "Image": "",
       "Images": [],
       "Items": [
@@ -49471,6 +49509,10 @@
         {
           "Date": "2025-03-17T17:52:49",
           "Content": "Started like 20 min ago. Cut onions into strips lengthways, thinly."
+        },
+        {
+          "Date": "2025-04-06T17:57:39",
+          "Content": "Starting now, half batch (but like this recipe is actually a double batch so)."
         }
       ],
       "Timers": [
@@ -49485,7 +49527,7 @@
       ],
       "Cost": {
         "Amount": 34.05,
-        "AmountPerUnit": 0.0,
+        "AmountPerUnit": 4.26,
         "Unit": "serves",
         "ItemCosts": [
           {
@@ -49849,7 +49891,7 @@
             "Extra": "In ignored units: a handful"
           }
         ],
-        "CostString": "0 per serve*",
+        "CostString": "4.26 per serve*",
         "ExclusionsString": "Excluding Shallots"
       }
     }
