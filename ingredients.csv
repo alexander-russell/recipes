@@ -956,3 +956,57 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-04-01 00:00:00,Halloumi,4.8,180,grams,Woolworths,
 2025-04-01 00:00:00,White wraps,2.4,8,whole,Woolworths,Home brand medium
 2025-04-01 00:00:00,Souvlaki wraps,4.5,5,whole,Woolworths,
+2025-04-04 00:00:00,Choc chips,6,200,grams,Coles,Nestle brand
+2025-04-04 00:00:00,Sausages,5.9,8,whole,Coles,Beef thin sausages
+2025-04-04 00:00:00,Sausages,11.5,24,whole,Coles,Mixed meat thin sausages
+2025-04-04 00:00:00,Tomato sauce,1.99,500,ml,Aldi,Home brand
+2025-04-04 00:00:00,Bbq sauce,1.99,500,ml,Aldi,
+2025-04-04 00:00:00,Butter,7,500,grams,Aldi,
+2025-04-04 00:00:00,Bread,5.1,20,whole,Bakers delight,Whole refers to slices; 20 is a guess
+2025-04-04 00:00:00,Lemon,5.99,1,kg,7Fresh,Individual
+2025-04-04 00:00:00,Potatoes,4.99,1,kg,7Fresh,Normal
+2025-04-04 00:00:00,Brown onions,1.99,1,kg,Tonyon warehouse,Individual
+2025-04-06 00:00:00,Chicken breast,7.99,0.5,kg,Woolworths,
+2025-04-06 00:00:00,Chicken breast,8.5,1,kg,Hong meat,
+2025-04-06 00:00:00,Gnocchi,3.25,500,grams,Woolworths,
+2025-04-07 00:00:00,Lemon,2.88,1,kg,Tonyon Warehouse,Individual
+2025-04-07 00:00:00,Spring onions,1.59,10,whole,Tonyon Warehouse,
+2025-04-07 00:00:00,Brown onions,1.99,1,kg,Tonyon warehouse,Individual
+2025-04-07 00:00:00,Red onion,3.88,1,kg,Tonyon Warehouse,
+2025-04-07 00:00:00,Chow mein noodles,3.28,500,grams,Tonyon warehouse,
+2025-04-07 00:00:00,Bean sprouts,1.28,400,grams,Tonyon warehouse,Bell Beans brand
+2025-04-07 00:00:00,Broccoli,2.99,1,kg,Tonyon warehouse,
+2025-04-07 00:00:00,Cucumber,6.8,1,kg,Tonyon Warehouse,
+2025-04-07 00:00:00,Cinnamon sticks,2.25,8,whole,Tonyon supermarket,I counted
+2025-04-07 00:00:00,Milk,3.98,2,litres,Yonghui,Dairy farmers
+2025-04-07 00:00:00,Potatoes,4.99,1,kg,7Fresh,Normal
+2025-04-07 00:00:00,Tomato,6.99,1,kg,7Fresh,Generic
+2025-04-07 00:00:00,Beef mince,9.99,1,kg,Hong meat,Standard
+2025-04-07 00:00:00,Mascarpone,4.8,250,grams,Woolworths,
+2025-04-07 00:00:00,Parmesan,6.9,200,grams,Woolies,Rectangle quality
+2025-04-07 00:00:00,Pizza cheese,9.9,700,grams,Woolworths,White label brand
+2025-04-15 00:00:00,Lemon,2.38,1,kg,Tonyon Warehouse,Individual
+2025-04-15 00:00:00,Eschallots,8.99,1,kg,Tonyon Groceries Warehouse,
+2025-04-15 00:00:00,Milk,3.99,2,litres,Tonyon Supermarket,Norco
+2025-04-15 00:00:00,Bananas,2.99,1,kg,Tonyon Supermarket,
+2025-04-15 00:00:00,Ginger,23.8,1,kg,Tonyon Supermarket,
+2025-04-15 00:00:00,Chinese celery,1.8,1,whole,Yonghui,Quite large 10 stems
+2025-04-15 00:00:00,Spinach,1.85,120,grams,Yonghui,Quantity is super approximate but a big bunch
+2025-04-15 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
+2025-04-15 00:00:00,Eggs,7.49,12,whole,Freshtown,Cage eggs and 600g
+2025-04-15 00:00:00,Spaghetti,2.99,500,grams,7Fresh,Divella brand
+2025-04-15 00:00:00,Brown onions,3.99,1,kg,7Fresh,Individual
+2025-04-15 00:00:00,Potatoes,4.99,1,kg,7Fresh,Normal
+2025-04-15 00:00:00,Cherry tomatoes,5.99,0.5,kg,Superfresh,Punnet
+2025-04-15 00:00:00,Parsley,1.5,10,sprigs,Superfresh,one whole is one sprig
+2025-04-15 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-04-15 00:00:00,Pork mince,7.99,1,kg,Hong meat,
+2025-04-15 00:00:00,Beef mince,9.99,1,kg,Hong meat,Standard
+2025-04-15 00:00:00,Tomato passata,2.2,680,grams,Woolworths,La Gina brand
+2025-04-15 00:00:00,Coconut milk,2.3,400,ml,Woolworths,TCC brand
+2025-04-15 00:00:00,Tomato paste,1.4,500,grams,Woolworths,Essentials brand
+2025-04-15 00:00:00,Ice cream,6,2,litres,Woolies,Bulla brand
+2025-04-15 00:00:00,Thickened cream,2.8,300,ml,Woolies,
+2025-04-15 00:00:00,Frozen garlic bread,2.3,2,whole,Woolworths,450g
+2025-04-15 00:00:00,Feta,3.5,200,grams,Woolworths,Homebrand
+2025-04-15 00:00:00,Bread,2.8,20,whole,Woolworths,Whole refers to slices; 20 is a guess
