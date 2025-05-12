@@ -1010,3 +1010,62 @@ Date,Name,Price,Quantity,Unit,Source,Extra
 2025-04-15 00:00:00,Frozen garlic bread,2.3,2,whole,Woolworths,450g
 2025-04-15 00:00:00,Feta,3.5,200,grams,Woolworths,Homebrand
 2025-04-15 00:00:00,Bread,2.8,20,whole,Woolworths,Whole refers to slices; 20 is a guess
+2025-04-18 00:00:00,Squid,12.99,1,kg,Eastwood Seafood,Low quality option and whole
+2025-04-22 00:00:00,Beefsteak tomato,5.99,1,kg,Freshtown,
+2025-04-22 00:00:00,Rice noodles,3.8,1000,grams,7Fresh,Tangled
+2025-04-22 00:00:00,Gai lan,1.5,8,whole,New yen yen,
+2025-05-01 00:00:00,Choc chips,4.8,200,grams,Woolworths,"Nestle brand, on sale"
+2025-05-01 00:00:00,Choc chips,6,200,grams,Woolworths,Nestle brand
+2025-05-01 00:00:00,Chicken breast,19.99,1,kg,Woolworths,Macro free
+2025-05-05 00:00:00,Orange,2.28,1,kg,Tonyon Warehouse,
+2025-05-05 00:00:00,Red capsicum,4.68,1,kg,Tonyon warehouse,Red
+2025-05-05 00:00:00,Lemon,2.99,1,kg,Tonyon Warehouse,Individual
+2025-05-05 00:00:00,Spring onions,1.59,10,whole,Tonyon Warehouse,
+2025-05-05 00:00:00,Fresh coriander,1.69,15,sprigs,Tonyon warehouse,Whole sprigs
+2025-05-05 00:00:00,Carrots,1.48,1,kg,Tonyon warehouse,
+2025-05-05 00:00:00,Bean sprouts,1.28,400,grams,Tonyon warehouse,Bell Beans brand
+2025-05-05 00:00:00,Brown onions,1.99,1,kg,Tonyon warehouse,Individual
+2025-05-05 00:00:00,Broccoli,2.99,1,kg,Tonyon warehouse,
+2025-05-05 00:00:00,Milk,3.98,2,litres,Yonghui,Dairy farmers milk
+2025-05-05 00:00:00,Tomato,5.99,1,kg,Yonghui,Generic
+2025-05-05 00:00:00,Chow mein noodles,3.48,500,grams,Yonghui,
+2025-05-05 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
+2025-05-05 00:00:00,Avocado,3,1,whole,7Fresh,Shepard
+2025-05-05 00:00:00,Chicken thigh,11.99,1,kg,Hong meat,
+2025-05-05 00:00:00,Boneless pork shoulder,8.99,1,kg,S&Y butchery,Boneless skin-on
+2025-05-05 00:00:00,Cherry tomatoes,4.99,0.5,kg,Superfresh,Punnet
+2025-05-05 00:00:00,Basil,3.99,1,whole,Superfresh,1 big bunch
+2025-05-05 00:00:00,Gnocchi,3.2,500,grams,Superfresh,
+2025-05-05 00:00:00,Cumin,4.49,60,grams,Superfresh,G-Fresh brand
+2025-05-05 00:00:00,Jalapeno,30,1,kg,Woolies,One was 22g
+2025-05-05 00:00:00,Olive oil,12,1,litre,Woolworths,Low quality
+2025-05-05 00:00:00,Sour cream,3.4,300,grams,Woolworths,
+2025-05-05 00:00:00,Thickened cream,4.7,600,ml,Woolies,
+2025-05-05 00:00:00,Weet-bix,6,1.2,kg,Woolies,
+2025-05-05 00:00:00,Mozzarella cheese,6,350,grams,Woolies,Pear mozzarella whole
+2025-04-17 00:00:00,Squid,39.99,1,kg,Mings Seafood Market,Better quality option
+2025-04-17 00:00:00,Squid,13.99,1,kg,Mings Seafood Market,Low quality option and whole
+2025-04-17 00:00:00,Squid,45.99,1,kg,Eastwood Seafood,Better quality option and whole
+2025-04-18 00:00:00,Squid,42.99,1,kg,Mings Seafood Market,Better quality option and whole
+2025-04-18 00:00:00,Squid,13.99,1,kg,Mings Seafood Market,Low quality option and whole
+2025-05-12 00:00:00,Cucumber,2.99,1,kg,Tonyon Warehouse,
+2025-05-12 00:00:00,Tomato,5.99,1,kg,Tonyon Warehouse,Generic
+2025-05-12 00:00:00,Sweet potato,1.28,1,kg,Tonyon Warehouse,Normal
+2025-05-12 00:00:00,Eschallots,8.99,1,kg,Tonyon Groceries Warehouse,
+2025-05-12 00:00:00,Potatoes,2.99,1,kg,Tonyon Warehouse,Normal
+2025-05-12 00:00:00,Red onion,3.88,1,kg,Tonyon Warehouse,
+2025-05-12 00:00:00,Broccoli,2.99,1,kg,Tonyon warehouse,
+2025-05-12 00:00:00,Red capsicum,4.68,1,kg,Tonyon warehouse,Red
+2025-05-12 00:00:00,Milk,3.98,2,litres,Yonghui,Dairy farmers milk
+2025-05-12 00:00:00,Chinese lettuce,1.75,1,whole,Yonghui,"Undecided on unit, this is like cos."
+2025-05-12 00:00:00,Oyster sauce,2.98,700,grams,Yonghui,Haday brand
+2025-05-12 00:00:00,Spinach,1.85,120,grams,Yonghui,Quantity is super approximate but a big bunch
+2025-05-12 00:00:00,Garlic,14.99,1,kg,Freshtown,Spanish
+2025-05-12 00:00:00,Avocado,2,1,whole,7Fresh,Shepard
+2025-05-12 00:00:00,Parmesan,10.99,200,grams,Superfresh,Rind quality
+2025-05-12 00:00:00,Gnocchi,3.2,500,grams,Superfresh,
+2025-05-12 00:00:00,Rump steak,16.99,1,kg,Hong meat,
+2025-05-12 00:00:00,Chicken breast,8.49,1,kg,Hong meat, 
+2025-05-12 00:00:00,Butter,7,500,grams,Woolworths,
+2025-05-12 00:00:00,Frozen potato chips,4.6,900,grams,Woolworths,Birds eye straight cut
+2025-05-12 00:00:00,White wraps,2.4,8,whole,Woolworths,Home brand medium

@@ -344,7 +344,12 @@
           "Content": "Wrap in clingwrap and chill in fridge."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-05-10T22:07:56",
+          "Content": "Should note not to mix completely. Also, easy to clean off counter by scrubbing with flour."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -4568,7 +4573,12 @@
           "Content": "Add liquid mix to dry mix, then add butter and combine"
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-05-10T22:16:36",
+          "Content": "For mothers day I'm doing a double batch for a tart w/ less sugar, instead of 200g each, I'm doing 135 icing sugar and 265 ground almond."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -4746,6 +4756,18 @@
         {
           "Date": "2025-01-22T17:18:53.9001544+11:00",
           "Content": "Gave it 30 minutes instead, its quite full. Then brushed with egg/milk mix and under grill for a couple mins. Proportions worked perfectly for 1 ~20cm tart. Tiny bit of left over pastry."
+        },
+        {
+          "Date": "2025-05-10T22:17:21",
+          "Content": "Baking blind night before."
+        },
+        {
+          "Date": "2025-05-10T22:55:42",
+          "Content": "And did it for 15 min instead of 10."
+        },
+        {
+          "Date": "2025-05-11T08:53:45",
+          "Content": "Ended up using 3 of the 4 pears but with lots of wastage. Went maybe as much as 3mm instead of slicing thinly, maybe it'll be nice to have some substance."
         }
       ],
       "Timers": [],
@@ -5878,7 +5900,7 @@
           "Content": "Dice onions."
         },
         {
-          "Content": "Fry onion on low-medium heat until caramelised."
+          "Content": "Fry onion on low-medium heat until lightly browned."
         },
         {
           "Content": "Preheat oven to 200 (180 fan-forced)."
@@ -5908,7 +5930,24 @@
           "Content": "Bake at 200 for 25 minutes, until cheese is golden."
         }
       ],
-      "Diary": null,
+      "Diary": [
+        {
+          "Date": "2025-05-05T17:09:40",
+          "Content": "Cooking tonight, looks like I have everything."
+        },
+        {
+          "Date": "2025-05-05T17:20:56",
+          "Content": "Added a small red capsicum."
+        },
+        {
+          "Date": "2025-05-05T17:34:21",
+          "Content": "The steps get a bit confusing after frying the chicken, could maybe be cleared up with redesign. Added extra cumin and paprika to chicken, two batches."
+        },
+        {
+          "Date": "2025-05-05T20:03:52",
+          "Content": "Ended up cooking it for 30 minutes or so instead, and next time cheese should go below the sauce. Really good and shockingly filling, we each ate only 1 of 10 wraps. Pico de gallo was 2 tomatoes, 0.5 red onion, 3 sprigs or so coriander, diced and mixed in bowl with pepper. Guac was 1 avocado with salt pepper cumin garlic powder onion powder paprika, mashed together with lime juice over top."
+        }
+      ],
       "Timers": [],
       "Cost": null
     },
@@ -7826,6 +7865,10 @@
         {
           "Date": "2024-12-09T19:26:00.2004853+11:00",
           "Content": "And it was tastier than whatever I did last time."
+        },
+        {
+          "Date": "2025-04-23T18:40:19",
+          "Content": "Electric frypan double batch vegetarian."
         }
       ],
       "Timers": [
@@ -9165,6 +9208,38 @@
         {
           "Date": "2024-03-25T19:41:01.2201696+11:00",
           "Content": "Did a veggie version today. Just skipped chicken, and wombok. Much cheaper, easier to source, less wasted wombok. Missing a bit, but still delicious."
+        },
+        {
+          "Date": "2025-05-11T19:06:47",
+          "Content": "Cooking tonight."
+        },
+        {
+          "Date": "2025-05-11T19:07:02",
+          "Content": "Iceberg instead of wombok, and 250 g noodles instead of 200. Recipe steps could be simplified I think, why not just put noodles in pot of boiling water?"
+        },
+        {
+          "Date": "2025-05-11T19:25:32",
+          "Content": "Just gonna add sauce to chicken in pan."
+        },
+        {
+          "Date": "2025-05-11T19:35:42",
+          "Content": "Skipping bean sprouts too lazy. Mincing garlic and only 3 cl."
+        },
+        {
+          "Date": "2025-05-11T19:38:09",
+          "Content": "Chicken first then garlic. Mixed water into sauce."
+        },
+        {
+          "Date": "2025-05-11T19:45:23",
+          "Content": "Pan is immediately way too overloaded. Probably should do chicken in 2 batches them remove to do the rest, then add back with noodles. Don't think water needed in the sauce and could round sauce up."
+        },
+        {
+          "Date": "2025-05-11T19:47:40",
+          "Content": "And I should have cut the chicken thinner too"
+        },
+        {
+          "Date": "2025-05-11T20:53:13",
+          "Content": "Actually might be nicer with chicken breast instead. And carrot is overcooked. And too many noodles."
         }
       ],
       "Timers": [],
@@ -9573,6 +9648,18 @@
         {
           "Date": "2024-12-16T18:14:39.3219645+11:00",
           "Content": "Skipped cornflour and simmered an extra 8 minutes."
+        },
+        {
+          "Date": "2025-04-19T19:21:39",
+          "Content": "Making tonight. Went light on turmeric heavy on all the spices. The onion is tiny, luck of draw. I don't see why the onions need 5 mins, nor the garlic/ginger 3 mins. Both will be less."
+        },
+        {
+          "Date": "2025-04-19T19:25:16",
+          "Content": "Yep fried onions like 3 minutes, then ginger/garlic for 30 secs, then tomato paste, then spices, then immediately the chickpeas (didn't completely drain the first one so the spices wouldn't burn). Should've waited after adding tomato paste. Went heavvy on tomato paste too. Planning on skipping cornflour in favour of a longer simmer until the consistency is reached."
+        },
+        {
+          "Date": "2025-04-19T21:54:21",
+          "Content": "Didn't need any extra time. Also skipped spinach. And probably the tastiest one I've ever made."
         }
       ],
       "Timers": [
@@ -12201,7 +12288,20 @@
           "Content": "Assemble at table."
         }
       ],
-      "Diary": [],
+      "Diary": [
+        {
+          "Date": "2025-04-20T17:19:36",
+          "Content": "Making today with 400g pork 100g beef bought separately. Planning on following recipe. Next time I want to put 2 things of passata in and send it for like an hour."
+        },
+        {
+          "Date": "2025-04-20T17:25:44",
+          "Content": "Using garlic mincer."
+        },
+        {
+          "Date": "2025-04-20T17:56:40",
+          "Content": "Maybe a little extra garlic in the sauce, and sliced not diced."
+        }
+      ],
       "Timers": [
         {
           "Name": "Garlic bread",
@@ -17518,6 +17618,10 @@
         {
           "Date": "2024-09-26T23:21:09.4166166+10:00",
           "Content": "Not convinced that 5 minutes was enough for the cherry tomatoes, the're not very softened. Seems fine but tomatoes are a little bit harder than I'd like. Needs more gnocchi relative to tomatoes. I think to balance the extra gnocchi I would use the whole jar of passata, and maybe more mozzarella. I could add more tomatoes but I don't think I will. Next time I should use a large pot instead of a frying pan."
+        },
+        {
+          "Date": "2025-05-08T19:14:25",
+          "Content": "Makin it."
         }
       ],
       "Timers": [
