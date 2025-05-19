@@ -851,6 +851,10 @@
         {
           "Date": "2024-10-31T20:23:10.8953637+11:00",
           "Content": "Not sure when I finished but before 19:45. Was very tasty, bacon tasted like shapes crackers. Forgot peas but went back and made some real speedy."
+        },
+        {
+          "Date": "2025-05-14T09:30:00",
+          "Content": "Doing 1kg worth of schnitzel, used 3 eggs and had to refill breadcrumb bowl once. Did prep in 25 minutes in morning then fridged to cook in evening. Plan is to do potatoes into 4-6 pieces, cover with pre-boiled water and then start preheating frypans."
         }
       ],
       "Timers": [
@@ -9961,9 +9965,9 @@
       "Cuisine": "Mexican",
       "Key": "Avocado",
       "Yield": {
-        "Quantity": 6.0,
+        "Quantity": 8.0,
         "Unit": "Tacos",
-        "Extra": ""
+        "Extra": "with spare"
       },
       "Time": {
         "Minutes": 40.0,
@@ -9973,15 +9977,15 @@
       "Bulk": true,
       "Favourite": false,
       "Retired": false,
-      "Tested": false,
-      "NeedsRevision": true,
+      "Tested": true,
+      "NeedsRevision": false,
       "Dietary": {
         "Vegetarian": false,
         "OptionallyVegetarian": false,
         "Vegan": false,
         "GlutenFree": true
       },
-      "Note": "From Claudia, who has cooked it twice for dinner in Eastwood at time of writing. Written up in a handy recipe email for me to write down.",
+      "Note": "From Claudia, who has cooked it twice for dinner in Eastwood at time of writing. Written up in a handy recipe email for me to copy.",
       "Image": "Local",
       "Images": [],
       "Items": [
@@ -10028,7 +10032,7 @@
         {
           "Name": "White wraps",
           "NameDetail": "",
-          "Quantity": 6.0,
+          "Quantity": 8.0,
           "Unit": "whole",
           "UnitDetail": "",
           "Group": ""
@@ -10171,6 +10175,14 @@
         {
           "Date": "2025-02-11T18:40:18",
           "Content": "Just removed aioli from ingredients, maybe add garlic?"
+        },
+        {
+          "Date": "2025-05-15T17:24:27",
+          "Content": "I have a 900g steak instead, so two pans happening and maybe 3+ batches. It is seasoned and veggies are diced, but I have to leave in just over an hour so will be speeding things."
+        },
+        {
+          "Date": "2025-05-16T00:31:44",
+          "Content": "Yeah cut steak into 3 pieces across 2 pans. Had the heat on max but the seasoning burnt right away so i dropped the heat and put lid on. For the last piece I cooked it all the way through - it tasted worse. So I think high heat no problem. I only used half a lime in the sauce and more spices. Doesn't need a jar. Pretty delicious."
         }
       ],
       "Timers": [],
@@ -20049,6 +20061,14 @@
         {
           "Date": "2025-04-06T19:21:37",
           "Content": "Should add a step to make toast. I also reckon bring back to a simmer after gnocchi is added. And also I did the simmer covered until the final minutes dunno if needed."
+        },
+        {
+          "Date": "2025-05-18T19:18:07",
+          "Content": "Making 8 serves worth tonight because I doubled the recipe when I typed it up and we accidentally bought 8 serves worth. Chicken more or less frozen, fried separately in pan. Did 10 cups stock. Cayenne pepper involved. Spices are freehand poured over butterflied chicken on both sides."
+        },
+        {
+          "Date": "2025-05-19T12:30:49",
+          "Content": "Should have put more stock/liquid in. Probably too much chicken. Definitely put too much cayenne. Wouldn't use spinach next time. Skipped the butter. Used maybe 1 cup cream. Crushed garlic in, sliced eschallots lengthwise thinly. Frozen chicken worked out fine."
         }
       ],
       "Timers": [
