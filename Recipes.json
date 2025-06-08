@@ -20378,6 +20378,274 @@
         }
       ],
       "Cost": null
+    },
+    {
+      "Name": "Apple Cinnamon Pancakes",
+      "Slug": "apple-cinnamon-pancakes",
+      "Type": "Breakfast",
+      "Category": "Sweet",
+      "DateCreated": "2025-04-13",
+      "DateRevised": "2025-06-08",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 2.0,
+        "Unit": "serves",
+        "Extra": ""
+      },
+      "Time": {
+        "Minutes": 0.0,
+        "Extra": ""
+      },
+      "Difficulty": 1,
+      "Bulk": true,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": true,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": false
+      },
+      "Note": "I'm aware that this barely consitutes a recipe but that doesn't change how nice it was to sit on the balcony on a pretty mid-autumn day with a bowl of pancakes. This is a bid to recreate apple cinnamon pancakes once served on Wally's Walk at uni between classes by a fundraiser the Pacific Islander society were running. They had like 10 different topping options but this was the right choice.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Red apples",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Pancake mixture",
+          "NameDetail": "",
+          "Quantity": 325.0,
+          "Unit": "grams",
+          "UnitDetail": "@1 bottle",
+          "Group": ""
+        },
+        {
+          "Name": "Cinnamon",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "or so",
+          "Group": ""
+        },
+        {
+          "Name": "Whipped cream",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to serve",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Peel and core apples then slice into 5mm thin arcs."
+        },
+        {
+          "Content": "Add apples to pot on medium high heat with about 1cm of water and cinnamon, simmer until water is gone and apples are soft, stir now and again."
+        },
+        {
+          "Content": "Make pancake batter and fry them, then plate up."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2025-04-13T16:00:00",
+          "Content": "Made with 3 medium apples that were very old. Free poured the cinnamon. Did not use the whole pancake batter, was sharing it and there were leftovers for the next day."
+        }
+      ],
+      "Timers": [],
+      "Cost": null
+    },
+    {
+      "Name": "Pan Fried Snapper",
+      "Slug": "pan-fried-snapper",
+      "Type": "Main",
+      "Category": "Meat",
+      "DateCreated": "2025-06-08",
+      "DateRevised": "2025-06-08",
+      "Cuisine": "",
+      "Key": "",
+      "Yield": {
+        "Quantity": 1.0,
+        "Unit": "serves",
+        "Extra": "or two less hungry people"
+      },
+      "Time": {
+        "Minutes": 50.0,
+        "Extra": ""
+      },
+      "Difficulty": 9,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": false,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From Sydney Seafood School's Seafood Specialist course which I took in blatant disregard of their more appropriate Seafood Beginners course. Cooked in a group of 4 with Lorenzo and a previous headmaster of the college next door to the college I lived in.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Long grain rice",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 1.5,
+          "Unit": "cup",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Snapper",
+          "NameDetail": "scaled and gutted",
+          "Quantity": 700.0,
+          "Unit": "grams",
+          "UnitDetail": "whole",
+          "Group": ""
+        },
+        {
+          "Name": "Butter",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "a piece",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Lemon",
+          "NameDetail": "",
+          "Quantity": 0.5,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Parsley",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "sprigs",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Capers",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "White wine",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Salt",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Pepper",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to taste",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Mayonnaise",
+          "NameDetail": "",
+          "Quantity": 0.0,
+          "Unit": "to serve",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Make rice: Water and rice in pot medium high, bring to simmer then reduce to medium low, cover for 13 minutes, then remove from burner 10 minutes, then uncover and fluff."
+        },
+        {
+          "Content": "Make cuts across the fish below the head and above the tail, down to bone."
+        },
+        {
+          "Content": "Make a shallow cut along one side of the spine of the fish moving from head to tail, about 1cm. Make a second pass going deeper about 1inch."
+        },
+        {
+          "Content": "With hand flat on the fish, cut flat along the backbone from tail to head, staying close to the spine and sawing through the ribcage."
+        },
+        {
+          "Content": "Repeat on other side"
+        },
+        {
+          "Content": "For both sides, remove the ribcage by make a curved cut around it. Then with flat fingers and gently, feel for bones and remove with tweezers. Don't twist the bones and pull the tweezers along the fish rather than away from it."
+        },
+        {
+          "Content": "Get all the little ingredients ready, juice lemon, chop parsley, measure the rest into handy bowls."
+        },
+        {
+          "Content": "On medium-high heat in oil, melt butter then add fish skin side down and fry for 2-3 minutes until skin crisp and flesh turning white."
+        },
+        {
+          "Content": "Flip, add parsley, capers, wine and lemon juice. Shake pan and fry another 1 minute."
+        },
+        {
+          "Content": "Serve to plate and pour over pan juices."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2025-06-08T22:52:54",
+          "Content": "Took me from 18:32 to 19:18. Ended up with 270g of meat after filleting. It was originally 660g, no idea what it weighed after gutting but before filleting. I thought the fish tasted pretty plain to be honest, and maybe I used too much lemon juice and capers, plus I think my cask wine needs to be refreshed. The bones were tough to get off, tore the fish apart a little more each time."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Fry 1",
+          "Seconds": 180
+        },
+        {
+          "Name": "Fry 2",
+          "Seconds": 60
+        }
+      ],
+      "Cost": null
     }
   ]
 }
