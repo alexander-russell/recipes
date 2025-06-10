@@ -18157,6 +18157,22 @@
         {
           "Date": "2024-11-29T13:12:21.6519973+11:00",
           "Content": "Cooked on 2024-11-28, used chicken stock powder. Measured 6 mushrooms at 30g eaach and 2 cups chopped. Kept some mushrooms to the side to garnish with."
+        },
+        {
+          "Date": "2025-06-09T17:11:07",
+          "Content": "It begins etc. Bought some extra mushrooms because cooking for an extra person who doesn't hate mushrooms."
+        },
+        {
+          "Date": "2025-06-09T17:14:12",
+          "Content": "error: this recipe doesnt specify stock"
+        },
+        {
+          "Date": "2025-06-09T17:17:44",
+          "Content": "Assuming 4 cups or so"
+        },
+        {
+          "Date": "2025-06-09T20:53:04",
+          "Content": "Ended up using maybe 5 cups of chicken stock from powder, taste tested to decide when to stop. Time is reasonable, and there's plenty of time to fry the mushrooms once the rice is up to the stock part. Very tasty, could definitely get away with more mushroom but no need to."
         }
       ],
       "Timers": [
@@ -20642,6 +20658,235 @@
         },
         {
           "Name": "Fry 2",
+          "Seconds": 60
+        }
+      ],
+      "Cost": null
+    },
+    {
+      "Name": "Thai Red Curry",
+      "Slug": "thai-red-curry",
+      "Type": "Main",
+      "Category": "Curries",
+      "DateCreated": "2025-05-25",
+      "DateRevised": "2025-06-10",
+      "Cuisine": "Thai",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": "only just"
+      },
+      "Time": {
+        "Minutes": 0.0,
+        "Extra": null
+      },
+      "Difficulty": 6,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{https://thewoksoflife.com/red-curry-chicken}{The Woks of Life} but cooked by Diya for Claudia and Kora who liked it so much they found out where she got the recipe, and then we made it no more than a week later. The curry paste maybe made the kitchen temporarily uninhabitable, Maesri don't mess around.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Chicken thigh",
+          "NameDetail": "or breast",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Cornflour",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Canola oil",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Oyster sauce",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": "marinade"
+        },
+        {
+          "Name": "Jasmine rice",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": null,
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": null,
+          "Group": "rice"
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "cm",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Thai red curry paste",
+          "NameDetail": "Maesri brand",
+          "Quantity": 65.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.5 tin",
+          "Group": null
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": null,
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Green beans",
+          "NameDetail": null,
+          "Quantity": 120.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Bamboo shoots",
+          "NameDetail": null,
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Fish sauce",
+          "NameDetail": null,
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": null,
+          "Group": null
+        },
+        {
+          "Name": "Coconut milk",
+          "NameDetail": null,
+          "Quantity": 400.0,
+          "Unit": "ml",
+          "UnitDetail": null,
+          "Group": null
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Slice chicken 5mm thin across at a 45 degree angle or greater."
+        },
+        {
+          "Content": "Combine chicken marinade ingredients in a bowl and mix well."
+        },
+        {
+          "Content": "Make rice (combine rice and water in pot bring to simmer medium high, reduce heat to medium low and cover for 13 minutes, then remove from burner for 10 minutes, then remove lid and fluff, leave another 2 minutes)."
+        },
+        {
+          "Content": "Slice onion radially along, into 6-8 strips, trim beans and halve across. Crush garlic and ginger. Cut the bamboo shoots into flat pieces along, or sticks."
+        },
+        {
+          "Content": "On high heat in oil in 2 batches, fry the chicken until lightly browned and nearly safe to eat, remove to bowl."
+        },
+        {
+          "Content": "Reduce heat to medium-high, more oil then garlic and ginger, fry for a few seconds."
+        },
+        {
+          "Content": "Add curry paste and fry for a minute, then stir in brown sugar."
+        },
+        {
+          "Content": "Add onion, green beams, bamboo shoots and fish sauce, fry 4 min until onion softens."
+        },
+        {
+          "Content": "Reduce heat to medium. Add coconut milk and bring to light simmer (and no higher than)."
+        },
+        {
+          "Content": "Add chicken and simmer for 1 minute."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2025-05-25T19:00:00",
+          "Content": "Didn't time when I finished but it didn't take too long after prep, I think those times need to be extended for frying though. I think I should've done breast for stir fry. For marinade literally put everything in bowl in that order and mixed. Accidentally added 1tbsp oil. Did extra green beans to compensate for skipping bamboo shoots and capsicum and broccoli. The spice really hits the air. Took a little over an hour all up."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        },
+        {
+          "Name": "Curry paste",
+          "Seconds": 60
+        },
+        {
+          "Name": "Onion",
+          "Seconds": 240
+        },
+        {
+          "Name": "Simmer",
           "Seconds": 60
         }
       ],

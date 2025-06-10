@@ -44731,6 +44731,22 @@
         {
           "Date": "2024-11-29T13:12:21.6519973+11:00",
           "Content": "Cooked on 2024-11-28, used chicken stock powder. Measured 6 mushrooms at 30g eaach and 2 cups chopped. Kept some mushrooms to the side to garnish with."
+        },
+        {
+          "Date": "2025-06-09T17:11:07",
+          "Content": "It begins etc. Bought some extra mushrooms because cooking for an extra person who doesn't hate mushrooms."
+        },
+        {
+          "Date": "2025-06-09T17:14:12",
+          "Content": "error: this recipe doesnt specify stock"
+        },
+        {
+          "Date": "2025-06-09T17:17:44",
+          "Content": "Assuming 4 cups or so"
+        },
+        {
+          "Date": "2025-06-09T20:53:04",
+          "Content": "Ended up using maybe 5 cups of chicken stock from powder, taste tested to decide when to stop. Time is reasonable, and there's plenty of time to fry the mushrooms once the rice is up to the stock part. Very tasty, could definitely get away with more mushroom but no need to."
         }
       ],
       "Timers": [
@@ -51343,6 +51359,611 @@
         ],
         "CostString": "1.87 per serve*",
         "ExclusionsString": "Excluding Snapper and Butter"
+      }
+    },
+    {
+      "Name": "Thai Red Curry",
+      "Slug": "thai-red-curry",
+      "Type": "Main",
+      "Category": "Curries",
+      "DateCreated": "2025-05-25",
+      "DateRevised": "2025-06-10",
+      "Cuisine": "Thai",
+      "Key": "",
+      "Yield": {
+        "Quantity": 4.0,
+        "Unit": "serves",
+        "Extra": "only just"
+      },
+      "Time": {
+        "Minutes": 0.0,
+        "Extra": ""
+      },
+      "Difficulty": 6,
+      "Bulk": false,
+      "Favourite": false,
+      "Retired": false,
+      "Tested": true,
+      "NeedsRevision": false,
+      "Dietary": {
+        "Vegetarian": false,
+        "OptionallyVegetarian": true,
+        "Vegan": false,
+        "GlutenFree": true
+      },
+      "Note": "From \\href{https://thewoksoflife.com/red-curry-chicken}{The Woks of Life} but cooked by Diya for Claudia and Kora who liked it so much they found out where she got the recipe, and then we made it no more than a week later. The curry paste maybe made the kitchen temporarily uninhabitable, Maesri don't mess around.",
+      "Image": "",
+      "Images": [],
+      "Items": [
+        {
+          "Name": "Chicken thigh",
+          "NameDetail": "or breast",
+          "Quantity": 500.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Cornflour",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Canola oil",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Oyster sauce",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": "marinade"
+        },
+        {
+          "Name": "Jasmine rice",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Water",
+          "NameDetail": "",
+          "Quantity": 3.0,
+          "Unit": "cups",
+          "UnitDetail": "",
+          "Group": "rice"
+        },
+        {
+          "Name": "Garlic",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cloves",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Ginger",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "cm",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Thai red curry paste",
+          "NameDetail": "Maesri brand",
+          "Quantity": 65.0,
+          "Unit": "grams",
+          "UnitDetail": "@0.5 tin",
+          "Group": ""
+        },
+        {
+          "Name": "Brown sugar",
+          "NameDetail": "",
+          "Quantity": 2.0,
+          "Unit": "tsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Brown onions",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "whole",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Green beans",
+          "NameDetail": "",
+          "Quantity": 120.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Bamboo shoots",
+          "NameDetail": "",
+          "Quantity": 100.0,
+          "Unit": "grams",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Fish sauce",
+          "NameDetail": "",
+          "Quantity": 1.0,
+          "Unit": "tbsp",
+          "UnitDetail": "",
+          "Group": ""
+        },
+        {
+          "Name": "Coconut milk",
+          "NameDetail": "",
+          "Quantity": 400.0,
+          "Unit": "ml",
+          "UnitDetail": "",
+          "Group": ""
+        }
+      ],
+      "Steps": [
+        {
+          "Content": "Slice chicken 5mm thin across at a 45 degree angle or greater."
+        },
+        {
+          "Content": "Combine chicken marinade ingredients in a bowl and mix well."
+        },
+        {
+          "Content": "Make rice (combine rice and water in pot bring to simmer medium high, reduce heat to medium low and cover for 13 minutes, then remove from burner for 10 minutes, then remove lid and fluff, leave another 2 minutes)."
+        },
+        {
+          "Content": "Slice onion radially along, into 6-8 strips, trim beans and halve across. Crush garlic and ginger. Cut the bamboo shoots into flat pieces along, or sticks."
+        },
+        {
+          "Content": "On high heat in oil in 2 batches, fry the chicken until lightly browned and nearly safe to eat, remove to bowl."
+        },
+        {
+          "Content": "Reduce heat to medium-high, more oil then garlic and ginger, fry for a few seconds."
+        },
+        {
+          "Content": "Add curry paste and fry for a minute, then stir in brown sugar."
+        },
+        {
+          "Content": "Add onion, green beams, bamboo shoots and fish sauce, fry 4 min until onion softens."
+        },
+        {
+          "Content": "Reduce heat to medium. Add coconut milk and bring to light simmer (and no higher than)."
+        },
+        {
+          "Content": "Add chicken and simmer for 1 minute."
+        }
+      ],
+      "Diary": [
+        {
+          "Date": "2025-05-25T19:00:00",
+          "Content": "Didn't time when I finished but it didn't take too long after prep, I think those times need to be extended for frying though. I think I should've done breast for stir fry. For marinade literally put everything in bowl in that order and mixed. Accidentally added 1tbsp oil. Did extra green beans to compensate for skipping bamboo shoots and capsicum and broccoli. The spice really hits the air. Took a little over an hour all up."
+        }
+      ],
+      "Timers": [
+        {
+          "Name": "Rice 1",
+          "Seconds": 780
+        },
+        {
+          "Name": "Rice 2",
+          "Seconds": 600
+        },
+        {
+          "Name": "Rice 3",
+          "Seconds": 120
+        },
+        {
+          "Name": "Curry paste",
+          "Seconds": 60
+        },
+        {
+          "Name": "Onion",
+          "Seconds": 240
+        },
+        {
+          "Name": "Simmer",
+          "Seconds": 60
+        }
+      ],
+      "Cost": {
+        "Amount": 12.57,
+        "AmountPerUnit": 3.14,
+        "Unit": "serves",
+        "ItemCosts": [
+          {
+            "Name": "Chicken thigh",
+            "Item": {
+              "Name": "Chicken thigh",
+              "NameDetail": "or breast",
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": "marinade"
+            },
+            "Ingredient": {
+              "Date": "2025-05-19T00:00:00",
+              "Name": "Chicken thigh",
+              "Price": 11.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Hong meat",
+              "Extra": ""
+            },
+            "Amount": 5.995,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Item": {
+              "Name": "Water",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": "marinade"
+            },
+            "Ingredient": {
+              "Date": "2023-11-05T00:00:00",
+              "Name": "Water",
+              "Price": 0.0,
+              "Quantity": 1.0,
+              "Unit": "ml",
+              "Source": "Tap",
+              "Extra": "Free item woohoo"
+            },
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Cornflour",
+            "Item": {
+              "Name": "Cornflour",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "marinade"
+            },
+            "Ingredient": {
+              "Date": "2023-11-07T00:00:00",
+              "Name": "Cornflour",
+              "Price": 2.19,
+              "Quantity": 500.0,
+              "Unit": "grams",
+              "Source": "Aldi",
+              "Extra": ""
+            },
+            "Amount": 0.0438,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Canola oil",
+            "Item": {
+              "Name": "Canola oil",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "marinade"
+            },
+            "Ingredient": {
+              "Date": "2025-03-04T00:00:00",
+              "Name": "Canola oil",
+              "Price": 6.69,
+              "Quantity": 2.0,
+              "Unit": "litres",
+              "Source": "Aldi",
+              "Extra": ""
+            },
+            "Amount": 0.016725,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Oyster sauce",
+            "Item": {
+              "Name": "Oyster sauce",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": "marinade"
+            },
+            "Ingredient": {
+              "Date": "2025-05-12T00:00:00",
+              "Name": "Oyster sauce",
+              "Price": 2.98,
+              "Quantity": 700.0,
+              "Unit": "grams",
+              "Source": "Yonghui",
+              "Extra": "Haday brand"
+            },
+            "Amount": 0.0212857142857143,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Jasmine rice",
+            "Item": {
+              "Name": "Jasmine rice",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "cups",
+              "UnitDetail": "",
+              "Group": "rice"
+            },
+            "Ingredient": {
+              "Date": "2025-01-07T00:00:00",
+              "Name": "Jasmine rice",
+              "Price": 19.99,
+              "Quantity": 5.0,
+              "Unit": "kg",
+              "Source": "7Fresh",
+              "Extra": ""
+            },
+            "Amount": 1.999,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Water",
+            "Item": {
+              "Name": "Water",
+              "NameDetail": "",
+              "Quantity": 3.0,
+              "Unit": "cups",
+              "UnitDetail": "",
+              "Group": "rice"
+            },
+            "Ingredient": {
+              "Date": "2023-11-05T00:00:00",
+              "Name": "Water",
+              "Price": 0.0,
+              "Quantity": 1.0,
+              "Unit": "ml",
+              "Source": "Tap",
+              "Extra": "Free item woohoo"
+            },
+            "Amount": 0.0,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Garlic",
+            "Item": {
+              "Name": "Garlic",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "cloves",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-05-12T00:00:00",
+              "Name": "Garlic",
+              "Price": 14.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Freshtown",
+              "Extra": "Spanish"
+            },
+            "Amount": 0.37475,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Ginger",
+            "Item": {
+              "Name": "Ginger",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "cm",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-05-19T00:00:00",
+              "Name": "Ginger",
+              "Price": 29.9,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Tonyon Warehouse",
+              "Extra": ""
+            },
+            "Amount": 0.4784,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Thai red curry paste",
+            "Item": {
+              "Name": "Thai red curry paste",
+              "NameDetail": "Maesri brand",
+              "Quantity": 65.0,
+              "Unit": "grams",
+              "UnitDetail": "@0.5 tin",
+              "Group": ""
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Thai red curry paste"
+          },
+          {
+            "Name": "Brown sugar",
+            "Item": {
+              "Name": "Brown sugar",
+              "NameDetail": "",
+              "Quantity": 2.0,
+              "Unit": "tsp",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2024-11-18T00:00:00",
+              "Name": "Brown sugar",
+              "Price": 3.3,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Woolworths",
+              "Extra": ""
+            },
+            "Amount": 0.033,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Brown onions",
+            "Item": {
+              "Name": "Brown onions",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "whole",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-05-19T00:00:00",
+              "Name": "Brown onions",
+              "Price": 1.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Tonyon warehouse",
+              "Extra": "Individual"
+            },
+            "Amount": 0.4975,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Green beans",
+            "Item": {
+              "Name": "Green beans",
+              "NameDetail": "",
+              "Quantity": 120.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-05-19T00:00:00",
+              "Name": "Green beans",
+              "Price": 14.99,
+              "Quantity": 1.0,
+              "Unit": "kg",
+              "Source": "Superfresh",
+              "Extra": "Individual"
+            },
+            "Amount": 1.7988,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Bamboo shoots",
+            "Item": {
+              "Name": "Bamboo shoots",
+              "NameDetail": "",
+              "Quantity": 100.0,
+              "Unit": "grams",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": null,
+            "Amount": 0.0,
+            "Success": false,
+            "Reason": "NotFound",
+            "Extra": "Name not found: Bamboo shoots"
+          },
+          {
+            "Name": "Fish sauce",
+            "Item": {
+              "Name": "Fish sauce",
+              "NameDetail": "",
+              "Quantity": 1.0,
+              "Unit": "tbsp",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-02-10T00:00:00",
+              "Name": "Fish sauce",
+              "Price": 2.98,
+              "Quantity": 210.0,
+              "Unit": "ml",
+              "Source": "Yonghui",
+              "Extra": "Ayam brand"
+            },
+            "Amount": 0.212857142857143,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          },
+          {
+            "Name": "Coconut milk",
+            "Item": {
+              "Name": "Coconut milk",
+              "NameDetail": "",
+              "Quantity": 400.0,
+              "Unit": "ml",
+              "UnitDetail": "",
+              "Group": ""
+            },
+            "Ingredient": {
+              "Date": "2025-05-19T00:00:00",
+              "Name": "Coconut milk",
+              "Price": 1.1,
+              "Quantity": 400.0,
+              "Unit": "ml",
+              "Source": "Woolworths",
+              "Extra": "Homebrand"
+            },
+            "Amount": 1.1,
+            "Success": true,
+            "Reason": "",
+            "Extra": ""
+          }
+        ],
+        "CostString": "3.14 per serve*",
+        "ExclusionsString": "Excluding Thai red curry paste and Bamboo shoots"
       }
     }
   ]
