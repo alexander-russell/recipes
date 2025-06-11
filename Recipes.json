@@ -17866,6 +17866,46 @@
         {
           "Date": "2025-04-11T20:35:42",
           "Content": "Yeah 8 pieces was a great idea. Also I think the mixmaster did a great job because I didn't need any extra flour for rolling and it was delicious."
+        },
+        {
+          "Date": "2025-06-10T22:28:31",
+          "Content": "Making a double batch tomorrow for beef and onion pizzas, I've weighed out the flour tonight and taped the mixmaster to the bench in advance, I'll make the dough at 8am and rise it in fridge until I get home, then I'll knock it back at like 17:30 or so, fry the beef and then roll out the dough."
+        },
+        {
+          "Date": "2025-06-11T07:47:48",
+          "Content": "Starting prep now"
+        },
+        {
+          "Date": "2025-06-11T07:51:45",
+          "Content": "Mixing now."
+        },
+        {
+          "Date": "2025-06-11T07:55:21",
+          "Content": "Kneading starting."
+        },
+        {
+          "Date": "2025-06-11T08:15:37",
+          "Content": "Gave it 10 min in mixmaster on a 3. Clingwrapped and put in fridge for maybe 9ish hours."
+        },
+        {
+          "Date": "2025-06-11T18:15:14",
+          "Content": "Time to knock it back."
+        },
+        {
+          "Date": "2025-06-11T18:30:18",
+          "Content": "Did 6 pieces from a double batch instead of 8. Expecting a long second rise because its real cold out of the fridge and its winter too."
+        },
+        {
+          "Date": "2025-06-11T18:42:22",
+          "Content": "So I may be putting in the oven with the door open on low just a tiny little bit."
+        },
+        {
+          "Date": "2025-06-11T20:06:50",
+          "Content": "Waited probably an hour or so and it tastes delicious so no complaints."
+        },
+        {
+          "Date": "2025-06-11T21:13:57",
+          "Content": "And I think breaking it into 6 pieces was a good move."
         }
       ],
       "Timers": [
@@ -20679,7 +20719,7 @@
       },
       "Time": {
         "Minutes": 0.0,
-        "Extra": null
+        "Extra": ""
       },
       "Difficulty": 6,
       "Bulk": false,
@@ -20702,72 +20742,72 @@
           "NameDetail": "or breast",
           "Quantity": 500.0,
           "Unit": "grams",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Water",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Cornflour",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Canola oil",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Oyster sauce",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tsp",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "marinade"
         },
         {
           "Name": "Jasmine rice",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "cups",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "rice"
         },
         {
           "Name": "Water",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 3.0,
           "Unit": "cups",
-          "UnitDetail": null,
+          "UnitDetail": "",
           "Group": "rice"
         },
         {
           "Name": "Garlic",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "cloves",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Ginger",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "cm",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Thai red curry paste",
@@ -20775,55 +20815,55 @@
           "Quantity": 65.0,
           "Unit": "grams",
           "UnitDetail": "@0.5 tin",
-          "Group": null
+          "Group": ""
         },
         {
           "Name": "Brown sugar",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 2.0,
           "Unit": "tsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Brown onions",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "whole",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Green beans",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 120.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Bamboo shoots",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 100.0,
           "Unit": "grams",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Fish sauce",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 1.0,
           "Unit": "tbsp",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         },
         {
           "Name": "Coconut milk",
-          "NameDetail": null,
+          "NameDetail": "",
           "Quantity": 400.0,
           "Unit": "ml",
-          "UnitDetail": null,
-          "Group": null
+          "UnitDetail": "",
+          "Group": ""
         }
       ],
       "Steps": [
@@ -20862,6 +20902,22 @@
         {
           "Date": "2025-05-25T19:00:00",
           "Content": "Didn't time when I finished but it didn't take too long after prep, I think those times need to be extended for frying though. I think I should've done breast for stir fry. For marinade literally put everything in bowl in that order and mixed. Accidentally added 1tbsp oil. Did extra green beans to compensate for skipping bamboo shoots and capsicum and broccoli. The spice really hits the air. Took a little over an hour all up."
+        },
+        {
+          "Date": "2025-06-10T19:04:33",
+          "Content": "Starting like a few min ago."
+        },
+        {
+          "Date": "2025-06-10T19:11:48",
+          "Content": "Darn it I lost the bamboo shoots. So I suppose there are now no veggies left standing."
+        },
+        {
+          "Date": "2025-06-10T19:14:42",
+          "Content": "Accidentally used 2 tbsp brown sugar this time."
+        },
+        {
+          "Date": "2025-06-10T19:55:35",
+          "Content": "Forgot to bring coconut milk to simmer before adding chicken."
         }
       ],
       "Timers": [
