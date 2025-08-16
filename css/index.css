@@ -58,3 +58,7 @@ section.search {
     width: 100%;
 }
 
+section.search>.form {
+    display: flex;
+    justify-content: space-between;
+}

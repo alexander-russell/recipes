@@ -31,19 +31,58 @@
             </li>
         </ul>
     </header>
-    <div class="search-wrapper">
-        <form class="search form" name="search" method="get">
-            <div class="form-row basic-search">
-                <label for="query">Query:</label>
-                <input type="text" name="query" id="query" value="" />
-            </div>
+    <form class="search form" id="explore-form" name="search" method="fetch">
+        <div class="form-group basic-search">
+            <label for="query">Query:</label>
+            <input type="text" name="query" id="query" value="" />
+            <label class="advanced" for="query-extent">in</label>
+            <select class="advanced" name="query-extent" id="query-extent">
+                <option value="name">name</option>
+                <option value="everywhere">everywhere</option>
+            </select>
+        </div>
+        <div class="form-group filter-type-category advanced">
+            <label for="filter-type">Type:</label>
+            <select name="filter-type" id="filter-type">
+                <option value="any">Any</option>
+            </select>
+            <label for="filter-category">Category:</label>
+            <select name="filter-category" id="filter-category">
+                <option value="any">Any</option>
+            </select>
+        </div>
+        <div class="form-group sort">
+            <label for="sort-property">Sort:</label>
+            <select name="sort-property" id="sort-property">
+                <option value="name">Name</option>
+                <option value="cost">Cost</option>
+                <option value="cost-per-serve">Cost per serve</option>
+                <option value="time">Time</option>
+                <option value="difficulty">Difficulty</option>
+            </select>
+            <label for="sort-order">by</label>
+            <select name="sort-order" id="sort-order">
+                <option value="ascending">ascending</option>
+                <option value="descending">descending</option>
+            </select>
+        </div>
+        <div class="form-group dietary toggle">
+            <label for="toggle-dietary">Dietary</label>
+            <input type="dietary" id="dietary" name="dietary" value="dietary" class="toggle" onchange="//toggleDietary()" />
+        </div>
+        <div class="form-group toggle-advanced toggle">
+            <label for="advanced">Advanced</label>
+            <input type="checkbox" id="advanced" name="advanced" value="advanced" class="toggle" onchange="toggleAdvanced()" />
+        </div>
+        <div class="form-group submit">
             <button class="search">
                 Go
             </button>
-        </form>
-    </div>
+        </div>
     </form>
-    </div>
+    <section class="error">
+
+    </section>
     <ul class="search-results">
     </ul>
 </body>

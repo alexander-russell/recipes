@@ -35,7 +35,8 @@ a {
 
 a:hover,
 button:hover,
-summary>span.name:hover {
+summary>span.name:hover,
+.form .toggle label:hover {
     color: darkred;
     fill: darkred;
     text-decoration: underline;

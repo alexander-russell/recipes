@@ -1,71 +1,134 @@
+// Prefill form values from URL parameters
+let prefilled = false;
+const paramsInitial = new URLSearchParams(document.location.search);
+if (paramsInitial != null) {
+    // Use params as form field values
+    for (element of document.querySelector("#explore-form").elements) {
+        if (paramsInitial.get(element.id)) {
+            prefilled = true;
+            if (element.classList.contains("toggle")) {
+                element.checked = true
+                // If advanced toggle is on, open it
+                if (element.id == "advanced") {
+                    toggleAdvanced();
+                }
+            } else {
+                element.value = paramsInitial.get(element.id)
+            }
+        }
+    }
+}
+
 // Load recipes
 fetchRecipeBook()
     .then((recipeBook => start(recipeBook.Recipes)));
 
-function start(recipes) {
-    // Select input element
-    const input = document.querySelector("input#query");
-
-    // Filter active recipes
-    const activeRecipes = filterActiveRecipes(recipes);
-
-    // Analyse URL parameters
-    const urlParams = new URLSearchParams(document.location.search);
-    const urlQuery = urlParams.get("query");
-
-    // Use URL query if provided
-    if (urlQuery != null) {
-        // populateResults(urlQuery, activeRecipes);
-        // input.value = urlQuery;
-    }
-
-    // Prevent form redirecting on submit
-    document.querySelector("form.search").addEventListener("submit", (event) => {
-        event.preventDefault()
-        invokeSearch(input.value, activeRecipes);
-    });
-
-    // Add form event listener to display quick results on input change
-    // input.addEventListener("input", () => {
-    //     // populateResults(input.value, activeRecipes);
-    // });
-
-
-    // Add form event listeners to go to full results on return or button press
-    // input.addEventListener("keydown", (event) => {
-    //     if (event.key === "Enter") {
-    //         populateResults(input.value, activeRecipes);
-    //     }
-    // });
-    // const button = document.querySelector(".search-button");
-    // button.addEventListener("click", () => {
-    //     populateResults(input.value, activeRecipes);
-    // });
-
-    // DEBUG autoload search result for "ban" so i can write the search design faster
-    // populateResults("ban", activeRecipes);
-}
-
-function invokeSearch(query, recipes) {
-    pushSearchToUrl(query);
-    populateResults(query, recipes);
-}
-
-function pushSearchToUrl(query) {
-    history.pushState({}, "", window.location.href.split('?')[0] + `?query=${query}`);
-}
-
-function populateResults(query, recipes) {
-    // Get results element
+function start(recipesAll) {
+    // Select elements
+    const form = document.querySelector("#explore-form");
     const list = document.querySelector(".search-results");
 
-    // Get matching results
-    const results = recipes.filter((currentValue) => {
-        const active = !currentValue.Retired;
-        const nameMatch =
-            currentValue.Name.toLowerCase().includes(query.toLowerCase());
-        return active && nameMatch;
+    // Filter active recipes
+    const recipes = filterActiveRecipes(recipesAll);
+
+    // Populate dynamic form elements
+    populateTypeOptions(recipes);
+    populateCategoryOptions(recipes);
+
+    // Monitor type select and repopulate category on change
+    document.querySelector("#filter-type").addEventListener("change", (event) => {
+        populateCategoryOptions(recipes);
     });
+
+    //alert("before prefill submit");
+    // If form was prefilled from URL, submit that (URL is already configured so could skip to displayResults, but looks clearer this way)
+    if (prefilled) {
+        submit(recipes, list);
+    }
+    //alert("after prefill submit");
+
+    // Prevent form redirecting on submit
+    form.addEventListener("submit", (event) => {
+        event.preventDefault()
+        submit(recipes, list);
+    });
+
+    // Enter keypress in form submits form
+    form.addEventListener("keydown", (event) => {
+        if (event.key == "Enter") {
+            submit(recipes, list);
+        }
+    });
+}
+
+function toggleAdvanced() {
+    const advancedElements = document.querySelectorAll(".advanced");
+    for (const advancedElement of advancedElements) {
+        advancedElement.classList.toggle("visible");
+    }
+}
+
+// toggleAdvanced()
+
+function populateTypeOptions(recipes) {
+    // Determine unique types and append them to the type filter dropdown option list
+    const typeSelect = document.querySelector("#filter-type");
+    const uniqueTypes = recipes.map(recipe => recipe.Type).filter((value, index, array) => array.indexOf(value) === index)
+    for (const type of uniqueTypes) {
+        const option = document.createElement("option");
+        option.textContent = type;
+        option.value = type.toLowerCase();
+        typeSelect.appendChild(option);
+    }
+}
+
+function populateCategoryOptions(recipes) {
+    // Save old value
+    const categorySelect = document.querySelector("#filter-category");
+    const oldValue = categorySelect.value;
+
+    // Determine unique categories and append them to the type filter dropdown option list (filter to those available in selected type)
+    const type = document.querySelector("#filter-type").value;
+    const uniqueCategories = recipes
+        .filter(recipe => type == "any" || recipe.Type.toLowerCase() == type)
+        .map(recipe => recipe.Category)
+        .filter((value, index, array) => array.indexOf(value) === index)
+
+    // Add these options to the select element (don't remove the first element because it is "Any")
+    while (categorySelect.childElementCount > 1) { categorySelect.children[1].remove() }
+    for (const category of uniqueCategories) {
+        const option = document.createElement("option");
+        option.textContent = category;
+        option.value = category.toLowerCase();
+        categorySelect.appendChild(option);
+    }
+
+    // If old selection still exists in new set, set value back to old selection
+    if (uniqueCategories.map(category => category.toLowerCase()).indexOf(oldValue) != -1) {
+        categorySelect.value = oldValue;
+    }
+}
+
+function submit(recipes, list) {
+    pushSearchToUrl();
+    displayResults(recipes, list);
+}
+
+function pushSearchToUrl() {
+    const paramsNew = new URLSearchParams(new FormData(document.querySelector("#explore-form")));
+    history.pushState({}, "", window.location.href.split('?')[0] + `?${paramsNew}`);
+}
+
+function displayResults(recipes, list) {
+    // Read params
+    const params = new URLSearchParams(document.location.search);
+
+    // Get matching results and sort them
+    const results = recipes
+        .filter(filterRecipe.bind(null, params))
+        .sort(sortRecipe.bind(null, params));
+
+    console.log(results);
 
     // Clear existing results
     while (list.hasChildNodes()) {
@@ -76,12 +139,50 @@ function populateResults(query, recipes) {
     for (const result of results) {
         list.appendChild(createSearchResultElement(result));
     }
+}
 
-    console.log(results);
+function filterRecipe(params, recipe) {
+    const type = params.get('filter-type');
+    console.log(type);
+    return recipe.Name.toLowerCase().includes(params.get("query").toLowerCase()) &&
+        // Advanced fields
+        ((null == params.get('advanced')) || (
+            (params.get('filter-type') == "any" || recipe.Type.toLowerCase() == params.get('filter-type')) &&
+            (params.get('filter-category') == "any" || recipe.Category.toLowerCase() == params.get('filter-category'))
+        ));
+}
+
+function sortRecipe(params, a, b) {
+    let comparison = 0;
+    switch (params.get("sort-property")) {
+        case "name":
+            // comparison = a.Name == b.Name ? 0 : a.Name < b.Name ? -1 : 1
+            comparison = compare(a.Name, b.Name);
+            break;
+        case "cost":
+            comparison = compare(a.Cost.Amount, b.Cost.Amount);
+            break;
+        case "cost-per-serve":
+            comparison = compare(a.Cost.AmountPerUnit, b.Cost.AmountPerUnit);
+            break;
+        case "time":
+            comparison = compare(a.Time.Minutes, b.Time.Minutes);
+            break;
+        case "difficulty":
+            comparison = compare(a.Difficulty, b.Difficulty);
+            break;
+        default:
+            console.log(`Error: unhandledSortProperty: ${params.get("sort-property")}`)
+    }
+
+    return params.get("sort-order") === "ascending" ? comparison : -comparison
+}
+
+function compare(a, b) {
+    return a == b ? 0 : a < b ? -1 : 1
 }
 
 function createSearchResultElement(recipe) {
-    console.log(recipe)
     // Define recipe link
     const url = `display/${recipe.Slug}`;
 
